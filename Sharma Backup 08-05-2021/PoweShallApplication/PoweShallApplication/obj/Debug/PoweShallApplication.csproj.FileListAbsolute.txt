@@ -1,0 +1,9 @@
+C:\Users\administrator.DBT\source\repos\PoweShallApplication\PoweShallApplication\bin\Debug\PoweShallApplication.exe.config
+C:\Users\administrator.DBT\source\repos\PoweShallApplication\PoweShallApplication\bin\Debug\PoweShallApplication.exe
+C:\Users\administrator.DBT\source\repos\PoweShallApplication\PoweShallApplication\bin\Debug\PoweShallApplication.pdb
+C:\Users\administrator.DBT\source\repos\PoweShallApplication\PoweShallApplication\bin\Debug\System.Management.Automation.dll
+C:\Users\administrator.DBT\source\repos\PoweShallApplication\PoweShallApplication\obj\Debug\PoweShallApplication.csprojAssemblyReference.cache
+C:\Users\administrator.DBT\source\repos\PoweShallApplication\PoweShallApplication\obj\Debug\PoweShallApplication.csproj.CoreCompileInputs.cache
+C:\Users\administrator.DBT\source\repos\PoweShallApplication\PoweShallApplication\obj\Debug\PoweShallApplication.csproj.CopyComplete
+C:\Users\administrator.DBT\source\repos\PoweShallApplication\PoweShallApplication\obj\Debug\PoweShallApplication.exe
+C:\Users\administrator.DBT\source\repos\PoweShallApplication\PoweShallApplication\obj\Debug\PoweShallApplication.pdb

@@ -1,0 +1,13 @@
+﻿Installing assembly 'C:\Users\administrator.DBT\source\repos\AdSync\ADSync\bin\Debug\ADSync.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\administrator.DBT\source\repos\AdSync\ADSync\bin\Debug\ADSync.InstallLog
+   assemblypath = C:\Users\administrator.DBT\source\repos\AdSync\ADSync\bin\Debug\ADSync.exe
+Installing service Service1...
+Service Service1 has been successfully installed.
+Creating EventLog source Service1 in log Application...
+Committing assembly 'C:\Users\administrator.DBT\source\repos\AdSync\ADSync\bin\Debug\ADSync.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\administrator.DBT\source\repos\AdSync\ADSync\bin\Debug\ADSync.InstallLog
+   assemblypath = C:\Users\administrator.DBT\source\repos\AdSync\ADSync\bin\Debug\ADSync.exe

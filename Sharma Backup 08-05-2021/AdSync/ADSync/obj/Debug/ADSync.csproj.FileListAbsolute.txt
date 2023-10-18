@@ -1,0 +1,11 @@
+C:\Users\administrator.DBT\source\repos\AdSync\ADSync\bin\Debug\ADSync.exe.config
+C:\Users\administrator.DBT\source\repos\AdSync\ADSync\bin\Debug\ADSync.exe
+C:\Users\administrator.DBT\source\repos\AdSync\ADSync\bin\Debug\ADSync.pdb
+C:\Users\administrator.DBT\source\repos\AdSync\ADSync\bin\Debug\System.Management.Automation.dll
+C:\Users\administrator.DBT\source\repos\AdSync\ADSync\obj\Debug\ADSync.csprojAssemblyReference.cache
+C:\Users\administrator.DBT\source\repos\AdSync\ADSync\obj\Debug\ADSync.ProjectInstaller.resources
+C:\Users\administrator.DBT\source\repos\AdSync\ADSync\obj\Debug\ADSync.csproj.GenerateResource.cache
+C:\Users\administrator.DBT\source\repos\AdSync\ADSync\obj\Debug\ADSync.csproj.CoreCompileInputs.cache
+C:\Users\administrator.DBT\source\repos\AdSync\ADSync\obj\Debug\ADSync.csproj.CopyComplete
+C:\Users\administrator.DBT\source\repos\AdSync\ADSync\obj\Debug\ADSync.exe
+C:\Users\administrator.DBT\source\repos\AdSync\ADSync\obj\Debug\ADSync.pdb

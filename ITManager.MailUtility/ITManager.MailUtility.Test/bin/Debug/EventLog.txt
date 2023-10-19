@@ -1,0 +1,32 @@
+Date : 20-07-2022 21:20:56 --- Event : No New Emails Found 
+Date : 21-07-2022 20:38:04 --- Event : Index was outside the bounds of the array.   at ITManager.MailUitlityLibrary.NativeSMTPManager.sendEmails(tblMailUtilityConfig objtblMailUtilityConfig, tblMailMessage objmail, String ticketNumber, List`1 notificationMatrixValues, String description, String summary) in D:\Repos\svkrishnagavva\ITManagerDev\ITManager.MailUtility\ITManager.MailUitlityLibrary\NativeSMTPManager.cs:line 23
+   at ITManager.MailUitlityLibrary.MailManager.ProcessMails(Object instance) in D:\Repos\svkrishnagavva\ITManagerDev\ITManager.MailUtility\ITManager.MailUitlityLibrary\MailManager.cs:line 94 
+Date : 21-07-2022 20:49:06 --- Event : Collection was modified; enumeration operation may not execute.   at System.ThrowHelper.ThrowInvalidOperationException(ExceptionResource resource)
+   at System.Collections.Generic.List`1.Enumerator.MoveNextRare()
+   at System.Collections.Generic.List`1.Enumerator.MoveNext()
+   at ITManager.MailUitlityLibrary.NativeSMTPManager.sendEmails(tblMailUtilityConfig objtblMailUtilityConfig, tblMailMessage objmail, String ticketNumber, List`1 notificationMatrixValues, String description, String summary) in D:\Repos\svkrishnagavva\ITManagerDev\ITManager.MailUtility\ITManager.MailUitlityLibrary\NativeSMTPManager.cs:line 21
+   at ITManager.MailUitlityLibrary.MailManager.ProcessMails(Object instance) in D:\Repos\svkrishnagavva\ITManagerDev\ITManager.MailUtility\ITManager.MailUitlityLibrary\MailManager.cs:line 94 
+Date : 22-07-2022 10:58:41 --- Event : No New Emails Found 
+Date : 22-07-2022 10:58:54 --- Event : No New Emails Found 
+Date : 22-07-2022 11:01:03 --- Event : Collection was modified; enumeration operation may not execute.   at System.ThrowHelper.ThrowInvalidOperationException(ExceptionResource resource)
+   at System.Collections.Generic.List`1.Enumerator.MoveNextRare()
+   at System.Collections.Generic.List`1.Enumerator.MoveNext()
+   at ITManager.MailUitlityLibrary.NativeSMTPManager.sendEmails(tblMailUtilityConfig objtblMailUtilityConfig, tblMailMessage objmail, String ticketNumber, List`1 notificationMatrixValues, String description, String summary) in D:\Repos\svkrishnagavva\ITManagerDev\ITManager.MailUtility\ITManager.MailUitlityLibrary\NativeSMTPManager.cs:line 21
+   at ITManager.MailUitlityLibrary.MailManager.ProcessMails(Object instance) in D:\Repos\svkrishnagavva\ITManagerDev\ITManager.MailUtility\ITManager.MailUitlityLibrary\MailManager.cs:line 94 
+Date : 09-09-2022 20:12:37 --- Event : No New Emails Found 
+Date : 03-10-2022 15:58:17 --- Event : LOGIN failed.   at MailKit.Net.Imap.ImapClient.<AuthenticateAsync>d__83.MoveNext() in D:\src\MailKit\MailKit\Net\Imap\ImapClient.cs:line 1011
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at MailKit.Net.Imap.ImapClient.Authenticate(Encoding encoding, ICredentials credentials, CancellationToken cancellationToken) in D:\src\MailKit\MailKit\Net\Imap\ImapClient.cs:line 1081
+   at MailKit.MailService.Authenticate(Encoding encoding, String userName, String password, CancellationToken cancellationToken) in D:\src\MailKit\MailKit\MailService.cs:line 1149
+   at MailKit.MailService.Authenticate(String userName, String password, CancellationToken cancellationToken) in D:\src\MailKit\MailKit\MailService.cs:line 1265
+   at ITManager.MailUitlityLibrary.IMAPManager.readEmails(tblMailUtilityConfig objtblMailUtilityConfig) in D:\Repos\svkrishnagavva\ITManagerDev\ITManager.MailUtility\ITManager.MailUitlityLibrary\IMAPManager.cs:line 31 
+Date : 03-10-2022 16:03:37 --- Event : LOGIN failed.   at MailKit.Net.Imap.ImapClient.<AuthenticateAsync>d__83.MoveNext() in D:\src\MailKit\MailKit\Net\Imap\ImapClient.cs:line 1011
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at MailKit.Net.Imap.ImapClient.Authenticate(Encoding encoding, ICredentials credentials, CancellationToken cancellationToken) in D:\src\MailKit\MailKit\Net\Imap\ImapClient.cs:line 1081
+   at MailKit.MailService.Authenticate(Encoding encoding, String userName, String password, CancellationToken cancellationToken) in D:\src\MailKit\MailKit\MailService.cs:line 1149
+   at MailKit.MailService.Authenticate(String userName, String password, CancellationToken cancellationToken) in D:\src\MailKit\MailKit\MailService.cs:line 1265
+   at ITManager.MailUitlityLibrary.IMAPManager.readEmails(tblMailUtilityConfig objtblMailUtilityConfig) in D:\Repos\svkrishnagavva\ITManagerDev\ITManager.MailUtility\ITManager.MailUitlityLibrary\IMAPManager.cs:line 31 

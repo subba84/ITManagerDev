@@ -1,0 +1,193 @@
+Connected to smtp://smtp.gmail.com:465/
+Connected to smtps://smtp.gmail.com:465/
+S: 220 smtp.gmail.com ESMTP d4-20020a621d04000000b0051b930b7bbesm7205369pfd.135 - gsmtp
+C: EHLO [IPv6:2405:201:c005:3090:25d4:c33f:1b33:7ca6]
+S: 250-smtp.gmail.com at your service, [2405:201:c005:3090:25d4:c33f:1b33:7ca6]
+S: 250-SIZE 35882577
+S: 250-8BITMIME
+S: 250-AUTH LOGIN PLAIN XOAUTH2 PLAIN-CLIENTTOKEN OAUTHBEARER XOAUTH
+S: 250-ENHANCEDSTATUSCODES
+S: 250-PIPELINING
+S: 250-CHUNKING
+S: 250 SMTPUTF8
+C: AUTH PLAIN AHN2a3Jpc2huYS5nYXZ2YUBnbWFpbC5jb20Ac3BjZUAxMjM=
+S: 235 2.7.0 Accepted
+C: MAIL FROM:<svkrishna.gavva@gmail.com> SIZE=707
+C: RCPT TO:<viva-noreply@microsoft.com>
+S: 250 2.1.0 OK d4-20020a621d04000000b0051b930b7bbesm7205369pfd.135 - gsmtp
+S: 250 2.1.5 OK d4-20020a621d04000000b0051b930b7bbesm7205369pfd.135 - gsmtp
+C: DATA
+S: 354  Go ahead d4-20020a621d04000000b0051b930b7bbesm7205369pfd.135 - gsmtp
+C: From: svkrishna.gavva@gmail.com
+C: Date: Sat, 04 Jun 2022 18:44:47 +0530
+C: Subject: ##(BE7128) is Created
+C: Message-Id: <0L6DT1YJ0HU4.K1QXTOBRFOR01@WIN-8K06B8A55H7>
+C: To: viva-noreply@microsoft.com
+C: MIME-Version: 1.0
+C: In-Reply-To: <AAMkAGZiZmU5YzYyLTU5NTctNDA3MS05MzEzLWVkOTBiMWIzMGUwMwBGAAAAAACUES0yxgWLT5HOXMIOY0/2BwDxIPWqkaLjSZ3gM7PnHvIwAAAAAAEMAADxIPWqkaLjSZ3gM7PnHvIwAABB3UplAAA=>
+C: Content-Type: text/html; charset=utf-8
+C: 
+C: <!DOCTYPE html>
+C: 
+C: <html lang="en" xmlns="http://www.w3.org/1999/xhtml">
+C: <head>
+C:     <meta charset="utf-8" />
+C:     <title></title>
+C: </head>
+C: <body>
+C:     <H4>
+C:     Thanks for Contacting Service Desk
+C:     <br/>
+C:     The Incident "BE7128" is Created
+C:     </H4>
+C:    
+C: </body>
+C: </html>
+C: .
+S: 250 2.0.0 OK  1654348503 d4-20020a621d04000000b0051b930b7bbesm7205369pfd.135 - gsmtp
+C: QUIT
+S: 221 2.0.0 closing connection d4-20020a621d04000000b0051b930b7bbesm7205369pfd.135 - gsmtp
+Connected to smtps://smtp.gmail.com:465/
+S: 220 smtp.gmail.com ESMTP y18-20020a170902b49200b001664d88aab3sm4061382plr.240 - gsmtp
+C: EHLO [IPv6:2405:201:c005:3090:25d4:c33f:1b33:7ca6]
+S: 250-smtp.gmail.com at your service, [2405:201:c005:3090:25d4:c33f:1b33:7ca6]
+S: 250-SIZE 35882577
+S: 250-8BITMIME
+S: 250-AUTH LOGIN PLAIN XOAUTH2 PLAIN-CLIENTTOKEN OAUTHBEARER XOAUTH
+S: 250-ENHANCEDSTATUSCODES
+S: 250-PIPELINING
+S: 250-CHUNKING
+S: 250 SMTPUTF8
+C: AUTH PLAIN AHN2a3Jpc2huYS5nYXZ2YUBnbWFpbC5jb20Ac3BjZUAxMjM=
+S: 235 2.7.0 Accepted
+C: MAIL FROM:<svkrishna.gavva@gmail.com> SIZE=707
+C: RCPT TO:<viva-noreply@microsoft.com>
+S: 250 2.1.0 OK y18-20020a170902b49200b001664d88aab3sm4061382plr.240 - gsmtp
+S: 250 2.1.5 OK y18-20020a170902b49200b001664d88aab3sm4061382plr.240 - gsmtp
+C: DATA
+S: 354  Go ahead y18-20020a170902b49200b001664d88aab3sm4061382plr.240 - gsmtp
+C: From: svkrishna.gavva@gmail.com
+C: Date: Sat, 04 Jun 2022 18:45:07 +0530
+C: Subject: ##(BE7129) is Created
+C: Message-Id: <IKLV75YJ0HU4.ROZRV0XOYA8L2@WIN-8K06B8A55H7>
+C: To: viva-noreply@microsoft.com
+C: In-Reply-To: <AAMkAGZiZmU5YzYyLTU5NTctNDA3MS05MzEzLWVkOTBiMWIzMGUwMwBGAAAAAACUES0yxgWLT5HOXMIOY0/2BwDxIPWqkaLjSZ3gM7PnHvIwAAAAAAEMAADxIPWqkaLjSZ3gM7PnHvIwAABB3UpkAAA=>
+C: MIME-Version: 1.0
+C: Content-Type: text/html; charset=utf-8
+C: 
+C: <!DOCTYPE html>
+C: 
+C: <html lang="en" xmlns="http://www.w3.org/1999/xhtml">
+C: <head>
+C:     <meta charset="utf-8" />
+C:     <title></title>
+C: </head>
+C: <body>
+C:     <H4>
+C:     Thanks for Contacting Service Desk
+C:     <br/>
+C:     The Incident "BE7129" is Created
+C:     </H4>
+C:    
+C: </body>
+C: </html>
+C: .
+S: 250 2.0.0 OK  1654348519 y18-20020a170902b49200b001664d88aab3sm4061382plr.240 - gsmtp
+C: QUIT
+S: 221 2.0.0 closing connection y18-20020a170902b49200b001664d88aab3sm4061382plr.240 - gsmtp
+Connected to smtps://smtp.gmail.com:465/
+S: 220 smtp.gmail.com ESMTP g29-20020aa79ddd000000b0050dc762819esm7247274pfq.120 - gsmtp
+C: EHLO [IPv6:2405:201:c005:3090:25d4:c33f:1b33:7ca6]
+S: 250-smtp.gmail.com at your service, [2405:201:c005:3090:25d4:c33f:1b33:7ca6]
+S: 250-SIZE 35882577
+S: 250-8BITMIME
+S: 250-AUTH LOGIN PLAIN XOAUTH2 PLAIN-CLIENTTOKEN OAUTHBEARER XOAUTH
+S: 250-ENHANCEDSTATUSCODES
+S: 250-PIPELINING
+S: 250-CHUNKING
+S: 250 SMTPUTF8
+C: AUTH PLAIN AHN2a3Jpc2huYS5nYXZ2YUBnbWFpbC5jb20Ac3BjZUAxMjM=
+S: 235 2.7.0 Accepted
+C: MAIL FROM:<svkrishna.gavva@gmail.com> SIZE=716
+C: RCPT TO:<Narayana.Pappoppula@biologicale.com>
+S: 250 2.1.0 OK g29-20020aa79ddd000000b0050dc762819esm7247274pfq.120 - gsmtp
+S: 250 2.1.5 OK g29-20020aa79ddd000000b0050dc762819esm7247274pfq.120 - gsmtp
+C: DATA
+S: 354  Go ahead g29-20020aa79ddd000000b0050dc762819esm7247274pfq.120 - gsmtp
+C: From: svkrishna.gavva@gmail.com
+C: Date: Sat, 04 Jun 2022 18:45:10 +0530
+C: Subject: ##(BE7130) is Created
+C: Message-Id: <5EQHM5YJ0HU4.8DNV6DLCIRQ81@WIN-8K06B8A55H7>
+C: To: Narayana.Pappoppula@biologicale.com
+C: In-Reply-To: <AAMkAGZiZmU5YzYyLTU5NTctNDA3MS05MzEzLWVkOTBiMWIzMGUwMwBGAAAAAACUES0yxgWLT5HOXMIOY0/2BwDxIPWqkaLjSZ3gM7PnHvIwAAAAAAEMAADxIPWqkaLjSZ3gM7PnHvIwAAA9XqjLAAA=>
+C: MIME-Version: 1.0
+C: Content-Type: text/html; charset=utf-8
+C: 
+C: <!DOCTYPE html>
+C: 
+C: <html lang="en" xmlns="http://www.w3.org/1999/xhtml">
+C: <head>
+C:     <meta charset="utf-8" />
+C:     <title></title>
+C: </head>
+C: <body>
+C:     <H4>
+C:     Thanks for Contacting Service Desk
+C:     <br/>
+C:     The Incident "BE7130" is Created
+C:     </H4>
+C:    
+C: </body>
+C: </html>
+C: .
+S: 250 2.0.0 OK  1654348522 g29-20020aa79ddd000000b0050dc762819esm7247274pfq.120 - gsmtp
+C: QUIT
+S: 221 2.0.0 closing connection g29-20020aa79ddd000000b0050dc762819esm7247274pfq.120 - gsmtp
+Connected to smtps://smtp.gmail.com:465/
+S: 220 smtp.gmail.com ESMTP t15-20020a17090340cf00b0016168e90f2csm7062727pld.208 - gsmtp
+C: EHLO [IPv6:2405:201:c005:3090:25d4:c33f:1b33:7ca6]
+S: 250-smtp.gmail.com at your service, [2405:201:c005:3090:25d4:c33f:1b33:7ca6]
+S: 250-SIZE 35882577
+S: 250-8BITMIME
+S: 250-AUTH LOGIN PLAIN XOAUTH2 PLAIN-CLIENTTOKEN OAUTHBEARER XOAUTH
+S: 250-ENHANCEDSTATUSCODES
+S: 250-PIPELINING
+S: 250-CHUNKING
+S: 250 SMTPUTF8
+C: AUTH PLAIN AHN2a3Jpc2huYS5nYXZ2YUBnbWFpbC5jb20Ac3BjZUAxMjM=
+S: 235 2.7.0 Accepted
+C: MAIL FROM:<svkrishna.gavva@gmail.com> SIZE=707
+C: RCPT TO:<viva-noreply@microsoft.com>
+S: 250 2.1.0 OK t15-20020a17090340cf00b0016168e90f2csm7062727pld.208 - gsmtp
+S: 250 2.1.5 OK t15-20020a17090340cf00b0016168e90f2csm7062727pld.208 - gsmtp
+C: DATA
+S: 354  Go ahead t15-20020a17090340cf00b0016168e90f2csm7062727pld.208 - gsmtp
+C: From: svkrishna.gavva@gmail.com
+C: Date: Sat, 04 Jun 2022 18:45:12 +0530
+C: Subject: ##(BE7131) is Created
+C: Message-Id: <YER716YJ0HU4.L9GRT73R6TY91@WIN-8K06B8A55H7>
+C: To: viva-noreply@microsoft.com
+C: In-Reply-To: <AAMkAGZiZmU5YzYyLTU5NTctNDA3MS05MzEzLWVkOTBiMWIzMGUwMwBGAAAAAACUES0yxgWLT5HOXMIOY0/2BwDxIPWqkaLjSZ3gM7PnHvIwAAAAAAEMAADxIPWqkaLjSZ3gM7PnHvIwAAA9XqjKAAA=>
+C: MIME-Version: 1.0
+C: Content-Type: text/html; charset=utf-8
+C: 
+C: <!DOCTYPE html>
+C: 
+C: <html lang="en" xmlns="http://www.w3.org/1999/xhtml">
+C: <head>
+C:     <meta charset="utf-8" />
+C:     <title></title>
+C: </head>
+C: <body>
+C:     <H4>
+C:     Thanks for Contacting Service Desk
+C:     <br/>
+C:     The Incident "BE7131" is Created
+C:     </H4>
+C:    
+C: </body>
+C: </html>
+C: .
+S: 250 2.0.0 OK  1654348524 t15-20020a17090340cf00b0016168e90f2csm7062727pld.208 - gsmtp
+C: QUIT
+S: 221 2.0.0 closing connection t15-20020a17090340cf00b0016168e90f2csm7062727pld.208 - gsmtp

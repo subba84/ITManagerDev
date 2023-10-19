@@ -1,0 +1,17 @@
+C:\Users\Administrator\source\repos\svkrishnagavva\ITManagerDev\ITManager.PerfMonitor\ITManager.PerfMonitor\bin\Debug\ITManager.PerfMonitor.exe.config
+C:\Users\Administrator\source\repos\svkrishnagavva\ITManagerDev\ITManager.PerfMonitor\ITManager.PerfMonitor\bin\Debug\ITManager.PerfMonitor.exe
+C:\Users\Administrator\source\repos\svkrishnagavva\ITManagerDev\ITManager.PerfMonitor\ITManager.PerfMonitor\bin\Debug\ITManager.PerfMonitor.pdb
+C:\Users\Administrator\source\repos\svkrishnagavva\ITManagerDev\ITManager.PerfMonitor\ITManager.PerfMonitor\bin\Debug\ITManager.PerfMonitor.Library.dll
+C:\Users\Administrator\source\repos\svkrishnagavva\ITManagerDev\ITManager.PerfMonitor\ITManager.PerfMonitor\bin\Debug\ITManager.Common.dll
+C:\Users\Administrator\source\repos\svkrishnagavva\ITManagerDev\ITManager.PerfMonitor\ITManager.PerfMonitor\bin\Debug\ITManager.PerfMonitor.Library.pdb
+C:\Users\Administrator\source\repos\svkrishnagavva\ITManagerDev\ITManager.PerfMonitor\ITManager.PerfMonitor\bin\Debug\ITManager.Common.pdb
+C:\Users\Administrator\source\repos\svkrishnagavva\ITManagerDev\ITManager.PerfMonitor\ITManager.PerfMonitor\bin\Debug\ITManager.Common.dll.config
+C:\Users\Administrator\source\repos\svkrishnagavva\ITManagerDev\ITManager.PerfMonitor\ITManager.PerfMonitor\obj\Debug\ITManager.PerfMonitor.csproj.AssemblyReference.cache
+C:\Users\Administrator\source\repos\svkrishnagavva\ITManagerDev\ITManager.PerfMonitor\ITManager.PerfMonitor\obj\Debug\ITManager.PerfMonitor.PerfMonitor.resources
+C:\Users\Administrator\source\repos\svkrishnagavva\ITManagerDev\ITManager.PerfMonitor\ITManager.PerfMonitor\obj\Debug\ITManager.PerfMonitor.Properties.Resources.resources
+C:\Users\Administrator\source\repos\svkrishnagavva\ITManagerDev\ITManager.PerfMonitor\ITManager.PerfMonitor\obj\Debug\ITManager.PerfMonitor.csproj.GenerateResource.cache
+C:\Users\Administrator\source\repos\svkrishnagavva\ITManagerDev\ITManager.PerfMonitor\ITManager.PerfMonitor\obj\Debug\ITManager.PerfMonitor.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\svkrishnagavva\ITManagerDev\ITManager.PerfMonitor\ITManager.PerfMonitor\obj\Debug\ITManager.PerfMonitor.csproj.CopyComplete
+C:\Users\Administrator\source\repos\svkrishnagavva\ITManagerDev\ITManager.PerfMonitor\ITManager.PerfMonitor\obj\Debug\ITManager.PerfMonitor.exe
+C:\Users\Administrator\source\repos\svkrishnagavva\ITManagerDev\ITManager.PerfMonitor\ITManager.PerfMonitor\obj\Debug\ITManager.PerfMonitor.pdb
+C:\Users\Administrator\source\repos\svkrishnagavva\ITManagerDev\ITManager.PerfMonitor\ITManager.PerfMonitor\bin\Debug\ITManager.PerfMonitor.Library.dll.config

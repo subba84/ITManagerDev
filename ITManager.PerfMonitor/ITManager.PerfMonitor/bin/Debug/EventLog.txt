@@ -1,0 +1,14 @@
+Date : 29-05-2022 16:11:41 --- Event : Counter is single instance, instance name 'WIN-8K06B8A55H7' is not valid for this counter category.   at System.Diagnostics.PerformanceCounter.NextSample()
+   at System.Diagnostics.PerformanceCounter.NextValue()
+   at ITManager.PerfMonitor.Library.PerfMetricCalculator.GetSystemPerformanceCounters(String machineName) in C:\Users\Administrator\source\repos\svkrishnagavva\ITManagerDev\ITManager.PerfMonitor\ITManager.PerfMonitor.Library\PerfMetricCalculator.cs:line 35 
+Date : 29-05-2022 16:12:42 --- Event : Counter is single instance, instance name 'WIN-8K06B8A55H7' is not valid for this counter category.   at System.Diagnostics.PerformanceCounter.NextSample()
+   at System.Diagnostics.PerformanceCounter.NextValue()
+   at ITManager.PerfMonitor.Library.PerfMetricCalculator.GetSystemPerformanceCounters(String machineName) in C:\Users\Administrator\source\repos\svkrishnagavva\ITManagerDev\ITManager.PerfMonitor\ITManager.PerfMonitor.Library\PerfMetricCalculator.cs:line 35 
+Date : 29-05-2022 18:37:41 --- Event : Not found    at System.Management.ManagementException.ThrowWithExtendedInfo(ManagementStatus errorCode)
+   at System.Management.PropertyData.RefreshPropertyInfo()
+   at System.Management.PropertyDataCollection.get_Item(String propertyName)
+   at ITManager.PerfMonitor.Library.PerfMetricCalculator.GetWMIPerformanceCounters() in C:\Users\Administrator\source\repos\svkrishnagavva\ITManagerDev\ITManager.PerfMonitor\ITManager.PerfMonitor.Library\PerfMetricCalculator.cs:line 77 
+Date : 29-05-2022 18:40:37 --- Event : Not found    at System.Management.ManagementException.ThrowWithExtendedInfo(ManagementStatus errorCode)
+   at System.Management.PropertyData.RefreshPropertyInfo()
+   at System.Management.PropertyDataCollection.get_Item(String propertyName)
+   at ITManager.PerfMonitor.Library.PerfMetricCalculator.GetWMIPerformanceCounters() in C:\Users\Administrator\source\repos\svkrishnagavva\ITManagerDev\ITManager.PerfMonitor\ITManager.PerfMonitor.Library\PerfMetricCalculator.cs:line 86 

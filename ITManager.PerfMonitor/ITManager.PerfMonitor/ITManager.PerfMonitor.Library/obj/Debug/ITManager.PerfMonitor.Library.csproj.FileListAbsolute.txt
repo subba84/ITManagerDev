@@ -1,0 +1,13 @@
+C:\Users\Administrator\source\repos\svkrishnagavva\ITManagerDev\ITManager.PerfMonitor\ITManager.PerfMonitor.Library\bin\Debug\ITManager.PerfMonitor.Library.dll
+C:\Users\Administrator\source\repos\svkrishnagavva\ITManagerDev\ITManager.PerfMonitor\ITManager.PerfMonitor.Library\bin\Debug\ITManager.PerfMonitor.Library.pdb
+C:\Users\Administrator\source\repos\svkrishnagavva\ITManagerDev\ITManager.PerfMonitor\ITManager.PerfMonitor.Library\bin\Debug\ITManager.Common.dll
+C:\Users\Administrator\source\repos\svkrishnagavva\ITManagerDev\ITManager.PerfMonitor\ITManager.PerfMonitor.Library\bin\Debug\ITManager.Common.pdb
+C:\Users\Administrator\source\repos\svkrishnagavva\ITManagerDev\ITManager.PerfMonitor\ITManager.PerfMonitor.Library\bin\Debug\ITManager.Common.dll.config
+C:\Users\Administrator\source\repos\svkrishnagavva\ITManagerDev\ITManager.PerfMonitor\ITManager.PerfMonitor.Library\obj\Debug\ITManager.PerfMonitor.Library.csproj.AssemblyReference.cache
+C:\Users\Administrator\source\repos\svkrishnagavva\ITManagerDev\ITManager.PerfMonitor\ITManager.PerfMonitor.Library\obj\Debug\ITManager.PerfMonitor.Library.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\svkrishnagavva\ITManagerDev\ITManager.PerfMonitor\ITManager.PerfMonitor.Library\obj\Debug\ITManager.PerfMonitor.Library.csproj.CopyComplete
+C:\Users\Administrator\source\repos\svkrishnagavva\ITManagerDev\ITManager.PerfMonitor\ITManager.PerfMonitor.Library\obj\Debug\ITManager.PerfMonitor.Library.dll
+C:\Users\Administrator\source\repos\svkrishnagavva\ITManagerDev\ITManager.PerfMonitor\ITManager.PerfMonitor.Library\obj\Debug\ITManager.PerfMonitor.Library.pdb
+C:\Users\Administrator\source\repos\svkrishnagavva\ITManagerDev\ITManager.PerfMonitor\ITManager.PerfMonitor.Library\bin\Debug\ITManager.PerfMonitor.Library.dll.config
+C:\Users\Administrator\source\repos\svkrishnagavva\ITManagerDev\ITManager.PerfMonitor\ITManager.PerfMonitor.Library\bin\Debug\System.CodeDom.dll
+C:\Users\Administrator\source\repos\svkrishnagavva\ITManagerDev\ITManager.PerfMonitor\ITManager.PerfMonitor.Library\bin\Debug\System.CodeDom.xml

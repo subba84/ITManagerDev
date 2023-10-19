@@ -1,0 +1,15 @@
+﻿Installing assembly 'C:\Users\administrator.DBT\source\repos\svkrishnagavva\ITManagerDev\ITManager.Engine\ITManager.EngineService\bin\Debug\ITManager.EngineService.exe'.
+Affected parameters are:
+   i = 
+   logfile = C:\Users\administrator.DBT\source\repos\svkrishnagavva\ITManagerDev\ITManager.Engine\ITManager.EngineService\bin\Debug\ITManager.EngineService.InstallLog
+   assemblypath = C:\Users\administrator.DBT\source\repos\svkrishnagavva\ITManagerDev\ITManager.Engine\ITManager.EngineService\bin\Debug\ITManager.EngineService.exe
+   logtoconsole = 
+Installing service ITManagerEngineService...
+Service ITManagerEngineService has been successfully installed.
+Creating EventLog source ITManagerEngineService in log Application...
+Committing assembly 'C:\Users\administrator.DBT\source\repos\svkrishnagavva\ITManagerDev\ITManager.Engine\ITManager.EngineService\bin\Debug\ITManager.EngineService.exe'.
+Affected parameters are:
+   i = 
+   logfile = C:\Users\administrator.DBT\source\repos\svkrishnagavva\ITManagerDev\ITManager.Engine\ITManager.EngineService\bin\Debug\ITManager.EngineService.InstallLog
+   assemblypath = C:\Users\administrator.DBT\source\repos\svkrishnagavva\ITManagerDev\ITManager.Engine\ITManager.EngineService\bin\Debug\ITManager.EngineService.exe
+   logtoconsole = 

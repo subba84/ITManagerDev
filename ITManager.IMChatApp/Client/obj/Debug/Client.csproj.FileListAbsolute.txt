@@ -1,0 +1,6 @@
+C:\Users\administrator.DBT\source\repos\svkrishnagavva\ITManagerDev\ITManager.IMChatApp\Client\obj\Debug\Client.csproj.AssemblyReference.cache
+C:\Users\administrator.DBT\source\repos\svkrishnagavva\ITManagerDev\ITManager.IMChatApp\Client\obj\Debug\ClientWindow.baml
+C:\Users\administrator.DBT\source\repos\svkrishnagavva\ITManagerDev\ITManager.IMChatApp\Client\obj\Debug\ClientWindow.g.cs
+C:\Users\administrator.DBT\source\repos\svkrishnagavva\ITManagerDev\ITManager.IMChatApp\Client\obj\Debug\App.g.cs
+C:\Users\administrator.DBT\source\repos\svkrishnagavva\ITManagerDev\ITManager.IMChatApp\Client\obj\Debug\Client_MarkupCompile.cache
+C:\Users\administrator.DBT\source\repos\svkrishnagavva\ITManagerDev\ITManager.IMChatApp\Client\obj\Debug\Client.g.resources

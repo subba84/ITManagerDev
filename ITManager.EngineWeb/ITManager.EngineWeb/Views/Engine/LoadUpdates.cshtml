@@ -1,0 +1,28 @@
+﻿@model ITManager.EngineWeb.Models.ViewModels.UpdatesVm
+@{
+    ViewBag.Title = "LoadUpdates";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h2>Push updates</h2>
+
+@using (Html.BeginForm())
+{
+
+    <h4>Select WSUS Server</h4>
+    @Html.DropDownList("EngineName", new SelectList(Model.EngineConfig, "EngineName", "EngineName"))
+
+
+    <h4>Select Group</h4>
+    @Html.DropDownList("EngineGroup", new SelectList(Model.EngineGroups, "GroupName", "GroupName"))
+
+    <br />
+
+    <h4>Select Update</h4>
+    @Html.DropDownList("EngineUpdate", new SelectList(Model.EngineUpdates, "UpdateId", "Title"))
+
+    <br />
+    <br />
+
+    <input type="submit" value="Submit" />
+}

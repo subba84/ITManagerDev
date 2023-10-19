@@ -1,0 +1,30 @@
+﻿@model IEnumerable<ITManager.EngineWeb.Models.tblEngineUpdates>
+@{
+    ViewBag.Title = "Index";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h2>Engine Updates</h2>
+<table class="table table-bordered table-responsive table-hover">
+    <tr>
+        <th>Update Id </th>
+        <th>Title </th>
+        <th>Description</th>
+        <th>CompanyTitle</th>
+        <th>UpdateClassificationTitle</th>
+        <th>ArrivalDate</th>
+    </tr>
+    @foreach (var d in Model)
+    {
+        <tr>
+            <td>@d.UpdateId</td>
+            <td>@d.Title</td>
+            <td>@d.Description</td>
+            <td>@d.CompanyTitle</td>
+            <td>@d.UpdateClassificationTitle</td>
+            <td>@d.ArrivalDate</td>
+
+        </tr>
+
+    }
+</table>

@@ -1,0 +1,28 @@
+﻿@model IEnumerable<ITManager.EngineWeb.Models.ViewModels.EngineReportVm>
+@{
+    ViewBag.Title = "GetEngineReports";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h2>Engine Reports</h2>
+<table class="table table-bordered table-responsive table-hover">
+    <tr>
+        <th>Wsus Server</th>
+        <th>System Name </th>
+        <th>Update </th>
+        <th>Status</th>
+        <th>CreatedOn</th>
+    </tr>
+    @foreach (var d in Model)
+    {
+<tr>
+    <td>@d.EngineName</td>
+    <td>@d.SystemName</td>
+    <td>@d.UpdateName</td>
+    <td>@d.InstallStatus</td>
+    <td>@d.ApprovedDate</td>
+</tr>
+
+    }
+</table>
+

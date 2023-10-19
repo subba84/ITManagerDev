@@ -1,0 +1,10 @@
+C:\Users\administrator.DBT\source\repos\svkrishnagavva\ITManagerDev\ITManager.ADUtility\ITManager.ADUtility.Test\bin\Debug\ITManager.ADUtility.Test.exe.config
+C:\Users\administrator.DBT\source\repos\svkrishnagavva\ITManagerDev\ITManager.ADUtility\ITManager.ADUtility.Test\bin\Debug\ITManager.ADUtility.Test.exe
+C:\Users\administrator.DBT\source\repos\svkrishnagavva\ITManagerDev\ITManager.ADUtility\ITManager.ADUtility.Test\bin\Debug\ITManager.ADUtility.Test.pdb
+C:\Users\administrator.DBT\source\repos\svkrishnagavva\ITManagerDev\ITManager.ADUtility\ITManager.ADUtility.Test\bin\Debug\ITManager.ADUtilityLibrary.dll
+C:\Users\administrator.DBT\source\repos\svkrishnagavva\ITManagerDev\ITManager.ADUtility\ITManager.ADUtility.Test\bin\Debug\ITManager.ADUtilityLibrary.pdb
+C:\Users\administrator.DBT\source\repos\svkrishnagavva\ITManagerDev\ITManager.ADUtility\ITManager.ADUtility.Test\obj\Debug\ITManager.ADUtility.Test.csproj.AssemblyReference.cache
+C:\Users\administrator.DBT\source\repos\svkrishnagavva\ITManagerDev\ITManager.ADUtility\ITManager.ADUtility.Test\obj\Debug\ITManager.ADUtility.Test.csproj.CoreCompileInputs.cache
+C:\Users\administrator.DBT\source\repos\svkrishnagavva\ITManagerDev\ITManager.ADUtility\ITManager.ADUtility.Test\obj\Debug\ITManager.ADUtility.Test.csproj.CopyComplete
+C:\Users\administrator.DBT\source\repos\svkrishnagavva\ITManagerDev\ITManager.ADUtility\ITManager.ADUtility.Test\obj\Debug\ITManager.ADUtility.Test.exe
+C:\Users\administrator.DBT\source\repos\svkrishnagavva\ITManagerDev\ITManager.ADUtility\ITManager.ADUtility.Test\obj\Debug\ITManager.ADUtility.Test.pdb

@@ -1,0 +1,6 @@
+C:\Users\administrator.DBT\source\repos\svkrishnagavva\ITManagerDev\ITManager.ADUtility\ITManager.ADUtilityLibrary\bin\Debug\ITManager.ADUtilityLibrary.dll
+C:\Users\administrator.DBT\source\repos\svkrishnagavva\ITManagerDev\ITManager.ADUtility\ITManager.ADUtilityLibrary\bin\Debug\ITManager.ADUtilityLibrary.pdb
+C:\Users\administrator.DBT\source\repos\svkrishnagavva\ITManagerDev\ITManager.ADUtility\ITManager.ADUtilityLibrary\obj\Debug\ITManager.ADUtilityLibrary.csproj.AssemblyReference.cache
+C:\Users\administrator.DBT\source\repos\svkrishnagavva\ITManagerDev\ITManager.ADUtility\ITManager.ADUtilityLibrary\obj\Debug\ITManager.ADUtilityLibrary.csproj.CoreCompileInputs.cache
+C:\Users\administrator.DBT\source\repos\svkrishnagavva\ITManagerDev\ITManager.ADUtility\ITManager.ADUtilityLibrary\obj\Debug\ITManager.ADUtilityLibrary.dll
+C:\Users\administrator.DBT\source\repos\svkrishnagavva\ITManagerDev\ITManager.ADUtility\ITManager.ADUtilityLibrary\obj\Debug\ITManager.ADUtilityLibrary.pdb

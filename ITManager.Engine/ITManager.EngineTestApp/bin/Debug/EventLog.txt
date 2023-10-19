@@ -1,0 +1,62 @@
+Date : 13-06-2021 18:49:39 --- Event : An error occurred while sending the request.   at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter`1.GetResult()
+   at ITManager.Common.HttpManager.<PostRequest>d__1`1.MoveNext() in C:\Users\administrator.DBT\source\repos\svkrishnagavva\ITManagerDev\ITManager.Engine\ITManager.Common\HttpManager.cs:line 52urlhttps://localhost:44329//SaveEngineUpdates 
+Date : 13-06-2021 18:53:07 --- Event : An error occurred while sending the request.   at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter`1.GetResult()
+   at ITManager.Common.HttpManager.<PostRequest>d__1`1.MoveNext() in C:\Users\administrator.DBT\source\repos\svkrishnagavva\ITManagerDev\ITManager.Engine\ITManager.Common\HttpManager.cs:line 52urlhttps://localhost:44329//SaveEngineReports 
+Date : 03-07-2021 21:16:59 --- Event : An invalid request URI was provided. The request URI must either be an absolute URI or BaseAddress must be set.   at System.Net.Http.HttpClient.PrepareRequestMessage(HttpRequestMessage request)
+   at System.Net.Http.HttpClient.SendAsync(HttpRequestMessage request, HttpCompletionOption completionOption, CancellationToken cancellationToken)
+   at System.Net.Http.HttpClient.GetAsync(Uri requestUri, HttpCompletionOption completionOption, CancellationToken cancellationToken)
+   at System.Net.Http.HttpClient.GetAsync(String requestUri)
+   at ITManager.Common.HttpManager.<GetRequest>d__0`1.MoveNext() in C:\Users\administrator.DBT\source\repos\svkrishnagavva\ITManagerDev\ITManager.Engine\ITManager.Common\HttpManager.cs:line 24url 
+Date : 03-07-2021 21:20:44 --- Event : An error occurred while sending the request.   at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter`1.GetResult()
+   at ITManager.Common.HttpManager.<GetRequest>d__0`1.MoveNext() in C:\Users\administrator.DBT\source\repos\svkrishnagavva\ITManagerDev\ITManager.Engine\ITManager.Common\HttpManager.cs:line 24urlhttps://localhost:44329//GetEngineRequests 
+Date : 03-07-2021 21:22:24 --- Event : An error occurred while sending the request.   at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter`1.GetResult()
+   at ITManager.Common.HttpManager.<GetRequest>d__0`1.MoveNext() in C:\Users\administrator.DBT\source\repos\svkrishnagavva\ITManagerDev\ITManager.Engine\ITManager.Common\HttpManager.cs:line 24urlhttp://itmanager1122DBT.local/GetEngineRequests 
+Date : 04-07-2021 15:31:13 --- Event : Response status code does not indicate success: 500 (Internal Server Error).   at System.Net.Http.HttpResponseMessage.EnsureSuccessStatusCode()
+   at ITManager.Common.HttpManager.<PostRequest>d__1`1.MoveNext() in C:\Users\administrator.DBT\source\repos\svkrishnagavva\ITManagerDev\ITManager.Engine\ITManager.Common\HttpManager.cs:line 54urlhttp://itmanager1122.DBT.local/SaveEngineReports 
+Date : 04-07-2021 15:32:32 --- Event : Response status code does not indicate success: 500 (Internal Server Error).   at System.Net.Http.HttpResponseMessage.EnsureSuccessStatusCode()
+   at ITManager.Common.HttpManager.<PostRequest>d__1`1.MoveNext() in C:\Users\administrator.DBT\source\repos\svkrishnagavva\ITManagerDev\ITManager.Engine\ITManager.Common\HttpManager.cs:line 54urlhttp://itmanager1122.DBT.local/SaveEngineReports 
+Date : 04-07-2021 15:38:21 --- Event : Response status code does not indicate success: 500 (Internal Server Error).   at System.Net.Http.HttpResponseMessage.EnsureSuccessStatusCode()
+   at ITManager.Common.HttpManager.<PostRequest>d__1`1.MoveNext() in C:\Users\administrator.DBT\source\repos\svkrishnagavva\ITManagerDev\ITManager.Engine\ITManager.Common\HttpManager.cs:line 54urlhttps://localhost:44329//SaveEngineReports 
+Date : 17-07-2021 20:48:59 --- Event : The specified item could not be found in the database.   at Microsoft.UpdateServices.Internal.BaseApi.SoapExceptionProcessor.DeserializeAndThrow(SoapException soapException)
+   at Microsoft.UpdateServices.Internal.DatabaseAccess.AdminDataAccessProxy.ExecuteSPAcceptEula(Guid eulaId, String adminName, UpdateRevisionId updateId)
+   at Microsoft.UpdateServices.Internal.BaseApi.Update.AcceptLicenseAgreement()
+   at ITManager.EngineLibrary.EngineManager.DeployUpdates() in C:\Users\administrator.DBT\source\repos\svkrishnagavva\ITManagerDev\ITManager.Engine\ITManager.EngineLibrary\EngineManager.cs:line 76 
+Date : 26-07-2021 15:58:56 --- Event : Response status code does not indicate success: 500 (Internal Server Error).   at System.Net.Http.HttpResponseMessage.EnsureSuccessStatusCode()
+   at ITManager.Common.HttpManager.<PostRequest>d__1`1.MoveNext() in C:\Users\administrator.DBT\source\repos\svkrishnagavva\ITManagerDev\ITManager.Engine\ITManager.Common\HttpManager.cs:line 54urlhttp://itmanager1122.DBT.local/SaveEngineReports 
+Date : 26-07-2021 16:16:23 --- Event : An error occurred while sending the request.   at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter`1.GetResult()
+   at ITManager.Common.HttpManager.<PostRequest>d__1`1.MoveNext() in C:\Users\administrator.DBT\source\repos\svkrishnagavva\ITManagerDev\ITManager.Engine\ITManager.Common\HttpManager.cs:line 52urlhttps://localhost:44329//SaveEngineReports 
+Date : 26-07-2021 16:18:27 --- Event : An error occurred while sending the request.   at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter`1.GetResult()
+   at ITManager.Common.HttpManager.<PostRequest>d__1`1.MoveNext() in C:\Users\administrator.DBT\source\repos\svkrishnagavva\ITManagerDev\ITManager.Engine\ITManager.Common\HttpManager.cs:line 52urlhttps://localhost:44329//SaveEngineReports 
+Date : 30-07-2021 15:56:07 --- Event : Response status code does not indicate success: 404 (Not Found).   at System.Net.Http.HttpResponseMessage.EnsureSuccessStatusCode()
+   at ITManager.Common.HttpManager.<GetRequest>d__0`1.MoveNext() in C:\Users\administrator.DBT\source\repos\svkrishnagavva\ITManagerDev\ITManager.Engine\ITManager.Common\HttpManager.cs:line 26urlhttp://itmanager1122.DBT.local/GetEngineRequests 
+Date : 30-07-2021 15:56:13 --- Event : Response status code does not indicate success: 404 (Not Found).   at System.Net.Http.HttpResponseMessage.EnsureSuccessStatusCode()
+   at ITManager.Common.HttpManager.<GetRequest>d__0`1.MoveNext() in C:\Users\administrator.DBT\source\repos\svkrishnagavva\ITManagerDev\ITManager.Engine\ITManager.Common\HttpManager.cs:line 26urlhttp://itmanager1122.DBT.local/GetEngineConfigs 
+Date : 30-07-2021 15:58:29 --- Event : Response status code does not indicate success: 404 (Not Found).   at System.Net.Http.HttpResponseMessage.EnsureSuccessStatusCode()
+   at ITManager.Common.HttpManager.<GetRequest>d__0`1.MoveNext() in C:\Users\administrator.DBT\source\repos\svkrishnagavva\ITManagerDev\ITManager.Engine\ITManager.Common\HttpManager.cs:line 26urlhttp://itmanager1122.DBT.local/GetEngineRequests 
+Date : 30-07-2021 15:58:31 --- Event : Response status code does not indicate success: 404 (Not Found).   at System.Net.Http.HttpResponseMessage.EnsureSuccessStatusCode()
+   at ITManager.Common.HttpManager.<GetRequest>d__0`1.MoveNext() in C:\Users\administrator.DBT\source\repos\svkrishnagavva\ITManagerDev\ITManager.Engine\ITManager.Common\HttpManager.cs:line 26urlhttp://itmanager1122.DBT.local/GetEngineConfigs 
+Date : 30-07-2021 16:00:01 --- Event : Response status code does not indicate success: 404 (Not Found).   at System.Net.Http.HttpResponseMessage.EnsureSuccessStatusCode()
+   at ITManager.Common.HttpManager.<PostRequest>d__1`1.MoveNext() in C:\Users\administrator.DBT\source\repos\svkrishnagavva\ITManagerDev\ITManager.Engine\ITManager.Common\HttpManager.cs:line 54urlhttp://itmanager1122.DBT.local/SaveEngineUpdates 
+Date : 30-07-2021 16:00:38 --- Event : An invalid request URI was provided. The request URI must either be an absolute URI or BaseAddress must be set.   at System.Net.Http.HttpClient.PrepareRequestMessage(HttpRequestMessage request)
+   at System.Net.Http.HttpClient.SendAsync(HttpRequestMessage request, HttpCompletionOption completionOption, CancellationToken cancellationToken)
+   at System.Net.Http.HttpClient.GetAsync(Uri requestUri, HttpCompletionOption completionOption, CancellationToken cancellationToken)
+   at System.Net.Http.HttpClient.GetAsync(String requestUri)
+   at ITManager.Common.HttpManager.<GetRequest>d__0`1.MoveNext() in C:\Users\administrator.DBT\source\repos\svkrishnagavva\ITManagerDev\ITManager.Engine\ITManager.Common\HttpManager.cs:line 24url 
+Date : 04-08-2021 15:17:14 --- Event : Response status code does not indicate success: 404 (Not Found).   at System.Net.Http.HttpResponseMessage.EnsureSuccessStatusCode()
+   at ITManager.Common.HttpManager.<GetRequest>d__0`1.MoveNext() in C:\Users\administrator.DBT\source\repos\svkrishnagavva\ITManagerDev\ITManager.Engine\ITManager.Common\HttpManager.cs:line 26urlhttp://itmanager1122.DBT.local/GetEngineConfigs 
+Date : 04-08-2021 15:19:24 --- Event : Response status code does not indicate success: 500 (Internal Server Error).   at System.Net.Http.HttpResponseMessage.EnsureSuccessStatusCode()
+   at ITManager.Common.HttpManager.<PostRequest>d__1`1.MoveNext() in C:\Users\administrator.DBT\source\repos\svkrishnagavva\ITManagerDev\ITManager.Engine\ITManager.Common\HttpManager.cs:line 54urlhttp://itmanager1122.DBT.local/SaveEngineUpdates 
+Date : 04-08-2021 15:19:26 --- Event : Response status code does not indicate success: 500 (Internal Server Error).   at System.Net.Http.HttpResponseMessage.EnsureSuccessStatusCode()
+   at ITManager.Common.HttpManager.<PostRequest>d__1`1.MoveNext() in C:\Users\administrator.DBT\source\repos\svkrishnagavva\ITManagerDev\ITManager.Engine\ITManager.Common\HttpManager.cs:line 54urlhttp://itmanager1122.DBT.local/SaveEngineUpdates 

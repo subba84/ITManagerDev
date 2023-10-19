@@ -1,0 +1,10 @@
+D:\Repos\svkrishnagavva\ITManagerDev\ITManager.MailUtility\MailServiceServiceSetupHelper\obj\Debug\DataRecoveryServiceSetupHelper.FormSerialNumber.resources
+D:\Repos\svkrishnagavva\ITManagerDev\ITManager.MailUtility\MailServiceServiceSetupHelper\obj\Debug\MailServiceSetupHelper.csproj.GenerateResource.cache
+D:\Repos\svkrishnagavva\ITManagerDev\ITManager.MailUtility\MailServiceServiceSetupHelper\obj\Debug\MailServiceSetupHelper.csproj.CoreCompileInputs.cache
+D:\Repos\svkrishnagavva\ITManagerDev\ITManager.MailUtility\MailServiceServiceSetupHelper\bin\Debug\MailServiceSetupHelper.exe.config
+D:\Repos\svkrishnagavva\ITManagerDev\ITManager.MailUtility\MailServiceServiceSetupHelper\bin\Debug\MailServiceSetupHelper.exe
+D:\Repos\svkrishnagavva\ITManagerDev\ITManager.MailUtility\MailServiceServiceSetupHelper\bin\Debug\MailServiceSetupHelper.pdb
+D:\Repos\svkrishnagavva\ITManagerDev\ITManager.MailUtility\MailServiceServiceSetupHelper\obj\Debug\MailServiceSetupHelper.Properties.Resources.resources
+D:\Repos\svkrishnagavva\ITManagerDev\ITManager.MailUtility\MailServiceServiceSetupHelper\obj\Debug\MailServiceSetupHelper.exe
+D:\Repos\svkrishnagavva\ITManagerDev\ITManager.MailUtility\MailServiceServiceSetupHelper\obj\Debug\MailServiceSetupHelper.pdb
+D:\Repos\svkrishnagavva\ITManagerDev\ITManager.MailUtility\MailServiceServiceSetupHelper\obj\Debug\MailServiceSetupHelper.csproj.AssemblyReference.cache

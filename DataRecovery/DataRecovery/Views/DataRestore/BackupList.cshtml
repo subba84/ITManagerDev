@@ -1,0 +1,60 @@
+﻿@model IEnumerable<DataRecovery.Models.tblBackups>
+
+@{
+    ViewBag.Title = "BackupList";
+}
+
+<h2>Backup History</h2>
+
+
+<table class="table">
+    <tr>
+        <th>
+            System ID
+        </th>
+        <th>
+            Backup Set
+        </th>
+        <th>
+            Last Updated
+        </th>
+       
+        <th>
+            Status
+        </th>
+        <th>
+            Created By
+        </th>
+        <th>
+            Created On
+        </th>
+        
+        <th></th>
+    </tr>
+
+@foreach (var item in Model) {
+    <tr>
+        <td>
+            @Html.DisplayFor(modelItem => item.SystemId)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.BackupName)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.LastUpdated)
+        </td>
+       
+        <td>
+            @Html.DisplayFor(modelItem => item.BackupStatus)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.CreatedBy)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.CreatedOn)
+        </td>
+
+    </tr>
+}
+
+</table>

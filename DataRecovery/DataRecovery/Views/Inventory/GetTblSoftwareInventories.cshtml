@@ -1,0 +1,53 @@
+﻿@model IEnumerable<DataRecovery.Models.tblSoftwareInventories>
+
+@{
+    ViewBag.Title = "GetTblSoftwareInventories";
+}
+
+<h2>Software Inventory</h2>
+
+
+<table class="table">
+    <tr>
+        <th>
+            System Id
+        </th>
+        <th>
+            Software
+        </th>
+        <th>
+            Vendor
+        </th>
+        <th>
+           Version
+        </th>
+        <th>
+            Installed Date
+        </th>
+
+        <th></th>
+    </tr>
+
+@foreach (var item in Model) {
+    <tr>
+        <td>
+            @Html.DisplayFor(modelItem => item.SystemId)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.InventoryName)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.InventoryVendor)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.InventoryVersion)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.InstalledDate)
+        </td>
+
+       
+    </tr>
+}
+
+</table>

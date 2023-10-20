@@ -1,0 +1,42 @@
+﻿@model IEnumerable<DataRecovery.Models.tblConfigMaster>
+
+@{
+    ViewBag.Title = "GetTemplateConfig";
+}
+
+<h2>Template Master</h2>
+
+<p>
+    @Html.ActionLink("Create New", "Create")
+</p>
+<table class="table">
+    <tr>
+       
+        <th>
+            @Html.DisplayNameFor(model => model.Configkey)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Configvalue)
+        </th>
+        
+        <th></th>
+    </tr>
+
+@foreach (var item in Model) {
+    <tr>
+       
+        <td>
+            @Html.DisplayFor(modelItem => item.Configkey)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.Configvalue)
+        </td>
+       
+        
+        <td>
+            @Html.ActionLink("Edit", "Edit", new { id=item.ConfigId }) 
+        </td>
+    </tr>
+}
+
+</table>

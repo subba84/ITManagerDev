@@ -1,0 +1,23 @@
+﻿@{
+    ViewBag.Title = "Home Page";
+}
+
+@model IEnumerable<DataRecovery.Models.FileInformation>
+    <br /><br />
+Data Restore
+@foreach (var d in Model)
+{
+<div class="panel panel-default">
+    <div class="panel-heading">File Name : @d.FileName </div>
+    <div class="btn-group pull-right">
+        @Html.ActionLink("DownloadFile", "Download", new { filePath = d.Filepath })
+        
+    </div>
+    <div class="panel-body">
+     
+        File Size : @d.FileSize
+
+    </div>
+</div>
+    <br />
+}

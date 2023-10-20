@@ -1,0 +1,39 @@
+C:\Vamsi\Recovery tool\DataRecovery\DataBaseManager\bin\Debug\DataBaseManager.dll
+C:\Vamsi\Recovery tool\DataRecovery\DataBaseManager\bin\Debug\DataBaseManager.pdb
+C:\Vamsi\Recovery tool\DataRecovery\DataBaseManager\obj\Debug\DataBaseManager.csproj.CoreCompileInputs.cache
+C:\Vamsi\Recovery tool\DataRecovery\DataBaseManager\obj\Debug\DataBaseManager.dll
+C:\Vamsi\Recovery tool\DataRecovery\DataBaseManager\obj\Debug\DataBaseManager.pdb
+C:\Vamsi\OneDrive\Recovery tool\DataRecovery\DataBaseManager\bin\Debug\DataBaseManager.dll
+C:\Vamsi\OneDrive\Recovery tool\DataRecovery\DataBaseManager\bin\Debug\DataBaseManager.pdb
+C:\Vamsi\OneDrive\Recovery tool\DataRecovery\DataBaseManager\obj\Debug\DataBaseManager.csproj.CoreCompileInputs.cache
+C:\Vamsi\OneDrive\Recovery tool\DataRecovery\DataBaseManager\obj\Debug\DataBaseManager.dll
+C:\Vamsi\OneDrive\Recovery tool\DataRecovery\DataBaseManager\obj\Debug\DataBaseManager.pdb
+C:\Vamsi\OneDrive\Recovery tool\DataRecovery\DataBaseManager\obj\Debug\DataBaseManager.csprojAssemblyReference.cache
+C:\Users\u\source\repos\svkrishnagavva\ITManagerDev\DataRecovery\DataBaseManager\bin\Debug\DataBaseManager.dll
+C:\Users\u\source\repos\svkrishnagavva\ITManagerDev\DataRecovery\DataBaseManager\bin\Debug\DataBaseManager.pdb
+C:\Users\u\source\repos\svkrishnagavva\ITManagerDev\DataRecovery\DataBaseManager\obj\Debug\DataBaseManager.csproj.CoreCompileInputs.cache
+C:\Users\u\source\repos\svkrishnagavva\ITManagerDev\DataRecovery\DataBaseManager\obj\Debug\DataBaseManager.dll
+C:\Users\u\source\repos\svkrishnagavva\ITManagerDev\DataRecovery\DataBaseManager\obj\Debug\DataBaseManager.pdb
+C:\Users\administrator.DBT\Source\Repos\svkrishnagavva\ITManagerDev\DataRecovery\DataBaseManager\bin\Debug\DataBaseManager.dll
+C:\Users\administrator.DBT\Source\Repos\svkrishnagavva\ITManagerDev\DataRecovery\DataBaseManager\bin\Debug\DataBaseManager.pdb
+C:\Users\administrator.DBT\Source\Repos\svkrishnagavva\ITManagerDev\DataRecovery\DataBaseManager\obj\Debug\DataBaseManager.csproj.CoreCompileInputs.cache
+C:\Users\administrator.DBT\Source\Repos\svkrishnagavva\ITManagerDev\DataRecovery\DataBaseManager\obj\Debug\DataBaseManager.dll
+C:\Users\administrator.DBT\Source\Repos\svkrishnagavva\ITManagerDev\DataRecovery\DataBaseManager\obj\Debug\DataBaseManager.pdb
+C:\Users\VK\Source\Repos\svkrishnagavva\ITManagerDev\DataRecovery\DataBaseManager\bin\Debug\DataBaseManager.dll
+C:\Users\VK\Source\Repos\svkrishnagavva\ITManagerDev\DataRecovery\DataBaseManager\bin\Debug\DataBaseManager.pdb
+C:\Users\VK\Source\Repos\svkrishnagavva\ITManagerDev\DataRecovery\DataBaseManager\obj\Debug\DataBaseManager.csproj.CoreCompileInputs.cache
+C:\Users\VK\Source\Repos\svkrishnagavva\ITManagerDev\DataRecovery\DataBaseManager\obj\Debug\DataBaseManager.dll
+C:\Users\VK\Source\Repos\svkrishnagavva\ITManagerDev\DataRecovery\DataBaseManager\obj\Debug\DataBaseManager.pdb
+C:\Users\VK\Source\Repos\svkrishnagavva\ITManagerDev\DataRecovery\DataBaseManager\obj\Debug\DataBaseManager.csproj.AssemblyReference.cache
+C:\Users\Dell\Source\Repos\svkrishnagavva\ITManagerDev\DataRecovery\DataBaseManager\bin\Debug\DataBaseManager.dll
+C:\Users\Dell\Source\Repos\svkrishnagavva\ITManagerDev\DataRecovery\DataBaseManager\bin\Debug\DataBaseManager.pdb
+C:\Users\Dell\Source\Repos\svkrishnagavva\ITManagerDev\DataRecovery\DataBaseManager\obj\Debug\DataBaseManager.csproj.AssemblyReference.cache
+C:\Users\Dell\Source\Repos\svkrishnagavva\ITManagerDev\DataRecovery\DataBaseManager\obj\Debug\DataBaseManager.csproj.CoreCompileInputs.cache
+C:\Users\Dell\Source\Repos\svkrishnagavva\ITManagerDev\DataRecovery\DataBaseManager\obj\Debug\DataBaseManager.dll
+C:\Users\Dell\Source\Repos\svkrishnagavva\ITManagerDev\DataRecovery\DataBaseManager\obj\Debug\DataBaseManager.pdb
+D:\Repos\svkrishnagavva\ITManagerDev\DataRecovery\DataBaseManager\bin\Debug\DataBaseManager.dll
+D:\Repos\svkrishnagavva\ITManagerDev\DataRecovery\DataBaseManager\bin\Debug\DataBaseManager.pdb
+D:\Repos\svkrishnagavva\ITManagerDev\DataRecovery\DataBaseManager\obj\Debug\DataBaseManager.csproj.AssemblyReference.cache
+D:\Repos\svkrishnagavva\ITManagerDev\DataRecovery\DataBaseManager\obj\Debug\DataBaseManager.csproj.CoreCompileInputs.cache
+D:\Repos\svkrishnagavva\ITManagerDev\DataRecovery\DataBaseManager\obj\Debug\DataBaseManager.dll
+D:\Repos\svkrishnagavva\ITManagerDev\DataRecovery\DataBaseManager\obj\Debug\DataBaseManager.pdb

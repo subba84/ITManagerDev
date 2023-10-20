@@ -1,0 +1,76 @@
+C:\Vamsi\Recovery tool\DataRecovery\DataRecoveryApp\bin\Debug\DataRecoveryApp.exe.config
+C:\Vamsi\Recovery tool\DataRecovery\DataRecoveryApp\bin\Debug\DataRecoveryApp.exe
+C:\Vamsi\Recovery tool\DataRecovery\DataRecoveryApp\bin\Debug\DataRecoveryApp.pdb
+C:\Vamsi\Recovery tool\DataRecovery\DataRecoveryApp\obj\Debug\DataRecoveryApp.csprojAssemblyReference.cache
+C:\Vamsi\Recovery tool\DataRecovery\DataRecoveryApp\obj\Debug\DataRecoveryApp.Properties.Resources.resources
+C:\Vamsi\Recovery tool\DataRecovery\DataRecoveryApp\obj\Debug\DataRecoveryApp.csproj.GenerateResource.cache
+C:\Vamsi\Recovery tool\DataRecovery\DataRecoveryApp\obj\Debug\DataRecoveryApp.csproj.CoreCompileInputs.cache
+C:\Vamsi\Recovery tool\DataRecovery\DataRecoveryApp\obj\Debug\DataRecoveryApp.exe
+C:\Vamsi\Recovery tool\DataRecovery\DataRecoveryApp\obj\Debug\DataRecoveryApp.pdb
+C:\Vamsi\OneDrive\Recovery tool\DataRecovery\DataRecoveryApp\bin\Debug\DataRecoveryApp.exe.config
+C:\Vamsi\OneDrive\Recovery tool\DataRecovery\DataRecoveryApp\bin\Debug\DataRecoveryApp.exe
+C:\Vamsi\OneDrive\Recovery tool\DataRecovery\DataRecoveryApp\bin\Debug\DataRecoveryApp.pdb
+C:\Vamsi\OneDrive\Recovery tool\DataRecovery\DataRecoveryApp\obj\Debug\DataRecoveryApp.Properties.Resources.resources
+C:\Vamsi\OneDrive\Recovery tool\DataRecovery\DataRecoveryApp\obj\Debug\DataRecoveryApp.csproj.GenerateResource.cache
+C:\Vamsi\OneDrive\Recovery tool\DataRecovery\DataRecoveryApp\obj\Debug\DataRecoveryApp.csproj.CoreCompileInputs.cache
+C:\Vamsi\OneDrive\Recovery tool\DataRecovery\DataRecoveryApp\obj\Debug\DataRecoveryApp.exe
+C:\Vamsi\OneDrive\Recovery tool\DataRecovery\DataRecoveryApp\obj\Debug\DataRecoveryApp.pdb
+C:\Vamsi\OneDrive\Recovery tool\DataRecovery\DataRecoveryApp\obj\Debug\DataRecoveryApp.csprojAssemblyReference.cache
+C:\Users\u\source\repos\svkrishnagavva\ITManagerDev\DataRecovery\DataRecoveryApp\bin\Debug\DataRecoveryApp.exe.config
+C:\Users\u\source\repos\svkrishnagavva\ITManagerDev\DataRecovery\DataRecoveryApp\bin\Debug\DataRecoveryApp.exe
+C:\Users\u\source\repos\svkrishnagavva\ITManagerDev\DataRecovery\DataRecoveryApp\bin\Debug\DataRecoveryApp.pdb
+C:\Users\u\source\repos\svkrishnagavva\ITManagerDev\DataRecovery\DataRecoveryApp\obj\Debug\DataRecoveryApp.Properties.Resources.resources
+C:\Users\u\source\repos\svkrishnagavva\ITManagerDev\DataRecovery\DataRecoveryApp\obj\Debug\DataRecoveryApp.csproj.GenerateResource.cache
+C:\Users\u\source\repos\svkrishnagavva\ITManagerDev\DataRecovery\DataRecoveryApp\obj\Debug\DataRecoveryApp.csproj.CoreCompileInputs.cache
+C:\Users\u\source\repos\svkrishnagavva\ITManagerDev\DataRecovery\DataRecoveryApp\obj\Debug\DataRecoveryApp.exe
+C:\Users\u\source\repos\svkrishnagavva\ITManagerDev\DataRecovery\DataRecoveryApp\obj\Debug\DataRecoveryApp.pdb
+C:\Users\administrator.DBT\Source\Repos\svkrishnagavva\ITManagerDev\DataRecovery\DataRecoveryApp\bin\Debug\DataRecoveryApp.exe.config
+C:\Users\administrator.DBT\Source\Repos\svkrishnagavva\ITManagerDev\DataRecovery\DataRecoveryApp\bin\Debug\DataRecoveryApp.exe
+C:\Users\administrator.DBT\Source\Repos\svkrishnagavva\ITManagerDev\DataRecovery\DataRecoveryApp\bin\Debug\DataRecoveryApp.pdb
+C:\Users\administrator.DBT\Source\Repos\svkrishnagavva\ITManagerDev\DataRecovery\DataRecoveryApp\obj\Debug\DataRecoveryApp.Properties.Resources.resources
+C:\Users\administrator.DBT\Source\Repos\svkrishnagavva\ITManagerDev\DataRecovery\DataRecoveryApp\obj\Debug\DataRecoveryApp.csproj.GenerateResource.cache
+C:\Users\administrator.DBT\Source\Repos\svkrishnagavva\ITManagerDev\DataRecovery\DataRecoveryApp\obj\Debug\DataRecoveryApp.csproj.CoreCompileInputs.cache
+C:\Users\administrator.DBT\Source\Repos\svkrishnagavva\ITManagerDev\DataRecovery\DataRecoveryApp\obj\Debug\DataRecoveryApp.exe
+C:\Users\administrator.DBT\Source\Repos\svkrishnagavva\ITManagerDev\DataRecovery\DataRecoveryApp\obj\Debug\DataRecoveryApp.pdb
+C:\Users\administrator.DBT\Source\Repos\svkrishnagavva\ITManagerDev\DataRecovery\DataRecoveryApp\obj\Debug\DataRecoveryApp.csproj.AssemblyReference.cache
+C:\Users\VK\Source\Repos\svkrishnagavva\ITManagerDev\DataRecovery\DataRecoveryApp\bin\Debug\DataRecoveryApp.exe.config
+C:\Users\VK\Source\Repos\svkrishnagavva\ITManagerDev\DataRecovery\DataRecoveryApp\bin\Debug\DataRecoveryApp.exe
+C:\Users\VK\Source\Repos\svkrishnagavva\ITManagerDev\DataRecovery\DataRecoveryApp\bin\Debug\DataRecoveryApp.pdb
+C:\Users\VK\Source\Repos\svkrishnagavva\ITManagerDev\DataRecovery\DataRecoveryApp\obj\Debug\DataRecoveryApp.csproj.SuggestedBindingRedirects.cache
+C:\Users\VK\Source\Repos\svkrishnagavva\ITManagerDev\DataRecovery\DataRecoveryApp\obj\Debug\DataRecoveryApp.Properties.Resources.resources
+C:\Users\VK\Source\Repos\svkrishnagavva\ITManagerDev\DataRecovery\DataRecoveryApp\obj\Debug\DataRecoveryApp.csproj.GenerateResource.cache
+C:\Users\VK\Source\Repos\svkrishnagavva\ITManagerDev\DataRecovery\DataRecoveryApp\obj\Debug\DataRecoveryApp.csproj.CoreCompileInputs.cache
+C:\Users\VK\Source\Repos\svkrishnagavva\ITManagerDev\DataRecovery\DataRecoveryApp\obj\Debug\DataRecoveryApp.exe
+C:\Users\VK\Source\Repos\svkrishnagavva\ITManagerDev\DataRecovery\DataRecoveryApp\obj\Debug\DataRecoveryApp.pdb
+C:\Users\VK\Source\Repos\svkrishnagavva\ITManagerDev\DataRecovery\DataRecoveryApp\obj\Debug\DataRecoveryApp.csproj.AssemblyReference.cache
+C:\Users\Dell\Source\Repos\svkrishnagavva\ITManagerDev\DataRecovery\DataRecoveryApp\bin\Debug\DataRecoveryApp.exe.config
+C:\Users\Dell\Source\Repos\svkrishnagavva\ITManagerDev\DataRecovery\DataRecoveryApp\bin\Debug\DataRecoveryApp.exe
+C:\Users\Dell\Source\Repos\svkrishnagavva\ITManagerDev\DataRecovery\DataRecoveryApp\bin\Debug\DataRecoveryApp.pdb
+C:\Users\Dell\Source\Repos\svkrishnagavva\ITManagerDev\DataRecovery\DataRecoveryApp\obj\Debug\DataRecoveryApp.csproj.AssemblyReference.cache
+C:\Users\Dell\Source\Repos\svkrishnagavva\ITManagerDev\DataRecovery\DataRecoveryApp\obj\Debug\DataRecoveryApp.Properties.Resources.resources
+C:\Users\Dell\Source\Repos\svkrishnagavva\ITManagerDev\DataRecovery\DataRecoveryApp\obj\Debug\DataRecoveryApp.csproj.GenerateResource.cache
+C:\Users\Dell\Source\Repos\svkrishnagavva\ITManagerDev\DataRecovery\DataRecoveryApp\obj\Debug\DataRecoveryApp.csproj.CoreCompileInputs.cache
+C:\Users\Dell\Source\Repos\svkrishnagavva\ITManagerDev\DataRecovery\DataRecoveryApp\obj\Debug\DataRecoveryApp.exe
+C:\Users\Dell\Source\Repos\svkrishnagavva\ITManagerDev\DataRecovery\DataRecoveryApp\obj\Debug\DataRecoveryApp.pdb
+D:\Repos\svkrishnagavva\ITManagerDev\DataRecovery\DataRecoveryApp\bin\Debug\DataRecoveryApp.exe.config
+D:\Repos\svkrishnagavva\ITManagerDev\DataRecovery\DataRecoveryApp\bin\Debug\DataRecoveryApp.exe
+D:\Repos\svkrishnagavva\ITManagerDev\DataRecovery\DataRecoveryApp\bin\Debug\DataRecoveryApp.pdb
+D:\Repos\svkrishnagavva\ITManagerDev\DataRecovery\DataRecoveryApp\bin\Debug\DataRecovery.Common.dll
+D:\Repos\svkrishnagavva\ITManagerDev\DataRecovery\DataRecoveryApp\bin\Debug\Newtonsoft.Json.dll
+D:\Repos\svkrishnagavva\ITManagerDev\DataRecovery\DataRecoveryApp\bin\Debug\AWSSDK.Core.dll
+D:\Repos\svkrishnagavva\ITManagerDev\DataRecovery\DataRecoveryApp\bin\Debug\AWSSDK.S3.dll
+D:\Repos\svkrishnagavva\ITManagerDev\DataRecovery\DataRecoveryApp\bin\Debug\ObjectsComparer.dll
+D:\Repos\svkrishnagavva\ITManagerDev\DataRecovery\DataRecoveryApp\bin\Debug\DataRecovery.Common.pdb
+D:\Repos\svkrishnagavva\ITManagerDev\DataRecovery\DataRecoveryApp\bin\Debug\Newtonsoft.Json.xml
+D:\Repos\svkrishnagavva\ITManagerDev\DataRecovery\DataRecoveryApp\bin\Debug\AWSSDK.Core.pdb
+D:\Repos\svkrishnagavva\ITManagerDev\DataRecovery\DataRecoveryApp\bin\Debug\AWSSDK.Core.xml
+D:\Repos\svkrishnagavva\ITManagerDev\DataRecovery\DataRecoveryApp\bin\Debug\AWSSDK.S3.pdb
+D:\Repos\svkrishnagavva\ITManagerDev\DataRecovery\DataRecoveryApp\bin\Debug\AWSSDK.S3.xml
+D:\Repos\svkrishnagavva\ITManagerDev\DataRecovery\DataRecoveryApp\obj\Debug\DataRecoveryApp.csproj.AssemblyReference.cache
+D:\Repos\svkrishnagavva\ITManagerDev\DataRecovery\DataRecoveryApp\obj\Debug\DataRecoveryApp.FrmITManagerAgent.resources
+D:\Repos\svkrishnagavva\ITManagerDev\DataRecovery\DataRecoveryApp\obj\Debug\DataRecoveryApp.Properties.Resources.resources
+D:\Repos\svkrishnagavva\ITManagerDev\DataRecovery\DataRecoveryApp\obj\Debug\DataRecoveryApp.csproj.GenerateResource.cache
+D:\Repos\svkrishnagavva\ITManagerDev\DataRecovery\DataRecoveryApp\obj\Debug\DataRecoveryApp.csproj.CoreCompileInputs.cache
+D:\Repos\svkrishnagavva\ITManagerDev\DataRecovery\DataRecoveryApp\obj\Debug\DataRecoveryApp.csproj.CopyComplete
+D:\Repos\svkrishnagavva\ITManagerDev\DataRecovery\DataRecoveryApp\obj\Debug\DataRecoveryApp.exe
+D:\Repos\svkrishnagavva\ITManagerDev\DataRecovery\DataRecoveryApp\obj\Debug\DataRecoveryApp.pdb

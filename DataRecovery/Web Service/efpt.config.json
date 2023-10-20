@@ -1,0 +1,73 @@
+﻿{
+   "ContextClassName": "DataRecoveryContext",
+   "ContextNamespace": null,
+   "DefaultDacpacSchema": null,
+   "FilterSchemas": false,
+   "IncludeConnectionString": true,
+   "ModelNamespace": null,
+   "OutputContextPath": null,
+   "OutputPath": "NewModels",
+   "ProjectRootNamespace": "DataRecoveryWebService",
+   "Schemas": null,
+   "SelectedHandlebarsLanguage": 0,
+   "SelectedToBeGenerated": 2,
+   "Tables": [
+      {
+         "Name": "[99_databricks2].[tblPerformanceMonitor]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[tblBackups]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[tblConfigMaster]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[tblConfigs]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[tblDriveDetails]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[tblHardwareInventories]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[tblMailMessages]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[tblMailUtilityConfig]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[tblModules]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[tblRequests]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[tblSoftwareInventories]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[tblUserMachineMappings]",
+         "ObjectType": 0
+      }
+   ],
+   "UseBoolPropertiesWithoutDefaultSql": false,
+   "UseDatabaseNames": true,
+   "UseDbContextSplitting": false,
+   "UseFluentApiOnly": false,
+   "UseHandleBars": false,
+   "UseInflector": true,
+   "UseLegacyPluralizer": false,
+   "UseNodaTime": false,
+   "UseSpatial": false
+}

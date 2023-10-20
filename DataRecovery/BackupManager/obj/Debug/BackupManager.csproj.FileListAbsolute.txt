@@ -1,0 +1,284 @@
+C:\Vamsi\Recovery tool\DataRecovery\BackupManager\bin\Debug\BackupManager.dll.config
+C:\Vamsi\Recovery tool\DataRecovery\BackupManager\bin\Debug\BackupManager.dll
+C:\Vamsi\Recovery tool\DataRecovery\BackupManager\bin\Debug\BackupManager.pdb
+C:\Vamsi\Recovery tool\DataRecovery\BackupManager\bin\Debug\Amazon.Core.dll
+C:\Vamsi\Recovery tool\DataRecovery\BackupManager\bin\Debug\Amazon.S3.dll
+C:\Vamsi\Recovery tool\DataRecovery\BackupManager\bin\Debug\AWSSDK.Core.dll
+C:\Vamsi\Recovery tool\DataRecovery\BackupManager\bin\Debug\AWSSDK.S3.dll
+C:\Vamsi\Recovery tool\DataRecovery\BackupManager\bin\Debug\Carbon.Storage.dll
+C:\Vamsi\Recovery tool\DataRecovery\BackupManager\bin\Debug\DataRecovery.Common.dll
+C:\Vamsi\Recovery tool\DataRecovery\BackupManager\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Vamsi\Recovery tool\DataRecovery\BackupManager\bin\Debug\System.Buffers.dll
+C:\Vamsi\Recovery tool\DataRecovery\BackupManager\bin\Debug\System.Memory.dll
+C:\Vamsi\Recovery tool\DataRecovery\BackupManager\bin\Debug\System.Numerics.Vectors.dll
+C:\Vamsi\Recovery tool\DataRecovery\BackupManager\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Vamsi\Recovery tool\DataRecovery\BackupManager\bin\Debug\System.Text.Encodings.Web.dll
+C:\Vamsi\Recovery tool\DataRecovery\BackupManager\bin\Debug\System.Text.Json.dll
+C:\Vamsi\Recovery tool\DataRecovery\BackupManager\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Vamsi\Recovery tool\DataRecovery\BackupManager\bin\Debug\System.ValueTuple.dll
+C:\Vamsi\Recovery tool\DataRecovery\BackupManager\bin\Debug\Newtonsoft.Json.dll
+C:\Vamsi\Recovery tool\DataRecovery\BackupManager\bin\Debug\DataRecovery.Common.pdb
+C:\Vamsi\Recovery tool\DataRecovery\BackupManager\bin\Debug\AWSSDK.Core.pdb
+C:\Vamsi\Recovery tool\DataRecovery\BackupManager\bin\Debug\AWSSDK.Core.xml
+C:\Vamsi\Recovery tool\DataRecovery\BackupManager\bin\Debug\AWSSDK.S3.pdb
+C:\Vamsi\Recovery tool\DataRecovery\BackupManager\bin\Debug\AWSSDK.S3.xml
+C:\Vamsi\Recovery tool\DataRecovery\BackupManager\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Vamsi\Recovery tool\DataRecovery\BackupManager\bin\Debug\System.Buffers.xml
+C:\Vamsi\Recovery tool\DataRecovery\BackupManager\bin\Debug\System.Memory.xml
+C:\Vamsi\Recovery tool\DataRecovery\BackupManager\bin\Debug\System.Numerics.Vectors.xml
+C:\Vamsi\Recovery tool\DataRecovery\BackupManager\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Vamsi\Recovery tool\DataRecovery\BackupManager\bin\Debug\System.Text.Encodings.Web.xml
+C:\Vamsi\Recovery tool\DataRecovery\BackupManager\bin\Debug\System.Text.Json.xml
+C:\Vamsi\Recovery tool\DataRecovery\BackupManager\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Vamsi\Recovery tool\DataRecovery\BackupManager\bin\Debug\System.ValueTuple.xml
+C:\Vamsi\Recovery tool\DataRecovery\BackupManager\bin\Debug\Newtonsoft.Json.xml
+C:\Vamsi\Recovery tool\DataRecovery\BackupManager\obj\Debug\BackupManager.csprojAssemblyReference.cache
+C:\Vamsi\Recovery tool\DataRecovery\BackupManager\obj\Debug\BackupManager.csproj.CoreCompileInputs.cache
+C:\Vamsi\Recovery tool\DataRecovery\BackupManager\obj\Debug\BackupManager.csproj.CopyComplete
+C:\Vamsi\Recovery tool\DataRecovery\BackupManager\obj\Debug\BackupManager.dll
+C:\Vamsi\Recovery tool\DataRecovery\BackupManager\obj\Debug\BackupManager.pdb
+C:\Vamsi\OneDrive\Recovery tool\DataRecovery\BackupManager\bin\Debug\BackupManager.dll.config
+C:\Vamsi\OneDrive\Recovery tool\DataRecovery\BackupManager\bin\Debug\BackupManager.dll
+C:\Vamsi\OneDrive\Recovery tool\DataRecovery\BackupManager\bin\Debug\BackupManager.pdb
+C:\Vamsi\OneDrive\Recovery tool\DataRecovery\BackupManager\bin\Debug\Amazon.Core.dll
+C:\Vamsi\OneDrive\Recovery tool\DataRecovery\BackupManager\bin\Debug\Amazon.S3.dll
+C:\Vamsi\OneDrive\Recovery tool\DataRecovery\BackupManager\bin\Debug\AWSSDK.Core.dll
+C:\Vamsi\OneDrive\Recovery tool\DataRecovery\BackupManager\bin\Debug\AWSSDK.S3.dll
+C:\Vamsi\OneDrive\Recovery tool\DataRecovery\BackupManager\bin\Debug\Carbon.Storage.dll
+C:\Vamsi\OneDrive\Recovery tool\DataRecovery\BackupManager\bin\Debug\DataRecovery.Common.dll
+C:\Vamsi\OneDrive\Recovery tool\DataRecovery\BackupManager\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Vamsi\OneDrive\Recovery tool\DataRecovery\BackupManager\bin\Debug\System.Buffers.dll
+C:\Vamsi\OneDrive\Recovery tool\DataRecovery\BackupManager\bin\Debug\System.Memory.dll
+C:\Vamsi\OneDrive\Recovery tool\DataRecovery\BackupManager\bin\Debug\System.Numerics.Vectors.dll
+C:\Vamsi\OneDrive\Recovery tool\DataRecovery\BackupManager\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Vamsi\OneDrive\Recovery tool\DataRecovery\BackupManager\bin\Debug\System.Text.Encodings.Web.dll
+C:\Vamsi\OneDrive\Recovery tool\DataRecovery\BackupManager\bin\Debug\System.Text.Json.dll
+C:\Vamsi\OneDrive\Recovery tool\DataRecovery\BackupManager\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Vamsi\OneDrive\Recovery tool\DataRecovery\BackupManager\bin\Debug\System.ValueTuple.dll
+C:\Vamsi\OneDrive\Recovery tool\DataRecovery\BackupManager\bin\Debug\Newtonsoft.Json.dll
+C:\Vamsi\OneDrive\Recovery tool\DataRecovery\BackupManager\bin\Debug\DataRecovery.Common.pdb
+C:\Vamsi\OneDrive\Recovery tool\DataRecovery\BackupManager\bin\Debug\AWSSDK.Core.pdb
+C:\Vamsi\OneDrive\Recovery tool\DataRecovery\BackupManager\bin\Debug\AWSSDK.Core.xml
+C:\Vamsi\OneDrive\Recovery tool\DataRecovery\BackupManager\bin\Debug\AWSSDK.S3.pdb
+C:\Vamsi\OneDrive\Recovery tool\DataRecovery\BackupManager\bin\Debug\AWSSDK.S3.xml
+C:\Vamsi\OneDrive\Recovery tool\DataRecovery\BackupManager\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Vamsi\OneDrive\Recovery tool\DataRecovery\BackupManager\bin\Debug\System.Buffers.xml
+C:\Vamsi\OneDrive\Recovery tool\DataRecovery\BackupManager\bin\Debug\System.Memory.xml
+C:\Vamsi\OneDrive\Recovery tool\DataRecovery\BackupManager\bin\Debug\System.Numerics.Vectors.xml
+C:\Vamsi\OneDrive\Recovery tool\DataRecovery\BackupManager\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Vamsi\OneDrive\Recovery tool\DataRecovery\BackupManager\bin\Debug\System.Text.Encodings.Web.xml
+C:\Vamsi\OneDrive\Recovery tool\DataRecovery\BackupManager\bin\Debug\System.Text.Json.xml
+C:\Vamsi\OneDrive\Recovery tool\DataRecovery\BackupManager\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Vamsi\OneDrive\Recovery tool\DataRecovery\BackupManager\bin\Debug\System.ValueTuple.xml
+C:\Vamsi\OneDrive\Recovery tool\DataRecovery\BackupManager\bin\Debug\Newtonsoft.Json.xml
+C:\Vamsi\OneDrive\Recovery tool\DataRecovery\BackupManager\obj\Debug\BackupManager.csprojAssemblyReference.cache
+C:\Vamsi\OneDrive\Recovery tool\DataRecovery\BackupManager\obj\Debug\BackupManager.csproj.CoreCompileInputs.cache
+C:\Vamsi\OneDrive\Recovery tool\DataRecovery\BackupManager\obj\Debug\BackupManager.csproj.CopyComplete
+C:\Vamsi\OneDrive\Recovery tool\DataRecovery\BackupManager\obj\Debug\BackupManager.dll
+C:\Vamsi\OneDrive\Recovery tool\DataRecovery\BackupManager\obj\Debug\BackupManager.pdb
+C:\Users\u\source\repos\svkrishnagavva\ITManagerDev\DataRecovery\BackupManager\bin\Debug\BackupManager.dll.config
+C:\Users\u\source\repos\svkrishnagavva\ITManagerDev\DataRecovery\BackupManager\bin\Debug\BackupManager.dll
+C:\Users\u\source\repos\svkrishnagavva\ITManagerDev\DataRecovery\BackupManager\bin\Debug\BackupManager.pdb
+C:\Users\u\source\repos\svkrishnagavva\ITManagerDev\DataRecovery\BackupManager\bin\Debug\Amazon.Core.dll
+C:\Users\u\source\repos\svkrishnagavva\ITManagerDev\DataRecovery\BackupManager\bin\Debug\Amazon.S3.dll
+C:\Users\u\source\repos\svkrishnagavva\ITManagerDev\DataRecovery\BackupManager\bin\Debug\AWSSDK.Core.dll
+C:\Users\u\source\repos\svkrishnagavva\ITManagerDev\DataRecovery\BackupManager\bin\Debug\AWSSDK.S3.dll
+C:\Users\u\source\repos\svkrishnagavva\ITManagerDev\DataRecovery\BackupManager\bin\Debug\Carbon.Storage.dll
+C:\Users\u\source\repos\svkrishnagavva\ITManagerDev\DataRecovery\BackupManager\bin\Debug\DataRecovery.Common.dll
+C:\Users\u\source\repos\svkrishnagavva\ITManagerDev\DataRecovery\BackupManager\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\u\source\repos\svkrishnagavva\ITManagerDev\DataRecovery\BackupManager\bin\Debug\Newtonsoft.Json.dll
+C:\Users\u\source\repos\svkrishnagavva\ITManagerDev\DataRecovery\BackupManager\bin\Debug\System.Buffers.dll
+C:\Users\u\source\repos\svkrishnagavva\ITManagerDev\DataRecovery\BackupManager\bin\Debug\System.Memory.dll
+C:\Users\u\source\repos\svkrishnagavva\ITManagerDev\DataRecovery\BackupManager\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\u\source\repos\svkrishnagavva\ITManagerDev\DataRecovery\BackupManager\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\u\source\repos\svkrishnagavva\ITManagerDev\DataRecovery\BackupManager\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\u\source\repos\svkrishnagavva\ITManagerDev\DataRecovery\BackupManager\bin\Debug\System.Text.Json.dll
+C:\Users\u\source\repos\svkrishnagavva\ITManagerDev\DataRecovery\BackupManager\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\u\source\repos\svkrishnagavva\ITManagerDev\DataRecovery\BackupManager\bin\Debug\System.ValueTuple.dll
+C:\Users\u\source\repos\svkrishnagavva\ITManagerDev\DataRecovery\BackupManager\bin\Debug\ObjectsComparer.dll
+C:\Users\u\source\repos\svkrishnagavva\ITManagerDev\DataRecovery\BackupManager\bin\Debug\DataRecovery.Common.pdb
+C:\Users\u\source\repos\svkrishnagavva\ITManagerDev\DataRecovery\BackupManager\bin\Debug\AWSSDK.Core.pdb
+C:\Users\u\source\repos\svkrishnagavva\ITManagerDev\DataRecovery\BackupManager\bin\Debug\AWSSDK.Core.xml
+C:\Users\u\source\repos\svkrishnagavva\ITManagerDev\DataRecovery\BackupManager\bin\Debug\AWSSDK.S3.pdb
+C:\Users\u\source\repos\svkrishnagavva\ITManagerDev\DataRecovery\BackupManager\bin\Debug\AWSSDK.S3.xml
+C:\Users\u\source\repos\svkrishnagavva\ITManagerDev\DataRecovery\BackupManager\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\u\source\repos\svkrishnagavva\ITManagerDev\DataRecovery\BackupManager\bin\Debug\Newtonsoft.Json.xml
+C:\Users\u\source\repos\svkrishnagavva\ITManagerDev\DataRecovery\BackupManager\bin\Debug\System.Buffers.xml
+C:\Users\u\source\repos\svkrishnagavva\ITManagerDev\DataRecovery\BackupManager\bin\Debug\System.Memory.xml
+C:\Users\u\source\repos\svkrishnagavva\ITManagerDev\DataRecovery\BackupManager\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\u\source\repos\svkrishnagavva\ITManagerDev\DataRecovery\BackupManager\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\u\source\repos\svkrishnagavva\ITManagerDev\DataRecovery\BackupManager\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\u\source\repos\svkrishnagavva\ITManagerDev\DataRecovery\BackupManager\bin\Debug\System.Text.Json.xml
+C:\Users\u\source\repos\svkrishnagavva\ITManagerDev\DataRecovery\BackupManager\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\u\source\repos\svkrishnagavva\ITManagerDev\DataRecovery\BackupManager\bin\Debug\System.ValueTuple.xml
+C:\Users\u\source\repos\svkrishnagavva\ITManagerDev\DataRecovery\BackupManager\obj\Debug\BackupManager.csprojAssemblyReference.cache
+C:\Users\u\source\repos\svkrishnagavva\ITManagerDev\DataRecovery\BackupManager\obj\Debug\BackupManager.csproj.CoreCompileInputs.cache
+C:\Users\u\source\repos\svkrishnagavva\ITManagerDev\DataRecovery\BackupManager\obj\Debug\BackupManager.csproj.CopyComplete
+C:\Users\u\source\repos\svkrishnagavva\ITManagerDev\DataRecovery\BackupManager\obj\Debug\BackupManager.dll
+C:\Users\u\source\repos\svkrishnagavva\ITManagerDev\DataRecovery\BackupManager\obj\Debug\BackupManager.pdb
+C:\Users\administrator.DBT\Source\Repos\svkrishnagavva\ITManagerDev\DataRecovery\BackupManager\bin\Debug\BackupManager.dll.config
+C:\Users\administrator.DBT\Source\Repos\svkrishnagavva\ITManagerDev\DataRecovery\BackupManager\bin\Debug\BackupManager.dll
+C:\Users\administrator.DBT\Source\Repos\svkrishnagavva\ITManagerDev\DataRecovery\BackupManager\bin\Debug\BackupManager.pdb
+C:\Users\administrator.DBT\Source\Repos\svkrishnagavva\ITManagerDev\DataRecovery\BackupManager\bin\Debug\Amazon.Core.dll
+C:\Users\administrator.DBT\Source\Repos\svkrishnagavva\ITManagerDev\DataRecovery\BackupManager\bin\Debug\Amazon.S3.dll
+C:\Users\administrator.DBT\Source\Repos\svkrishnagavva\ITManagerDev\DataRecovery\BackupManager\bin\Debug\AWSSDK.Core.dll
+C:\Users\administrator.DBT\Source\Repos\svkrishnagavva\ITManagerDev\DataRecovery\BackupManager\bin\Debug\AWSSDK.S3.dll
+C:\Users\administrator.DBT\Source\Repos\svkrishnagavva\ITManagerDev\DataRecovery\BackupManager\bin\Debug\Carbon.Storage.dll
+C:\Users\administrator.DBT\Source\Repos\svkrishnagavva\ITManagerDev\DataRecovery\BackupManager\bin\Debug\DataRecovery.Common.dll
+C:\Users\administrator.DBT\Source\Repos\svkrishnagavva\ITManagerDev\DataRecovery\BackupManager\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\administrator.DBT\Source\Repos\svkrishnagavva\ITManagerDev\DataRecovery\BackupManager\bin\Debug\Newtonsoft.Json.dll
+C:\Users\administrator.DBT\Source\Repos\svkrishnagavva\ITManagerDev\DataRecovery\BackupManager\bin\Debug\System.Buffers.dll
+C:\Users\administrator.DBT\Source\Repos\svkrishnagavva\ITManagerDev\DataRecovery\BackupManager\bin\Debug\System.Memory.dll
+C:\Users\administrator.DBT\Source\Repos\svkrishnagavva\ITManagerDev\DataRecovery\BackupManager\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\administrator.DBT\Source\Repos\svkrishnagavva\ITManagerDev\DataRecovery\BackupManager\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\administrator.DBT\Source\Repos\svkrishnagavva\ITManagerDev\DataRecovery\BackupManager\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\administrator.DBT\Source\Repos\svkrishnagavva\ITManagerDev\DataRecovery\BackupManager\bin\Debug\System.Text.Json.dll
+C:\Users\administrator.DBT\Source\Repos\svkrishnagavva\ITManagerDev\DataRecovery\BackupManager\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\administrator.DBT\Source\Repos\svkrishnagavva\ITManagerDev\DataRecovery\BackupManager\bin\Debug\System.ValueTuple.dll
+C:\Users\administrator.DBT\Source\Repos\svkrishnagavva\ITManagerDev\DataRecovery\BackupManager\bin\Debug\ObjectsComparer.dll
+C:\Users\administrator.DBT\Source\Repos\svkrishnagavva\ITManagerDev\DataRecovery\BackupManager\bin\Debug\DataRecovery.Common.pdb
+C:\Users\administrator.DBT\Source\Repos\svkrishnagavva\ITManagerDev\DataRecovery\BackupManager\bin\Debug\AWSSDK.Core.pdb
+C:\Users\administrator.DBT\Source\Repos\svkrishnagavva\ITManagerDev\DataRecovery\BackupManager\bin\Debug\AWSSDK.Core.xml
+C:\Users\administrator.DBT\Source\Repos\svkrishnagavva\ITManagerDev\DataRecovery\BackupManager\bin\Debug\AWSSDK.S3.pdb
+C:\Users\administrator.DBT\Source\Repos\svkrishnagavva\ITManagerDev\DataRecovery\BackupManager\bin\Debug\AWSSDK.S3.xml
+C:\Users\administrator.DBT\Source\Repos\svkrishnagavva\ITManagerDev\DataRecovery\BackupManager\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\administrator.DBT\Source\Repos\svkrishnagavva\ITManagerDev\DataRecovery\BackupManager\bin\Debug\Newtonsoft.Json.xml
+C:\Users\administrator.DBT\Source\Repos\svkrishnagavva\ITManagerDev\DataRecovery\BackupManager\bin\Debug\System.Buffers.xml
+C:\Users\administrator.DBT\Source\Repos\svkrishnagavva\ITManagerDev\DataRecovery\BackupManager\bin\Debug\System.Memory.xml
+C:\Users\administrator.DBT\Source\Repos\svkrishnagavva\ITManagerDev\DataRecovery\BackupManager\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\administrator.DBT\Source\Repos\svkrishnagavva\ITManagerDev\DataRecovery\BackupManager\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\administrator.DBT\Source\Repos\svkrishnagavva\ITManagerDev\DataRecovery\BackupManager\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\administrator.DBT\Source\Repos\svkrishnagavva\ITManagerDev\DataRecovery\BackupManager\bin\Debug\System.Text.Json.xml
+C:\Users\administrator.DBT\Source\Repos\svkrishnagavva\ITManagerDev\DataRecovery\BackupManager\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\administrator.DBT\Source\Repos\svkrishnagavva\ITManagerDev\DataRecovery\BackupManager\bin\Debug\System.ValueTuple.xml
+C:\Users\administrator.DBT\Source\Repos\svkrishnagavva\ITManagerDev\DataRecovery\BackupManager\obj\Debug\BackupManager.csproj.AssemblyReference.cache
+C:\Users\administrator.DBT\Source\Repos\svkrishnagavva\ITManagerDev\DataRecovery\BackupManager\obj\Debug\BackupManager.csproj.CoreCompileInputs.cache
+C:\Users\administrator.DBT\Source\Repos\svkrishnagavva\ITManagerDev\DataRecovery\BackupManager\obj\Debug\BackupManager.csproj.CopyComplete
+C:\Users\administrator.DBT\Source\Repos\svkrishnagavva\ITManagerDev\DataRecovery\BackupManager\obj\Debug\BackupManager.dll
+C:\Users\administrator.DBT\Source\Repos\svkrishnagavva\ITManagerDev\DataRecovery\BackupManager\obj\Debug\BackupManager.pdb
+C:\Users\VK\Source\Repos\svkrishnagavva\ITManagerDev\DataRecovery\BackupManager\bin\Debug\BackupManager.dll.config
+C:\Users\VK\Source\Repos\svkrishnagavva\ITManagerDev\DataRecovery\BackupManager\bin\Debug\BackupManager.dll
+C:\Users\VK\Source\Repos\svkrishnagavva\ITManagerDev\DataRecovery\BackupManager\bin\Debug\BackupManager.pdb
+C:\Users\VK\Source\Repos\svkrishnagavva\ITManagerDev\DataRecovery\BackupManager\bin\Debug\Amazon.Core.dll
+C:\Users\VK\Source\Repos\svkrishnagavva\ITManagerDev\DataRecovery\BackupManager\bin\Debug\Amazon.S3.dll
+C:\Users\VK\Source\Repos\svkrishnagavva\ITManagerDev\DataRecovery\BackupManager\bin\Debug\AWSSDK.Core.dll
+C:\Users\VK\Source\Repos\svkrishnagavva\ITManagerDev\DataRecovery\BackupManager\bin\Debug\AWSSDK.S3.dll
+C:\Users\VK\Source\Repos\svkrishnagavva\ITManagerDev\DataRecovery\BackupManager\bin\Debug\Carbon.Storage.dll
+C:\Users\VK\Source\Repos\svkrishnagavva\ITManagerDev\DataRecovery\BackupManager\bin\Debug\DataRecovery.Common.dll
+C:\Users\VK\Source\Repos\svkrishnagavva\ITManagerDev\DataRecovery\BackupManager\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\VK\Source\Repos\svkrishnagavva\ITManagerDev\DataRecovery\BackupManager\bin\Debug\Newtonsoft.Json.dll
+C:\Users\VK\Source\Repos\svkrishnagavva\ITManagerDev\DataRecovery\BackupManager\bin\Debug\System.Buffers.dll
+C:\Users\VK\Source\Repos\svkrishnagavva\ITManagerDev\DataRecovery\BackupManager\bin\Debug\System.Memory.dll
+C:\Users\VK\Source\Repos\svkrishnagavva\ITManagerDev\DataRecovery\BackupManager\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\VK\Source\Repos\svkrishnagavva\ITManagerDev\DataRecovery\BackupManager\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\VK\Source\Repos\svkrishnagavva\ITManagerDev\DataRecovery\BackupManager\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\VK\Source\Repos\svkrishnagavva\ITManagerDev\DataRecovery\BackupManager\bin\Debug\System.Text.Json.dll
+C:\Users\VK\Source\Repos\svkrishnagavva\ITManagerDev\DataRecovery\BackupManager\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\VK\Source\Repos\svkrishnagavva\ITManagerDev\DataRecovery\BackupManager\bin\Debug\System.ValueTuple.dll
+C:\Users\VK\Source\Repos\svkrishnagavva\ITManagerDev\DataRecovery\BackupManager\bin\Debug\ObjectsComparer.dll
+C:\Users\VK\Source\Repos\svkrishnagavva\ITManagerDev\DataRecovery\BackupManager\bin\Debug\DataRecovery.Common.pdb
+C:\Users\VK\Source\Repos\svkrishnagavva\ITManagerDev\DataRecovery\BackupManager\bin\Debug\AWSSDK.Core.pdb
+C:\Users\VK\Source\Repos\svkrishnagavva\ITManagerDev\DataRecovery\BackupManager\bin\Debug\AWSSDK.Core.xml
+C:\Users\VK\Source\Repos\svkrishnagavva\ITManagerDev\DataRecovery\BackupManager\bin\Debug\AWSSDK.S3.pdb
+C:\Users\VK\Source\Repos\svkrishnagavva\ITManagerDev\DataRecovery\BackupManager\bin\Debug\AWSSDK.S3.xml
+C:\Users\VK\Source\Repos\svkrishnagavva\ITManagerDev\DataRecovery\BackupManager\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\VK\Source\Repos\svkrishnagavva\ITManagerDev\DataRecovery\BackupManager\bin\Debug\Newtonsoft.Json.xml
+C:\Users\VK\Source\Repos\svkrishnagavva\ITManagerDev\DataRecovery\BackupManager\bin\Debug\System.Buffers.xml
+C:\Users\VK\Source\Repos\svkrishnagavva\ITManagerDev\DataRecovery\BackupManager\bin\Debug\System.Memory.xml
+C:\Users\VK\Source\Repos\svkrishnagavva\ITManagerDev\DataRecovery\BackupManager\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\VK\Source\Repos\svkrishnagavva\ITManagerDev\DataRecovery\BackupManager\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\VK\Source\Repos\svkrishnagavva\ITManagerDev\DataRecovery\BackupManager\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\VK\Source\Repos\svkrishnagavva\ITManagerDev\DataRecovery\BackupManager\bin\Debug\System.Text.Json.xml
+C:\Users\VK\Source\Repos\svkrishnagavva\ITManagerDev\DataRecovery\BackupManager\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\VK\Source\Repos\svkrishnagavva\ITManagerDev\DataRecovery\BackupManager\bin\Debug\System.ValueTuple.xml
+C:\Users\VK\Source\Repos\svkrishnagavva\ITManagerDev\DataRecovery\BackupManager\obj\Debug\BackupManager.csproj.AssemblyReference.cache
+C:\Users\VK\Source\Repos\svkrishnagavva\ITManagerDev\DataRecovery\BackupManager\obj\Debug\BackupManager.csproj.CoreCompileInputs.cache
+C:\Users\VK\Source\Repos\svkrishnagavva\ITManagerDev\DataRecovery\BackupManager\obj\Debug\BackupManager.csproj.CopyComplete
+C:\Users\VK\Source\Repos\svkrishnagavva\ITManagerDev\DataRecovery\BackupManager\obj\Debug\BackupManager.dll
+C:\Users\VK\Source\Repos\svkrishnagavva\ITManagerDev\DataRecovery\BackupManager\obj\Debug\BackupManager.pdb
+C:\Users\Dell\Source\Repos\svkrishnagavva\ITManagerDev\DataRecovery\BackupManager\bin\Debug\BackupManager.dll.config
+C:\Users\Dell\Source\Repos\svkrishnagavva\ITManagerDev\DataRecovery\BackupManager\bin\Debug\BackupManager.dll
+C:\Users\Dell\Source\Repos\svkrishnagavva\ITManagerDev\DataRecovery\BackupManager\bin\Debug\BackupManager.pdb
+C:\Users\Dell\Source\Repos\svkrishnagavva\ITManagerDev\DataRecovery\BackupManager\bin\Debug\Amazon.Core.dll
+C:\Users\Dell\Source\Repos\svkrishnagavva\ITManagerDev\DataRecovery\BackupManager\bin\Debug\Amazon.S3.dll
+C:\Users\Dell\Source\Repos\svkrishnagavva\ITManagerDev\DataRecovery\BackupManager\bin\Debug\AWSSDK.Core.dll
+C:\Users\Dell\Source\Repos\svkrishnagavva\ITManagerDev\DataRecovery\BackupManager\bin\Debug\AWSSDK.S3.dll
+C:\Users\Dell\Source\Repos\svkrishnagavva\ITManagerDev\DataRecovery\BackupManager\bin\Debug\Carbon.Storage.dll
+C:\Users\Dell\Source\Repos\svkrishnagavva\ITManagerDev\DataRecovery\BackupManager\bin\Debug\DataRecovery.Common.dll
+C:\Users\Dell\Source\Repos\svkrishnagavva\ITManagerDev\DataRecovery\BackupManager\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Dell\Source\Repos\svkrishnagavva\ITManagerDev\DataRecovery\BackupManager\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Dell\Source\Repos\svkrishnagavva\ITManagerDev\DataRecovery\BackupManager\bin\Debug\System.Buffers.dll
+C:\Users\Dell\Source\Repos\svkrishnagavva\ITManagerDev\DataRecovery\BackupManager\bin\Debug\System.Memory.dll
+C:\Users\Dell\Source\Repos\svkrishnagavva\ITManagerDev\DataRecovery\BackupManager\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Dell\Source\Repos\svkrishnagavva\ITManagerDev\DataRecovery\BackupManager\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Dell\Source\Repos\svkrishnagavva\ITManagerDev\DataRecovery\BackupManager\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\Dell\Source\Repos\svkrishnagavva\ITManagerDev\DataRecovery\BackupManager\bin\Debug\System.Text.Json.dll
+C:\Users\Dell\Source\Repos\svkrishnagavva\ITManagerDev\DataRecovery\BackupManager\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Dell\Source\Repos\svkrishnagavva\ITManagerDev\DataRecovery\BackupManager\bin\Debug\System.ValueTuple.dll
+C:\Users\Dell\Source\Repos\svkrishnagavva\ITManagerDev\DataRecovery\BackupManager\bin\Debug\ObjectsComparer.dll
+C:\Users\Dell\Source\Repos\svkrishnagavva\ITManagerDev\DataRecovery\BackupManager\bin\Debug\DataRecovery.Common.pdb
+C:\Users\Dell\Source\Repos\svkrishnagavva\ITManagerDev\DataRecovery\BackupManager\bin\Debug\AWSSDK.Core.pdb
+C:\Users\Dell\Source\Repos\svkrishnagavva\ITManagerDev\DataRecovery\BackupManager\bin\Debug\AWSSDK.Core.xml
+C:\Users\Dell\Source\Repos\svkrishnagavva\ITManagerDev\DataRecovery\BackupManager\bin\Debug\AWSSDK.S3.pdb
+C:\Users\Dell\Source\Repos\svkrishnagavva\ITManagerDev\DataRecovery\BackupManager\bin\Debug\AWSSDK.S3.xml
+C:\Users\Dell\Source\Repos\svkrishnagavva\ITManagerDev\DataRecovery\BackupManager\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\Dell\Source\Repos\svkrishnagavva\ITManagerDev\DataRecovery\BackupManager\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Dell\Source\Repos\svkrishnagavva\ITManagerDev\DataRecovery\BackupManager\bin\Debug\System.Buffers.xml
+C:\Users\Dell\Source\Repos\svkrishnagavva\ITManagerDev\DataRecovery\BackupManager\bin\Debug\System.Memory.xml
+C:\Users\Dell\Source\Repos\svkrishnagavva\ITManagerDev\DataRecovery\BackupManager\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Dell\Source\Repos\svkrishnagavva\ITManagerDev\DataRecovery\BackupManager\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Dell\Source\Repos\svkrishnagavva\ITManagerDev\DataRecovery\BackupManager\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\Dell\Source\Repos\svkrishnagavva\ITManagerDev\DataRecovery\BackupManager\bin\Debug\System.Text.Json.xml
+C:\Users\Dell\Source\Repos\svkrishnagavva\ITManagerDev\DataRecovery\BackupManager\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\Dell\Source\Repos\svkrishnagavva\ITManagerDev\DataRecovery\BackupManager\bin\Debug\System.ValueTuple.xml
+C:\Users\Dell\Source\Repos\svkrishnagavva\ITManagerDev\DataRecovery\BackupManager\obj\Debug\BackupManager.csproj.AssemblyReference.cache
+C:\Users\Dell\Source\Repos\svkrishnagavva\ITManagerDev\DataRecovery\BackupManager\obj\Debug\BackupManager.csproj.CoreCompileInputs.cache
+C:\Users\Dell\Source\Repos\svkrishnagavva\ITManagerDev\DataRecovery\BackupManager\obj\Debug\BackupManager.csproj.CopyComplete
+C:\Users\Dell\Source\Repos\svkrishnagavva\ITManagerDev\DataRecovery\BackupManager\obj\Debug\BackupManager.dll
+C:\Users\Dell\Source\Repos\svkrishnagavva\ITManagerDev\DataRecovery\BackupManager\obj\Debug\BackupManager.pdb
+D:\Repos\svkrishnagavva\ITManagerDev\DataRecovery\BackupManager\bin\Debug\BackupManager.dll.config
+D:\Repos\svkrishnagavva\ITManagerDev\DataRecovery\BackupManager\bin\Debug\BackupManager.dll
+D:\Repos\svkrishnagavva\ITManagerDev\DataRecovery\BackupManager\bin\Debug\BackupManager.pdb
+D:\Repos\svkrishnagavva\ITManagerDev\DataRecovery\BackupManager\bin\Debug\Amazon.Core.dll
+D:\Repos\svkrishnagavva\ITManagerDev\DataRecovery\BackupManager\bin\Debug\Amazon.S3.dll
+D:\Repos\svkrishnagavva\ITManagerDev\DataRecovery\BackupManager\bin\Debug\AWSSDK.Core.dll
+D:\Repos\svkrishnagavva\ITManagerDev\DataRecovery\BackupManager\bin\Debug\AWSSDK.S3.dll
+D:\Repos\svkrishnagavva\ITManagerDev\DataRecovery\BackupManager\bin\Debug\Carbon.Storage.dll
+D:\Repos\svkrishnagavva\ITManagerDev\DataRecovery\BackupManager\bin\Debug\DataRecovery.Common.dll
+D:\Repos\svkrishnagavva\ITManagerDev\DataRecovery\BackupManager\bin\Debug\InventoryManager.dll
+D:\Repos\svkrishnagavva\ITManagerDev\DataRecovery\BackupManager\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Repos\svkrishnagavva\ITManagerDev\DataRecovery\BackupManager\bin\Debug\Newtonsoft.Json.dll
+D:\Repos\svkrishnagavva\ITManagerDev\DataRecovery\BackupManager\bin\Debug\System.Buffers.dll
+D:\Repos\svkrishnagavva\ITManagerDev\DataRecovery\BackupManager\bin\Debug\System.Memory.dll
+D:\Repos\svkrishnagavva\ITManagerDev\DataRecovery\BackupManager\bin\Debug\System.Numerics.Vectors.dll
+D:\Repos\svkrishnagavva\ITManagerDev\DataRecovery\BackupManager\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\Repos\svkrishnagavva\ITManagerDev\DataRecovery\BackupManager\bin\Debug\System.Text.Encodings.Web.dll
+D:\Repos\svkrishnagavva\ITManagerDev\DataRecovery\BackupManager\bin\Debug\System.Text.Json.dll
+D:\Repos\svkrishnagavva\ITManagerDev\DataRecovery\BackupManager\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\Repos\svkrishnagavva\ITManagerDev\DataRecovery\BackupManager\bin\Debug\System.ValueTuple.dll
+D:\Repos\svkrishnagavva\ITManagerDev\DataRecovery\BackupManager\bin\Debug\ObjectsComparer.dll
+D:\Repos\svkrishnagavva\ITManagerDev\DataRecovery\BackupManager\bin\Debug\System.Management.Automation.dll
+D:\Repos\svkrishnagavva\ITManagerDev\DataRecovery\BackupManager\bin\Debug\CWA.dll
+D:\Repos\svkrishnagavva\ITManagerDev\DataRecovery\BackupManager\bin\Debug\Microsoft.Management.Infrastructure.dll
+D:\Repos\svkrishnagavva\ITManagerDev\DataRecovery\BackupManager\bin\Debug\DataRecovery.Common.pdb
+D:\Repos\svkrishnagavva\ITManagerDev\DataRecovery\BackupManager\bin\Debug\InventoryManager.pdb
+D:\Repos\svkrishnagavva\ITManagerDev\DataRecovery\BackupManager\bin\Debug\AWSSDK.Core.pdb
+D:\Repos\svkrishnagavva\ITManagerDev\DataRecovery\BackupManager\bin\Debug\AWSSDK.Core.xml
+D:\Repos\svkrishnagavva\ITManagerDev\DataRecovery\BackupManager\bin\Debug\AWSSDK.S3.pdb
+D:\Repos\svkrishnagavva\ITManagerDev\DataRecovery\BackupManager\bin\Debug\AWSSDK.S3.xml
+D:\Repos\svkrishnagavva\ITManagerDev\DataRecovery\BackupManager\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+D:\Repos\svkrishnagavva\ITManagerDev\DataRecovery\BackupManager\bin\Debug\Newtonsoft.Json.xml
+D:\Repos\svkrishnagavva\ITManagerDev\DataRecovery\BackupManager\bin\Debug\System.Buffers.xml
+D:\Repos\svkrishnagavva\ITManagerDev\DataRecovery\BackupManager\bin\Debug\System.Memory.xml
+D:\Repos\svkrishnagavva\ITManagerDev\DataRecovery\BackupManager\bin\Debug\System.Numerics.Vectors.xml
+D:\Repos\svkrishnagavva\ITManagerDev\DataRecovery\BackupManager\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\Repos\svkrishnagavva\ITManagerDev\DataRecovery\BackupManager\bin\Debug\System.Text.Encodings.Web.xml
+D:\Repos\svkrishnagavva\ITManagerDev\DataRecovery\BackupManager\bin\Debug\System.Text.Json.xml
+D:\Repos\svkrishnagavva\ITManagerDev\DataRecovery\BackupManager\bin\Debug\System.Threading.Tasks.Extensions.xml
+D:\Repos\svkrishnagavva\ITManagerDev\DataRecovery\BackupManager\bin\Debug\System.ValueTuple.xml
+D:\Repos\svkrishnagavva\ITManagerDev\DataRecovery\BackupManager\bin\Debug\System.Management.Automation.xml
+D:\Repos\svkrishnagavva\ITManagerDev\DataRecovery\BackupManager\obj\Debug\BackupManager.csproj.AssemblyReference.cache
+D:\Repos\svkrishnagavva\ITManagerDev\DataRecovery\BackupManager\obj\Debug\BackupManager.csproj.CoreCompileInputs.cache
+D:\Repos\svkrishnagavva\ITManagerDev\DataRecovery\BackupManager\obj\Debug\BackupManager.csproj.CopyComplete
+D:\Repos\svkrishnagavva\ITManagerDev\DataRecovery\BackupManager\obj\Debug\BackupManager.dll
+D:\Repos\svkrishnagavva\ITManagerDev\DataRecovery\BackupManager\obj\Debug\BackupManager.pdb

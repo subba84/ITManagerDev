@@ -1,0 +1,110 @@
+C:\Vamsi\Recovery tool\DataRecovery\DataRecovery.Common\bin\Debug\DataRecovery.Common.dll
+C:\Vamsi\Recovery tool\DataRecovery\DataRecovery.Common\bin\Debug\DataRecovery.Common.pdb
+C:\Vamsi\Recovery tool\DataRecovery\DataRecovery.Common\bin\Debug\Newtonsoft.Json.dll
+C:\Vamsi\Recovery tool\DataRecovery\DataRecovery.Common\bin\Debug\Newtonsoft.Json.xml
+C:\Vamsi\Recovery tool\DataRecovery\DataRecovery.Common\obj\Debug\DataRecovery.Common.csproj.CoreCompileInputs.cache
+C:\Vamsi\Recovery tool\DataRecovery\DataRecovery.Common\obj\Debug\DataRecovery.Common.csproj.CopyComplete
+C:\Vamsi\Recovery tool\DataRecovery\DataRecovery.Common\obj\Debug\DataRecovery.Common.dll
+C:\Vamsi\Recovery tool\DataRecovery\DataRecovery.Common\obj\Debug\DataRecovery.Common.pdb
+C:\Vamsi\Recovery tool\DataRecovery\DataRecovery.Common\bin\Debug\AWSSDK.Core.dll
+C:\Vamsi\Recovery tool\DataRecovery\DataRecovery.Common\bin\Debug\AWSSDK.S3.dll
+C:\Vamsi\Recovery tool\DataRecovery\DataRecovery.Common\bin\Debug\AWSSDK.Core.pdb
+C:\Vamsi\Recovery tool\DataRecovery\DataRecovery.Common\bin\Debug\AWSSDK.Core.xml
+C:\Vamsi\Recovery tool\DataRecovery\DataRecovery.Common\bin\Debug\AWSSDK.S3.pdb
+C:\Vamsi\Recovery tool\DataRecovery\DataRecovery.Common\bin\Debug\AWSSDK.S3.xml
+C:\Vamsi\Recovery tool\DataRecovery\DataRecovery.Common\obj\Debug\DataRecovery.Common.csprojAssemblyReference.cache
+C:\Vamsi\OneDrive\Recovery tool\DataRecovery\DataRecovery.Common\bin\Debug\DataRecovery.Common.dll
+C:\Vamsi\OneDrive\Recovery tool\DataRecovery\DataRecovery.Common\bin\Debug\DataRecovery.Common.pdb
+C:\Vamsi\OneDrive\Recovery tool\DataRecovery\DataRecovery.Common\bin\Debug\AWSSDK.Core.dll
+C:\Vamsi\OneDrive\Recovery tool\DataRecovery\DataRecovery.Common\bin\Debug\AWSSDK.S3.dll
+C:\Vamsi\OneDrive\Recovery tool\DataRecovery\DataRecovery.Common\bin\Debug\Newtonsoft.Json.dll
+C:\Vamsi\OneDrive\Recovery tool\DataRecovery\DataRecovery.Common\bin\Debug\AWSSDK.Core.pdb
+C:\Vamsi\OneDrive\Recovery tool\DataRecovery\DataRecovery.Common\bin\Debug\AWSSDK.Core.xml
+C:\Vamsi\OneDrive\Recovery tool\DataRecovery\DataRecovery.Common\bin\Debug\AWSSDK.S3.pdb
+C:\Vamsi\OneDrive\Recovery tool\DataRecovery\DataRecovery.Common\bin\Debug\AWSSDK.S3.xml
+C:\Vamsi\OneDrive\Recovery tool\DataRecovery\DataRecovery.Common\bin\Debug\Newtonsoft.Json.xml
+C:\Vamsi\OneDrive\Recovery tool\DataRecovery\DataRecovery.Common\obj\Debug\DataRecovery.Common.csproj.CoreCompileInputs.cache
+C:\Vamsi\OneDrive\Recovery tool\DataRecovery\DataRecovery.Common\obj\Debug\DataRecovery.Common.csproj.CopyComplete
+C:\Vamsi\OneDrive\Recovery tool\DataRecovery\DataRecovery.Common\obj\Debug\DataRecovery.Common.dll
+C:\Vamsi\OneDrive\Recovery tool\DataRecovery\DataRecovery.Common\obj\Debug\DataRecovery.Common.pdb
+C:\Vamsi\OneDrive\Recovery tool\DataRecovery\DataRecovery.Common\obj\Debug\DataRecovery.Common.csprojAssemblyReference.cache
+C:\Users\u\source\repos\svkrishnagavva\ITManagerDev\DataRecovery\DataRecovery.Common\bin\Debug\DataRecovery.Common.dll
+C:\Users\u\source\repos\svkrishnagavva\ITManagerDev\DataRecovery\DataRecovery.Common\bin\Debug\DataRecovery.Common.pdb
+C:\Users\u\source\repos\svkrishnagavva\ITManagerDev\DataRecovery\DataRecovery.Common\bin\Debug\AWSSDK.Core.dll
+C:\Users\u\source\repos\svkrishnagavva\ITManagerDev\DataRecovery\DataRecovery.Common\bin\Debug\AWSSDK.S3.dll
+C:\Users\u\source\repos\svkrishnagavva\ITManagerDev\DataRecovery\DataRecovery.Common\bin\Debug\Newtonsoft.Json.dll
+C:\Users\u\source\repos\svkrishnagavva\ITManagerDev\DataRecovery\DataRecovery.Common\bin\Debug\ObjectsComparer.dll
+C:\Users\u\source\repos\svkrishnagavva\ITManagerDev\DataRecovery\DataRecovery.Common\bin\Debug\AWSSDK.Core.pdb
+C:\Users\u\source\repos\svkrishnagavva\ITManagerDev\DataRecovery\DataRecovery.Common\bin\Debug\AWSSDK.Core.xml
+C:\Users\u\source\repos\svkrishnagavva\ITManagerDev\DataRecovery\DataRecovery.Common\bin\Debug\AWSSDK.S3.pdb
+C:\Users\u\source\repos\svkrishnagavva\ITManagerDev\DataRecovery\DataRecovery.Common\bin\Debug\AWSSDK.S3.xml
+C:\Users\u\source\repos\svkrishnagavva\ITManagerDev\DataRecovery\DataRecovery.Common\bin\Debug\Newtonsoft.Json.xml
+C:\Users\u\source\repos\svkrishnagavva\ITManagerDev\DataRecovery\DataRecovery.Common\obj\Debug\DataRecovery.Common.csprojAssemblyReference.cache
+C:\Users\u\source\repos\svkrishnagavva\ITManagerDev\DataRecovery\DataRecovery.Common\obj\Debug\DataRecovery.Common.csproj.CoreCompileInputs.cache
+C:\Users\u\source\repos\svkrishnagavva\ITManagerDev\DataRecovery\DataRecovery.Common\obj\Debug\DataRecovery.Common.csproj.CopyComplete
+C:\Users\u\source\repos\svkrishnagavva\ITManagerDev\DataRecovery\DataRecovery.Common\obj\Debug\DataRecovery.Common.dll
+C:\Users\u\source\repos\svkrishnagavva\ITManagerDev\DataRecovery\DataRecovery.Common\obj\Debug\DataRecovery.Common.pdb
+C:\Users\administrator.DBT\Source\Repos\svkrishnagavva\ITManagerDev\DataRecovery\DataRecovery.Common\bin\Debug\DataRecovery.Common.dll
+C:\Users\administrator.DBT\Source\Repos\svkrishnagavva\ITManagerDev\DataRecovery\DataRecovery.Common\bin\Debug\DataRecovery.Common.pdb
+C:\Users\administrator.DBT\Source\Repos\svkrishnagavva\ITManagerDev\DataRecovery\DataRecovery.Common\bin\Debug\AWSSDK.Core.dll
+C:\Users\administrator.DBT\Source\Repos\svkrishnagavva\ITManagerDev\DataRecovery\DataRecovery.Common\bin\Debug\AWSSDK.S3.dll
+C:\Users\administrator.DBT\Source\Repos\svkrishnagavva\ITManagerDev\DataRecovery\DataRecovery.Common\bin\Debug\Newtonsoft.Json.dll
+C:\Users\administrator.DBT\Source\Repos\svkrishnagavva\ITManagerDev\DataRecovery\DataRecovery.Common\bin\Debug\ObjectsComparer.dll
+C:\Users\administrator.DBT\Source\Repos\svkrishnagavva\ITManagerDev\DataRecovery\DataRecovery.Common\bin\Debug\AWSSDK.Core.pdb
+C:\Users\administrator.DBT\Source\Repos\svkrishnagavva\ITManagerDev\DataRecovery\DataRecovery.Common\bin\Debug\AWSSDK.Core.xml
+C:\Users\administrator.DBT\Source\Repos\svkrishnagavva\ITManagerDev\DataRecovery\DataRecovery.Common\bin\Debug\AWSSDK.S3.pdb
+C:\Users\administrator.DBT\Source\Repos\svkrishnagavva\ITManagerDev\DataRecovery\DataRecovery.Common\bin\Debug\AWSSDK.S3.xml
+C:\Users\administrator.DBT\Source\Repos\svkrishnagavva\ITManagerDev\DataRecovery\DataRecovery.Common\bin\Debug\Newtonsoft.Json.xml
+C:\Users\administrator.DBT\Source\Repos\svkrishnagavva\ITManagerDev\DataRecovery\DataRecovery.Common\obj\Debug\DataRecovery.Common.csproj.CoreCompileInputs.cache
+C:\Users\administrator.DBT\Source\Repos\svkrishnagavva\ITManagerDev\DataRecovery\DataRecovery.Common\obj\Debug\DataRecovery.Common.csproj.CopyComplete
+C:\Users\administrator.DBT\Source\Repos\svkrishnagavva\ITManagerDev\DataRecovery\DataRecovery.Common\obj\Debug\DataRecovery.Common.dll
+C:\Users\administrator.DBT\Source\Repos\svkrishnagavva\ITManagerDev\DataRecovery\DataRecovery.Common\obj\Debug\DataRecovery.Common.pdb
+C:\Users\administrator.DBT\Source\Repos\svkrishnagavva\ITManagerDev\DataRecovery\DataRecovery.Common\obj\Debug\DataRecovery.Common.csproj.AssemblyReference.cache
+C:\Users\VK\Source\Repos\svkrishnagavva\ITManagerDev\DataRecovery\DataRecovery.Common\bin\Debug\DataRecovery.Common.dll
+C:\Users\VK\Source\Repos\svkrishnagavva\ITManagerDev\DataRecovery\DataRecovery.Common\bin\Debug\DataRecovery.Common.pdb
+C:\Users\VK\Source\Repos\svkrishnagavva\ITManagerDev\DataRecovery\DataRecovery.Common\bin\Debug\AWSSDK.Core.dll
+C:\Users\VK\Source\Repos\svkrishnagavva\ITManagerDev\DataRecovery\DataRecovery.Common\bin\Debug\AWSSDK.S3.dll
+C:\Users\VK\Source\Repos\svkrishnagavva\ITManagerDev\DataRecovery\DataRecovery.Common\bin\Debug\Newtonsoft.Json.dll
+C:\Users\VK\Source\Repos\svkrishnagavva\ITManagerDev\DataRecovery\DataRecovery.Common\bin\Debug\ObjectsComparer.dll
+C:\Users\VK\Source\Repos\svkrishnagavva\ITManagerDev\DataRecovery\DataRecovery.Common\bin\Debug\AWSSDK.Core.pdb
+C:\Users\VK\Source\Repos\svkrishnagavva\ITManagerDev\DataRecovery\DataRecovery.Common\bin\Debug\AWSSDK.Core.xml
+C:\Users\VK\Source\Repos\svkrishnagavva\ITManagerDev\DataRecovery\DataRecovery.Common\bin\Debug\AWSSDK.S3.pdb
+C:\Users\VK\Source\Repos\svkrishnagavva\ITManagerDev\DataRecovery\DataRecovery.Common\bin\Debug\AWSSDK.S3.xml
+C:\Users\VK\Source\Repos\svkrishnagavva\ITManagerDev\DataRecovery\DataRecovery.Common\bin\Debug\Newtonsoft.Json.xml
+C:\Users\VK\Source\Repos\svkrishnagavva\ITManagerDev\DataRecovery\DataRecovery.Common\obj\Debug\DataRecovery.Common.csproj.CoreCompileInputs.cache
+C:\Users\VK\Source\Repos\svkrishnagavva\ITManagerDev\DataRecovery\DataRecovery.Common\obj\Debug\DataRecovery.Common.csproj.CopyComplete
+C:\Users\VK\Source\Repos\svkrishnagavva\ITManagerDev\DataRecovery\DataRecovery.Common\obj\Debug\DataRecovery.Common.dll
+C:\Users\VK\Source\Repos\svkrishnagavva\ITManagerDev\DataRecovery\DataRecovery.Common\obj\Debug\DataRecovery.Common.pdb
+C:\Users\VK\Source\Repos\svkrishnagavva\ITManagerDev\DataRecovery\DataRecovery.Common\obj\Debug\DataRecovery.Common.csproj.AssemblyReference.cache
+C:\Users\Dell\Source\Repos\svkrishnagavva\ITManagerDev\DataRecovery\DataRecovery.Common\bin\Debug\DataRecovery.Common.dll
+C:\Users\Dell\Source\Repos\svkrishnagavva\ITManagerDev\DataRecovery\DataRecovery.Common\bin\Debug\DataRecovery.Common.pdb
+C:\Users\Dell\Source\Repos\svkrishnagavva\ITManagerDev\DataRecovery\DataRecovery.Common\bin\Debug\AWSSDK.Core.dll
+C:\Users\Dell\Source\Repos\svkrishnagavva\ITManagerDev\DataRecovery\DataRecovery.Common\bin\Debug\AWSSDK.S3.dll
+C:\Users\Dell\Source\Repos\svkrishnagavva\ITManagerDev\DataRecovery\DataRecovery.Common\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Dell\Source\Repos\svkrishnagavva\ITManagerDev\DataRecovery\DataRecovery.Common\bin\Debug\ObjectsComparer.dll
+C:\Users\Dell\Source\Repos\svkrishnagavva\ITManagerDev\DataRecovery\DataRecovery.Common\bin\Debug\AWSSDK.Core.pdb
+C:\Users\Dell\Source\Repos\svkrishnagavva\ITManagerDev\DataRecovery\DataRecovery.Common\bin\Debug\AWSSDK.Core.xml
+C:\Users\Dell\Source\Repos\svkrishnagavva\ITManagerDev\DataRecovery\DataRecovery.Common\bin\Debug\AWSSDK.S3.pdb
+C:\Users\Dell\Source\Repos\svkrishnagavva\ITManagerDev\DataRecovery\DataRecovery.Common\bin\Debug\AWSSDK.S3.xml
+C:\Users\Dell\Source\Repos\svkrishnagavva\ITManagerDev\DataRecovery\DataRecovery.Common\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Dell\Source\Repos\svkrishnagavva\ITManagerDev\DataRecovery\DataRecovery.Common\obj\Debug\DataRecovery.Common.csproj.AssemblyReference.cache
+C:\Users\Dell\Source\Repos\svkrishnagavva\ITManagerDev\DataRecovery\DataRecovery.Common\obj\Debug\DataRecovery.Common.csproj.CoreCompileInputs.cache
+C:\Users\Dell\Source\Repos\svkrishnagavva\ITManagerDev\DataRecovery\DataRecovery.Common\obj\Debug\DataRecovery.Common.csproj.CopyComplete
+C:\Users\Dell\Source\Repos\svkrishnagavva\ITManagerDev\DataRecovery\DataRecovery.Common\obj\Debug\DataRecovery.Common.dll
+C:\Users\Dell\Source\Repos\svkrishnagavva\ITManagerDev\DataRecovery\DataRecovery.Common\obj\Debug\DataRecovery.Common.pdb
+D:\Repos\svkrishnagavva\ITManagerDev\DataRecovery\DataRecovery.Common\bin\Debug\DataRecovery.Common.dll
+D:\Repos\svkrishnagavva\ITManagerDev\DataRecovery\DataRecovery.Common\bin\Debug\DataRecovery.Common.pdb
+D:\Repos\svkrishnagavva\ITManagerDev\DataRecovery\DataRecovery.Common\bin\Debug\AWSSDK.Core.dll
+D:\Repos\svkrishnagavva\ITManagerDev\DataRecovery\DataRecovery.Common\bin\Debug\AWSSDK.S3.dll
+D:\Repos\svkrishnagavva\ITManagerDev\DataRecovery\DataRecovery.Common\bin\Debug\Newtonsoft.Json.dll
+D:\Repos\svkrishnagavva\ITManagerDev\DataRecovery\DataRecovery.Common\bin\Debug\ObjectsComparer.dll
+D:\Repos\svkrishnagavva\ITManagerDev\DataRecovery\DataRecovery.Common\bin\Debug\AWSSDK.Core.pdb
+D:\Repos\svkrishnagavva\ITManagerDev\DataRecovery\DataRecovery.Common\bin\Debug\AWSSDK.Core.xml
+D:\Repos\svkrishnagavva\ITManagerDev\DataRecovery\DataRecovery.Common\bin\Debug\AWSSDK.S3.pdb
+D:\Repos\svkrishnagavva\ITManagerDev\DataRecovery\DataRecovery.Common\bin\Debug\AWSSDK.S3.xml
+D:\Repos\svkrishnagavva\ITManagerDev\DataRecovery\DataRecovery.Common\bin\Debug\Newtonsoft.Json.xml
+D:\Repos\svkrishnagavva\ITManagerDev\DataRecovery\DataRecovery.Common\obj\Debug\DataRecovery.Common.csproj.AssemblyReference.cache
+D:\Repos\svkrishnagavva\ITManagerDev\DataRecovery\DataRecovery.Common\obj\Debug\DataRecovery.Common.csproj.CoreCompileInputs.cache
+D:\Repos\svkrishnagavva\ITManagerDev\DataRecovery\DataRecovery.Common\obj\Debug\DataRecovery.Common.csproj.CopyComplete
+D:\Repos\svkrishnagavva\ITManagerDev\DataRecovery\DataRecovery.Common\obj\Debug\DataRecovery.Common.dll
+D:\Repos\svkrishnagavva\ITManagerDev\DataRecovery\DataRecovery.Common\obj\Debug\DataRecovery.Common.pdb

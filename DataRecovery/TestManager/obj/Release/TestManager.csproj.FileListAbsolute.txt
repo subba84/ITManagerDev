@@ -1,0 +1,149 @@
+C:\Vamsi\Recovery tool\DataRecovery\TestManager\obj\Release\TestManager.csproj.CoreCompileInputs.cache
+C:\Vamsi\Recovery tool\DataRecovery\TestManager\bin\Release\TestManager.exe.config
+C:\Vamsi\Recovery tool\DataRecovery\TestManager\bin\Release\TestManager.exe
+C:\Vamsi\Recovery tool\DataRecovery\TestManager\bin\Release\TestManager.pdb
+C:\Vamsi\Recovery tool\DataRecovery\TestManager\bin\Release\DataRecovery.Common.dll
+C:\Vamsi\Recovery tool\DataRecovery\TestManager\bin\Release\InventoryManager.dll
+C:\Vamsi\Recovery tool\DataRecovery\TestManager\bin\Release\Newtonsoft.Json.dll
+C:\Vamsi\Recovery tool\DataRecovery\TestManager\bin\Release\DataRecovery.Common.pdb
+C:\Vamsi\Recovery tool\DataRecovery\TestManager\bin\Release\InventoryManager.pdb
+C:\Vamsi\Recovery tool\DataRecovery\TestManager\bin\Release\Newtonsoft.Json.xml
+C:\Vamsi\Recovery tool\DataRecovery\TestManager\obj\Release\TestManager.csprojAssemblyReference.cache
+C:\Vamsi\Recovery tool\DataRecovery\TestManager\obj\Release\TestManager.csproj.CopyComplete
+C:\Vamsi\Recovery tool\DataRecovery\TestManager\obj\Release\TestManager.exe
+C:\Vamsi\Recovery tool\DataRecovery\TestManager\obj\Release\TestManager.pdb
+C:\Users\u\source\repos\svkrishnagavva\ITManagerDev\DataRecovery\TestManager\bin\Release\TestManager.exe.config
+C:\Users\u\source\repos\svkrishnagavva\ITManagerDev\DataRecovery\TestManager\bin\Release\TestManager.exe
+C:\Users\u\source\repos\svkrishnagavva\ITManagerDev\DataRecovery\TestManager\bin\Release\TestManager.pdb
+C:\Users\u\source\repos\svkrishnagavva\ITManagerDev\DataRecovery\TestManager\bin\Release\AWSSDK.Core.dll
+C:\Users\u\source\repos\svkrishnagavva\ITManagerDev\DataRecovery\TestManager\bin\Release\AWSSDK.S3.dll
+C:\Users\u\source\repos\svkrishnagavva\ITManagerDev\DataRecovery\TestManager\bin\Release\DataRecovery.Common.dll
+C:\Users\u\source\repos\svkrishnagavva\ITManagerDev\DataRecovery\TestManager\bin\Release\InventoryManager.dll
+C:\Users\u\source\repos\svkrishnagavva\ITManagerDev\DataRecovery\TestManager\bin\Release\MediaToolkit.dll
+C:\Users\u\source\repos\svkrishnagavva\ITManagerDev\DataRecovery\TestManager\bin\Release\Newtonsoft.Json.dll
+C:\Users\u\source\repos\svkrishnagavva\ITManagerDev\DataRecovery\TestManager\bin\Release\CWA.dll
+C:\Users\u\source\repos\svkrishnagavva\ITManagerDev\DataRecovery\TestManager\bin\Release\DataRecovery.Common.pdb
+C:\Users\u\source\repos\svkrishnagavva\ITManagerDev\DataRecovery\TestManager\bin\Release\InventoryManager.pdb
+C:\Users\u\source\repos\svkrishnagavva\ITManagerDev\DataRecovery\TestManager\bin\Release\AWSSDK.Core.pdb
+C:\Users\u\source\repos\svkrishnagavva\ITManagerDev\DataRecovery\TestManager\bin\Release\AWSSDK.Core.xml
+C:\Users\u\source\repos\svkrishnagavva\ITManagerDev\DataRecovery\TestManager\bin\Release\AWSSDK.S3.pdb
+C:\Users\u\source\repos\svkrishnagavva\ITManagerDev\DataRecovery\TestManager\bin\Release\AWSSDK.S3.xml
+C:\Users\u\source\repos\svkrishnagavva\ITManagerDev\DataRecovery\TestManager\bin\Release\Newtonsoft.Json.xml
+C:\Users\u\source\repos\svkrishnagavva\ITManagerDev\DataRecovery\TestManager\obj\Release\TestManager.csprojAssemblyReference.cache
+C:\Users\u\source\repos\svkrishnagavva\ITManagerDev\DataRecovery\TestManager\obj\Release\TestManager.csproj.CoreCompileInputs.cache
+C:\Users\u\source\repos\svkrishnagavva\ITManagerDev\DataRecovery\TestManager\obj\Release\TestManager.csproj.CopyComplete
+C:\Users\u\source\repos\svkrishnagavva\ITManagerDev\DataRecovery\TestManager\obj\Release\TestManager.exe
+C:\Users\u\source\repos\svkrishnagavva\ITManagerDev\DataRecovery\TestManager\obj\Release\TestManager.pdb
+C:\Users\u\source\repos\svkrishnagavva\ITManagerDev\DataRecovery\TestManager\bin\Release\ObjectsComparer.dll
+C:\Users\u\source\repos\svkrishnagavva\ITManagerDev\DataRecovery\TestManager\bin\Release\System.Management.Automation.dll
+C:\Users\u\source\repos\svkrishnagavva\ITManagerDev\DataRecovery\TestManager\bin\Release\Microsoft.Management.Infrastructure.dll
+C:\Users\u\source\repos\svkrishnagavva\ITManagerDev\DataRecovery\TestManager\bin\Release\System.Management.Automation.xml
+C:\Users\u\source\repos\svkrishnagavva\ITManagerDev\DataRecovery\TestManager\obj\Release\TestManager.exe.config
+C:\Users\administrator.DBT\Source\Repos\svkrishnagavva\ITManagerDev\DataRecovery\TestManager\bin\Release\TestManager.exe.config
+C:\Users\administrator.DBT\Source\Repos\svkrishnagavva\ITManagerDev\DataRecovery\TestManager\bin\Release\TestManager.exe
+C:\Users\administrator.DBT\Source\Repos\svkrishnagavva\ITManagerDev\DataRecovery\TestManager\bin\Release\TestManager.pdb
+C:\Users\administrator.DBT\Source\Repos\svkrishnagavva\ITManagerDev\DataRecovery\TestManager\bin\Release\AWSSDK.Core.dll
+C:\Users\administrator.DBT\Source\Repos\svkrishnagavva\ITManagerDev\DataRecovery\TestManager\bin\Release\AWSSDK.S3.dll
+C:\Users\administrator.DBT\Source\Repos\svkrishnagavva\ITManagerDev\DataRecovery\TestManager\bin\Release\DataRecovery.Common.dll
+C:\Users\administrator.DBT\Source\Repos\svkrishnagavva\ITManagerDev\DataRecovery\TestManager\bin\Release\InventoryManager.dll
+C:\Users\administrator.DBT\Source\Repos\svkrishnagavva\ITManagerDev\DataRecovery\TestManager\bin\Release\MediaToolkit.dll
+C:\Users\administrator.DBT\Source\Repos\svkrishnagavva\ITManagerDev\DataRecovery\TestManager\bin\Release\Newtonsoft.Json.dll
+C:\Users\administrator.DBT\Source\Repos\svkrishnagavva\ITManagerDev\DataRecovery\TestManager\bin\Release\System.Management.Automation.dll
+C:\Users\administrator.DBT\Source\Repos\svkrishnagavva\ITManagerDev\DataRecovery\TestManager\bin\Release\ObjectsComparer.dll
+C:\Users\administrator.DBT\Source\Repos\svkrishnagavva\ITManagerDev\DataRecovery\TestManager\bin\Release\CWA.dll
+C:\Users\administrator.DBT\Source\Repos\svkrishnagavva\ITManagerDev\DataRecovery\TestManager\bin\Release\Microsoft.Management.Infrastructure.dll
+C:\Users\administrator.DBT\Source\Repos\svkrishnagavva\ITManagerDev\DataRecovery\TestManager\bin\Release\DataRecovery.Common.pdb
+C:\Users\administrator.DBT\Source\Repos\svkrishnagavva\ITManagerDev\DataRecovery\TestManager\bin\Release\InventoryManager.pdb
+C:\Users\administrator.DBT\Source\Repos\svkrishnagavva\ITManagerDev\DataRecovery\TestManager\bin\Release\AWSSDK.Core.pdb
+C:\Users\administrator.DBT\Source\Repos\svkrishnagavva\ITManagerDev\DataRecovery\TestManager\bin\Release\AWSSDK.Core.xml
+C:\Users\administrator.DBT\Source\Repos\svkrishnagavva\ITManagerDev\DataRecovery\TestManager\bin\Release\AWSSDK.S3.pdb
+C:\Users\administrator.DBT\Source\Repos\svkrishnagavva\ITManagerDev\DataRecovery\TestManager\bin\Release\AWSSDK.S3.xml
+C:\Users\administrator.DBT\Source\Repos\svkrishnagavva\ITManagerDev\DataRecovery\TestManager\bin\Release\Newtonsoft.Json.xml
+C:\Users\administrator.DBT\Source\Repos\svkrishnagavva\ITManagerDev\DataRecovery\TestManager\bin\Release\System.Management.Automation.xml
+C:\Users\administrator.DBT\Source\Repos\svkrishnagavva\ITManagerDev\DataRecovery\TestManager\obj\Release\TestManager.csproj.AssemblyReference.cache
+C:\Users\administrator.DBT\Source\Repos\svkrishnagavva\ITManagerDev\DataRecovery\TestManager\obj\Release\TestManager.exe.config
+C:\Users\administrator.DBT\Source\Repos\svkrishnagavva\ITManagerDev\DataRecovery\TestManager\obj\Release\TestManager.csproj.CoreCompileInputs.cache
+C:\Users\administrator.DBT\Source\Repos\svkrishnagavva\ITManagerDev\DataRecovery\TestManager\obj\Release\TestManager.csproj.CopyComplete
+C:\Users\administrator.DBT\Source\Repos\svkrishnagavva\ITManagerDev\DataRecovery\TestManager\obj\Release\TestManager.exe
+C:\Users\administrator.DBT\Source\Repos\svkrishnagavva\ITManagerDev\DataRecovery\TestManager\obj\Release\TestManager.pdb
+C:\Users\administrator.DBT\source\repos\svkrishnagavva\ITManagerDev1\DataRecovery\TestManager\bin\Release\TestManager.exe.config
+C:\Users\administrator.DBT\source\repos\svkrishnagavva\ITManagerDev1\DataRecovery\TestManager\bin\Release\TestManager.exe
+C:\Users\administrator.DBT\source\repos\svkrishnagavva\ITManagerDev1\DataRecovery\TestManager\bin\Release\TestManager.pdb
+C:\Users\administrator.DBT\source\repos\svkrishnagavva\ITManagerDev1\DataRecovery\TestManager\bin\Release\AWSSDK.Core.dll
+C:\Users\administrator.DBT\source\repos\svkrishnagavva\ITManagerDev1\DataRecovery\TestManager\bin\Release\AWSSDK.S3.dll
+C:\Users\administrator.DBT\source\repos\svkrishnagavva\ITManagerDev1\DataRecovery\TestManager\bin\Release\DataRecovery.Common.dll
+C:\Users\administrator.DBT\source\repos\svkrishnagavva\ITManagerDev1\DataRecovery\TestManager\bin\Release\InventoryManager.dll
+C:\Users\administrator.DBT\source\repos\svkrishnagavva\ITManagerDev1\DataRecovery\TestManager\bin\Release\MediaToolkit.dll
+C:\Users\administrator.DBT\source\repos\svkrishnagavva\ITManagerDev1\DataRecovery\TestManager\bin\Release\Newtonsoft.Json.dll
+C:\Users\administrator.DBT\source\repos\svkrishnagavva\ITManagerDev1\DataRecovery\TestManager\bin\Release\System.Management.Automation.dll
+C:\Users\administrator.DBT\source\repos\svkrishnagavva\ITManagerDev1\DataRecovery\TestManager\bin\Release\ObjectsComparer.dll
+C:\Users\administrator.DBT\source\repos\svkrishnagavva\ITManagerDev1\DataRecovery\TestManager\bin\Release\CWA.dll
+C:\Users\administrator.DBT\source\repos\svkrishnagavva\ITManagerDev1\DataRecovery\TestManager\bin\Release\Microsoft.Management.Infrastructure.dll
+C:\Users\administrator.DBT\source\repos\svkrishnagavva\ITManagerDev1\DataRecovery\TestManager\bin\Release\DataRecovery.Common.pdb
+C:\Users\administrator.DBT\source\repos\svkrishnagavva\ITManagerDev1\DataRecovery\TestManager\bin\Release\InventoryManager.pdb
+C:\Users\administrator.DBT\source\repos\svkrishnagavva\ITManagerDev1\DataRecovery\TestManager\bin\Release\AWSSDK.Core.pdb
+C:\Users\administrator.DBT\source\repos\svkrishnagavva\ITManagerDev1\DataRecovery\TestManager\bin\Release\AWSSDK.Core.xml
+C:\Users\administrator.DBT\source\repos\svkrishnagavva\ITManagerDev1\DataRecovery\TestManager\bin\Release\AWSSDK.S3.pdb
+C:\Users\administrator.DBT\source\repos\svkrishnagavva\ITManagerDev1\DataRecovery\TestManager\bin\Release\AWSSDK.S3.xml
+C:\Users\administrator.DBT\source\repos\svkrishnagavva\ITManagerDev1\DataRecovery\TestManager\bin\Release\Newtonsoft.Json.xml
+C:\Users\administrator.DBT\source\repos\svkrishnagavva\ITManagerDev1\DataRecovery\TestManager\bin\Release\System.Management.Automation.xml
+C:\Users\administrator.DBT\source\repos\svkrishnagavva\ITManagerDev1\DataRecovery\TestManager\obj\Release\TestManager.csproj.AssemblyReference.cache
+C:\Users\administrator.DBT\source\repos\svkrishnagavva\ITManagerDev1\DataRecovery\TestManager\obj\Release\TestManager.exe.config
+C:\Users\administrator.DBT\source\repos\svkrishnagavva\ITManagerDev1\DataRecovery\TestManager\obj\Release\TestManager.csproj.CoreCompileInputs.cache
+C:\Users\administrator.DBT\source\repos\svkrishnagavva\ITManagerDev1\DataRecovery\TestManager\obj\Release\TestManager.csproj.CopyComplete
+C:\Users\administrator.DBT\source\repos\svkrishnagavva\ITManagerDev1\DataRecovery\TestManager\obj\Release\TestManager.exe
+C:\Users\administrator.DBT\source\repos\svkrishnagavva\ITManagerDev1\DataRecovery\TestManager\obj\Release\TestManager.pdb
+C:\Users\VK\Source\Repos\svkrishnagavva\ITManagerDev\DataRecovery\TestManager\bin\Release\TestManager.exe.config
+C:\Users\VK\Source\Repos\svkrishnagavva\ITManagerDev\DataRecovery\TestManager\bin\Release\TestManager.exe
+C:\Users\VK\Source\Repos\svkrishnagavva\ITManagerDev\DataRecovery\TestManager\bin\Release\TestManager.pdb
+C:\Users\VK\Source\Repos\svkrishnagavva\ITManagerDev\DataRecovery\TestManager\bin\Release\AWSSDK.Core.dll
+C:\Users\VK\Source\Repos\svkrishnagavva\ITManagerDev\DataRecovery\TestManager\bin\Release\AWSSDK.S3.dll
+C:\Users\VK\Source\Repos\svkrishnagavva\ITManagerDev\DataRecovery\TestManager\bin\Release\DataRecovery.Common.dll
+C:\Users\VK\Source\Repos\svkrishnagavva\ITManagerDev\DataRecovery\TestManager\bin\Release\InventoryManager.dll
+C:\Users\VK\Source\Repos\svkrishnagavva\ITManagerDev\DataRecovery\TestManager\bin\Release\MediaToolkit.dll
+C:\Users\VK\Source\Repos\svkrishnagavva\ITManagerDev\DataRecovery\TestManager\bin\Release\Newtonsoft.Json.dll
+C:\Users\VK\Source\Repos\svkrishnagavva\ITManagerDev\DataRecovery\TestManager\bin\Release\System.Management.Automation.dll
+C:\Users\VK\Source\Repos\svkrishnagavva\ITManagerDev\DataRecovery\TestManager\bin\Release\ObjectsComparer.dll
+C:\Users\VK\Source\Repos\svkrishnagavva\ITManagerDev\DataRecovery\TestManager\bin\Release\CWA.dll
+C:\Users\VK\Source\Repos\svkrishnagavva\ITManagerDev\DataRecovery\TestManager\bin\Release\Microsoft.Management.Infrastructure.dll
+C:\Users\VK\Source\Repos\svkrishnagavva\ITManagerDev\DataRecovery\TestManager\bin\Release\DataRecovery.Common.pdb
+C:\Users\VK\Source\Repos\svkrishnagavva\ITManagerDev\DataRecovery\TestManager\bin\Release\InventoryManager.pdb
+C:\Users\VK\Source\Repos\svkrishnagavva\ITManagerDev\DataRecovery\TestManager\bin\Release\AWSSDK.Core.pdb
+C:\Users\VK\Source\Repos\svkrishnagavva\ITManagerDev\DataRecovery\TestManager\bin\Release\AWSSDK.Core.xml
+C:\Users\VK\Source\Repos\svkrishnagavva\ITManagerDev\DataRecovery\TestManager\bin\Release\AWSSDK.S3.pdb
+C:\Users\VK\Source\Repos\svkrishnagavva\ITManagerDev\DataRecovery\TestManager\bin\Release\AWSSDK.S3.xml
+C:\Users\VK\Source\Repos\svkrishnagavva\ITManagerDev\DataRecovery\TestManager\bin\Release\Newtonsoft.Json.xml
+C:\Users\VK\Source\Repos\svkrishnagavva\ITManagerDev\DataRecovery\TestManager\bin\Release\System.Management.Automation.xml
+C:\Users\VK\Source\Repos\svkrishnagavva\ITManagerDev\DataRecovery\TestManager\obj\Release\TestManager.csproj.AssemblyReference.cache
+C:\Users\VK\Source\Repos\svkrishnagavva\ITManagerDev\DataRecovery\TestManager\obj\Release\TestManager.csproj.SuggestedBindingRedirects.cache
+C:\Users\VK\Source\Repos\svkrishnagavva\ITManagerDev\DataRecovery\TestManager\obj\Release\TestManager.exe.config
+C:\Users\VK\Source\Repos\svkrishnagavva\ITManagerDev\DataRecovery\TestManager\obj\Release\TestManager.csproj.CoreCompileInputs.cache
+C:\Users\VK\Source\Repos\svkrishnagavva\ITManagerDev\DataRecovery\TestManager\obj\Release\TestManager.csproj.CopyComplete
+C:\Users\VK\Source\Repos\svkrishnagavva\ITManagerDev\DataRecovery\TestManager\obj\Release\TestManager.exe
+C:\Users\VK\Source\Repos\svkrishnagavva\ITManagerDev\DataRecovery\TestManager\obj\Release\TestManager.pdb
+D:\Repos\svkrishnagavva\ITManagerDev\DataRecovery\TestManager\bin\Release\TestManager.exe.config
+D:\Repos\svkrishnagavva\ITManagerDev\DataRecovery\TestManager\bin\Release\TestManager.exe
+D:\Repos\svkrishnagavva\ITManagerDev\DataRecovery\TestManager\bin\Release\TestManager.pdb
+D:\Repos\svkrishnagavva\ITManagerDev\DataRecovery\TestManager\bin\Release\AWSSDK.Core.dll
+D:\Repos\svkrishnagavva\ITManagerDev\DataRecovery\TestManager\bin\Release\AWSSDK.S3.dll
+D:\Repos\svkrishnagavva\ITManagerDev\DataRecovery\TestManager\bin\Release\DataRecovery.Common.dll
+D:\Repos\svkrishnagavva\ITManagerDev\DataRecovery\TestManager\bin\Release\InventoryManager.dll
+D:\Repos\svkrishnagavva\ITManagerDev\DataRecovery\TestManager\bin\Release\MediaToolkit.dll
+D:\Repos\svkrishnagavva\ITManagerDev\DataRecovery\TestManager\bin\Release\Newtonsoft.Json.dll
+D:\Repos\svkrishnagavva\ITManagerDev\DataRecovery\TestManager\bin\Release\System.Management.Automation.dll
+D:\Repos\svkrishnagavva\ITManagerDev\DataRecovery\TestManager\bin\Release\ObjectsComparer.dll
+D:\Repos\svkrishnagavva\ITManagerDev\DataRecovery\TestManager\bin\Release\CWA.dll
+D:\Repos\svkrishnagavva\ITManagerDev\DataRecovery\TestManager\bin\Release\Microsoft.Management.Infrastructure.dll
+D:\Repos\svkrishnagavva\ITManagerDev\DataRecovery\TestManager\bin\Release\DataRecovery.Common.pdb
+D:\Repos\svkrishnagavva\ITManagerDev\DataRecovery\TestManager\bin\Release\InventoryManager.pdb
+D:\Repos\svkrishnagavva\ITManagerDev\DataRecovery\TestManager\bin\Release\AWSSDK.Core.pdb
+D:\Repos\svkrishnagavva\ITManagerDev\DataRecovery\TestManager\bin\Release\AWSSDK.Core.xml
+D:\Repos\svkrishnagavva\ITManagerDev\DataRecovery\TestManager\bin\Release\AWSSDK.S3.pdb
+D:\Repos\svkrishnagavva\ITManagerDev\DataRecovery\TestManager\bin\Release\AWSSDK.S3.xml
+D:\Repos\svkrishnagavva\ITManagerDev\DataRecovery\TestManager\bin\Release\Newtonsoft.Json.xml
+D:\Repos\svkrishnagavva\ITManagerDev\DataRecovery\TestManager\bin\Release\System.Management.Automation.xml
+D:\Repos\svkrishnagavva\ITManagerDev\DataRecovery\TestManager\obj\Release\TestManager.csproj.AssemblyReference.cache
+D:\Repos\svkrishnagavva\ITManagerDev\DataRecovery\TestManager\obj\Release\TestManager.csproj.CoreCompileInputs.cache
+D:\Repos\svkrishnagavva\ITManagerDev\DataRecovery\TestManager\obj\Release\TestManager.csproj.CopyComplete
+D:\Repos\svkrishnagavva\ITManagerDev\DataRecovery\TestManager\obj\Release\TestManager.exe
+D:\Repos\svkrishnagavva\ITManagerDev\DataRecovery\TestManager\obj\Release\TestManager.pdb

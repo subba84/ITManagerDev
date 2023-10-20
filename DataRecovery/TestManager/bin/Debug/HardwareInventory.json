@@ -1,0 +1,38 @@
+{
+  "HardwareInventoryId": 0,
+  "SystemId": "DESKTOP-GAB78LQ",
+  "HostName": "DESKTOP-GAB78LQ",
+  "SerialNumber": "HQFX2M2",
+  "Manufacturer": "Dell Inc.",
+  "Model": "Latitude 5480",
+  "CPUType": "Intel(R) Core(TM) i5-6300U CPU @ 2.40GHz",
+  "RAMDetails": "8",
+  "WindowsActivated": "True",
+  "PrinterConnected": "False",
+  "HasCdDrive": false,
+  "RAMSlots": "2",
+  "HostIP": "192.168.29.110",
+  "OperatingSystem": "Microsoft Windows 10 Pro",
+  "LastLoginUser": "user",
+  "LastScanDate": "2023-03-22T19:30:10.1206111+05:30",
+  "CPU_Core": "2",
+  "CreatedOn": "2023-03-22T19:30:10.1206111+05:30",
+  "CreatedBy": "Windows Service",
+  "UpdatedOn": null,
+  "UpdatedBy": null,
+  "IsActive": true,
+  "DriveDetails": [
+    {
+      "DriveDetailId": 0,
+      "SystemId": "DESKTOP-GAB78LQ",
+      "SerialNumber": "HQFX2M2",
+      "DriveName": "C:\\",
+      "FreeSpace": "422174470144",
+      "CreatedOn": "2023-03-22T19:29:01.7944137+05:30",
+      "CreatedBy": "Windows Service",
+      "UpdatedOn": null,
+      "UpdatedBy": null,
+      "IsActive": true
+    }
+  ]
+}

@@ -1,0 +1,135 @@
+﻿Installing assembly 'C:\Users\u\source\repos\svkrishnagavva\ITManagerDev\DataRecovery\DataRestoreService\bin\Debug\DataRestoreService.exe'.
+Affected parameters are:
+   i = 
+   logfile = C:\Users\u\source\repos\svkrishnagavva\ITManagerDev\DataRecovery\DataRestoreService\bin\Debug\DataRestoreService.InstallLog
+   assemblypath = C:\Users\u\source\repos\svkrishnagavva\ITManagerDev\DataRecovery\DataRestoreService\bin\Debug\DataRestoreService.exe
+   logtoconsole = 
+Installing service DataRestoreServiceInstaller...
+Service DataRestoreServiceInstaller has been successfully installed.
+Creating EventLog source DataRestoreServiceInstaller in log Application...
+Committing assembly 'C:\Users\u\source\repos\svkrishnagavva\ITManagerDev\DataRecovery\DataRestoreService\bin\Debug\DataRestoreService.exe'.
+Affected parameters are:
+   i = 
+   logfile = C:\Users\u\source\repos\svkrishnagavva\ITManagerDev\DataRecovery\DataRestoreService\bin\Debug\DataRestoreService.InstallLog
+   assemblypath = C:\Users\u\source\repos\svkrishnagavva\ITManagerDev\DataRecovery\DataRestoreService\bin\Debug\DataRestoreService.exe
+   logtoconsole = 
+Installing assembly 'C:\Users\u\source\repos\svkrishnagavva\ITManagerDev\DataRecovery\DataRestoreService\bin\Debug\DataRestoreService.exe'.
+Affected parameters are:
+   i = 
+   logfile = C:\Users\u\source\repos\svkrishnagavva\ITManagerDev\DataRecovery\DataRestoreService\bin\Debug\DataRestoreService.InstallLog
+   assemblypath = C:\Users\u\source\repos\svkrishnagavva\ITManagerDev\DataRecovery\DataRestoreService\bin\Debug\DataRestoreService.exe
+   logtoconsole = 
+Installing service DataRestoreService...
+Service DataRestoreService has been successfully installed.
+Creating EventLog source DataRestoreService in log Application...
+Committing assembly 'C:\Users\u\source\repos\svkrishnagavva\ITManagerDev\DataRecovery\DataRestoreService\bin\Debug\DataRestoreService.exe'.
+Affected parameters are:
+   i = 
+   logfile = C:\Users\u\source\repos\svkrishnagavva\ITManagerDev\DataRecovery\DataRestoreService\bin\Debug\DataRestoreService.InstallLog
+   assemblypath = C:\Users\u\source\repos\svkrishnagavva\ITManagerDev\DataRecovery\DataRestoreService\bin\Debug\DataRestoreService.exe
+   logtoconsole = 
+Installing assembly 'C:\Users\u\source\repos\svkrishnagavva\ITManagerDev\DataRecovery\DataRestoreService\bin\Debug\DataRestoreService.exe'.
+Affected parameters are:
+   i = 
+   logfile = C:\Users\u\source\repos\svkrishnagavva\ITManagerDev\DataRecovery\DataRestoreService\bin\Debug\DataRestoreService.InstallLog
+   assemblypath = C:\Users\u\source\repos\svkrishnagavva\ITManagerDev\DataRecovery\DataRestoreService\bin\Debug\DataRestoreService.exe
+   logtoconsole = 
+Installing service DataRestoreService...
+Service DataRestoreService has been successfully installed.
+Creating EventLog source DataRestoreService in log Application...
+Committing assembly 'C:\Users\u\source\repos\svkrishnagavva\ITManagerDev\DataRecovery\DataRestoreService\bin\Debug\DataRestoreService.exe'.
+Affected parameters are:
+   i = 
+   logfile = C:\Users\u\source\repos\svkrishnagavva\ITManagerDev\DataRecovery\DataRestoreService\bin\Debug\DataRestoreService.InstallLog
+   assemblypath = C:\Users\u\source\repos\svkrishnagavva\ITManagerDev\DataRecovery\DataRestoreService\bin\Debug\DataRestoreService.exe
+   logtoconsole = 
+Installing assembly 'C:\Users\u\source\repos\svkrishnagavva\ITManagerDev\DataRecovery\DataRestoreService\bin\Debug\DataRestoreService.exe'.
+Affected parameters are:
+   i = 
+   logfile = C:\Users\u\source\repos\svkrishnagavva\ITManagerDev\DataRecovery\DataRestoreService\bin\Debug\DataRestoreService.InstallLog
+   assemblypath = C:\Users\u\source\repos\svkrishnagavva\ITManagerDev\DataRecovery\DataRestoreService\bin\Debug\DataRestoreService.exe
+   logtoconsole = 
+Installing service DataRestoreService...
+Service DataRestoreService has been successfully installed.
+Creating EventLog source DataRestoreService in log Application...
+Committing assembly 'C:\Users\u\source\repos\svkrishnagavva\ITManagerDev\DataRecovery\DataRestoreService\bin\Debug\DataRestoreService.exe'.
+Affected parameters are:
+   i = 
+   logfile = C:\Users\u\source\repos\svkrishnagavva\ITManagerDev\DataRecovery\DataRestoreService\bin\Debug\DataRestoreService.InstallLog
+   assemblypath = C:\Users\u\source\repos\svkrishnagavva\ITManagerDev\DataRecovery\DataRestoreService\bin\Debug\DataRestoreService.exe
+   logtoconsole = 
+An exception occurred during the Commit phase of the DataRestoreService.ProjectInstaller installer.
+System.ComponentModel.Win32Exception: The system cannot find the file specified
+An exception occurred during the Commit phase of the installation. This exception will be ignored and installation will continue. However, the application might not function correctly after installation is complete.
+Installing assembly 'C:\Users\administrator.DBT\Source\Repos\svkrishnagavva\ITManagerDev\DataRecovery\DataRestoreService\bin\Debug\DataRestoreService.exe'.
+Affected parameters are:
+   i = 
+   logfile = C:\Users\administrator.DBT\Source\Repos\svkrishnagavva\ITManagerDev\DataRecovery\DataRestoreService\bin\Debug\DataRestoreService.InstallLog
+   assemblypath = C:\Users\administrator.DBT\Source\Repos\svkrishnagavva\ITManagerDev\DataRecovery\DataRestoreService\bin\Debug\DataRestoreService.exe
+   logtoconsole = 
+Installing service DataRestoreService...
+Service DataRestoreService has been successfully installed.
+Creating EventLog source DataRestoreService in log Application...
+Committing assembly 'C:\Users\administrator.DBT\Source\Repos\svkrishnagavva\ITManagerDev\DataRecovery\DataRestoreService\bin\Debug\DataRestoreService.exe'.
+Affected parameters are:
+   i = 
+   logfile = C:\Users\administrator.DBT\Source\Repos\svkrishnagavva\ITManagerDev\DataRecovery\DataRestoreService\bin\Debug\DataRestoreService.InstallLog
+   assemblypath = C:\Users\administrator.DBT\Source\Repos\svkrishnagavva\ITManagerDev\DataRecovery\DataRestoreService\bin\Debug\DataRestoreService.exe
+   logtoconsole = 
+An exception occurred during the Commit phase of the DataRestoreService.ProjectInstaller installer.
+System.ComponentModel.Win32Exception: The system cannot find the file specified
+An exception occurred during the Commit phase of the installation. This exception will be ignored and installation will continue. However, the application might not function correctly after installation is complete.
+Installing assembly 'C:\Users\administrator.DBT\Source\Repos\svkrishnagavva\ITManagerDev\DataRecovery\DataRestoreService\bin\Debug\DataRestoreService.exe'.
+Affected parameters are:
+   i = 
+   logfile = C:\Users\administrator.DBT\Source\Repos\svkrishnagavva\ITManagerDev\DataRecovery\DataRestoreService\bin\Debug\DataRestoreService.InstallLog
+   assemblypath = C:\Users\administrator.DBT\Source\Repos\svkrishnagavva\ITManagerDev\DataRecovery\DataRestoreService\bin\Debug\DataRestoreService.exe
+   logtoconsole = 
+Installing service ITManager Restore Service...
+Service ITManager Restore Service has been successfully installed.
+Creating EventLog source ITManager Restore Service in log Application...
+Committing assembly 'C:\Users\administrator.DBT\Source\Repos\svkrishnagavva\ITManagerDev\DataRecovery\DataRestoreService\bin\Debug\DataRestoreService.exe'.
+Affected parameters are:
+   i = 
+   logfile = C:\Users\administrator.DBT\Source\Repos\svkrishnagavva\ITManagerDev\DataRecovery\DataRestoreService\bin\Debug\DataRestoreService.InstallLog
+   assemblypath = C:\Users\administrator.DBT\Source\Repos\svkrishnagavva\ITManagerDev\DataRecovery\DataRestoreService\bin\Debug\DataRestoreService.exe
+   logtoconsole = 
+An exception occurred during the Commit phase of the DataRestoreService.ProjectInstaller installer.
+System.ComponentModel.Win32Exception: The system cannot find the file specified
+An exception occurred during the Commit phase of the installation. This exception will be ignored and installation will continue. However, the application might not function correctly after installation is complete.
+Installing assembly 'C:\Users\administrator.DBT\Source\Repos\svkrishnagavva\ITManagerDev\DataRecovery\DataRestoreService\bin\Debug\DataRestoreService.exe'.
+Affected parameters are:
+   i = 
+   logfile = C:\Users\administrator.DBT\Source\Repos\svkrishnagavva\ITManagerDev\DataRecovery\DataRestoreService\bin\Debug\DataRestoreService.InstallLog
+   assemblypath = C:\Users\administrator.DBT\Source\Repos\svkrishnagavva\ITManagerDev\DataRecovery\DataRestoreService\bin\Debug\DataRestoreService.exe
+   logtoconsole = 
+Installing service ITManager Restore Service...
+Service ITManager Restore Service has been successfully installed.
+Creating EventLog source ITManager Restore Service in log Application...
+Committing assembly 'C:\Users\administrator.DBT\Source\Repos\svkrishnagavva\ITManagerDev\DataRecovery\DataRestoreService\bin\Debug\DataRestoreService.exe'.
+Affected parameters are:
+   i = 
+   logfile = C:\Users\administrator.DBT\Source\Repos\svkrishnagavva\ITManagerDev\DataRecovery\DataRestoreService\bin\Debug\DataRestoreService.InstallLog
+   assemblypath = C:\Users\administrator.DBT\Source\Repos\svkrishnagavva\ITManagerDev\DataRecovery\DataRestoreService\bin\Debug\DataRestoreService.exe
+   logtoconsole = 
+An exception occurred during the Commit phase of the DataRestoreService.ProjectInstaller installer.
+System.ComponentModel.Win32Exception: The system cannot find the file specified
+An exception occurred during the Commit phase of the installation. This exception will be ignored and installation will continue. However, the application might not function correctly after installation is complete.
+Installing assembly 'C:\Users\administrator.DBT\Source\Repos\svkrishnagavva\ITManagerDev\DataRecovery\DataRestoreService\bin\Debug\DataRestoreService.exe'.
+Affected parameters are:
+   i = 
+   logfile = C:\Users\administrator.DBT\Source\Repos\svkrishnagavva\ITManagerDev\DataRecovery\DataRestoreService\bin\Debug\DataRestoreService.InstallLog
+   assemblypath = C:\Users\administrator.DBT\Source\Repos\svkrishnagavva\ITManagerDev\DataRecovery\DataRestoreService\bin\Debug\DataRestoreService.exe
+   logtoconsole = 
+Installing service ITManager Restore Service...
+Service ITManager Restore Service has been successfully installed.
+Creating EventLog source ITManager Restore Service in log Application...
+Committing assembly 'C:\Users\administrator.DBT\Source\Repos\svkrishnagavva\ITManagerDev\DataRecovery\DataRestoreService\bin\Debug\DataRestoreService.exe'.
+Affected parameters are:
+   i = 
+   logfile = C:\Users\administrator.DBT\Source\Repos\svkrishnagavva\ITManagerDev\DataRecovery\DataRestoreService\bin\Debug\DataRestoreService.InstallLog
+   assemblypath = C:\Users\administrator.DBT\Source\Repos\svkrishnagavva\ITManagerDev\DataRecovery\DataRestoreService\bin\Debug\DataRestoreService.exe
+   logtoconsole = 
+An exception occurred during the Commit phase of the DataRestoreService.ProjectInstaller installer.
+System.ComponentModel.Win32Exception: The system cannot find the file specified
+An exception occurred during the Commit phase of the installation. This exception will be ignored and installation will continue. However, the application might not function correctly after installation is complete.

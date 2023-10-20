@@ -1,0 +1,69 @@
+﻿{
+   "ContextClassName": "DatarecoveryContext",
+   "ContextNamespace": null,
+   "DefaultDacpacSchema": null,
+   "FilterSchemas": false,
+   "IncludeConnectionString": true,
+   "ModelNamespace": null,
+   "OutputContextPath": null,
+   "OutputPath": "NewModels",
+   "ProjectRootNamespace": "DataRecovery",
+   "Schemas": null,
+   "SelectedHandlebarsLanguage": 0,
+   "SelectedToBeGenerated": 2,
+   "Tables": [
+      {
+         "HasPrimaryKey": true,
+         "Name": "[dbo].[tblBackups]"
+      },
+      {
+         "HasPrimaryKey": true,
+         "Name": "[dbo].[tblConfigKeys]"
+      },
+      {
+         "HasPrimaryKey": true,
+         "Name": "[dbo].[tblConfigMaster]"
+      },
+      {
+         "HasPrimaryKey": true,
+         "Name": "[dbo].[tblConfigMasterKeys]"
+      },
+      {
+         "HasPrimaryKey": true,
+         "Name": "[dbo].[tblConfigs]"
+      },
+      {
+         "HasPrimaryKey": true,
+         "Name": "[dbo].[tblDriveDetails]"
+      },
+      {
+         "HasPrimaryKey": true,
+         "Name": "[dbo].[tblHardwareInventories]"
+      },
+      {
+         "HasPrimaryKey": true,
+         "Name": "[dbo].[tblModules]"
+      },
+      {
+         "HasPrimaryKey": true,
+         "Name": "[dbo].[tblRequests]"
+      },
+      {
+         "HasPrimaryKey": true,
+         "Name": "[dbo].[tblSoftwareInventories]"
+      },
+      {
+         "HasPrimaryKey": true,
+         "Name": "[dbo].[tblUserMachineMappings]"
+      }
+   ],
+   "UseDatabaseNames": true,
+   "UseDbContextSplitting": false,
+   "UseFluentApiOnly": false,
+   "UseHandleBars": false,
+   "UseInflector": false,
+   "UseLegacyPluralizer": false,
+   "UseNodaTime": false,
+   "UseSpatial": false,
+   "UseStoredProcedures": false
+}

@@ -1,0 +1,50 @@
+{
+  "HardwareInventoryId": 0,
+  "SystemId": "WIN-8K06B8A55H7",
+  "HostName": "WIN-8K06B8A55H7",
+  "SerialNumber": "DLG21F2",
+  "Manufacturer": "Dell Inc.",
+  "Model": "Latitude 3350",
+  "CPUType": "Intel(R) Core(TM) i3-5005U CPU @ 2.00GHz",
+  "RAMDetails": "8",
+  "WindowsActivated": "True",
+  "PrinterConnected": "False",
+  "HasCdDrive": false,
+  "RAMSlots": "2",
+  "HostIP": "192.168.29.77",
+  "OperatingSystem": "Microsoft Windows Server 2022 Standard",
+  "LastLoginUser": "Administrator",
+  "LastScanDate": "2022-05-21T20:52:39.1445028+05:30",
+  "CPU_Core": "2",
+  "CreatedOn": "2022-05-21T20:52:39.1445028+05:30",
+  "CreatedBy": "Windows Service",
+  "UpdatedOn": null,
+  "UpdatedBy": null,
+  "IsActive": true,
+  "DriveDetails": [
+    {
+      "DriveDetailId": 0,
+      "SystemId": "WIN-8K06B8A55H7",
+      "SerialNumber": "DLG21F2",
+      "DriveName": "C:\\",
+      "FreeSpace": "26052505600",
+      "CreatedOn": "2022-05-21T20:52:20.897948+05:30",
+      "CreatedBy": "Windows Service",
+      "UpdatedOn": null,
+      "UpdatedBy": null,
+      "IsActive": true
+    },
+    {
+      "DriveDetailId": 0,
+      "SystemId": "WIN-8K06B8A55H7",
+      "SerialNumber": "DLG21F2",
+      "DriveName": "D:\\",
+      "FreeSpace": "272130777088",
+      "CreatedOn": "2022-05-21T20:52:20.9459164+05:30",
+      "CreatedBy": "Windows Service",
+      "UpdatedOn": null,
+      "UpdatedBy": null,
+      "IsActive": true
+    }
+  ]
+}

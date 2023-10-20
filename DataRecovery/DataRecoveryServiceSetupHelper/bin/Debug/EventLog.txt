@@ -1,0 +1,7 @@
+Date : 21-05-2022 20:52:20 --- Event : Started HareWare Intentory 
+Date : 21-05-2022 20:53:04 --- Event : Json PathD:\Repos\svkrishnagavva\ITManagerDev\DataRecovery\DataRecoveryServiceSetupHelper\bin\Debug\\HardwareInventory.json 
+Date : 21-05-2022 20:53:09 --- Event : Started HardWare Intentory Update 
+Date : 21-05-2022 20:53:12 --- Event : Post Request Started 
+Date : 21-05-2022 20:53:23 --- Event : Post Request Completed 
+Date : 21-05-2022 20:53:39 --- Event : Completed HardWare Intentory Update 
+Date : 21-05-2022 20:53:45 --- Event : Completed HareWare Intentory 

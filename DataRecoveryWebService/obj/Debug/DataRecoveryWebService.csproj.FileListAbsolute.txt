@@ -1,0 +1,1241 @@
+C:\Vamsi\Recovery tool\DataRecovery\DataRecoveryWebService\DataRecoveryWebService\obj\Debug\DataRecoveryWebService.csproj.CoreCompileInputs.cache
+C:\Vamsi\Recovery tool\DataRecoveryWebService\DataRecoveryWebService\obj\Debug\DataRecoveryWebService.csprojAssemblyReference.cache
+C:\Vamsi\Recovery tool\DataRecoveryWebService\DataRecoveryWebService\obj\Debug\DataRecoveryWebService.csproj.CoreCompileInputs.cache
+C:\Vamsi\Recovery tool\DataRecoveryWebService\DataRecoveryWebService\bin\DataRecoveryWebService.dll.config
+C:\Vamsi\Recovery tool\DataRecoveryWebService\DataRecoveryWebService\bin\DataRecoveryWebService.dll
+C:\Vamsi\Recovery tool\DataRecoveryWebService\DataRecoveryWebService\bin\DataRecoveryWebService.pdb
+C:\Vamsi\Recovery tool\DataRecoveryWebService\DataRecoveryWebService\bin\roslyn\csc.exe
+C:\Vamsi\Recovery tool\DataRecoveryWebService\DataRecoveryWebService\bin\roslyn\csc.exe.config
+C:\Vamsi\Recovery tool\DataRecoveryWebService\DataRecoveryWebService\bin\roslyn\csc.rsp
+C:\Vamsi\Recovery tool\DataRecoveryWebService\DataRecoveryWebService\bin\roslyn\csi.exe
+C:\Vamsi\Recovery tool\DataRecoveryWebService\DataRecoveryWebService\bin\roslyn\csi.exe.config
+C:\Vamsi\Recovery tool\DataRecoveryWebService\DataRecoveryWebService\bin\roslyn\csi.rsp
+C:\Vamsi\Recovery tool\DataRecoveryWebService\DataRecoveryWebService\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Vamsi\Recovery tool\DataRecoveryWebService\DataRecoveryWebService\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Vamsi\Recovery tool\DataRecoveryWebService\DataRecoveryWebService\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Vamsi\Recovery tool\DataRecoveryWebService\DataRecoveryWebService\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Vamsi\Recovery tool\DataRecoveryWebService\DataRecoveryWebService\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Vamsi\Recovery tool\DataRecoveryWebService\DataRecoveryWebService\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Vamsi\Recovery tool\DataRecoveryWebService\DataRecoveryWebService\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Vamsi\Recovery tool\DataRecoveryWebService\DataRecoveryWebService\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Vamsi\Recovery tool\DataRecoveryWebService\DataRecoveryWebService\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Vamsi\Recovery tool\DataRecoveryWebService\DataRecoveryWebService\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Vamsi\Recovery tool\DataRecoveryWebService\DataRecoveryWebService\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Vamsi\Recovery tool\DataRecoveryWebService\DataRecoveryWebService\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Vamsi\Recovery tool\DataRecoveryWebService\DataRecoveryWebService\bin\roslyn\System.AppContext.dll
+C:\Vamsi\Recovery tool\DataRecoveryWebService\DataRecoveryWebService\bin\roslyn\System.Collections.Immutable.dll
+C:\Vamsi\Recovery tool\DataRecoveryWebService\DataRecoveryWebService\bin\roslyn\System.Console.dll
+C:\Vamsi\Recovery tool\DataRecoveryWebService\DataRecoveryWebService\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Vamsi\Recovery tool\DataRecoveryWebService\DataRecoveryWebService\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Vamsi\Recovery tool\DataRecoveryWebService\DataRecoveryWebService\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Vamsi\Recovery tool\DataRecoveryWebService\DataRecoveryWebService\bin\roslyn\System.Globalization.Calendars.dll
+C:\Vamsi\Recovery tool\DataRecoveryWebService\DataRecoveryWebService\bin\roslyn\System.IO.Compression.dll
+C:\Vamsi\Recovery tool\DataRecoveryWebService\DataRecoveryWebService\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Vamsi\Recovery tool\DataRecoveryWebService\DataRecoveryWebService\bin\roslyn\System.IO.FileSystem.dll
+C:\Vamsi\Recovery tool\DataRecoveryWebService\DataRecoveryWebService\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Vamsi\Recovery tool\DataRecoveryWebService\DataRecoveryWebService\bin\roslyn\System.Net.Http.dll
+C:\Vamsi\Recovery tool\DataRecoveryWebService\DataRecoveryWebService\bin\roslyn\System.Net.Sockets.dll
+C:\Vamsi\Recovery tool\DataRecoveryWebService\DataRecoveryWebService\bin\roslyn\System.Reflection.Metadata.dll
+C:\Vamsi\Recovery tool\DataRecoveryWebService\DataRecoveryWebService\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Vamsi\Recovery tool\DataRecoveryWebService\DataRecoveryWebService\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Vamsi\Recovery tool\DataRecoveryWebService\DataRecoveryWebService\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Vamsi\Recovery tool\DataRecoveryWebService\DataRecoveryWebService\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Vamsi\Recovery tool\DataRecoveryWebService\DataRecoveryWebService\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Vamsi\Recovery tool\DataRecoveryWebService\DataRecoveryWebService\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Vamsi\Recovery tool\DataRecoveryWebService\DataRecoveryWebService\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Vamsi\Recovery tool\DataRecoveryWebService\DataRecoveryWebService\bin\roslyn\System.ValueTuple.dll
+C:\Vamsi\Recovery tool\DataRecoveryWebService\DataRecoveryWebService\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Vamsi\Recovery tool\DataRecoveryWebService\DataRecoveryWebService\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Vamsi\Recovery tool\DataRecoveryWebService\DataRecoveryWebService\bin\roslyn\System.Xml.XPath.dll
+C:\Vamsi\Recovery tool\DataRecoveryWebService\DataRecoveryWebService\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Vamsi\Recovery tool\DataRecoveryWebService\DataRecoveryWebService\bin\roslyn\vbc.exe
+C:\Vamsi\Recovery tool\DataRecoveryWebService\DataRecoveryWebService\bin\roslyn\vbc.exe.config
+C:\Vamsi\Recovery tool\DataRecoveryWebService\DataRecoveryWebService\bin\roslyn\vbc.rsp
+C:\Vamsi\Recovery tool\DataRecoveryWebService\DataRecoveryWebService\bin\roslyn\VBCSCompiler.exe
+C:\Vamsi\Recovery tool\DataRecoveryWebService\DataRecoveryWebService\bin\roslyn\VBCSCompiler.exe.config
+C:\Vamsi\Recovery tool\DataRecoveryWebService\DataRecoveryWebService\bin\Antlr3.Runtime.dll
+C:\Vamsi\Recovery tool\DataRecoveryWebService\DataRecoveryWebService\bin\EntityFramework.dll
+C:\Vamsi\Recovery tool\DataRecoveryWebService\DataRecoveryWebService\bin\EntityFramework.SqlServer.dll
+C:\Vamsi\Recovery tool\DataRecoveryWebService\DataRecoveryWebService\bin\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Vamsi\Recovery tool\DataRecoveryWebService\DataRecoveryWebService\bin\Microsoft.Bcl.HashCode.dll
+C:\Vamsi\Recovery tool\DataRecoveryWebService\DataRecoveryWebService\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Vamsi\Recovery tool\DataRecoveryWebService\DataRecoveryWebService\bin\Microsoft.Data.SqlClient.dll
+C:\Vamsi\Recovery tool\DataRecoveryWebService\DataRecoveryWebService\bin\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Vamsi\Recovery tool\DataRecoveryWebService\DataRecoveryWebService\bin\Microsoft.EntityFrameworkCore.dll
+C:\Vamsi\Recovery tool\DataRecoveryWebService\DataRecoveryWebService\bin\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Vamsi\Recovery tool\DataRecoveryWebService\DataRecoveryWebService\bin\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Vamsi\Recovery tool\DataRecoveryWebService\DataRecoveryWebService\bin\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Vamsi\Recovery tool\DataRecoveryWebService\DataRecoveryWebService\bin\Microsoft.Extensions.Caching.Memory.dll
+C:\Vamsi\Recovery tool\DataRecoveryWebService\DataRecoveryWebService\bin\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Vamsi\Recovery tool\DataRecoveryWebService\DataRecoveryWebService\bin\Microsoft.Extensions.Configuration.Binder.dll
+C:\Vamsi\Recovery tool\DataRecoveryWebService\DataRecoveryWebService\bin\Microsoft.Extensions.Configuration.dll
+C:\Vamsi\Recovery tool\DataRecoveryWebService\DataRecoveryWebService\bin\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Vamsi\Recovery tool\DataRecoveryWebService\DataRecoveryWebService\bin\Microsoft.Extensions.DependencyInjection.dll
+C:\Vamsi\Recovery tool\DataRecoveryWebService\DataRecoveryWebService\bin\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Vamsi\Recovery tool\DataRecoveryWebService\DataRecoveryWebService\bin\Microsoft.Extensions.Logging.dll
+C:\Vamsi\Recovery tool\DataRecoveryWebService\DataRecoveryWebService\bin\Microsoft.Extensions.Options.dll
+C:\Vamsi\Recovery tool\DataRecoveryWebService\DataRecoveryWebService\bin\Microsoft.Extensions.Primitives.dll
+C:\Vamsi\Recovery tool\DataRecoveryWebService\DataRecoveryWebService\bin\Microsoft.Identity.Client.dll
+C:\Vamsi\Recovery tool\DataRecoveryWebService\DataRecoveryWebService\bin\Microsoft.Web.Infrastructure.dll
+C:\Vamsi\Recovery tool\DataRecoveryWebService\DataRecoveryWebService\bin\Newtonsoft.Json.dll
+C:\Vamsi\Recovery tool\DataRecoveryWebService\DataRecoveryWebService\bin\System.Buffers.dll
+C:\Vamsi\Recovery tool\DataRecoveryWebService\DataRecoveryWebService\bin\System.Collections.Immutable.dll
+C:\Vamsi\Recovery tool\DataRecoveryWebService\DataRecoveryWebService\bin\System.ComponentModel.Annotations.dll
+C:\Vamsi\Recovery tool\DataRecoveryWebService\DataRecoveryWebService\bin\System.Diagnostics.DiagnosticSource.dll
+C:\Vamsi\Recovery tool\DataRecoveryWebService\DataRecoveryWebService\bin\System.Memory.dll
+C:\Vamsi\Recovery tool\DataRecoveryWebService\DataRecoveryWebService\bin\System.Net.Http.Formatting.dll
+C:\Vamsi\Recovery tool\DataRecoveryWebService\DataRecoveryWebService\bin\System.Numerics.Vectors.dll
+C:\Vamsi\Recovery tool\DataRecoveryWebService\DataRecoveryWebService\bin\System.Runtime.CompilerServices.Unsafe.dll
+C:\Vamsi\Recovery tool\DataRecoveryWebService\DataRecoveryWebService\bin\System.Threading.Tasks.Extensions.dll
+C:\Vamsi\Recovery tool\DataRecoveryWebService\DataRecoveryWebService\bin\System.Web.Helpers.dll
+C:\Vamsi\Recovery tool\DataRecoveryWebService\DataRecoveryWebService\bin\System.Web.Http.dll
+C:\Vamsi\Recovery tool\DataRecoveryWebService\DataRecoveryWebService\bin\System.Web.Http.WebHost.dll
+C:\Vamsi\Recovery tool\DataRecoveryWebService\DataRecoveryWebService\bin\System.Web.Mvc.dll
+C:\Vamsi\Recovery tool\DataRecoveryWebService\DataRecoveryWebService\bin\System.Web.Optimization.dll
+C:\Vamsi\Recovery tool\DataRecoveryWebService\DataRecoveryWebService\bin\System.Web.Razor.dll
+C:\Vamsi\Recovery tool\DataRecoveryWebService\DataRecoveryWebService\bin\System.Web.WebPages.Deployment.dll
+C:\Vamsi\Recovery tool\DataRecoveryWebService\DataRecoveryWebService\bin\System.Web.WebPages.dll
+C:\Vamsi\Recovery tool\DataRecoveryWebService\DataRecoveryWebService\bin\System.Web.WebPages.Razor.dll
+C:\Vamsi\Recovery tool\DataRecoveryWebService\DataRecoveryWebService\bin\WebActivatorEx.dll
+C:\Vamsi\Recovery tool\DataRecoveryWebService\DataRecoveryWebService\bin\WebGrease.dll
+C:\Vamsi\Recovery tool\DataRecoveryWebService\DataRecoveryWebService\bin\EntityFramework.xml
+C:\Vamsi\Recovery tool\DataRecoveryWebService\DataRecoveryWebService\bin\EntityFramework.SqlServer.xml
+C:\Vamsi\Recovery tool\DataRecoveryWebService\DataRecoveryWebService\bin\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Vamsi\Recovery tool\DataRecoveryWebService\DataRecoveryWebService\bin\Microsoft.Bcl.HashCode.xml
+C:\Vamsi\Recovery tool\DataRecoveryWebService\DataRecoveryWebService\bin\Microsoft.Data.SqlClient.pdb
+C:\Vamsi\Recovery tool\DataRecoveryWebService\DataRecoveryWebService\bin\Microsoft.EntityFrameworkCore.xml
+C:\Vamsi\Recovery tool\DataRecoveryWebService\DataRecoveryWebService\bin\Microsoft.EntityFrameworkCore.Abstractions.xml
+C:\Vamsi\Recovery tool\DataRecoveryWebService\DataRecoveryWebService\bin\Microsoft.EntityFrameworkCore.Relational.xml
+C:\Vamsi\Recovery tool\DataRecoveryWebService\DataRecoveryWebService\bin\Microsoft.EntityFrameworkCore.SqlServer.xml
+C:\Vamsi\Recovery tool\DataRecoveryWebService\DataRecoveryWebService\bin\Microsoft.Extensions.Caching.Abstractions.xml
+C:\Vamsi\Recovery tool\DataRecoveryWebService\DataRecoveryWebService\bin\Microsoft.Extensions.Caching.Memory.xml
+C:\Vamsi\Recovery tool\DataRecoveryWebService\DataRecoveryWebService\bin\Microsoft.Extensions.Configuration.xml
+C:\Vamsi\Recovery tool\DataRecoveryWebService\DataRecoveryWebService\bin\Microsoft.Extensions.Configuration.Abstractions.xml
+C:\Vamsi\Recovery tool\DataRecoveryWebService\DataRecoveryWebService\bin\Microsoft.Extensions.Configuration.Binder.xml
+C:\Vamsi\Recovery tool\DataRecoveryWebService\DataRecoveryWebService\bin\Microsoft.Extensions.DependencyInjection.xml
+C:\Vamsi\Recovery tool\DataRecoveryWebService\DataRecoveryWebService\bin\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+C:\Vamsi\Recovery tool\DataRecoveryWebService\DataRecoveryWebService\bin\Microsoft.Extensions.Logging.xml
+C:\Vamsi\Recovery tool\DataRecoveryWebService\DataRecoveryWebService\bin\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Vamsi\Recovery tool\DataRecoveryWebService\DataRecoveryWebService\bin\Microsoft.Extensions.Options.xml
+C:\Vamsi\Recovery tool\DataRecoveryWebService\DataRecoveryWebService\bin\Microsoft.Extensions.Primitives.xml
+C:\Vamsi\Recovery tool\DataRecoveryWebService\DataRecoveryWebService\bin\Microsoft.Identity.Client.xml
+C:\Vamsi\Recovery tool\DataRecoveryWebService\DataRecoveryWebService\bin\System.Buffers.xml
+C:\Vamsi\Recovery tool\DataRecoveryWebService\DataRecoveryWebService\bin\System.Collections.Immutable.xml
+C:\Vamsi\Recovery tool\DataRecoveryWebService\DataRecoveryWebService\bin\System.Diagnostics.DiagnosticSource.xml
+C:\Vamsi\Recovery tool\DataRecoveryWebService\DataRecoveryWebService\bin\System.Memory.xml
+C:\Vamsi\Recovery tool\DataRecoveryWebService\DataRecoveryWebService\bin\System.Numerics.Vectors.xml
+C:\Vamsi\Recovery tool\DataRecoveryWebService\DataRecoveryWebService\bin\System.Runtime.CompilerServices.Unsafe.xml
+C:\Vamsi\Recovery tool\DataRecoveryWebService\DataRecoveryWebService\bin\System.Threading.Tasks.Extensions.xml
+C:\Vamsi\Recovery tool\DataRecoveryWebService\DataRecoveryWebService\bin\Newtonsoft.Json.xml
+C:\Vamsi\Recovery tool\DataRecoveryWebService\DataRecoveryWebService\bin\System.Net.Http.Formatting.xml
+C:\Vamsi\Recovery tool\DataRecoveryWebService\DataRecoveryWebService\bin\System.Web.Helpers.xml
+C:\Vamsi\Recovery tool\DataRecoveryWebService\DataRecoveryWebService\bin\System.Web.Http.xml
+C:\Vamsi\Recovery tool\DataRecoveryWebService\DataRecoveryWebService\bin\System.Web.Http.WebHost.xml
+C:\Vamsi\Recovery tool\DataRecoveryWebService\DataRecoveryWebService\bin\System.Web.Mvc.xml
+C:\Vamsi\Recovery tool\DataRecoveryWebService\DataRecoveryWebService\bin\System.Web.Optimization.xml
+C:\Vamsi\Recovery tool\DataRecoveryWebService\DataRecoveryWebService\bin\System.Web.Razor.xml
+C:\Vamsi\Recovery tool\DataRecoveryWebService\DataRecoveryWebService\bin\System.Web.WebPages.xml
+C:\Vamsi\Recovery tool\DataRecoveryWebService\DataRecoveryWebService\bin\System.Web.WebPages.Deployment.xml
+C:\Vamsi\Recovery tool\DataRecoveryWebService\DataRecoveryWebService\bin\System.Web.WebPages.Razor.xml
+C:\Vamsi\Recovery tool\DataRecoveryWebService\DataRecoveryWebService\bin\Antlr3.Runtime.pdb
+C:\Vamsi\Recovery tool\DataRecoveryWebService\DataRecoveryWebService\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Vamsi\Recovery tool\DataRecoveryWebService\DataRecoveryWebService\bin\de\Microsoft.Data.SqlClient.resources.dll
+C:\Vamsi\Recovery tool\DataRecoveryWebService\DataRecoveryWebService\bin\es\Microsoft.Data.SqlClient.resources.dll
+C:\Vamsi\Recovery tool\DataRecoveryWebService\DataRecoveryWebService\bin\fr\Microsoft.Data.SqlClient.resources.dll
+C:\Vamsi\Recovery tool\DataRecoveryWebService\DataRecoveryWebService\bin\it\Microsoft.Data.SqlClient.resources.dll
+C:\Vamsi\Recovery tool\DataRecoveryWebService\DataRecoveryWebService\bin\ja\Microsoft.Data.SqlClient.resources.dll
+C:\Vamsi\Recovery tool\DataRecoveryWebService\DataRecoveryWebService\bin\ko\Microsoft.Data.SqlClient.resources.dll
+C:\Vamsi\Recovery tool\DataRecoveryWebService\DataRecoveryWebService\bin\pt-BR\Microsoft.Data.SqlClient.resources.dll
+C:\Vamsi\Recovery tool\DataRecoveryWebService\DataRecoveryWebService\bin\ru\Microsoft.Data.SqlClient.resources.dll
+C:\Vamsi\Recovery tool\DataRecoveryWebService\DataRecoveryWebService\bin\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+C:\Vamsi\Recovery tool\DataRecoveryWebService\DataRecoveryWebService\bin\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+C:\Vamsi\Recovery tool\DataRecoveryWebService\DataRecoveryWebService\obj\Debug\DataRecoveryWebService.csproj.CopyComplete
+C:\Vamsi\Recovery tool\DataRecoveryWebService\DataRecoveryWebService\obj\Debug\DataRecoveryWebService.dll
+C:\Vamsi\Recovery tool\DataRecoveryWebService\DataRecoveryWebService\obj\Debug\DataRecoveryWebService.pdb
+C:\Vamsi\Recovery tool\DataRecoveryWebService\DataRecoveryWebService\bin\FromHeaderAttribute.dll
+C:\Vamsi\Recovery tool\DataRecoveryWebService\DataRecoveryWebService\bin\Swagger.Net.dll
+C:\Vamsi\OneDrive\Recovery tool\DataRecoveryWebService\DataRecoveryWebService\bin\DataRecoveryWebService.dll.config
+C:\Vamsi\OneDrive\Recovery tool\DataRecoveryWebService\DataRecoveryWebService\bin\DataRecoveryWebService.dll
+C:\Vamsi\OneDrive\Recovery tool\DataRecoveryWebService\DataRecoveryWebService\bin\DataRecoveryWebService.pdb
+C:\Vamsi\OneDrive\Recovery tool\DataRecoveryWebService\DataRecoveryWebService\bin\roslyn\csc.exe
+C:\Vamsi\OneDrive\Recovery tool\DataRecoveryWebService\DataRecoveryWebService\bin\roslyn\csc.exe.config
+C:\Vamsi\OneDrive\Recovery tool\DataRecoveryWebService\DataRecoveryWebService\bin\roslyn\csc.rsp
+C:\Vamsi\OneDrive\Recovery tool\DataRecoveryWebService\DataRecoveryWebService\bin\roslyn\csi.exe
+C:\Vamsi\OneDrive\Recovery tool\DataRecoveryWebService\DataRecoveryWebService\bin\roslyn\csi.exe.config
+C:\Vamsi\OneDrive\Recovery tool\DataRecoveryWebService\DataRecoveryWebService\bin\roslyn\csi.rsp
+C:\Vamsi\OneDrive\Recovery tool\DataRecoveryWebService\DataRecoveryWebService\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Vamsi\OneDrive\Recovery tool\DataRecoveryWebService\DataRecoveryWebService\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Vamsi\OneDrive\Recovery tool\DataRecoveryWebService\DataRecoveryWebService\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Vamsi\OneDrive\Recovery tool\DataRecoveryWebService\DataRecoveryWebService\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Vamsi\OneDrive\Recovery tool\DataRecoveryWebService\DataRecoveryWebService\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Vamsi\OneDrive\Recovery tool\DataRecoveryWebService\DataRecoveryWebService\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Vamsi\OneDrive\Recovery tool\DataRecoveryWebService\DataRecoveryWebService\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Vamsi\OneDrive\Recovery tool\DataRecoveryWebService\DataRecoveryWebService\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Vamsi\OneDrive\Recovery tool\DataRecoveryWebService\DataRecoveryWebService\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Vamsi\OneDrive\Recovery tool\DataRecoveryWebService\DataRecoveryWebService\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Vamsi\OneDrive\Recovery tool\DataRecoveryWebService\DataRecoveryWebService\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Vamsi\OneDrive\Recovery tool\DataRecoveryWebService\DataRecoveryWebService\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Vamsi\OneDrive\Recovery tool\DataRecoveryWebService\DataRecoveryWebService\bin\roslyn\System.AppContext.dll
+C:\Vamsi\OneDrive\Recovery tool\DataRecoveryWebService\DataRecoveryWebService\bin\roslyn\System.Collections.Immutable.dll
+C:\Vamsi\OneDrive\Recovery tool\DataRecoveryWebService\DataRecoveryWebService\bin\roslyn\System.Console.dll
+C:\Vamsi\OneDrive\Recovery tool\DataRecoveryWebService\DataRecoveryWebService\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Vamsi\OneDrive\Recovery tool\DataRecoveryWebService\DataRecoveryWebService\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Vamsi\OneDrive\Recovery tool\DataRecoveryWebService\DataRecoveryWebService\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Vamsi\OneDrive\Recovery tool\DataRecoveryWebService\DataRecoveryWebService\bin\roslyn\System.Globalization.Calendars.dll
+C:\Vamsi\OneDrive\Recovery tool\DataRecoveryWebService\DataRecoveryWebService\bin\roslyn\System.IO.Compression.dll
+C:\Vamsi\OneDrive\Recovery tool\DataRecoveryWebService\DataRecoveryWebService\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Vamsi\OneDrive\Recovery tool\DataRecoveryWebService\DataRecoveryWebService\bin\roslyn\System.IO.FileSystem.dll
+C:\Vamsi\OneDrive\Recovery tool\DataRecoveryWebService\DataRecoveryWebService\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Vamsi\OneDrive\Recovery tool\DataRecoveryWebService\DataRecoveryWebService\bin\roslyn\System.Net.Http.dll
+C:\Vamsi\OneDrive\Recovery tool\DataRecoveryWebService\DataRecoveryWebService\bin\roslyn\System.Net.Sockets.dll
+C:\Vamsi\OneDrive\Recovery tool\DataRecoveryWebService\DataRecoveryWebService\bin\roslyn\System.Reflection.Metadata.dll
+C:\Vamsi\OneDrive\Recovery tool\DataRecoveryWebService\DataRecoveryWebService\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Vamsi\OneDrive\Recovery tool\DataRecoveryWebService\DataRecoveryWebService\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Vamsi\OneDrive\Recovery tool\DataRecoveryWebService\DataRecoveryWebService\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Vamsi\OneDrive\Recovery tool\DataRecoveryWebService\DataRecoveryWebService\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Vamsi\OneDrive\Recovery tool\DataRecoveryWebService\DataRecoveryWebService\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Vamsi\OneDrive\Recovery tool\DataRecoveryWebService\DataRecoveryWebService\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Vamsi\OneDrive\Recovery tool\DataRecoveryWebService\DataRecoveryWebService\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Vamsi\OneDrive\Recovery tool\DataRecoveryWebService\DataRecoveryWebService\bin\roslyn\System.ValueTuple.dll
+C:\Vamsi\OneDrive\Recovery tool\DataRecoveryWebService\DataRecoveryWebService\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Vamsi\OneDrive\Recovery tool\DataRecoveryWebService\DataRecoveryWebService\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Vamsi\OneDrive\Recovery tool\DataRecoveryWebService\DataRecoveryWebService\bin\roslyn\System.Xml.XPath.dll
+C:\Vamsi\OneDrive\Recovery tool\DataRecoveryWebService\DataRecoveryWebService\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Vamsi\OneDrive\Recovery tool\DataRecoveryWebService\DataRecoveryWebService\bin\roslyn\vbc.exe
+C:\Vamsi\OneDrive\Recovery tool\DataRecoveryWebService\DataRecoveryWebService\bin\roslyn\vbc.exe.config
+C:\Vamsi\OneDrive\Recovery tool\DataRecoveryWebService\DataRecoveryWebService\bin\roslyn\vbc.rsp
+C:\Vamsi\OneDrive\Recovery tool\DataRecoveryWebService\DataRecoveryWebService\bin\roslyn\VBCSCompiler.exe
+C:\Vamsi\OneDrive\Recovery tool\DataRecoveryWebService\DataRecoveryWebService\bin\roslyn\VBCSCompiler.exe.config
+C:\Vamsi\OneDrive\Recovery tool\DataRecoveryWebService\DataRecoveryWebService\bin\Antlr3.Runtime.dll
+C:\Vamsi\OneDrive\Recovery tool\DataRecoveryWebService\DataRecoveryWebService\bin\EntityFramework.dll
+C:\Vamsi\OneDrive\Recovery tool\DataRecoveryWebService\DataRecoveryWebService\bin\EntityFramework.SqlServer.dll
+C:\Vamsi\OneDrive\Recovery tool\DataRecoveryWebService\DataRecoveryWebService\bin\FromHeaderAttribute.dll
+C:\Vamsi\OneDrive\Recovery tool\DataRecoveryWebService\DataRecoveryWebService\bin\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Vamsi\OneDrive\Recovery tool\DataRecoveryWebService\DataRecoveryWebService\bin\Microsoft.Bcl.HashCode.dll
+C:\Vamsi\OneDrive\Recovery tool\DataRecoveryWebService\DataRecoveryWebService\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Vamsi\OneDrive\Recovery tool\DataRecoveryWebService\DataRecoveryWebService\bin\Microsoft.Data.SqlClient.dll
+C:\Vamsi\OneDrive\Recovery tool\DataRecoveryWebService\DataRecoveryWebService\bin\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Vamsi\OneDrive\Recovery tool\DataRecoveryWebService\DataRecoveryWebService\bin\Microsoft.EntityFrameworkCore.dll
+C:\Vamsi\OneDrive\Recovery tool\DataRecoveryWebService\DataRecoveryWebService\bin\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Vamsi\OneDrive\Recovery tool\DataRecoveryWebService\DataRecoveryWebService\bin\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Vamsi\OneDrive\Recovery tool\DataRecoveryWebService\DataRecoveryWebService\bin\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Vamsi\OneDrive\Recovery tool\DataRecoveryWebService\DataRecoveryWebService\bin\Microsoft.Extensions.Caching.Memory.dll
+C:\Vamsi\OneDrive\Recovery tool\DataRecoveryWebService\DataRecoveryWebService\bin\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Vamsi\OneDrive\Recovery tool\DataRecoveryWebService\DataRecoveryWebService\bin\Microsoft.Extensions.Configuration.Binder.dll
+C:\Vamsi\OneDrive\Recovery tool\DataRecoveryWebService\DataRecoveryWebService\bin\Microsoft.Extensions.Configuration.dll
+C:\Vamsi\OneDrive\Recovery tool\DataRecoveryWebService\DataRecoveryWebService\bin\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Vamsi\OneDrive\Recovery tool\DataRecoveryWebService\DataRecoveryWebService\bin\Microsoft.Extensions.DependencyInjection.dll
+C:\Vamsi\OneDrive\Recovery tool\DataRecoveryWebService\DataRecoveryWebService\bin\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Vamsi\OneDrive\Recovery tool\DataRecoveryWebService\DataRecoveryWebService\bin\Microsoft.Extensions.Logging.dll
+C:\Vamsi\OneDrive\Recovery tool\DataRecoveryWebService\DataRecoveryWebService\bin\Microsoft.Extensions.Options.dll
+C:\Vamsi\OneDrive\Recovery tool\DataRecoveryWebService\DataRecoveryWebService\bin\Microsoft.Extensions.Primitives.dll
+C:\Vamsi\OneDrive\Recovery tool\DataRecoveryWebService\DataRecoveryWebService\bin\Microsoft.Identity.Client.dll
+C:\Vamsi\OneDrive\Recovery tool\DataRecoveryWebService\DataRecoveryWebService\bin\Microsoft.Web.Infrastructure.dll
+C:\Vamsi\OneDrive\Recovery tool\DataRecoveryWebService\DataRecoveryWebService\bin\Newtonsoft.Json.dll
+C:\Vamsi\OneDrive\Recovery tool\DataRecoveryWebService\DataRecoveryWebService\bin\Swagger.Net.dll
+C:\Vamsi\OneDrive\Recovery tool\DataRecoveryWebService\DataRecoveryWebService\bin\System.Buffers.dll
+C:\Vamsi\OneDrive\Recovery tool\DataRecoveryWebService\DataRecoveryWebService\bin\System.Collections.Immutable.dll
+C:\Vamsi\OneDrive\Recovery tool\DataRecoveryWebService\DataRecoveryWebService\bin\System.ComponentModel.Annotations.dll
+C:\Vamsi\OneDrive\Recovery tool\DataRecoveryWebService\DataRecoveryWebService\bin\System.Diagnostics.DiagnosticSource.dll
+C:\Vamsi\OneDrive\Recovery tool\DataRecoveryWebService\DataRecoveryWebService\bin\System.Memory.dll
+C:\Vamsi\OneDrive\Recovery tool\DataRecoveryWebService\DataRecoveryWebService\bin\System.Net.Http.Formatting.dll
+C:\Vamsi\OneDrive\Recovery tool\DataRecoveryWebService\DataRecoveryWebService\bin\System.Numerics.Vectors.dll
+C:\Vamsi\OneDrive\Recovery tool\DataRecoveryWebService\DataRecoveryWebService\bin\System.Runtime.CompilerServices.Unsafe.dll
+C:\Vamsi\OneDrive\Recovery tool\DataRecoveryWebService\DataRecoveryWebService\bin\System.Threading.Tasks.Extensions.dll
+C:\Vamsi\OneDrive\Recovery tool\DataRecoveryWebService\DataRecoveryWebService\bin\System.Web.Helpers.dll
+C:\Vamsi\OneDrive\Recovery tool\DataRecoveryWebService\DataRecoveryWebService\bin\System.Web.Http.dll
+C:\Vamsi\OneDrive\Recovery tool\DataRecoveryWebService\DataRecoveryWebService\bin\System.Web.Http.WebHost.dll
+C:\Vamsi\OneDrive\Recovery tool\DataRecoveryWebService\DataRecoveryWebService\bin\System.Web.Mvc.dll
+C:\Vamsi\OneDrive\Recovery tool\DataRecoveryWebService\DataRecoveryWebService\bin\System.Web.Optimization.dll
+C:\Vamsi\OneDrive\Recovery tool\DataRecoveryWebService\DataRecoveryWebService\bin\System.Web.Razor.dll
+C:\Vamsi\OneDrive\Recovery tool\DataRecoveryWebService\DataRecoveryWebService\bin\System.Web.WebPages.Deployment.dll
+C:\Vamsi\OneDrive\Recovery tool\DataRecoveryWebService\DataRecoveryWebService\bin\System.Web.WebPages.dll
+C:\Vamsi\OneDrive\Recovery tool\DataRecoveryWebService\DataRecoveryWebService\bin\System.Web.WebPages.Razor.dll
+C:\Vamsi\OneDrive\Recovery tool\DataRecoveryWebService\DataRecoveryWebService\bin\WebActivatorEx.dll
+C:\Vamsi\OneDrive\Recovery tool\DataRecoveryWebService\DataRecoveryWebService\bin\WebGrease.dll
+C:\Vamsi\OneDrive\Recovery tool\DataRecoveryWebService\DataRecoveryWebService\bin\EntityFramework.xml
+C:\Vamsi\OneDrive\Recovery tool\DataRecoveryWebService\DataRecoveryWebService\bin\EntityFramework.SqlServer.xml
+C:\Vamsi\OneDrive\Recovery tool\DataRecoveryWebService\DataRecoveryWebService\bin\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Vamsi\OneDrive\Recovery tool\DataRecoveryWebService\DataRecoveryWebService\bin\Microsoft.Bcl.HashCode.xml
+C:\Vamsi\OneDrive\Recovery tool\DataRecoveryWebService\DataRecoveryWebService\bin\Microsoft.Data.SqlClient.pdb
+C:\Vamsi\OneDrive\Recovery tool\DataRecoveryWebService\DataRecoveryWebService\bin\Microsoft.EntityFrameworkCore.xml
+C:\Vamsi\OneDrive\Recovery tool\DataRecoveryWebService\DataRecoveryWebService\bin\Microsoft.EntityFrameworkCore.Abstractions.xml
+C:\Vamsi\OneDrive\Recovery tool\DataRecoveryWebService\DataRecoveryWebService\bin\Microsoft.EntityFrameworkCore.Relational.xml
+C:\Vamsi\OneDrive\Recovery tool\DataRecoveryWebService\DataRecoveryWebService\bin\Microsoft.EntityFrameworkCore.SqlServer.xml
+C:\Vamsi\OneDrive\Recovery tool\DataRecoveryWebService\DataRecoveryWebService\bin\Microsoft.Extensions.Caching.Abstractions.xml
+C:\Vamsi\OneDrive\Recovery tool\DataRecoveryWebService\DataRecoveryWebService\bin\Microsoft.Extensions.Caching.Memory.xml
+C:\Vamsi\OneDrive\Recovery tool\DataRecoveryWebService\DataRecoveryWebService\bin\Microsoft.Extensions.Configuration.xml
+C:\Vamsi\OneDrive\Recovery tool\DataRecoveryWebService\DataRecoveryWebService\bin\Microsoft.Extensions.Configuration.Abstractions.xml
+C:\Vamsi\OneDrive\Recovery tool\DataRecoveryWebService\DataRecoveryWebService\bin\Microsoft.Extensions.Configuration.Binder.xml
+C:\Vamsi\OneDrive\Recovery tool\DataRecoveryWebService\DataRecoveryWebService\bin\Microsoft.Extensions.DependencyInjection.xml
+C:\Vamsi\OneDrive\Recovery tool\DataRecoveryWebService\DataRecoveryWebService\bin\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+C:\Vamsi\OneDrive\Recovery tool\DataRecoveryWebService\DataRecoveryWebService\bin\Microsoft.Extensions.Logging.xml
+C:\Vamsi\OneDrive\Recovery tool\DataRecoveryWebService\DataRecoveryWebService\bin\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Vamsi\OneDrive\Recovery tool\DataRecoveryWebService\DataRecoveryWebService\bin\Microsoft.Extensions.Options.xml
+C:\Vamsi\OneDrive\Recovery tool\DataRecoveryWebService\DataRecoveryWebService\bin\Microsoft.Extensions.Primitives.xml
+C:\Vamsi\OneDrive\Recovery tool\DataRecoveryWebService\DataRecoveryWebService\bin\Microsoft.Identity.Client.xml
+C:\Vamsi\OneDrive\Recovery tool\DataRecoveryWebService\DataRecoveryWebService\bin\System.Buffers.xml
+C:\Vamsi\OneDrive\Recovery tool\DataRecoveryWebService\DataRecoveryWebService\bin\System.Collections.Immutable.xml
+C:\Vamsi\OneDrive\Recovery tool\DataRecoveryWebService\DataRecoveryWebService\bin\System.Diagnostics.DiagnosticSource.xml
+C:\Vamsi\OneDrive\Recovery tool\DataRecoveryWebService\DataRecoveryWebService\bin\System.Memory.xml
+C:\Vamsi\OneDrive\Recovery tool\DataRecoveryWebService\DataRecoveryWebService\bin\System.Numerics.Vectors.xml
+C:\Vamsi\OneDrive\Recovery tool\DataRecoveryWebService\DataRecoveryWebService\bin\System.Runtime.CompilerServices.Unsafe.xml
+C:\Vamsi\OneDrive\Recovery tool\DataRecoveryWebService\DataRecoveryWebService\bin\System.Threading.Tasks.Extensions.xml
+C:\Vamsi\OneDrive\Recovery tool\DataRecoveryWebService\DataRecoveryWebService\bin\Newtonsoft.Json.xml
+C:\Vamsi\OneDrive\Recovery tool\DataRecoveryWebService\DataRecoveryWebService\bin\System.Net.Http.Formatting.xml
+C:\Vamsi\OneDrive\Recovery tool\DataRecoveryWebService\DataRecoveryWebService\bin\System.Web.Helpers.xml
+C:\Vamsi\OneDrive\Recovery tool\DataRecoveryWebService\DataRecoveryWebService\bin\System.Web.Http.xml
+C:\Vamsi\OneDrive\Recovery tool\DataRecoveryWebService\DataRecoveryWebService\bin\System.Web.Http.WebHost.xml
+C:\Vamsi\OneDrive\Recovery tool\DataRecoveryWebService\DataRecoveryWebService\bin\System.Web.Mvc.xml
+C:\Vamsi\OneDrive\Recovery tool\DataRecoveryWebService\DataRecoveryWebService\bin\System.Web.Optimization.xml
+C:\Vamsi\OneDrive\Recovery tool\DataRecoveryWebService\DataRecoveryWebService\bin\System.Web.Razor.xml
+C:\Vamsi\OneDrive\Recovery tool\DataRecoveryWebService\DataRecoveryWebService\bin\System.Web.WebPages.xml
+C:\Vamsi\OneDrive\Recovery tool\DataRecoveryWebService\DataRecoveryWebService\bin\System.Web.WebPages.Deployment.xml
+C:\Vamsi\OneDrive\Recovery tool\DataRecoveryWebService\DataRecoveryWebService\bin\System.Web.WebPages.Razor.xml
+C:\Vamsi\OneDrive\Recovery tool\DataRecoveryWebService\DataRecoveryWebService\bin\Antlr3.Runtime.pdb
+C:\Vamsi\OneDrive\Recovery tool\DataRecoveryWebService\DataRecoveryWebService\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Vamsi\OneDrive\Recovery tool\DataRecoveryWebService\DataRecoveryWebService\bin\de\Microsoft.Data.SqlClient.resources.dll
+C:\Vamsi\OneDrive\Recovery tool\DataRecoveryWebService\DataRecoveryWebService\bin\es\Microsoft.Data.SqlClient.resources.dll
+C:\Vamsi\OneDrive\Recovery tool\DataRecoveryWebService\DataRecoveryWebService\bin\fr\Microsoft.Data.SqlClient.resources.dll
+C:\Vamsi\OneDrive\Recovery tool\DataRecoveryWebService\DataRecoveryWebService\bin\it\Microsoft.Data.SqlClient.resources.dll
+C:\Vamsi\OneDrive\Recovery tool\DataRecoveryWebService\DataRecoveryWebService\bin\ja\Microsoft.Data.SqlClient.resources.dll
+C:\Vamsi\OneDrive\Recovery tool\DataRecoveryWebService\DataRecoveryWebService\bin\ko\Microsoft.Data.SqlClient.resources.dll
+C:\Vamsi\OneDrive\Recovery tool\DataRecoveryWebService\DataRecoveryWebService\bin\pt-BR\Microsoft.Data.SqlClient.resources.dll
+C:\Vamsi\OneDrive\Recovery tool\DataRecoveryWebService\DataRecoveryWebService\bin\ru\Microsoft.Data.SqlClient.resources.dll
+C:\Vamsi\OneDrive\Recovery tool\DataRecoveryWebService\DataRecoveryWebService\bin\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+C:\Vamsi\OneDrive\Recovery tool\DataRecoveryWebService\DataRecoveryWebService\bin\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+C:\Vamsi\OneDrive\Recovery tool\DataRecoveryWebService\DataRecoveryWebService\obj\Debug\DataRecoveryWebService.csprojAssemblyReference.cache
+C:\Vamsi\OneDrive\Recovery tool\DataRecoveryWebService\DataRecoveryWebService\obj\Debug\DataRecoveryWebService.csproj.CoreCompileInputs.cache
+C:\Vamsi\OneDrive\Recovery tool\DataRecoveryWebService\DataRecoveryWebService\obj\Debug\DataRecoveryWebService.csproj.CopyComplete
+C:\Vamsi\OneDrive\Recovery tool\DataRecoveryWebService\DataRecoveryWebService\obj\Debug\DataRecoveryWebService.dll
+C:\Vamsi\OneDrive\Recovery tool\DataRecoveryWebService\DataRecoveryWebService\obj\Debug\DataRecoveryWebService.pdb
+C:\Users\u\OneDrive\Recovery tool\DataRecoveryWebService\DataRecoveryWebService\obj\Debug\DataRecoveryWebService.csprojAssemblyReference.cache
+C:\Users\u\OneDrive\Recovery tool\DataRecoveryWebService\DataRecoveryWebService\obj\Debug\DataRecoveryWebService.csproj.CoreCompileInputs.cache
+C:\Users\u\OneDrive\Recovery tool\DataRecoveryWebService\DataRecoveryWebService\obj\Debug\DataRecoveryWebService.dll
+C:\Users\u\OneDrive\Recovery tool\DataRecoveryWebService\DataRecoveryWebService\obj\Debug\DataRecoveryWebService.pdb
+C:\Users\u\OneDrive\Recovery tool\DataRecoveryWebService\DataRecoveryWebService\bin\DataRecoveryWebService.dll.config
+C:\Users\u\OneDrive\Recovery tool\DataRecoveryWebService\DataRecoveryWebService\bin\DataRecoveryWebService.dll
+C:\Users\u\OneDrive\Recovery tool\DataRecoveryWebService\DataRecoveryWebService\bin\DataRecoveryWebService.pdb
+C:\Users\u\OneDrive\Recovery tool\DataRecoveryWebService\DataRecoveryWebService\bin\roslyn\csc.exe
+C:\Users\u\OneDrive\Recovery tool\DataRecoveryWebService\DataRecoveryWebService\bin\roslyn\csc.exe.config
+C:\Users\u\OneDrive\Recovery tool\DataRecoveryWebService\DataRecoveryWebService\bin\roslyn\csc.rsp
+C:\Users\u\OneDrive\Recovery tool\DataRecoveryWebService\DataRecoveryWebService\bin\roslyn\csi.exe
+C:\Users\u\OneDrive\Recovery tool\DataRecoveryWebService\DataRecoveryWebService\bin\roslyn\csi.exe.config
+C:\Users\u\OneDrive\Recovery tool\DataRecoveryWebService\DataRecoveryWebService\bin\roslyn\csi.rsp
+C:\Users\u\OneDrive\Recovery tool\DataRecoveryWebService\DataRecoveryWebService\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\u\OneDrive\Recovery tool\DataRecoveryWebService\DataRecoveryWebService\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\u\OneDrive\Recovery tool\DataRecoveryWebService\DataRecoveryWebService\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\u\OneDrive\Recovery tool\DataRecoveryWebService\DataRecoveryWebService\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\u\OneDrive\Recovery tool\DataRecoveryWebService\DataRecoveryWebService\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\u\OneDrive\Recovery tool\DataRecoveryWebService\DataRecoveryWebService\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\u\OneDrive\Recovery tool\DataRecoveryWebService\DataRecoveryWebService\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\u\OneDrive\Recovery tool\DataRecoveryWebService\DataRecoveryWebService\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\u\OneDrive\Recovery tool\DataRecoveryWebService\DataRecoveryWebService\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\u\OneDrive\Recovery tool\DataRecoveryWebService\DataRecoveryWebService\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\u\OneDrive\Recovery tool\DataRecoveryWebService\DataRecoveryWebService\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\u\OneDrive\Recovery tool\DataRecoveryWebService\DataRecoveryWebService\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\u\OneDrive\Recovery tool\DataRecoveryWebService\DataRecoveryWebService\bin\roslyn\System.AppContext.dll
+C:\Users\u\OneDrive\Recovery tool\DataRecoveryWebService\DataRecoveryWebService\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\u\OneDrive\Recovery tool\DataRecoveryWebService\DataRecoveryWebService\bin\roslyn\System.Console.dll
+C:\Users\u\OneDrive\Recovery tool\DataRecoveryWebService\DataRecoveryWebService\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\u\OneDrive\Recovery tool\DataRecoveryWebService\DataRecoveryWebService\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\u\OneDrive\Recovery tool\DataRecoveryWebService\DataRecoveryWebService\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\u\OneDrive\Recovery tool\DataRecoveryWebService\DataRecoveryWebService\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\u\OneDrive\Recovery tool\DataRecoveryWebService\DataRecoveryWebService\bin\roslyn\System.IO.Compression.dll
+C:\Users\u\OneDrive\Recovery tool\DataRecoveryWebService\DataRecoveryWebService\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\u\OneDrive\Recovery tool\DataRecoveryWebService\DataRecoveryWebService\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\u\OneDrive\Recovery tool\DataRecoveryWebService\DataRecoveryWebService\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\u\OneDrive\Recovery tool\DataRecoveryWebService\DataRecoveryWebService\bin\roslyn\System.Net.Http.dll
+C:\Users\u\OneDrive\Recovery tool\DataRecoveryWebService\DataRecoveryWebService\bin\roslyn\System.Net.Sockets.dll
+C:\Users\u\OneDrive\Recovery tool\DataRecoveryWebService\DataRecoveryWebService\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\u\OneDrive\Recovery tool\DataRecoveryWebService\DataRecoveryWebService\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\u\OneDrive\Recovery tool\DataRecoveryWebService\DataRecoveryWebService\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\u\OneDrive\Recovery tool\DataRecoveryWebService\DataRecoveryWebService\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\u\OneDrive\Recovery tool\DataRecoveryWebService\DataRecoveryWebService\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\u\OneDrive\Recovery tool\DataRecoveryWebService\DataRecoveryWebService\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\u\OneDrive\Recovery tool\DataRecoveryWebService\DataRecoveryWebService\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\u\OneDrive\Recovery tool\DataRecoveryWebService\DataRecoveryWebService\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\u\OneDrive\Recovery tool\DataRecoveryWebService\DataRecoveryWebService\bin\roslyn\System.ValueTuple.dll
+C:\Users\u\OneDrive\Recovery tool\DataRecoveryWebService\DataRecoveryWebService\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\u\OneDrive\Recovery tool\DataRecoveryWebService\DataRecoveryWebService\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\u\OneDrive\Recovery tool\DataRecoveryWebService\DataRecoveryWebService\bin\roslyn\System.Xml.XPath.dll
+C:\Users\u\OneDrive\Recovery tool\DataRecoveryWebService\DataRecoveryWebService\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\u\OneDrive\Recovery tool\DataRecoveryWebService\DataRecoveryWebService\bin\roslyn\vbc.exe
+C:\Users\u\OneDrive\Recovery tool\DataRecoveryWebService\DataRecoveryWebService\bin\roslyn\vbc.exe.config
+C:\Users\u\OneDrive\Recovery tool\DataRecoveryWebService\DataRecoveryWebService\bin\roslyn\vbc.rsp
+C:\Users\u\OneDrive\Recovery tool\DataRecoveryWebService\DataRecoveryWebService\bin\roslyn\VBCSCompiler.exe
+C:\Users\u\OneDrive\Recovery tool\DataRecoveryWebService\DataRecoveryWebService\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\u\OneDrive\Recovery tool\DataRecoveryWebService\DataRecoveryWebService\bin\Antlr3.Runtime.dll
+C:\Users\u\OneDrive\Recovery tool\DataRecoveryWebService\DataRecoveryWebService\bin\EntityFramework.dll
+C:\Users\u\OneDrive\Recovery tool\DataRecoveryWebService\DataRecoveryWebService\bin\EntityFramework.SqlServer.dll
+C:\Users\u\OneDrive\Recovery tool\DataRecoveryWebService\DataRecoveryWebService\bin\FromHeaderAttribute.dll
+C:\Users\u\OneDrive\Recovery tool\DataRecoveryWebService\DataRecoveryWebService\bin\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\u\OneDrive\Recovery tool\DataRecoveryWebService\DataRecoveryWebService\bin\Microsoft.Bcl.HashCode.dll
+C:\Users\u\OneDrive\Recovery tool\DataRecoveryWebService\DataRecoveryWebService\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\u\OneDrive\Recovery tool\DataRecoveryWebService\DataRecoveryWebService\bin\Microsoft.Data.SqlClient.dll
+C:\Users\u\OneDrive\Recovery tool\DataRecoveryWebService\DataRecoveryWebService\bin\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\u\OneDrive\Recovery tool\DataRecoveryWebService\DataRecoveryWebService\bin\Microsoft.EntityFrameworkCore.dll
+C:\Users\u\OneDrive\Recovery tool\DataRecoveryWebService\DataRecoveryWebService\bin\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\u\OneDrive\Recovery tool\DataRecoveryWebService\DataRecoveryWebService\bin\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\u\OneDrive\Recovery tool\DataRecoveryWebService\DataRecoveryWebService\bin\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\u\OneDrive\Recovery tool\DataRecoveryWebService\DataRecoveryWebService\bin\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\u\OneDrive\Recovery tool\DataRecoveryWebService\DataRecoveryWebService\bin\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\u\OneDrive\Recovery tool\DataRecoveryWebService\DataRecoveryWebService\bin\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\u\OneDrive\Recovery tool\DataRecoveryWebService\DataRecoveryWebService\bin\Microsoft.Extensions.Configuration.dll
+C:\Users\u\OneDrive\Recovery tool\DataRecoveryWebService\DataRecoveryWebService\bin\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\u\OneDrive\Recovery tool\DataRecoveryWebService\DataRecoveryWebService\bin\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\u\OneDrive\Recovery tool\DataRecoveryWebService\DataRecoveryWebService\bin\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\u\OneDrive\Recovery tool\DataRecoveryWebService\DataRecoveryWebService\bin\Microsoft.Extensions.Logging.dll
+C:\Users\u\OneDrive\Recovery tool\DataRecoveryWebService\DataRecoveryWebService\bin\Microsoft.Extensions.Options.dll
+C:\Users\u\OneDrive\Recovery tool\DataRecoveryWebService\DataRecoveryWebService\bin\Microsoft.Extensions.Primitives.dll
+C:\Users\u\OneDrive\Recovery tool\DataRecoveryWebService\DataRecoveryWebService\bin\Microsoft.Identity.Client.dll
+C:\Users\u\OneDrive\Recovery tool\DataRecoveryWebService\DataRecoveryWebService\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\u\OneDrive\Recovery tool\DataRecoveryWebService\DataRecoveryWebService\bin\Newtonsoft.Json.dll
+C:\Users\u\OneDrive\Recovery tool\DataRecoveryWebService\DataRecoveryWebService\bin\Swagger.Net.dll
+C:\Users\u\OneDrive\Recovery tool\DataRecoveryWebService\DataRecoveryWebService\bin\System.Buffers.dll
+C:\Users\u\OneDrive\Recovery tool\DataRecoveryWebService\DataRecoveryWebService\bin\System.Collections.Immutable.dll
+C:\Users\u\OneDrive\Recovery tool\DataRecoveryWebService\DataRecoveryWebService\bin\System.ComponentModel.Annotations.dll
+C:\Users\u\OneDrive\Recovery tool\DataRecoveryWebService\DataRecoveryWebService\bin\System.Diagnostics.DiagnosticSource.dll
+C:\Users\u\OneDrive\Recovery tool\DataRecoveryWebService\DataRecoveryWebService\bin\System.Memory.dll
+C:\Users\u\OneDrive\Recovery tool\DataRecoveryWebService\DataRecoveryWebService\bin\System.Net.Http.Formatting.dll
+C:\Users\u\OneDrive\Recovery tool\DataRecoveryWebService\DataRecoveryWebService\bin\System.Numerics.Vectors.dll
+C:\Users\u\OneDrive\Recovery tool\DataRecoveryWebService\DataRecoveryWebService\bin\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\u\OneDrive\Recovery tool\DataRecoveryWebService\DataRecoveryWebService\bin\System.Threading.Tasks.Extensions.dll
+C:\Users\u\OneDrive\Recovery tool\DataRecoveryWebService\DataRecoveryWebService\bin\System.Web.Helpers.dll
+C:\Users\u\OneDrive\Recovery tool\DataRecoveryWebService\DataRecoveryWebService\bin\System.Web.Http.dll
+C:\Users\u\OneDrive\Recovery tool\DataRecoveryWebService\DataRecoveryWebService\bin\System.Web.Http.WebHost.dll
+C:\Users\u\OneDrive\Recovery tool\DataRecoveryWebService\DataRecoveryWebService\bin\System.Web.Mvc.dll
+C:\Users\u\OneDrive\Recovery tool\DataRecoveryWebService\DataRecoveryWebService\bin\System.Web.Optimization.dll
+C:\Users\u\OneDrive\Recovery tool\DataRecoveryWebService\DataRecoveryWebService\bin\System.Web.Razor.dll
+C:\Users\u\OneDrive\Recovery tool\DataRecoveryWebService\DataRecoveryWebService\bin\System.Web.WebPages.Deployment.dll
+C:\Users\u\OneDrive\Recovery tool\DataRecoveryWebService\DataRecoveryWebService\bin\System.Web.WebPages.dll
+C:\Users\u\OneDrive\Recovery tool\DataRecoveryWebService\DataRecoveryWebService\bin\System.Web.WebPages.Razor.dll
+C:\Users\u\OneDrive\Recovery tool\DataRecoveryWebService\DataRecoveryWebService\bin\WebActivatorEx.dll
+C:\Users\u\OneDrive\Recovery tool\DataRecoveryWebService\DataRecoveryWebService\bin\WebGrease.dll
+C:\Users\u\OneDrive\Recovery tool\DataRecoveryWebService\DataRecoveryWebService\bin\EntityFramework.xml
+C:\Users\u\OneDrive\Recovery tool\DataRecoveryWebService\DataRecoveryWebService\bin\EntityFramework.SqlServer.xml
+C:\Users\u\OneDrive\Recovery tool\DataRecoveryWebService\DataRecoveryWebService\bin\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\u\OneDrive\Recovery tool\DataRecoveryWebService\DataRecoveryWebService\bin\Microsoft.Bcl.HashCode.xml
+C:\Users\u\OneDrive\Recovery tool\DataRecoveryWebService\DataRecoveryWebService\bin\Microsoft.Data.SqlClient.pdb
+C:\Users\u\OneDrive\Recovery tool\DataRecoveryWebService\DataRecoveryWebService\bin\Microsoft.EntityFrameworkCore.xml
+C:\Users\u\OneDrive\Recovery tool\DataRecoveryWebService\DataRecoveryWebService\bin\Microsoft.EntityFrameworkCore.Abstractions.xml
+C:\Users\u\OneDrive\Recovery tool\DataRecoveryWebService\DataRecoveryWebService\bin\Microsoft.EntityFrameworkCore.Relational.xml
+C:\Users\u\OneDrive\Recovery tool\DataRecoveryWebService\DataRecoveryWebService\bin\Microsoft.EntityFrameworkCore.SqlServer.xml
+C:\Users\u\OneDrive\Recovery tool\DataRecoveryWebService\DataRecoveryWebService\bin\Microsoft.Extensions.Caching.Abstractions.xml
+C:\Users\u\OneDrive\Recovery tool\DataRecoveryWebService\DataRecoveryWebService\bin\Microsoft.Extensions.Caching.Memory.xml
+C:\Users\u\OneDrive\Recovery tool\DataRecoveryWebService\DataRecoveryWebService\bin\Microsoft.Extensions.Configuration.xml
+C:\Users\u\OneDrive\Recovery tool\DataRecoveryWebService\DataRecoveryWebService\bin\Microsoft.Extensions.Configuration.Abstractions.xml
+C:\Users\u\OneDrive\Recovery tool\DataRecoveryWebService\DataRecoveryWebService\bin\Microsoft.Extensions.Configuration.Binder.xml
+C:\Users\u\OneDrive\Recovery tool\DataRecoveryWebService\DataRecoveryWebService\bin\Microsoft.Extensions.DependencyInjection.xml
+C:\Users\u\OneDrive\Recovery tool\DataRecoveryWebService\DataRecoveryWebService\bin\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+C:\Users\u\OneDrive\Recovery tool\DataRecoveryWebService\DataRecoveryWebService\bin\Microsoft.Extensions.Logging.xml
+C:\Users\u\OneDrive\Recovery tool\DataRecoveryWebService\DataRecoveryWebService\bin\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\u\OneDrive\Recovery tool\DataRecoveryWebService\DataRecoveryWebService\bin\Microsoft.Extensions.Options.xml
+C:\Users\u\OneDrive\Recovery tool\DataRecoveryWebService\DataRecoveryWebService\bin\Microsoft.Extensions.Primitives.xml
+C:\Users\u\OneDrive\Recovery tool\DataRecoveryWebService\DataRecoveryWebService\bin\Microsoft.Identity.Client.xml
+C:\Users\u\OneDrive\Recovery tool\DataRecoveryWebService\DataRecoveryWebService\bin\System.Buffers.xml
+C:\Users\u\OneDrive\Recovery tool\DataRecoveryWebService\DataRecoveryWebService\bin\System.Collections.Immutable.xml
+C:\Users\u\OneDrive\Recovery tool\DataRecoveryWebService\DataRecoveryWebService\bin\System.Diagnostics.DiagnosticSource.xml
+C:\Users\u\OneDrive\Recovery tool\DataRecoveryWebService\DataRecoveryWebService\bin\System.Memory.xml
+C:\Users\u\OneDrive\Recovery tool\DataRecoveryWebService\DataRecoveryWebService\bin\System.Numerics.Vectors.xml
+C:\Users\u\OneDrive\Recovery tool\DataRecoveryWebService\DataRecoveryWebService\bin\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\u\OneDrive\Recovery tool\DataRecoveryWebService\DataRecoveryWebService\bin\System.Threading.Tasks.Extensions.xml
+C:\Users\u\OneDrive\Recovery tool\DataRecoveryWebService\DataRecoveryWebService\bin\Newtonsoft.Json.xml
+C:\Users\u\OneDrive\Recovery tool\DataRecoveryWebService\DataRecoveryWebService\bin\System.Net.Http.Formatting.xml
+C:\Users\u\OneDrive\Recovery tool\DataRecoveryWebService\DataRecoveryWebService\bin\System.Web.Helpers.xml
+C:\Users\u\OneDrive\Recovery tool\DataRecoveryWebService\DataRecoveryWebService\bin\System.Web.Http.xml
+C:\Users\u\OneDrive\Recovery tool\DataRecoveryWebService\DataRecoveryWebService\bin\System.Web.Http.WebHost.xml
+C:\Users\u\OneDrive\Recovery tool\DataRecoveryWebService\DataRecoveryWebService\bin\System.Web.Mvc.xml
+C:\Users\u\OneDrive\Recovery tool\DataRecoveryWebService\DataRecoveryWebService\bin\System.Web.Optimization.xml
+C:\Users\u\OneDrive\Recovery tool\DataRecoveryWebService\DataRecoveryWebService\bin\System.Web.Razor.xml
+C:\Users\u\OneDrive\Recovery tool\DataRecoveryWebService\DataRecoveryWebService\bin\System.Web.WebPages.xml
+C:\Users\u\OneDrive\Recovery tool\DataRecoveryWebService\DataRecoveryWebService\bin\System.Web.WebPages.Deployment.xml
+C:\Users\u\OneDrive\Recovery tool\DataRecoveryWebService\DataRecoveryWebService\bin\System.Web.WebPages.Razor.xml
+C:\Users\u\OneDrive\Recovery tool\DataRecoveryWebService\DataRecoveryWebService\bin\Antlr3.Runtime.pdb
+C:\Users\u\OneDrive\Recovery tool\DataRecoveryWebService\DataRecoveryWebService\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\u\OneDrive\Recovery tool\DataRecoveryWebService\DataRecoveryWebService\bin\de\Microsoft.Data.SqlClient.resources.dll
+C:\Users\u\OneDrive\Recovery tool\DataRecoveryWebService\DataRecoveryWebService\bin\es\Microsoft.Data.SqlClient.resources.dll
+C:\Users\u\OneDrive\Recovery tool\DataRecoveryWebService\DataRecoveryWebService\bin\fr\Microsoft.Data.SqlClient.resources.dll
+C:\Users\u\OneDrive\Recovery tool\DataRecoveryWebService\DataRecoveryWebService\bin\it\Microsoft.Data.SqlClient.resources.dll
+C:\Users\u\OneDrive\Recovery tool\DataRecoveryWebService\DataRecoveryWebService\bin\ja\Microsoft.Data.SqlClient.resources.dll
+C:\Users\u\OneDrive\Recovery tool\DataRecoveryWebService\DataRecoveryWebService\bin\ko\Microsoft.Data.SqlClient.resources.dll
+C:\Users\u\OneDrive\Recovery tool\DataRecoveryWebService\DataRecoveryWebService\bin\pt-BR\Microsoft.Data.SqlClient.resources.dll
+C:\Users\u\OneDrive\Recovery tool\DataRecoveryWebService\DataRecoveryWebService\bin\ru\Microsoft.Data.SqlClient.resources.dll
+C:\Users\u\OneDrive\Recovery tool\DataRecoveryWebService\DataRecoveryWebService\bin\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+C:\Users\u\OneDrive\Recovery tool\DataRecoveryWebService\DataRecoveryWebService\bin\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+C:\Users\u\OneDrive\Recovery tool\DataRecoveryWebService\DataRecoveryWebService\obj\Debug\DataRecoveryWebService.csproj.CopyComplete
+C:\Users\administrator.DBT\source\repos\svkrishnagavva\ITManagerDev\DataRecoveryWebService\obj\Debug\DataRecoveryWebService.dll
+C:\Users\administrator.DBT\source\repos\svkrishnagavva\ITManagerDev\DataRecoveryWebService\obj\Debug\DataRecoveryWebService.pdb
+C:\Users\administrator.DBT\source\repos\svkrishnagavva\ITManagerDev\DataRecoveryWebService\obj\Debug\DataRecoveryWebService.csproj.CoreCompileInputs.cache
+C:\Users\administrator.DBT\source\repos\svkrishnagavva\ITManagerDev\DataRecoveryWebService\bin\DataRecoveryWebService.dll.config
+C:\Users\administrator.DBT\source\repos\svkrishnagavva\ITManagerDev\DataRecoveryWebService\bin\DataRecoveryWebService.dll
+C:\Users\administrator.DBT\source\repos\svkrishnagavva\ITManagerDev\DataRecoveryWebService\bin\DataRecoveryWebService.pdb
+C:\Users\administrator.DBT\source\repos\svkrishnagavva\ITManagerDev\DataRecoveryWebService\bin\roslyn\csc.exe
+C:\Users\administrator.DBT\source\repos\svkrishnagavva\ITManagerDev\DataRecoveryWebService\bin\roslyn\csc.exe.config
+C:\Users\administrator.DBT\source\repos\svkrishnagavva\ITManagerDev\DataRecoveryWebService\bin\roslyn\csc.rsp
+C:\Users\administrator.DBT\source\repos\svkrishnagavva\ITManagerDev\DataRecoveryWebService\bin\roslyn\csi.exe
+C:\Users\administrator.DBT\source\repos\svkrishnagavva\ITManagerDev\DataRecoveryWebService\bin\roslyn\csi.exe.config
+C:\Users\administrator.DBT\source\repos\svkrishnagavva\ITManagerDev\DataRecoveryWebService\bin\roslyn\csi.rsp
+C:\Users\administrator.DBT\source\repos\svkrishnagavva\ITManagerDev\DataRecoveryWebService\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\administrator.DBT\source\repos\svkrishnagavva\ITManagerDev\DataRecoveryWebService\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\administrator.DBT\source\repos\svkrishnagavva\ITManagerDev\DataRecoveryWebService\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\administrator.DBT\source\repos\svkrishnagavva\ITManagerDev\DataRecoveryWebService\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\administrator.DBT\source\repos\svkrishnagavva\ITManagerDev\DataRecoveryWebService\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\administrator.DBT\source\repos\svkrishnagavva\ITManagerDev\DataRecoveryWebService\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\administrator.DBT\source\repos\svkrishnagavva\ITManagerDev\DataRecoveryWebService\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\administrator.DBT\source\repos\svkrishnagavva\ITManagerDev\DataRecoveryWebService\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\administrator.DBT\source\repos\svkrishnagavva\ITManagerDev\DataRecoveryWebService\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\administrator.DBT\source\repos\svkrishnagavva\ITManagerDev\DataRecoveryWebService\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\administrator.DBT\source\repos\svkrishnagavva\ITManagerDev\DataRecoveryWebService\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\administrator.DBT\source\repos\svkrishnagavva\ITManagerDev\DataRecoveryWebService\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\administrator.DBT\source\repos\svkrishnagavva\ITManagerDev\DataRecoveryWebService\bin\roslyn\System.AppContext.dll
+C:\Users\administrator.DBT\source\repos\svkrishnagavva\ITManagerDev\DataRecoveryWebService\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\administrator.DBT\source\repos\svkrishnagavva\ITManagerDev\DataRecoveryWebService\bin\roslyn\System.Console.dll
+C:\Users\administrator.DBT\source\repos\svkrishnagavva\ITManagerDev\DataRecoveryWebService\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\administrator.DBT\source\repos\svkrishnagavva\ITManagerDev\DataRecoveryWebService\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\administrator.DBT\source\repos\svkrishnagavva\ITManagerDev\DataRecoveryWebService\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\administrator.DBT\source\repos\svkrishnagavva\ITManagerDev\DataRecoveryWebService\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\administrator.DBT\source\repos\svkrishnagavva\ITManagerDev\DataRecoveryWebService\bin\roslyn\System.IO.Compression.dll
+C:\Users\administrator.DBT\source\repos\svkrishnagavva\ITManagerDev\DataRecoveryWebService\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\administrator.DBT\source\repos\svkrishnagavva\ITManagerDev\DataRecoveryWebService\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\administrator.DBT\source\repos\svkrishnagavva\ITManagerDev\DataRecoveryWebService\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\administrator.DBT\source\repos\svkrishnagavva\ITManagerDev\DataRecoveryWebService\bin\roslyn\System.Net.Http.dll
+C:\Users\administrator.DBT\source\repos\svkrishnagavva\ITManagerDev\DataRecoveryWebService\bin\roslyn\System.Net.Sockets.dll
+C:\Users\administrator.DBT\source\repos\svkrishnagavva\ITManagerDev\DataRecoveryWebService\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\administrator.DBT\source\repos\svkrishnagavva\ITManagerDev\DataRecoveryWebService\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\administrator.DBT\source\repos\svkrishnagavva\ITManagerDev\DataRecoveryWebService\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\administrator.DBT\source\repos\svkrishnagavva\ITManagerDev\DataRecoveryWebService\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\administrator.DBT\source\repos\svkrishnagavva\ITManagerDev\DataRecoveryWebService\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\administrator.DBT\source\repos\svkrishnagavva\ITManagerDev\DataRecoveryWebService\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\administrator.DBT\source\repos\svkrishnagavva\ITManagerDev\DataRecoveryWebService\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\administrator.DBT\source\repos\svkrishnagavva\ITManagerDev\DataRecoveryWebService\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\administrator.DBT\source\repos\svkrishnagavva\ITManagerDev\DataRecoveryWebService\bin\roslyn\System.ValueTuple.dll
+C:\Users\administrator.DBT\source\repos\svkrishnagavva\ITManagerDev\DataRecoveryWebService\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\administrator.DBT\source\repos\svkrishnagavva\ITManagerDev\DataRecoveryWebService\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\administrator.DBT\source\repos\svkrishnagavva\ITManagerDev\DataRecoveryWebService\bin\roslyn\System.Xml.XPath.dll
+C:\Users\administrator.DBT\source\repos\svkrishnagavva\ITManagerDev\DataRecoveryWebService\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\administrator.DBT\source\repos\svkrishnagavva\ITManagerDev\DataRecoveryWebService\bin\roslyn\vbc.exe
+C:\Users\administrator.DBT\source\repos\svkrishnagavva\ITManagerDev\DataRecoveryWebService\bin\roslyn\vbc.exe.config
+C:\Users\administrator.DBT\source\repos\svkrishnagavva\ITManagerDev\DataRecoveryWebService\bin\roslyn\vbc.rsp
+C:\Users\administrator.DBT\source\repos\svkrishnagavva\ITManagerDev\DataRecoveryWebService\bin\roslyn\VBCSCompiler.exe
+C:\Users\administrator.DBT\source\repos\svkrishnagavva\ITManagerDev\DataRecoveryWebService\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\administrator.DBT\source\repos\svkrishnagavva\ITManagerDev\DataRecoveryWebService\bin\Antlr3.Runtime.dll
+C:\Users\administrator.DBT\source\repos\svkrishnagavva\ITManagerDev\DataRecoveryWebService\bin\EntityFramework.dll
+C:\Users\administrator.DBT\source\repos\svkrishnagavva\ITManagerDev\DataRecoveryWebService\bin\EntityFramework.SqlServer.dll
+C:\Users\administrator.DBT\source\repos\svkrishnagavva\ITManagerDev\DataRecoveryWebService\bin\FromHeaderAttribute.dll
+C:\Users\administrator.DBT\source\repos\svkrishnagavva\ITManagerDev\DataRecoveryWebService\bin\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\administrator.DBT\source\repos\svkrishnagavva\ITManagerDev\DataRecoveryWebService\bin\Microsoft.Bcl.HashCode.dll
+C:\Users\administrator.DBT\source\repos\svkrishnagavva\ITManagerDev\DataRecoveryWebService\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\administrator.DBT\source\repos\svkrishnagavva\ITManagerDev\DataRecoveryWebService\bin\Microsoft.Data.SqlClient.dll
+C:\Users\administrator.DBT\source\repos\svkrishnagavva\ITManagerDev\DataRecoveryWebService\bin\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\administrator.DBT\source\repos\svkrishnagavva\ITManagerDev\DataRecoveryWebService\bin\Microsoft.EntityFrameworkCore.dll
+C:\Users\administrator.DBT\source\repos\svkrishnagavva\ITManagerDev\DataRecoveryWebService\bin\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\administrator.DBT\source\repos\svkrishnagavva\ITManagerDev\DataRecoveryWebService\bin\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\administrator.DBT\source\repos\svkrishnagavva\ITManagerDev\DataRecoveryWebService\bin\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\administrator.DBT\source\repos\svkrishnagavva\ITManagerDev\DataRecoveryWebService\bin\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\administrator.DBT\source\repos\svkrishnagavva\ITManagerDev\DataRecoveryWebService\bin\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\administrator.DBT\source\repos\svkrishnagavva\ITManagerDev\DataRecoveryWebService\bin\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\administrator.DBT\source\repos\svkrishnagavva\ITManagerDev\DataRecoveryWebService\bin\Microsoft.Extensions.Configuration.dll
+C:\Users\administrator.DBT\source\repos\svkrishnagavva\ITManagerDev\DataRecoveryWebService\bin\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\administrator.DBT\source\repos\svkrishnagavva\ITManagerDev\DataRecoveryWebService\bin\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\administrator.DBT\source\repos\svkrishnagavva\ITManagerDev\DataRecoveryWebService\bin\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\administrator.DBT\source\repos\svkrishnagavva\ITManagerDev\DataRecoveryWebService\bin\Microsoft.Extensions.Logging.dll
+C:\Users\administrator.DBT\source\repos\svkrishnagavva\ITManagerDev\DataRecoveryWebService\bin\Microsoft.Extensions.Options.dll
+C:\Users\administrator.DBT\source\repos\svkrishnagavva\ITManagerDev\DataRecoveryWebService\bin\Microsoft.Extensions.Primitives.dll
+C:\Users\administrator.DBT\source\repos\svkrishnagavva\ITManagerDev\DataRecoveryWebService\bin\Microsoft.Identity.Client.dll
+C:\Users\administrator.DBT\source\repos\svkrishnagavva\ITManagerDev\DataRecoveryWebService\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\administrator.DBT\source\repos\svkrishnagavva\ITManagerDev\DataRecoveryWebService\bin\Newtonsoft.Json.dll
+C:\Users\administrator.DBT\source\repos\svkrishnagavva\ITManagerDev\DataRecoveryWebService\bin\Swagger.Net.dll
+C:\Users\administrator.DBT\source\repos\svkrishnagavva\ITManagerDev\DataRecoveryWebService\bin\System.Buffers.dll
+C:\Users\administrator.DBT\source\repos\svkrishnagavva\ITManagerDev\DataRecoveryWebService\bin\System.Collections.Immutable.dll
+C:\Users\administrator.DBT\source\repos\svkrishnagavva\ITManagerDev\DataRecoveryWebService\bin\System.ComponentModel.Annotations.dll
+C:\Users\administrator.DBT\source\repos\svkrishnagavva\ITManagerDev\DataRecoveryWebService\bin\System.Diagnostics.DiagnosticSource.dll
+C:\Users\administrator.DBT\source\repos\svkrishnagavva\ITManagerDev\DataRecoveryWebService\bin\System.Memory.dll
+C:\Users\administrator.DBT\source\repos\svkrishnagavva\ITManagerDev\DataRecoveryWebService\bin\System.Net.Http.Formatting.dll
+C:\Users\administrator.DBT\source\repos\svkrishnagavva\ITManagerDev\DataRecoveryWebService\bin\System.Numerics.Vectors.dll
+C:\Users\administrator.DBT\source\repos\svkrishnagavva\ITManagerDev\DataRecoveryWebService\bin\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\administrator.DBT\source\repos\svkrishnagavva\ITManagerDev\DataRecoveryWebService\bin\System.Threading.Tasks.Extensions.dll
+C:\Users\administrator.DBT\source\repos\svkrishnagavva\ITManagerDev\DataRecoveryWebService\bin\System.Web.Helpers.dll
+C:\Users\administrator.DBT\source\repos\svkrishnagavva\ITManagerDev\DataRecoveryWebService\bin\System.Web.Http.dll
+C:\Users\administrator.DBT\source\repos\svkrishnagavva\ITManagerDev\DataRecoveryWebService\bin\System.Web.Http.WebHost.dll
+C:\Users\administrator.DBT\source\repos\svkrishnagavva\ITManagerDev\DataRecoveryWebService\bin\System.Web.Mvc.dll
+C:\Users\administrator.DBT\source\repos\svkrishnagavva\ITManagerDev\DataRecoveryWebService\bin\System.Web.Optimization.dll
+C:\Users\administrator.DBT\source\repos\svkrishnagavva\ITManagerDev\DataRecoveryWebService\bin\System.Web.Razor.dll
+C:\Users\administrator.DBT\source\repos\svkrishnagavva\ITManagerDev\DataRecoveryWebService\bin\System.Web.WebPages.Deployment.dll
+C:\Users\administrator.DBT\source\repos\svkrishnagavva\ITManagerDev\DataRecoveryWebService\bin\System.Web.WebPages.dll
+C:\Users\administrator.DBT\source\repos\svkrishnagavva\ITManagerDev\DataRecoveryWebService\bin\System.Web.WebPages.Razor.dll
+C:\Users\administrator.DBT\source\repos\svkrishnagavva\ITManagerDev\DataRecoveryWebService\bin\WebActivatorEx.dll
+C:\Users\administrator.DBT\source\repos\svkrishnagavva\ITManagerDev\DataRecoveryWebService\bin\WebGrease.dll
+C:\Users\administrator.DBT\source\repos\svkrishnagavva\ITManagerDev\DataRecoveryWebService\bin\Antlr3.Runtime.pdb
+C:\Users\administrator.DBT\source\repos\svkrishnagavva\ITManagerDev\DataRecoveryWebService\bin\EntityFramework.xml
+C:\Users\administrator.DBT\source\repos\svkrishnagavva\ITManagerDev\DataRecoveryWebService\bin\EntityFramework.SqlServer.xml
+C:\Users\administrator.DBT\source\repos\svkrishnagavva\ITManagerDev\DataRecoveryWebService\bin\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\administrator.DBT\source\repos\svkrishnagavva\ITManagerDev\DataRecoveryWebService\bin\Microsoft.Bcl.HashCode.xml
+C:\Users\administrator.DBT\source\repos\svkrishnagavva\ITManagerDev\DataRecoveryWebService\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\administrator.DBT\source\repos\svkrishnagavva\ITManagerDev\DataRecoveryWebService\bin\Microsoft.Data.SqlClient.pdb
+C:\Users\administrator.DBT\source\repos\svkrishnagavva\ITManagerDev\DataRecoveryWebService\bin\Microsoft.EntityFrameworkCore.xml
+C:\Users\administrator.DBT\source\repos\svkrishnagavva\ITManagerDev\DataRecoveryWebService\bin\Microsoft.EntityFrameworkCore.Abstractions.xml
+C:\Users\administrator.DBT\source\repos\svkrishnagavva\ITManagerDev\DataRecoveryWebService\bin\Microsoft.EntityFrameworkCore.Relational.xml
+C:\Users\administrator.DBT\source\repos\svkrishnagavva\ITManagerDev\DataRecoveryWebService\bin\Microsoft.EntityFrameworkCore.SqlServer.xml
+C:\Users\administrator.DBT\source\repos\svkrishnagavva\ITManagerDev\DataRecoveryWebService\bin\Microsoft.Extensions.Caching.Abstractions.xml
+C:\Users\administrator.DBT\source\repos\svkrishnagavva\ITManagerDev\DataRecoveryWebService\bin\Microsoft.Extensions.Caching.Memory.xml
+C:\Users\administrator.DBT\source\repos\svkrishnagavva\ITManagerDev\DataRecoveryWebService\bin\Microsoft.Extensions.Configuration.xml
+C:\Users\administrator.DBT\source\repos\svkrishnagavva\ITManagerDev\DataRecoveryWebService\bin\Microsoft.Extensions.Configuration.Abstractions.xml
+C:\Users\administrator.DBT\source\repos\svkrishnagavva\ITManagerDev\DataRecoveryWebService\bin\Microsoft.Extensions.Configuration.Binder.xml
+C:\Users\administrator.DBT\source\repos\svkrishnagavva\ITManagerDev\DataRecoveryWebService\bin\Microsoft.Extensions.DependencyInjection.xml
+C:\Users\administrator.DBT\source\repos\svkrishnagavva\ITManagerDev\DataRecoveryWebService\bin\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+C:\Users\administrator.DBT\source\repos\svkrishnagavva\ITManagerDev\DataRecoveryWebService\bin\Microsoft.Extensions.Logging.xml
+C:\Users\administrator.DBT\source\repos\svkrishnagavva\ITManagerDev\DataRecoveryWebService\bin\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\administrator.DBT\source\repos\svkrishnagavva\ITManagerDev\DataRecoveryWebService\bin\Microsoft.Extensions.Options.xml
+C:\Users\administrator.DBT\source\repos\svkrishnagavva\ITManagerDev\DataRecoveryWebService\bin\Microsoft.Extensions.Primitives.xml
+C:\Users\administrator.DBT\source\repos\svkrishnagavva\ITManagerDev\DataRecoveryWebService\bin\Microsoft.Identity.Client.xml
+C:\Users\administrator.DBT\source\repos\svkrishnagavva\ITManagerDev\DataRecoveryWebService\bin\Newtonsoft.Json.xml
+C:\Users\administrator.DBT\source\repos\svkrishnagavva\ITManagerDev\DataRecoveryWebService\bin\System.Buffers.xml
+C:\Users\administrator.DBT\source\repos\svkrishnagavva\ITManagerDev\DataRecoveryWebService\bin\System.Collections.Immutable.xml
+C:\Users\administrator.DBT\source\repos\svkrishnagavva\ITManagerDev\DataRecoveryWebService\bin\System.Diagnostics.DiagnosticSource.xml
+C:\Users\administrator.DBT\source\repos\svkrishnagavva\ITManagerDev\DataRecoveryWebService\bin\System.Memory.xml
+C:\Users\administrator.DBT\source\repos\svkrishnagavva\ITManagerDev\DataRecoveryWebService\bin\System.Net.Http.Formatting.xml
+C:\Users\administrator.DBT\source\repos\svkrishnagavva\ITManagerDev\DataRecoveryWebService\bin\System.Numerics.Vectors.xml
+C:\Users\administrator.DBT\source\repos\svkrishnagavva\ITManagerDev\DataRecoveryWebService\bin\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\administrator.DBT\source\repos\svkrishnagavva\ITManagerDev\DataRecoveryWebService\bin\System.Threading.Tasks.Extensions.xml
+C:\Users\administrator.DBT\source\repos\svkrishnagavva\ITManagerDev\DataRecoveryWebService\bin\System.Web.Helpers.xml
+C:\Users\administrator.DBT\source\repos\svkrishnagavva\ITManagerDev\DataRecoveryWebService\bin\System.Web.Http.xml
+C:\Users\administrator.DBT\source\repos\svkrishnagavva\ITManagerDev\DataRecoveryWebService\bin\System.Web.Http.WebHost.xml
+C:\Users\administrator.DBT\source\repos\svkrishnagavva\ITManagerDev\DataRecoveryWebService\bin\System.Web.Mvc.xml
+C:\Users\administrator.DBT\source\repos\svkrishnagavva\ITManagerDev\DataRecoveryWebService\bin\System.Web.Optimization.xml
+C:\Users\administrator.DBT\source\repos\svkrishnagavva\ITManagerDev\DataRecoveryWebService\bin\System.Web.Razor.xml
+C:\Users\administrator.DBT\source\repos\svkrishnagavva\ITManagerDev\DataRecoveryWebService\bin\System.Web.WebPages.xml
+C:\Users\administrator.DBT\source\repos\svkrishnagavva\ITManagerDev\DataRecoveryWebService\bin\System.Web.WebPages.Deployment.xml
+C:\Users\administrator.DBT\source\repos\svkrishnagavva\ITManagerDev\DataRecoveryWebService\bin\System.Web.WebPages.Razor.xml
+C:\Users\administrator.DBT\source\repos\svkrishnagavva\ITManagerDev\DataRecoveryWebService\bin\de\Microsoft.Data.SqlClient.resources.dll
+C:\Users\administrator.DBT\source\repos\svkrishnagavva\ITManagerDev\DataRecoveryWebService\bin\es\Microsoft.Data.SqlClient.resources.dll
+C:\Users\administrator.DBT\source\repos\svkrishnagavva\ITManagerDev\DataRecoveryWebService\bin\fr\Microsoft.Data.SqlClient.resources.dll
+C:\Users\administrator.DBT\source\repos\svkrishnagavva\ITManagerDev\DataRecoveryWebService\bin\it\Microsoft.Data.SqlClient.resources.dll
+C:\Users\administrator.DBT\source\repos\svkrishnagavva\ITManagerDev\DataRecoveryWebService\bin\ja\Microsoft.Data.SqlClient.resources.dll
+C:\Users\administrator.DBT\source\repos\svkrishnagavva\ITManagerDev\DataRecoveryWebService\bin\ko\Microsoft.Data.SqlClient.resources.dll
+C:\Users\administrator.DBT\source\repos\svkrishnagavva\ITManagerDev\DataRecoveryWebService\bin\pt-BR\Microsoft.Data.SqlClient.resources.dll
+C:\Users\administrator.DBT\source\repos\svkrishnagavva\ITManagerDev\DataRecoveryWebService\bin\ru\Microsoft.Data.SqlClient.resources.dll
+C:\Users\administrator.DBT\source\repos\svkrishnagavva\ITManagerDev\DataRecoveryWebService\bin\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+C:\Users\administrator.DBT\source\repos\svkrishnagavva\ITManagerDev\DataRecoveryWebService\bin\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+C:\Users\administrator.DBT\source\repos\svkrishnagavva\ITManagerDev\DataRecoveryWebService\obj\Debug\DataRecoveryWebService.csproj.CopyComplete
+C:\Users\administrator.DBT\source\repos\svkrishnagavva\ITManagerDev\DataRecoveryWebService\obj\Debug\DataRecoveryWebService.csproj.AssemblyReference.cache
+C:\Users\administrator.DBT\source\repos\svkrishnagavva\ITManagerDev1\DataRecoveryWebService\bin\DataRecoveryWebService.dll.config
+C:\Users\administrator.DBT\source\repos\svkrishnagavva\ITManagerDev1\DataRecoveryWebService\bin\DataRecoveryWebService.dll
+C:\Users\administrator.DBT\source\repos\svkrishnagavva\ITManagerDev1\DataRecoveryWebService\bin\DataRecoveryWebService.pdb
+C:\Users\administrator.DBT\source\repos\svkrishnagavva\ITManagerDev1\DataRecoveryWebService\bin\roslyn\csc.exe
+C:\Users\administrator.DBT\source\repos\svkrishnagavva\ITManagerDev1\DataRecoveryWebService\bin\roslyn\csc.exe.config
+C:\Users\administrator.DBT\source\repos\svkrishnagavva\ITManagerDev1\DataRecoveryWebService\bin\roslyn\csc.rsp
+C:\Users\administrator.DBT\source\repos\svkrishnagavva\ITManagerDev1\DataRecoveryWebService\bin\roslyn\csi.exe
+C:\Users\administrator.DBT\source\repos\svkrishnagavva\ITManagerDev1\DataRecoveryWebService\bin\roslyn\csi.exe.config
+C:\Users\administrator.DBT\source\repos\svkrishnagavva\ITManagerDev1\DataRecoveryWebService\bin\roslyn\csi.rsp
+C:\Users\administrator.DBT\source\repos\svkrishnagavva\ITManagerDev1\DataRecoveryWebService\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\administrator.DBT\source\repos\svkrishnagavva\ITManagerDev1\DataRecoveryWebService\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\administrator.DBT\source\repos\svkrishnagavva\ITManagerDev1\DataRecoveryWebService\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\administrator.DBT\source\repos\svkrishnagavva\ITManagerDev1\DataRecoveryWebService\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\administrator.DBT\source\repos\svkrishnagavva\ITManagerDev1\DataRecoveryWebService\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\administrator.DBT\source\repos\svkrishnagavva\ITManagerDev1\DataRecoveryWebService\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\administrator.DBT\source\repos\svkrishnagavva\ITManagerDev1\DataRecoveryWebService\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\administrator.DBT\source\repos\svkrishnagavva\ITManagerDev1\DataRecoveryWebService\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\administrator.DBT\source\repos\svkrishnagavva\ITManagerDev1\DataRecoveryWebService\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\administrator.DBT\source\repos\svkrishnagavva\ITManagerDev1\DataRecoveryWebService\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\administrator.DBT\source\repos\svkrishnagavva\ITManagerDev1\DataRecoveryWebService\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\administrator.DBT\source\repos\svkrishnagavva\ITManagerDev1\DataRecoveryWebService\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\administrator.DBT\source\repos\svkrishnagavva\ITManagerDev1\DataRecoveryWebService\bin\roslyn\System.AppContext.dll
+C:\Users\administrator.DBT\source\repos\svkrishnagavva\ITManagerDev1\DataRecoveryWebService\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\administrator.DBT\source\repos\svkrishnagavva\ITManagerDev1\DataRecoveryWebService\bin\roslyn\System.Console.dll
+C:\Users\administrator.DBT\source\repos\svkrishnagavva\ITManagerDev1\DataRecoveryWebService\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\administrator.DBT\source\repos\svkrishnagavva\ITManagerDev1\DataRecoveryWebService\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\administrator.DBT\source\repos\svkrishnagavva\ITManagerDev1\DataRecoveryWebService\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\administrator.DBT\source\repos\svkrishnagavva\ITManagerDev1\DataRecoveryWebService\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\administrator.DBT\source\repos\svkrishnagavva\ITManagerDev1\DataRecoveryWebService\bin\roslyn\System.IO.Compression.dll
+C:\Users\administrator.DBT\source\repos\svkrishnagavva\ITManagerDev1\DataRecoveryWebService\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\administrator.DBT\source\repos\svkrishnagavva\ITManagerDev1\DataRecoveryWebService\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\administrator.DBT\source\repos\svkrishnagavva\ITManagerDev1\DataRecoveryWebService\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\administrator.DBT\source\repos\svkrishnagavva\ITManagerDev1\DataRecoveryWebService\bin\roslyn\System.Net.Http.dll
+C:\Users\administrator.DBT\source\repos\svkrishnagavva\ITManagerDev1\DataRecoveryWebService\bin\roslyn\System.Net.Sockets.dll
+C:\Users\administrator.DBT\source\repos\svkrishnagavva\ITManagerDev1\DataRecoveryWebService\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\administrator.DBT\source\repos\svkrishnagavva\ITManagerDev1\DataRecoveryWebService\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\administrator.DBT\source\repos\svkrishnagavva\ITManagerDev1\DataRecoveryWebService\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\administrator.DBT\source\repos\svkrishnagavva\ITManagerDev1\DataRecoveryWebService\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\administrator.DBT\source\repos\svkrishnagavva\ITManagerDev1\DataRecoveryWebService\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\administrator.DBT\source\repos\svkrishnagavva\ITManagerDev1\DataRecoveryWebService\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\administrator.DBT\source\repos\svkrishnagavva\ITManagerDev1\DataRecoveryWebService\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\administrator.DBT\source\repos\svkrishnagavva\ITManagerDev1\DataRecoveryWebService\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\administrator.DBT\source\repos\svkrishnagavva\ITManagerDev1\DataRecoveryWebService\bin\roslyn\System.ValueTuple.dll
+C:\Users\administrator.DBT\source\repos\svkrishnagavva\ITManagerDev1\DataRecoveryWebService\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\administrator.DBT\source\repos\svkrishnagavva\ITManagerDev1\DataRecoveryWebService\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\administrator.DBT\source\repos\svkrishnagavva\ITManagerDev1\DataRecoveryWebService\bin\roslyn\System.Xml.XPath.dll
+C:\Users\administrator.DBT\source\repos\svkrishnagavva\ITManagerDev1\DataRecoveryWebService\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\administrator.DBT\source\repos\svkrishnagavva\ITManagerDev1\DataRecoveryWebService\bin\roslyn\vbc.exe
+C:\Users\administrator.DBT\source\repos\svkrishnagavva\ITManagerDev1\DataRecoveryWebService\bin\roslyn\vbc.exe.config
+C:\Users\administrator.DBT\source\repos\svkrishnagavva\ITManagerDev1\DataRecoveryWebService\bin\roslyn\vbc.rsp
+C:\Users\administrator.DBT\source\repos\svkrishnagavva\ITManagerDev1\DataRecoveryWebService\bin\roslyn\VBCSCompiler.exe
+C:\Users\administrator.DBT\source\repos\svkrishnagavva\ITManagerDev1\DataRecoveryWebService\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\administrator.DBT\source\repos\svkrishnagavva\ITManagerDev1\DataRecoveryWebService\bin\Antlr3.Runtime.dll
+C:\Users\administrator.DBT\source\repos\svkrishnagavva\ITManagerDev1\DataRecoveryWebService\bin\EntityFramework.dll
+C:\Users\administrator.DBT\source\repos\svkrishnagavva\ITManagerDev1\DataRecoveryWebService\bin\EntityFramework.SqlServer.dll
+C:\Users\administrator.DBT\source\repos\svkrishnagavva\ITManagerDev1\DataRecoveryWebService\bin\FromHeaderAttribute.dll
+C:\Users\administrator.DBT\source\repos\svkrishnagavva\ITManagerDev1\DataRecoveryWebService\bin\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\administrator.DBT\source\repos\svkrishnagavva\ITManagerDev1\DataRecoveryWebService\bin\Microsoft.Bcl.HashCode.dll
+C:\Users\administrator.DBT\source\repos\svkrishnagavva\ITManagerDev1\DataRecoveryWebService\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\administrator.DBT\source\repos\svkrishnagavva\ITManagerDev1\DataRecoveryWebService\bin\Microsoft.Data.SqlClient.dll
+C:\Users\administrator.DBT\source\repos\svkrishnagavva\ITManagerDev1\DataRecoveryWebService\bin\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\administrator.DBT\source\repos\svkrishnagavva\ITManagerDev1\DataRecoveryWebService\bin\Microsoft.EntityFrameworkCore.dll
+C:\Users\administrator.DBT\source\repos\svkrishnagavva\ITManagerDev1\DataRecoveryWebService\bin\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\administrator.DBT\source\repos\svkrishnagavva\ITManagerDev1\DataRecoveryWebService\bin\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\administrator.DBT\source\repos\svkrishnagavva\ITManagerDev1\DataRecoveryWebService\bin\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\administrator.DBT\source\repos\svkrishnagavva\ITManagerDev1\DataRecoveryWebService\bin\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\administrator.DBT\source\repos\svkrishnagavva\ITManagerDev1\DataRecoveryWebService\bin\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\administrator.DBT\source\repos\svkrishnagavva\ITManagerDev1\DataRecoveryWebService\bin\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\administrator.DBT\source\repos\svkrishnagavva\ITManagerDev1\DataRecoveryWebService\bin\Microsoft.Extensions.Configuration.dll
+C:\Users\administrator.DBT\source\repos\svkrishnagavva\ITManagerDev1\DataRecoveryWebService\bin\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\administrator.DBT\source\repos\svkrishnagavva\ITManagerDev1\DataRecoveryWebService\bin\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\administrator.DBT\source\repos\svkrishnagavva\ITManagerDev1\DataRecoveryWebService\bin\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\administrator.DBT\source\repos\svkrishnagavva\ITManagerDev1\DataRecoveryWebService\bin\Microsoft.Extensions.Logging.dll
+C:\Users\administrator.DBT\source\repos\svkrishnagavva\ITManagerDev1\DataRecoveryWebService\bin\Microsoft.Extensions.Options.dll
+C:\Users\administrator.DBT\source\repos\svkrishnagavva\ITManagerDev1\DataRecoveryWebService\bin\Microsoft.Extensions.Primitives.dll
+C:\Users\administrator.DBT\source\repos\svkrishnagavva\ITManagerDev1\DataRecoveryWebService\bin\Microsoft.Identity.Client.dll
+C:\Users\administrator.DBT\source\repos\svkrishnagavva\ITManagerDev1\DataRecoveryWebService\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\administrator.DBT\source\repos\svkrishnagavva\ITManagerDev1\DataRecoveryWebService\bin\Newtonsoft.Json.dll
+C:\Users\administrator.DBT\source\repos\svkrishnagavva\ITManagerDev1\DataRecoveryWebService\bin\Swagger.Net.dll
+C:\Users\administrator.DBT\source\repos\svkrishnagavva\ITManagerDev1\DataRecoveryWebService\bin\System.Buffers.dll
+C:\Users\administrator.DBT\source\repos\svkrishnagavva\ITManagerDev1\DataRecoveryWebService\bin\System.Collections.Immutable.dll
+C:\Users\administrator.DBT\source\repos\svkrishnagavva\ITManagerDev1\DataRecoveryWebService\bin\System.ComponentModel.Annotations.dll
+C:\Users\administrator.DBT\source\repos\svkrishnagavva\ITManagerDev1\DataRecoveryWebService\bin\System.Diagnostics.DiagnosticSource.dll
+C:\Users\administrator.DBT\source\repos\svkrishnagavva\ITManagerDev1\DataRecoveryWebService\bin\System.Memory.dll
+C:\Users\administrator.DBT\source\repos\svkrishnagavva\ITManagerDev1\DataRecoveryWebService\bin\System.Net.Http.Formatting.dll
+C:\Users\administrator.DBT\source\repos\svkrishnagavva\ITManagerDev1\DataRecoveryWebService\bin\System.Numerics.Vectors.dll
+C:\Users\administrator.DBT\source\repos\svkrishnagavva\ITManagerDev1\DataRecoveryWebService\bin\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\administrator.DBT\source\repos\svkrishnagavva\ITManagerDev1\DataRecoveryWebService\bin\System.Threading.Tasks.Extensions.dll
+C:\Users\administrator.DBT\source\repos\svkrishnagavva\ITManagerDev1\DataRecoveryWebService\bin\System.Web.Helpers.dll
+C:\Users\administrator.DBT\source\repos\svkrishnagavva\ITManagerDev1\DataRecoveryWebService\bin\System.Web.Http.dll
+C:\Users\administrator.DBT\source\repos\svkrishnagavva\ITManagerDev1\DataRecoveryWebService\bin\System.Web.Http.WebHost.dll
+C:\Users\administrator.DBT\source\repos\svkrishnagavva\ITManagerDev1\DataRecoveryWebService\bin\System.Web.Mvc.dll
+C:\Users\administrator.DBT\source\repos\svkrishnagavva\ITManagerDev1\DataRecoveryWebService\bin\System.Web.Optimization.dll
+C:\Users\administrator.DBT\source\repos\svkrishnagavva\ITManagerDev1\DataRecoveryWebService\bin\System.Web.Razor.dll
+C:\Users\administrator.DBT\source\repos\svkrishnagavva\ITManagerDev1\DataRecoveryWebService\bin\System.Web.WebPages.Deployment.dll
+C:\Users\administrator.DBT\source\repos\svkrishnagavva\ITManagerDev1\DataRecoveryWebService\bin\System.Web.WebPages.dll
+C:\Users\administrator.DBT\source\repos\svkrishnagavva\ITManagerDev1\DataRecoveryWebService\bin\System.Web.WebPages.Razor.dll
+C:\Users\administrator.DBT\source\repos\svkrishnagavva\ITManagerDev1\DataRecoveryWebService\bin\WebActivatorEx.dll
+C:\Users\administrator.DBT\source\repos\svkrishnagavva\ITManagerDev1\DataRecoveryWebService\bin\WebGrease.dll
+C:\Users\administrator.DBT\source\repos\svkrishnagavva\ITManagerDev1\DataRecoveryWebService\bin\Antlr3.Runtime.pdb
+C:\Users\administrator.DBT\source\repos\svkrishnagavva\ITManagerDev1\DataRecoveryWebService\bin\EntityFramework.xml
+C:\Users\administrator.DBT\source\repos\svkrishnagavva\ITManagerDev1\DataRecoveryWebService\bin\EntityFramework.SqlServer.xml
+C:\Users\administrator.DBT\source\repos\svkrishnagavva\ITManagerDev1\DataRecoveryWebService\bin\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\administrator.DBT\source\repos\svkrishnagavva\ITManagerDev1\DataRecoveryWebService\bin\Microsoft.Bcl.HashCode.xml
+C:\Users\administrator.DBT\source\repos\svkrishnagavva\ITManagerDev1\DataRecoveryWebService\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\administrator.DBT\source\repos\svkrishnagavva\ITManagerDev1\DataRecoveryWebService\bin\Microsoft.Data.SqlClient.pdb
+C:\Users\administrator.DBT\source\repos\svkrishnagavva\ITManagerDev1\DataRecoveryWebService\bin\Microsoft.EntityFrameworkCore.xml
+C:\Users\administrator.DBT\source\repos\svkrishnagavva\ITManagerDev1\DataRecoveryWebService\bin\Microsoft.EntityFrameworkCore.Abstractions.xml
+C:\Users\administrator.DBT\source\repos\svkrishnagavva\ITManagerDev1\DataRecoveryWebService\bin\Microsoft.EntityFrameworkCore.Relational.xml
+C:\Users\administrator.DBT\source\repos\svkrishnagavva\ITManagerDev1\DataRecoveryWebService\bin\Microsoft.EntityFrameworkCore.SqlServer.xml
+C:\Users\administrator.DBT\source\repos\svkrishnagavva\ITManagerDev1\DataRecoveryWebService\bin\Microsoft.Extensions.Caching.Abstractions.xml
+C:\Users\administrator.DBT\source\repos\svkrishnagavva\ITManagerDev1\DataRecoveryWebService\bin\Microsoft.Extensions.Caching.Memory.xml
+C:\Users\administrator.DBT\source\repos\svkrishnagavva\ITManagerDev1\DataRecoveryWebService\bin\Microsoft.Extensions.Configuration.xml
+C:\Users\administrator.DBT\source\repos\svkrishnagavva\ITManagerDev1\DataRecoveryWebService\bin\Microsoft.Extensions.Configuration.Abstractions.xml
+C:\Users\administrator.DBT\source\repos\svkrishnagavva\ITManagerDev1\DataRecoveryWebService\bin\Microsoft.Extensions.Configuration.Binder.xml
+C:\Users\administrator.DBT\source\repos\svkrishnagavva\ITManagerDev1\DataRecoveryWebService\bin\Microsoft.Extensions.DependencyInjection.xml
+C:\Users\administrator.DBT\source\repos\svkrishnagavva\ITManagerDev1\DataRecoveryWebService\bin\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+C:\Users\administrator.DBT\source\repos\svkrishnagavva\ITManagerDev1\DataRecoveryWebService\bin\Microsoft.Extensions.Logging.xml
+C:\Users\administrator.DBT\source\repos\svkrishnagavva\ITManagerDev1\DataRecoveryWebService\bin\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\administrator.DBT\source\repos\svkrishnagavva\ITManagerDev1\DataRecoveryWebService\bin\Microsoft.Extensions.Options.xml
+C:\Users\administrator.DBT\source\repos\svkrishnagavva\ITManagerDev1\DataRecoveryWebService\bin\Microsoft.Extensions.Primitives.xml
+C:\Users\administrator.DBT\source\repos\svkrishnagavva\ITManagerDev1\DataRecoveryWebService\bin\Microsoft.Identity.Client.xml
+C:\Users\administrator.DBT\source\repos\svkrishnagavva\ITManagerDev1\DataRecoveryWebService\bin\Newtonsoft.Json.xml
+C:\Users\administrator.DBT\source\repos\svkrishnagavva\ITManagerDev1\DataRecoveryWebService\bin\System.Buffers.xml
+C:\Users\administrator.DBT\source\repos\svkrishnagavva\ITManagerDev1\DataRecoveryWebService\bin\System.Collections.Immutable.xml
+C:\Users\administrator.DBT\source\repos\svkrishnagavva\ITManagerDev1\DataRecoveryWebService\bin\System.Diagnostics.DiagnosticSource.xml
+C:\Users\administrator.DBT\source\repos\svkrishnagavva\ITManagerDev1\DataRecoveryWebService\bin\System.Memory.xml
+C:\Users\administrator.DBT\source\repos\svkrishnagavva\ITManagerDev1\DataRecoveryWebService\bin\System.Net.Http.Formatting.xml
+C:\Users\administrator.DBT\source\repos\svkrishnagavva\ITManagerDev1\DataRecoveryWebService\bin\System.Numerics.Vectors.xml
+C:\Users\administrator.DBT\source\repos\svkrishnagavva\ITManagerDev1\DataRecoveryWebService\bin\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\administrator.DBT\source\repos\svkrishnagavva\ITManagerDev1\DataRecoveryWebService\bin\System.Threading.Tasks.Extensions.xml
+C:\Users\administrator.DBT\source\repos\svkrishnagavva\ITManagerDev1\DataRecoveryWebService\bin\System.Web.Helpers.xml
+C:\Users\administrator.DBT\source\repos\svkrishnagavva\ITManagerDev1\DataRecoveryWebService\bin\System.Web.Http.xml
+C:\Users\administrator.DBT\source\repos\svkrishnagavva\ITManagerDev1\DataRecoveryWebService\bin\System.Web.Http.WebHost.xml
+C:\Users\administrator.DBT\source\repos\svkrishnagavva\ITManagerDev1\DataRecoveryWebService\bin\System.Web.Mvc.xml
+C:\Users\administrator.DBT\source\repos\svkrishnagavva\ITManagerDev1\DataRecoveryWebService\bin\System.Web.Optimization.xml
+C:\Users\administrator.DBT\source\repos\svkrishnagavva\ITManagerDev1\DataRecoveryWebService\bin\System.Web.Razor.xml
+C:\Users\administrator.DBT\source\repos\svkrishnagavva\ITManagerDev1\DataRecoveryWebService\bin\System.Web.WebPages.xml
+C:\Users\administrator.DBT\source\repos\svkrishnagavva\ITManagerDev1\DataRecoveryWebService\bin\System.Web.WebPages.Deployment.xml
+C:\Users\administrator.DBT\source\repos\svkrishnagavva\ITManagerDev1\DataRecoveryWebService\bin\System.Web.WebPages.Razor.xml
+C:\Users\administrator.DBT\source\repos\svkrishnagavva\ITManagerDev1\DataRecoveryWebService\bin\de\Microsoft.Data.SqlClient.resources.dll
+C:\Users\administrator.DBT\source\repos\svkrishnagavva\ITManagerDev1\DataRecoveryWebService\bin\es\Microsoft.Data.SqlClient.resources.dll
+C:\Users\administrator.DBT\source\repos\svkrishnagavva\ITManagerDev1\DataRecoveryWebService\bin\fr\Microsoft.Data.SqlClient.resources.dll
+C:\Users\administrator.DBT\source\repos\svkrishnagavva\ITManagerDev1\DataRecoveryWebService\bin\it\Microsoft.Data.SqlClient.resources.dll
+C:\Users\administrator.DBT\source\repos\svkrishnagavva\ITManagerDev1\DataRecoveryWebService\bin\ja\Microsoft.Data.SqlClient.resources.dll
+C:\Users\administrator.DBT\source\repos\svkrishnagavva\ITManagerDev1\DataRecoveryWebService\bin\ko\Microsoft.Data.SqlClient.resources.dll
+C:\Users\administrator.DBT\source\repos\svkrishnagavva\ITManagerDev1\DataRecoveryWebService\bin\pt-BR\Microsoft.Data.SqlClient.resources.dll
+C:\Users\administrator.DBT\source\repos\svkrishnagavva\ITManagerDev1\DataRecoveryWebService\bin\ru\Microsoft.Data.SqlClient.resources.dll
+C:\Users\administrator.DBT\source\repos\svkrishnagavva\ITManagerDev1\DataRecoveryWebService\bin\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+C:\Users\administrator.DBT\source\repos\svkrishnagavva\ITManagerDev1\DataRecoveryWebService\bin\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+C:\Users\administrator.DBT\source\repos\svkrishnagavva\ITManagerDev1\DataRecoveryWebService\obj\Debug\DataRecoveryWebService.csproj.AssemblyReference.cache
+C:\Users\administrator.DBT\source\repos\svkrishnagavva\ITManagerDev1\DataRecoveryWebService\obj\Debug\DataRecoveryWebService.csproj.CoreCompileInputs.cache
+C:\Users\administrator.DBT\source\repos\svkrishnagavva\ITManagerDev1\DataRecoveryWebService\obj\Debug\DataRecoveryWebService.csproj.CopyComplete
+C:\Users\administrator.DBT\source\repos\svkrishnagavva\ITManagerDev1\DataRecoveryWebService\obj\Debug\DataRecoveryWebService.dll
+C:\Users\administrator.DBT\source\repos\svkrishnagavva\ITManagerDev1\DataRecoveryWebService\obj\Debug\DataRecoveryWebService.pdb
+C:\Users\VK\source\repos\svkrishnagavva\ITManagerDev\DataRecoveryWebService\bin\DataRecoveryWebService.dll.config
+C:\Users\VK\source\repos\svkrishnagavva\ITManagerDev\DataRecoveryWebService\bin\DataRecoveryWebService.dll
+C:\Users\VK\source\repos\svkrishnagavva\ITManagerDev\DataRecoveryWebService\bin\DataRecoveryWebService.pdb
+C:\Users\VK\source\repos\svkrishnagavva\ITManagerDev\DataRecoveryWebService\bin\roslyn\csc.exe
+C:\Users\VK\source\repos\svkrishnagavva\ITManagerDev\DataRecoveryWebService\bin\roslyn\csc.exe.config
+C:\Users\VK\source\repos\svkrishnagavva\ITManagerDev\DataRecoveryWebService\bin\roslyn\csc.rsp
+C:\Users\VK\source\repos\svkrishnagavva\ITManagerDev\DataRecoveryWebService\bin\roslyn\csi.exe
+C:\Users\VK\source\repos\svkrishnagavva\ITManagerDev\DataRecoveryWebService\bin\roslyn\csi.exe.config
+C:\Users\VK\source\repos\svkrishnagavva\ITManagerDev\DataRecoveryWebService\bin\roslyn\csi.rsp
+C:\Users\VK\source\repos\svkrishnagavva\ITManagerDev\DataRecoveryWebService\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\VK\source\repos\svkrishnagavva\ITManagerDev\DataRecoveryWebService\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\VK\source\repos\svkrishnagavva\ITManagerDev\DataRecoveryWebService\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\VK\source\repos\svkrishnagavva\ITManagerDev\DataRecoveryWebService\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\VK\source\repos\svkrishnagavva\ITManagerDev\DataRecoveryWebService\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\VK\source\repos\svkrishnagavva\ITManagerDev\DataRecoveryWebService\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\VK\source\repos\svkrishnagavva\ITManagerDev\DataRecoveryWebService\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\VK\source\repos\svkrishnagavva\ITManagerDev\DataRecoveryWebService\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\VK\source\repos\svkrishnagavva\ITManagerDev\DataRecoveryWebService\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\VK\source\repos\svkrishnagavva\ITManagerDev\DataRecoveryWebService\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\VK\source\repos\svkrishnagavva\ITManagerDev\DataRecoveryWebService\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\VK\source\repos\svkrishnagavva\ITManagerDev\DataRecoveryWebService\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\VK\source\repos\svkrishnagavva\ITManagerDev\DataRecoveryWebService\bin\roslyn\System.AppContext.dll
+C:\Users\VK\source\repos\svkrishnagavva\ITManagerDev\DataRecoveryWebService\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\VK\source\repos\svkrishnagavva\ITManagerDev\DataRecoveryWebService\bin\roslyn\System.Console.dll
+C:\Users\VK\source\repos\svkrishnagavva\ITManagerDev\DataRecoveryWebService\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\VK\source\repos\svkrishnagavva\ITManagerDev\DataRecoveryWebService\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\VK\source\repos\svkrishnagavva\ITManagerDev\DataRecoveryWebService\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\VK\source\repos\svkrishnagavva\ITManagerDev\DataRecoveryWebService\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\VK\source\repos\svkrishnagavva\ITManagerDev\DataRecoveryWebService\bin\roslyn\System.IO.Compression.dll
+C:\Users\VK\source\repos\svkrishnagavva\ITManagerDev\DataRecoveryWebService\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\VK\source\repos\svkrishnagavva\ITManagerDev\DataRecoveryWebService\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\VK\source\repos\svkrishnagavva\ITManagerDev\DataRecoveryWebService\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\VK\source\repos\svkrishnagavva\ITManagerDev\DataRecoveryWebService\bin\roslyn\System.Net.Http.dll
+C:\Users\VK\source\repos\svkrishnagavva\ITManagerDev\DataRecoveryWebService\bin\roslyn\System.Net.Sockets.dll
+C:\Users\VK\source\repos\svkrishnagavva\ITManagerDev\DataRecoveryWebService\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\VK\source\repos\svkrishnagavva\ITManagerDev\DataRecoveryWebService\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\VK\source\repos\svkrishnagavva\ITManagerDev\DataRecoveryWebService\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\VK\source\repos\svkrishnagavva\ITManagerDev\DataRecoveryWebService\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\VK\source\repos\svkrishnagavva\ITManagerDev\DataRecoveryWebService\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\VK\source\repos\svkrishnagavva\ITManagerDev\DataRecoveryWebService\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\VK\source\repos\svkrishnagavva\ITManagerDev\DataRecoveryWebService\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\VK\source\repos\svkrishnagavva\ITManagerDev\DataRecoveryWebService\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\VK\source\repos\svkrishnagavva\ITManagerDev\DataRecoveryWebService\bin\roslyn\System.ValueTuple.dll
+C:\Users\VK\source\repos\svkrishnagavva\ITManagerDev\DataRecoveryWebService\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\VK\source\repos\svkrishnagavva\ITManagerDev\DataRecoveryWebService\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\VK\source\repos\svkrishnagavva\ITManagerDev\DataRecoveryWebService\bin\roslyn\System.Xml.XPath.dll
+C:\Users\VK\source\repos\svkrishnagavva\ITManagerDev\DataRecoveryWebService\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\VK\source\repos\svkrishnagavva\ITManagerDev\DataRecoveryWebService\bin\roslyn\vbc.exe
+C:\Users\VK\source\repos\svkrishnagavva\ITManagerDev\DataRecoveryWebService\bin\roslyn\vbc.exe.config
+C:\Users\VK\source\repos\svkrishnagavva\ITManagerDev\DataRecoveryWebService\bin\roslyn\vbc.rsp
+C:\Users\VK\source\repos\svkrishnagavva\ITManagerDev\DataRecoveryWebService\bin\roslyn\VBCSCompiler.exe
+C:\Users\VK\source\repos\svkrishnagavva\ITManagerDev\DataRecoveryWebService\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\VK\source\repos\svkrishnagavva\ITManagerDev\DataRecoveryWebService\bin\Antlr3.Runtime.dll
+C:\Users\VK\source\repos\svkrishnagavva\ITManagerDev\DataRecoveryWebService\bin\EntityFramework.dll
+C:\Users\VK\source\repos\svkrishnagavva\ITManagerDev\DataRecoveryWebService\bin\EntityFramework.SqlServer.dll
+C:\Users\VK\source\repos\svkrishnagavva\ITManagerDev\DataRecoveryWebService\bin\FromHeaderAttribute.dll
+C:\Users\VK\source\repos\svkrishnagavva\ITManagerDev\DataRecoveryWebService\bin\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\VK\source\repos\svkrishnagavva\ITManagerDev\DataRecoveryWebService\bin\Microsoft.Bcl.HashCode.dll
+C:\Users\VK\source\repos\svkrishnagavva\ITManagerDev\DataRecoveryWebService\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\VK\source\repos\svkrishnagavva\ITManagerDev\DataRecoveryWebService\bin\Microsoft.Data.SqlClient.dll
+C:\Users\VK\source\repos\svkrishnagavva\ITManagerDev\DataRecoveryWebService\bin\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\VK\source\repos\svkrishnagavva\ITManagerDev\DataRecoveryWebService\bin\Microsoft.EntityFrameworkCore.dll
+C:\Users\VK\source\repos\svkrishnagavva\ITManagerDev\DataRecoveryWebService\bin\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\VK\source\repos\svkrishnagavva\ITManagerDev\DataRecoveryWebService\bin\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\VK\source\repos\svkrishnagavva\ITManagerDev\DataRecoveryWebService\bin\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\VK\source\repos\svkrishnagavva\ITManagerDev\DataRecoveryWebService\bin\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\VK\source\repos\svkrishnagavva\ITManagerDev\DataRecoveryWebService\bin\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\VK\source\repos\svkrishnagavva\ITManagerDev\DataRecoveryWebService\bin\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\VK\source\repos\svkrishnagavva\ITManagerDev\DataRecoveryWebService\bin\Microsoft.Extensions.Configuration.dll
+C:\Users\VK\source\repos\svkrishnagavva\ITManagerDev\DataRecoveryWebService\bin\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\VK\source\repos\svkrishnagavva\ITManagerDev\DataRecoveryWebService\bin\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\VK\source\repos\svkrishnagavva\ITManagerDev\DataRecoveryWebService\bin\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\VK\source\repos\svkrishnagavva\ITManagerDev\DataRecoveryWebService\bin\Microsoft.Extensions.Logging.dll
+C:\Users\VK\source\repos\svkrishnagavva\ITManagerDev\DataRecoveryWebService\bin\Microsoft.Extensions.Options.dll
+C:\Users\VK\source\repos\svkrishnagavva\ITManagerDev\DataRecoveryWebService\bin\Microsoft.Extensions.Primitives.dll
+C:\Users\VK\source\repos\svkrishnagavva\ITManagerDev\DataRecoveryWebService\bin\Microsoft.Identity.Client.dll
+C:\Users\VK\source\repos\svkrishnagavva\ITManagerDev\DataRecoveryWebService\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\VK\source\repos\svkrishnagavva\ITManagerDev\DataRecoveryWebService\bin\Newtonsoft.Json.dll
+C:\Users\VK\source\repos\svkrishnagavva\ITManagerDev\DataRecoveryWebService\bin\Swagger.Net.dll
+C:\Users\VK\source\repos\svkrishnagavva\ITManagerDev\DataRecoveryWebService\bin\System.Buffers.dll
+C:\Users\VK\source\repos\svkrishnagavva\ITManagerDev\DataRecoveryWebService\bin\System.Collections.Immutable.dll
+C:\Users\VK\source\repos\svkrishnagavva\ITManagerDev\DataRecoveryWebService\bin\System.ComponentModel.Annotations.dll
+C:\Users\VK\source\repos\svkrishnagavva\ITManagerDev\DataRecoveryWebService\bin\System.Diagnostics.DiagnosticSource.dll
+C:\Users\VK\source\repos\svkrishnagavva\ITManagerDev\DataRecoveryWebService\bin\System.Memory.dll
+C:\Users\VK\source\repos\svkrishnagavva\ITManagerDev\DataRecoveryWebService\bin\System.Net.Http.Formatting.dll
+C:\Users\VK\source\repos\svkrishnagavva\ITManagerDev\DataRecoveryWebService\bin\System.Numerics.Vectors.dll
+C:\Users\VK\source\repos\svkrishnagavva\ITManagerDev\DataRecoveryWebService\bin\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\VK\source\repos\svkrishnagavva\ITManagerDev\DataRecoveryWebService\bin\System.Threading.Tasks.Extensions.dll
+C:\Users\VK\source\repos\svkrishnagavva\ITManagerDev\DataRecoveryWebService\bin\System.Web.Helpers.dll
+C:\Users\VK\source\repos\svkrishnagavva\ITManagerDev\DataRecoveryWebService\bin\System.Web.Http.dll
+C:\Users\VK\source\repos\svkrishnagavva\ITManagerDev\DataRecoveryWebService\bin\System.Web.Http.WebHost.dll
+C:\Users\VK\source\repos\svkrishnagavva\ITManagerDev\DataRecoveryWebService\bin\System.Web.Mvc.dll
+C:\Users\VK\source\repos\svkrishnagavva\ITManagerDev\DataRecoveryWebService\bin\System.Web.Optimization.dll
+C:\Users\VK\source\repos\svkrishnagavva\ITManagerDev\DataRecoveryWebService\bin\System.Web.Razor.dll
+C:\Users\VK\source\repos\svkrishnagavva\ITManagerDev\DataRecoveryWebService\bin\System.Web.WebPages.Deployment.dll
+C:\Users\VK\source\repos\svkrishnagavva\ITManagerDev\DataRecoveryWebService\bin\System.Web.WebPages.dll
+C:\Users\VK\source\repos\svkrishnagavva\ITManagerDev\DataRecoveryWebService\bin\System.Web.WebPages.Razor.dll
+C:\Users\VK\source\repos\svkrishnagavva\ITManagerDev\DataRecoveryWebService\bin\WebActivatorEx.dll
+C:\Users\VK\source\repos\svkrishnagavva\ITManagerDev\DataRecoveryWebService\bin\WebGrease.dll
+C:\Users\VK\source\repos\svkrishnagavva\ITManagerDev\DataRecoveryWebService\bin\Antlr3.Runtime.pdb
+C:\Users\VK\source\repos\svkrishnagavva\ITManagerDev\DataRecoveryWebService\bin\EntityFramework.xml
+C:\Users\VK\source\repos\svkrishnagavva\ITManagerDev\DataRecoveryWebService\bin\EntityFramework.SqlServer.xml
+C:\Users\VK\source\repos\svkrishnagavva\ITManagerDev\DataRecoveryWebService\bin\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\VK\source\repos\svkrishnagavva\ITManagerDev\DataRecoveryWebService\bin\Microsoft.Bcl.HashCode.xml
+C:\Users\VK\source\repos\svkrishnagavva\ITManagerDev\DataRecoveryWebService\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\VK\source\repos\svkrishnagavva\ITManagerDev\DataRecoveryWebService\bin\Microsoft.Data.SqlClient.pdb
+C:\Users\VK\source\repos\svkrishnagavva\ITManagerDev\DataRecoveryWebService\bin\Microsoft.EntityFrameworkCore.xml
+C:\Users\VK\source\repos\svkrishnagavva\ITManagerDev\DataRecoveryWebService\bin\Microsoft.EntityFrameworkCore.Abstractions.xml
+C:\Users\VK\source\repos\svkrishnagavva\ITManagerDev\DataRecoveryWebService\bin\Microsoft.EntityFrameworkCore.Relational.xml
+C:\Users\VK\source\repos\svkrishnagavva\ITManagerDev\DataRecoveryWebService\bin\Microsoft.EntityFrameworkCore.SqlServer.xml
+C:\Users\VK\source\repos\svkrishnagavva\ITManagerDev\DataRecoveryWebService\bin\Microsoft.Extensions.Caching.Abstractions.xml
+C:\Users\VK\source\repos\svkrishnagavva\ITManagerDev\DataRecoveryWebService\bin\Microsoft.Extensions.Caching.Memory.xml
+C:\Users\VK\source\repos\svkrishnagavva\ITManagerDev\DataRecoveryWebService\bin\Microsoft.Extensions.Configuration.xml
+C:\Users\VK\source\repos\svkrishnagavva\ITManagerDev\DataRecoveryWebService\bin\Microsoft.Extensions.Configuration.Abstractions.xml
+C:\Users\VK\source\repos\svkrishnagavva\ITManagerDev\DataRecoveryWebService\bin\Microsoft.Extensions.Configuration.Binder.xml
+C:\Users\VK\source\repos\svkrishnagavva\ITManagerDev\DataRecoveryWebService\bin\Microsoft.Extensions.DependencyInjection.xml
+C:\Users\VK\source\repos\svkrishnagavva\ITManagerDev\DataRecoveryWebService\bin\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+C:\Users\VK\source\repos\svkrishnagavva\ITManagerDev\DataRecoveryWebService\bin\Microsoft.Extensions.Logging.xml
+C:\Users\VK\source\repos\svkrishnagavva\ITManagerDev\DataRecoveryWebService\bin\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\VK\source\repos\svkrishnagavva\ITManagerDev\DataRecoveryWebService\bin\Microsoft.Extensions.Options.xml
+C:\Users\VK\source\repos\svkrishnagavva\ITManagerDev\DataRecoveryWebService\bin\Microsoft.Extensions.Primitives.xml
+C:\Users\VK\source\repos\svkrishnagavva\ITManagerDev\DataRecoveryWebService\bin\Microsoft.Identity.Client.xml
+C:\Users\VK\source\repos\svkrishnagavva\ITManagerDev\DataRecoveryWebService\bin\Newtonsoft.Json.xml
+C:\Users\VK\source\repos\svkrishnagavva\ITManagerDev\DataRecoveryWebService\bin\System.Buffers.xml
+C:\Users\VK\source\repos\svkrishnagavva\ITManagerDev\DataRecoveryWebService\bin\System.Collections.Immutable.xml
+C:\Users\VK\source\repos\svkrishnagavva\ITManagerDev\DataRecoveryWebService\bin\System.Diagnostics.DiagnosticSource.xml
+C:\Users\VK\source\repos\svkrishnagavva\ITManagerDev\DataRecoveryWebService\bin\System.Memory.xml
+C:\Users\VK\source\repos\svkrishnagavva\ITManagerDev\DataRecoveryWebService\bin\System.Net.Http.Formatting.xml
+C:\Users\VK\source\repos\svkrishnagavva\ITManagerDev\DataRecoveryWebService\bin\System.Numerics.Vectors.xml
+C:\Users\VK\source\repos\svkrishnagavva\ITManagerDev\DataRecoveryWebService\bin\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\VK\source\repos\svkrishnagavva\ITManagerDev\DataRecoveryWebService\bin\System.Threading.Tasks.Extensions.xml
+C:\Users\VK\source\repos\svkrishnagavva\ITManagerDev\DataRecoveryWebService\bin\System.Web.Helpers.xml
+C:\Users\VK\source\repos\svkrishnagavva\ITManagerDev\DataRecoveryWebService\bin\System.Web.Http.xml
+C:\Users\VK\source\repos\svkrishnagavva\ITManagerDev\DataRecoveryWebService\bin\System.Web.Http.WebHost.xml
+C:\Users\VK\source\repos\svkrishnagavva\ITManagerDev\DataRecoveryWebService\bin\System.Web.Mvc.xml
+C:\Users\VK\source\repos\svkrishnagavva\ITManagerDev\DataRecoveryWebService\bin\System.Web.Optimization.xml
+C:\Users\VK\source\repos\svkrishnagavva\ITManagerDev\DataRecoveryWebService\bin\System.Web.Razor.xml
+C:\Users\VK\source\repos\svkrishnagavva\ITManagerDev\DataRecoveryWebService\bin\System.Web.WebPages.xml
+C:\Users\VK\source\repos\svkrishnagavva\ITManagerDev\DataRecoveryWebService\bin\System.Web.WebPages.Deployment.xml
+C:\Users\VK\source\repos\svkrishnagavva\ITManagerDev\DataRecoveryWebService\bin\System.Web.WebPages.Razor.xml
+C:\Users\VK\source\repos\svkrishnagavva\ITManagerDev\DataRecoveryWebService\bin\de\Microsoft.Data.SqlClient.resources.dll
+C:\Users\VK\source\repos\svkrishnagavva\ITManagerDev\DataRecoveryWebService\bin\es\Microsoft.Data.SqlClient.resources.dll
+C:\Users\VK\source\repos\svkrishnagavva\ITManagerDev\DataRecoveryWebService\bin\fr\Microsoft.Data.SqlClient.resources.dll
+C:\Users\VK\source\repos\svkrishnagavva\ITManagerDev\DataRecoveryWebService\bin\it\Microsoft.Data.SqlClient.resources.dll
+C:\Users\VK\source\repos\svkrishnagavva\ITManagerDev\DataRecoveryWebService\bin\ja\Microsoft.Data.SqlClient.resources.dll
+C:\Users\VK\source\repos\svkrishnagavva\ITManagerDev\DataRecoveryWebService\bin\ko\Microsoft.Data.SqlClient.resources.dll
+C:\Users\VK\source\repos\svkrishnagavva\ITManagerDev\DataRecoveryWebService\bin\pt-BR\Microsoft.Data.SqlClient.resources.dll
+C:\Users\VK\source\repos\svkrishnagavva\ITManagerDev\DataRecoveryWebService\bin\ru\Microsoft.Data.SqlClient.resources.dll
+C:\Users\VK\source\repos\svkrishnagavva\ITManagerDev\DataRecoveryWebService\bin\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+C:\Users\VK\source\repos\svkrishnagavva\ITManagerDev\DataRecoveryWebService\bin\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+C:\Users\VK\source\repos\svkrishnagavva\ITManagerDev\DataRecoveryWebService\obj\Debug\DataRecoveryWebService.csproj.AssemblyReference.cache
+C:\Users\VK\source\repos\svkrishnagavva\ITManagerDev\DataRecoveryWebService\obj\Debug\DataRecoveryWebService.csproj.CoreCompileInputs.cache
+C:\Users\VK\source\repos\svkrishnagavva\ITManagerDev\DataRecoveryWebService\obj\Debug\DataRecoveryWebService.csproj.CopyComplete
+C:\Users\VK\source\repos\svkrishnagavva\ITManagerDev\DataRecoveryWebService\obj\Debug\DataRecoveryWebService.dll
+C:\Users\VK\source\repos\svkrishnagavva\ITManagerDev\DataRecoveryWebService\obj\Debug\DataRecoveryWebService.pdb
+C:\Users\Dell\Source\Repos\svkrishnagavva\ITManagerDev\DataRecoveryWebService\bin\DataRecoveryWebService.dll.config
+C:\Users\Dell\Source\Repos\svkrishnagavva\ITManagerDev\DataRecoveryWebService\bin\DataRecoveryWebService.dll
+C:\Users\Dell\Source\Repos\svkrishnagavva\ITManagerDev\DataRecoveryWebService\bin\DataRecoveryWebService.pdb
+C:\Users\Dell\Source\Repos\svkrishnagavva\ITManagerDev\DataRecoveryWebService\bin\roslyn\csc.exe
+C:\Users\Dell\Source\Repos\svkrishnagavva\ITManagerDev\DataRecoveryWebService\bin\roslyn\csc.exe.config
+C:\Users\Dell\Source\Repos\svkrishnagavva\ITManagerDev\DataRecoveryWebService\bin\roslyn\csc.rsp
+C:\Users\Dell\Source\Repos\svkrishnagavva\ITManagerDev\DataRecoveryWebService\bin\roslyn\csi.exe
+C:\Users\Dell\Source\Repos\svkrishnagavva\ITManagerDev\DataRecoveryWebService\bin\roslyn\csi.exe.config
+C:\Users\Dell\Source\Repos\svkrishnagavva\ITManagerDev\DataRecoveryWebService\bin\roslyn\csi.rsp
+C:\Users\Dell\Source\Repos\svkrishnagavva\ITManagerDev\DataRecoveryWebService\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Dell\Source\Repos\svkrishnagavva\ITManagerDev\DataRecoveryWebService\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Dell\Source\Repos\svkrishnagavva\ITManagerDev\DataRecoveryWebService\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Dell\Source\Repos\svkrishnagavva\ITManagerDev\DataRecoveryWebService\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Dell\Source\Repos\svkrishnagavva\ITManagerDev\DataRecoveryWebService\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Dell\Source\Repos\svkrishnagavva\ITManagerDev\DataRecoveryWebService\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Dell\Source\Repos\svkrishnagavva\ITManagerDev\DataRecoveryWebService\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Dell\Source\Repos\svkrishnagavva\ITManagerDev\DataRecoveryWebService\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Dell\Source\Repos\svkrishnagavva\ITManagerDev\DataRecoveryWebService\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Dell\Source\Repos\svkrishnagavva\ITManagerDev\DataRecoveryWebService\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Dell\Source\Repos\svkrishnagavva\ITManagerDev\DataRecoveryWebService\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Dell\Source\Repos\svkrishnagavva\ITManagerDev\DataRecoveryWebService\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\Dell\Source\Repos\svkrishnagavva\ITManagerDev\DataRecoveryWebService\bin\roslyn\System.AppContext.dll
+C:\Users\Dell\Source\Repos\svkrishnagavva\ITManagerDev\DataRecoveryWebService\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Dell\Source\Repos\svkrishnagavva\ITManagerDev\DataRecoveryWebService\bin\roslyn\System.Console.dll
+C:\Users\Dell\Source\Repos\svkrishnagavva\ITManagerDev\DataRecoveryWebService\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Dell\Source\Repos\svkrishnagavva\ITManagerDev\DataRecoveryWebService\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Dell\Source\Repos\svkrishnagavva\ITManagerDev\DataRecoveryWebService\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Dell\Source\Repos\svkrishnagavva\ITManagerDev\DataRecoveryWebService\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\Dell\Source\Repos\svkrishnagavva\ITManagerDev\DataRecoveryWebService\bin\roslyn\System.IO.Compression.dll
+C:\Users\Dell\Source\Repos\svkrishnagavva\ITManagerDev\DataRecoveryWebService\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\Dell\Source\Repos\svkrishnagavva\ITManagerDev\DataRecoveryWebService\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Dell\Source\Repos\svkrishnagavva\ITManagerDev\DataRecoveryWebService\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Dell\Source\Repos\svkrishnagavva\ITManagerDev\DataRecoveryWebService\bin\roslyn\System.Net.Http.dll
+C:\Users\Dell\Source\Repos\svkrishnagavva\ITManagerDev\DataRecoveryWebService\bin\roslyn\System.Net.Sockets.dll
+C:\Users\Dell\Source\Repos\svkrishnagavva\ITManagerDev\DataRecoveryWebService\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Dell\Source\Repos\svkrishnagavva\ITManagerDev\DataRecoveryWebService\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Dell\Source\Repos\svkrishnagavva\ITManagerDev\DataRecoveryWebService\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Dell\Source\Repos\svkrishnagavva\ITManagerDev\DataRecoveryWebService\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Dell\Source\Repos\svkrishnagavva\ITManagerDev\DataRecoveryWebService\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Dell\Source\Repos\svkrishnagavva\ITManagerDev\DataRecoveryWebService\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Dell\Source\Repos\svkrishnagavva\ITManagerDev\DataRecoveryWebService\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Dell\Source\Repos\svkrishnagavva\ITManagerDev\DataRecoveryWebService\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\Dell\Source\Repos\svkrishnagavva\ITManagerDev\DataRecoveryWebService\bin\roslyn\System.ValueTuple.dll
+C:\Users\Dell\Source\Repos\svkrishnagavva\ITManagerDev\DataRecoveryWebService\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Dell\Source\Repos\svkrishnagavva\ITManagerDev\DataRecoveryWebService\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Dell\Source\Repos\svkrishnagavva\ITManagerDev\DataRecoveryWebService\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Dell\Source\Repos\svkrishnagavva\ITManagerDev\DataRecoveryWebService\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Dell\Source\Repos\svkrishnagavva\ITManagerDev\DataRecoveryWebService\bin\roslyn\vbc.exe
+C:\Users\Dell\Source\Repos\svkrishnagavva\ITManagerDev\DataRecoveryWebService\bin\roslyn\vbc.exe.config
+C:\Users\Dell\Source\Repos\svkrishnagavva\ITManagerDev\DataRecoveryWebService\bin\roslyn\vbc.rsp
+C:\Users\Dell\Source\Repos\svkrishnagavva\ITManagerDev\DataRecoveryWebService\bin\roslyn\VBCSCompiler.exe
+C:\Users\Dell\Source\Repos\svkrishnagavva\ITManagerDev\DataRecoveryWebService\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Dell\Source\Repos\svkrishnagavva\ITManagerDev\DataRecoveryWebService\bin\Antlr3.Runtime.dll
+C:\Users\Dell\Source\Repos\svkrishnagavva\ITManagerDev\DataRecoveryWebService\bin\EntityFramework.dll
+C:\Users\Dell\Source\Repos\svkrishnagavva\ITManagerDev\DataRecoveryWebService\bin\EntityFramework.SqlServer.dll
+C:\Users\Dell\Source\Repos\svkrishnagavva\ITManagerDev\DataRecoveryWebService\bin\FromHeaderAttribute.dll
+C:\Users\Dell\Source\Repos\svkrishnagavva\ITManagerDev\DataRecoveryWebService\bin\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Dell\Source\Repos\svkrishnagavva\ITManagerDev\DataRecoveryWebService\bin\Microsoft.Bcl.HashCode.dll
+C:\Users\Dell\Source\Repos\svkrishnagavva\ITManagerDev\DataRecoveryWebService\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Dell\Source\Repos\svkrishnagavva\ITManagerDev\DataRecoveryWebService\bin\Microsoft.Data.SqlClient.dll
+C:\Users\Dell\Source\Repos\svkrishnagavva\ITManagerDev\DataRecoveryWebService\bin\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Dell\Source\Repos\svkrishnagavva\ITManagerDev\DataRecoveryWebService\bin\Microsoft.EntityFrameworkCore.dll
+C:\Users\Dell\Source\Repos\svkrishnagavva\ITManagerDev\DataRecoveryWebService\bin\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Dell\Source\Repos\svkrishnagavva\ITManagerDev\DataRecoveryWebService\bin\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Dell\Source\Repos\svkrishnagavva\ITManagerDev\DataRecoveryWebService\bin\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Dell\Source\Repos\svkrishnagavva\ITManagerDev\DataRecoveryWebService\bin\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Dell\Source\Repos\svkrishnagavva\ITManagerDev\DataRecoveryWebService\bin\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Dell\Source\Repos\svkrishnagavva\ITManagerDev\DataRecoveryWebService\bin\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\Dell\Source\Repos\svkrishnagavva\ITManagerDev\DataRecoveryWebService\bin\Microsoft.Extensions.Configuration.dll
+C:\Users\Dell\Source\Repos\svkrishnagavva\ITManagerDev\DataRecoveryWebService\bin\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Dell\Source\Repos\svkrishnagavva\ITManagerDev\DataRecoveryWebService\bin\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Dell\Source\Repos\svkrishnagavva\ITManagerDev\DataRecoveryWebService\bin\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Dell\Source\Repos\svkrishnagavva\ITManagerDev\DataRecoveryWebService\bin\Microsoft.Extensions.Logging.dll
+C:\Users\Dell\Source\Repos\svkrishnagavva\ITManagerDev\DataRecoveryWebService\bin\Microsoft.Extensions.Options.dll
+C:\Users\Dell\Source\Repos\svkrishnagavva\ITManagerDev\DataRecoveryWebService\bin\Microsoft.Extensions.Primitives.dll
+C:\Users\Dell\Source\Repos\svkrishnagavva\ITManagerDev\DataRecoveryWebService\bin\Microsoft.Identity.Client.dll
+C:\Users\Dell\Source\Repos\svkrishnagavva\ITManagerDev\DataRecoveryWebService\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Dell\Source\Repos\svkrishnagavva\ITManagerDev\DataRecoveryWebService\bin\Newtonsoft.Json.dll
+C:\Users\Dell\Source\Repos\svkrishnagavva\ITManagerDev\DataRecoveryWebService\bin\Swagger.Net.dll
+C:\Users\Dell\Source\Repos\svkrishnagavva\ITManagerDev\DataRecoveryWebService\bin\System.Buffers.dll
+C:\Users\Dell\Source\Repos\svkrishnagavva\ITManagerDev\DataRecoveryWebService\bin\System.Collections.Immutable.dll
+C:\Users\Dell\Source\Repos\svkrishnagavva\ITManagerDev\DataRecoveryWebService\bin\System.ComponentModel.Annotations.dll
+C:\Users\Dell\Source\Repos\svkrishnagavva\ITManagerDev\DataRecoveryWebService\bin\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Dell\Source\Repos\svkrishnagavva\ITManagerDev\DataRecoveryWebService\bin\System.Memory.dll
+C:\Users\Dell\Source\Repos\svkrishnagavva\ITManagerDev\DataRecoveryWebService\bin\System.Net.Http.Formatting.dll
+C:\Users\Dell\Source\Repos\svkrishnagavva\ITManagerDev\DataRecoveryWebService\bin\System.Numerics.Vectors.dll
+C:\Users\Dell\Source\Repos\svkrishnagavva\ITManagerDev\DataRecoveryWebService\bin\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Dell\Source\Repos\svkrishnagavva\ITManagerDev\DataRecoveryWebService\bin\System.Threading.Tasks.Extensions.dll
+C:\Users\Dell\Source\Repos\svkrishnagavva\ITManagerDev\DataRecoveryWebService\bin\System.Web.Helpers.dll
+C:\Users\Dell\Source\Repos\svkrishnagavva\ITManagerDev\DataRecoveryWebService\bin\System.Web.Http.dll
+C:\Users\Dell\Source\Repos\svkrishnagavva\ITManagerDev\DataRecoveryWebService\bin\System.Web.Http.WebHost.dll
+C:\Users\Dell\Source\Repos\svkrishnagavva\ITManagerDev\DataRecoveryWebService\bin\System.Web.Mvc.dll
+C:\Users\Dell\Source\Repos\svkrishnagavva\ITManagerDev\DataRecoveryWebService\bin\System.Web.Optimization.dll
+C:\Users\Dell\Source\Repos\svkrishnagavva\ITManagerDev\DataRecoveryWebService\bin\System.Web.Razor.dll
+C:\Users\Dell\Source\Repos\svkrishnagavva\ITManagerDev\DataRecoveryWebService\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Dell\Source\Repos\svkrishnagavva\ITManagerDev\DataRecoveryWebService\bin\System.Web.WebPages.dll
+C:\Users\Dell\Source\Repos\svkrishnagavva\ITManagerDev\DataRecoveryWebService\bin\System.Web.WebPages.Razor.dll
+C:\Users\Dell\Source\Repos\svkrishnagavva\ITManagerDev\DataRecoveryWebService\bin\WebActivatorEx.dll
+C:\Users\Dell\Source\Repos\svkrishnagavva\ITManagerDev\DataRecoveryWebService\bin\WebGrease.dll
+C:\Users\Dell\Source\Repos\svkrishnagavva\ITManagerDev\DataRecoveryWebService\bin\Antlr3.Runtime.pdb
+C:\Users\Dell\Source\Repos\svkrishnagavva\ITManagerDev\DataRecoveryWebService\bin\EntityFramework.xml
+C:\Users\Dell\Source\Repos\svkrishnagavva\ITManagerDev\DataRecoveryWebService\bin\EntityFramework.SqlServer.xml
+C:\Users\Dell\Source\Repos\svkrishnagavva\ITManagerDev\DataRecoveryWebService\bin\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\Dell\Source\Repos\svkrishnagavva\ITManagerDev\DataRecoveryWebService\bin\Microsoft.Bcl.HashCode.xml
+C:\Users\Dell\Source\Repos\svkrishnagavva\ITManagerDev\DataRecoveryWebService\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Dell\Source\Repos\svkrishnagavva\ITManagerDev\DataRecoveryWebService\bin\Microsoft.Data.SqlClient.pdb
+C:\Users\Dell\Source\Repos\svkrishnagavva\ITManagerDev\DataRecoveryWebService\bin\Microsoft.EntityFrameworkCore.xml
+C:\Users\Dell\Source\Repos\svkrishnagavva\ITManagerDev\DataRecoveryWebService\bin\Microsoft.EntityFrameworkCore.Abstractions.xml
+C:\Users\Dell\Source\Repos\svkrishnagavva\ITManagerDev\DataRecoveryWebService\bin\Microsoft.EntityFrameworkCore.Relational.xml
+C:\Users\Dell\Source\Repos\svkrishnagavva\ITManagerDev\DataRecoveryWebService\bin\Microsoft.EntityFrameworkCore.SqlServer.xml
+C:\Users\Dell\Source\Repos\svkrishnagavva\ITManagerDev\DataRecoveryWebService\bin\Microsoft.Extensions.Caching.Abstractions.xml
+C:\Users\Dell\Source\Repos\svkrishnagavva\ITManagerDev\DataRecoveryWebService\bin\Microsoft.Extensions.Caching.Memory.xml
+C:\Users\Dell\Source\Repos\svkrishnagavva\ITManagerDev\DataRecoveryWebService\bin\Microsoft.Extensions.Configuration.xml
+C:\Users\Dell\Source\Repos\svkrishnagavva\ITManagerDev\DataRecoveryWebService\bin\Microsoft.Extensions.Configuration.Abstractions.xml
+C:\Users\Dell\Source\Repos\svkrishnagavva\ITManagerDev\DataRecoveryWebService\bin\Microsoft.Extensions.Configuration.Binder.xml
+C:\Users\Dell\Source\Repos\svkrishnagavva\ITManagerDev\DataRecoveryWebService\bin\Microsoft.Extensions.DependencyInjection.xml
+C:\Users\Dell\Source\Repos\svkrishnagavva\ITManagerDev\DataRecoveryWebService\bin\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+C:\Users\Dell\Source\Repos\svkrishnagavva\ITManagerDev\DataRecoveryWebService\bin\Microsoft.Extensions.Logging.xml
+C:\Users\Dell\Source\Repos\svkrishnagavva\ITManagerDev\DataRecoveryWebService\bin\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\Dell\Source\Repos\svkrishnagavva\ITManagerDev\DataRecoveryWebService\bin\Microsoft.Extensions.Options.xml
+C:\Users\Dell\Source\Repos\svkrishnagavva\ITManagerDev\DataRecoveryWebService\bin\Microsoft.Extensions.Primitives.xml
+C:\Users\Dell\Source\Repos\svkrishnagavva\ITManagerDev\DataRecoveryWebService\bin\Microsoft.Identity.Client.xml
+C:\Users\Dell\Source\Repos\svkrishnagavva\ITManagerDev\DataRecoveryWebService\bin\Newtonsoft.Json.xml
+C:\Users\Dell\Source\Repos\svkrishnagavva\ITManagerDev\DataRecoveryWebService\bin\System.Buffers.xml
+C:\Users\Dell\Source\Repos\svkrishnagavva\ITManagerDev\DataRecoveryWebService\bin\System.Collections.Immutable.xml
+C:\Users\Dell\Source\Repos\svkrishnagavva\ITManagerDev\DataRecoveryWebService\bin\System.Diagnostics.DiagnosticSource.xml
+C:\Users\Dell\Source\Repos\svkrishnagavva\ITManagerDev\DataRecoveryWebService\bin\System.Memory.xml
+C:\Users\Dell\Source\Repos\svkrishnagavva\ITManagerDev\DataRecoveryWebService\bin\System.Net.Http.Formatting.xml
+C:\Users\Dell\Source\Repos\svkrishnagavva\ITManagerDev\DataRecoveryWebService\bin\System.Numerics.Vectors.xml
+C:\Users\Dell\Source\Repos\svkrishnagavva\ITManagerDev\DataRecoveryWebService\bin\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Dell\Source\Repos\svkrishnagavva\ITManagerDev\DataRecoveryWebService\bin\System.Threading.Tasks.Extensions.xml
+C:\Users\Dell\Source\Repos\svkrishnagavva\ITManagerDev\DataRecoveryWebService\bin\System.Web.Helpers.xml
+C:\Users\Dell\Source\Repos\svkrishnagavva\ITManagerDev\DataRecoveryWebService\bin\System.Web.Http.xml
+C:\Users\Dell\Source\Repos\svkrishnagavva\ITManagerDev\DataRecoveryWebService\bin\System.Web.Http.WebHost.xml
+C:\Users\Dell\Source\Repos\svkrishnagavva\ITManagerDev\DataRecoveryWebService\bin\System.Web.Mvc.xml
+C:\Users\Dell\Source\Repos\svkrishnagavva\ITManagerDev\DataRecoveryWebService\bin\System.Web.Optimization.xml
+C:\Users\Dell\Source\Repos\svkrishnagavva\ITManagerDev\DataRecoveryWebService\bin\System.Web.Razor.xml
+C:\Users\Dell\Source\Repos\svkrishnagavva\ITManagerDev\DataRecoveryWebService\bin\System.Web.WebPages.xml
+C:\Users\Dell\Source\Repos\svkrishnagavva\ITManagerDev\DataRecoveryWebService\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Dell\Source\Repos\svkrishnagavva\ITManagerDev\DataRecoveryWebService\bin\System.Web.WebPages.Razor.xml
+C:\Users\Dell\Source\Repos\svkrishnagavva\ITManagerDev\DataRecoveryWebService\bin\de\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Dell\Source\Repos\svkrishnagavva\ITManagerDev\DataRecoveryWebService\bin\es\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Dell\Source\Repos\svkrishnagavva\ITManagerDev\DataRecoveryWebService\bin\fr\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Dell\Source\Repos\svkrishnagavva\ITManagerDev\DataRecoveryWebService\bin\it\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Dell\Source\Repos\svkrishnagavva\ITManagerDev\DataRecoveryWebService\bin\ja\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Dell\Source\Repos\svkrishnagavva\ITManagerDev\DataRecoveryWebService\bin\ko\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Dell\Source\Repos\svkrishnagavva\ITManagerDev\DataRecoveryWebService\bin\pt-BR\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Dell\Source\Repos\svkrishnagavva\ITManagerDev\DataRecoveryWebService\bin\ru\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Dell\Source\Repos\svkrishnagavva\ITManagerDev\DataRecoveryWebService\bin\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Dell\Source\Repos\svkrishnagavva\ITManagerDev\DataRecoveryWebService\bin\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Dell\Source\Repos\svkrishnagavva\ITManagerDev\DataRecoveryWebService\obj\Debug\DataRecoveryWebService.csproj.AssemblyReference.cache
+C:\Users\Dell\Source\Repos\svkrishnagavva\ITManagerDev\DataRecoveryWebService\obj\Debug\DataRecoveryWebService.csproj.CoreCompileInputs.cache
+C:\Users\Dell\Source\Repos\svkrishnagavva\ITManagerDev\DataRecoveryWebService\obj\Debug\DataRecoveryWebService.csproj.CopyComplete
+C:\Users\Dell\Source\Repos\svkrishnagavva\ITManagerDev\DataRecoveryWebService\obj\Debug\DataRecoveryWebService.dll
+C:\Users\Dell\Source\Repos\svkrishnagavva\ITManagerDev\DataRecoveryWebService\obj\Debug\DataRecoveryWebService.pdb
+D:\Repos\svkrishnagavva\ITManagerDev\DataRecoveryWebService\bin\DataRecoveryWebService.dll.config
+D:\Repos\svkrishnagavva\ITManagerDev\DataRecoveryWebService\bin\DataRecoveryWebService.dll
+D:\Repos\svkrishnagavva\ITManagerDev\DataRecoveryWebService\bin\DataRecoveryWebService.pdb
+D:\Repos\svkrishnagavva\ITManagerDev\DataRecoveryWebService\bin\roslyn\csc.exe
+D:\Repos\svkrishnagavva\ITManagerDev\DataRecoveryWebService\bin\roslyn\csc.exe.config
+D:\Repos\svkrishnagavva\ITManagerDev\DataRecoveryWebService\bin\roslyn\csc.rsp
+D:\Repos\svkrishnagavva\ITManagerDev\DataRecoveryWebService\bin\roslyn\csi.exe
+D:\Repos\svkrishnagavva\ITManagerDev\DataRecoveryWebService\bin\roslyn\csi.exe.config
+D:\Repos\svkrishnagavva\ITManagerDev\DataRecoveryWebService\bin\roslyn\csi.rsp
+D:\Repos\svkrishnagavva\ITManagerDev\DataRecoveryWebService\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Repos\svkrishnagavva\ITManagerDev\DataRecoveryWebService\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Repos\svkrishnagavva\ITManagerDev\DataRecoveryWebService\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\Repos\svkrishnagavva\ITManagerDev\DataRecoveryWebService\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Repos\svkrishnagavva\ITManagerDev\DataRecoveryWebService\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\Repos\svkrishnagavva\ITManagerDev\DataRecoveryWebService\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Repos\svkrishnagavva\ITManagerDev\DataRecoveryWebService\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Repos\svkrishnagavva\ITManagerDev\DataRecoveryWebService\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\Repos\svkrishnagavva\ITManagerDev\DataRecoveryWebService\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\Repos\svkrishnagavva\ITManagerDev\DataRecoveryWebService\bin\roslyn\Microsoft.Managed.Core.targets
+D:\Repos\svkrishnagavva\ITManagerDev\DataRecoveryWebService\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Repos\svkrishnagavva\ITManagerDev\DataRecoveryWebService\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\Repos\svkrishnagavva\ITManagerDev\DataRecoveryWebService\bin\roslyn\System.AppContext.dll
+D:\Repos\svkrishnagavva\ITManagerDev\DataRecoveryWebService\bin\roslyn\System.Collections.Immutable.dll
+D:\Repos\svkrishnagavva\ITManagerDev\DataRecoveryWebService\bin\roslyn\System.Console.dll
+D:\Repos\svkrishnagavva\ITManagerDev\DataRecoveryWebService\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+D:\Repos\svkrishnagavva\ITManagerDev\DataRecoveryWebService\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\Repos\svkrishnagavva\ITManagerDev\DataRecoveryWebService\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\Repos\svkrishnagavva\ITManagerDev\DataRecoveryWebService\bin\roslyn\System.Globalization.Calendars.dll
+D:\Repos\svkrishnagavva\ITManagerDev\DataRecoveryWebService\bin\roslyn\System.IO.Compression.dll
+D:\Repos\svkrishnagavva\ITManagerDev\DataRecoveryWebService\bin\roslyn\System.IO.Compression.ZipFile.dll
+D:\Repos\svkrishnagavva\ITManagerDev\DataRecoveryWebService\bin\roslyn\System.IO.FileSystem.dll
+D:\Repos\svkrishnagavva\ITManagerDev\DataRecoveryWebService\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\Repos\svkrishnagavva\ITManagerDev\DataRecoveryWebService\bin\roslyn\System.Net.Http.dll
+D:\Repos\svkrishnagavva\ITManagerDev\DataRecoveryWebService\bin\roslyn\System.Net.Sockets.dll
+D:\Repos\svkrishnagavva\ITManagerDev\DataRecoveryWebService\bin\roslyn\System.Reflection.Metadata.dll
+D:\Repos\svkrishnagavva\ITManagerDev\DataRecoveryWebService\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\Repos\svkrishnagavva\ITManagerDev\DataRecoveryWebService\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\Repos\svkrishnagavva\ITManagerDev\DataRecoveryWebService\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\Repos\svkrishnagavva\ITManagerDev\DataRecoveryWebService\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\Repos\svkrishnagavva\ITManagerDev\DataRecoveryWebService\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\Repos\svkrishnagavva\ITManagerDev\DataRecoveryWebService\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\Repos\svkrishnagavva\ITManagerDev\DataRecoveryWebService\bin\roslyn\System.Threading.Tasks.Extensions.dll
+D:\Repos\svkrishnagavva\ITManagerDev\DataRecoveryWebService\bin\roslyn\System.ValueTuple.dll
+D:\Repos\svkrishnagavva\ITManagerDev\DataRecoveryWebService\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\Repos\svkrishnagavva\ITManagerDev\DataRecoveryWebService\bin\roslyn\System.Xml.XmlDocument.dll
+D:\Repos\svkrishnagavva\ITManagerDev\DataRecoveryWebService\bin\roslyn\System.Xml.XPath.dll
+D:\Repos\svkrishnagavva\ITManagerDev\DataRecoveryWebService\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\Repos\svkrishnagavva\ITManagerDev\DataRecoveryWebService\bin\roslyn\vbc.exe
+D:\Repos\svkrishnagavva\ITManagerDev\DataRecoveryWebService\bin\roslyn\vbc.exe.config
+D:\Repos\svkrishnagavva\ITManagerDev\DataRecoveryWebService\bin\roslyn\vbc.rsp
+D:\Repos\svkrishnagavva\ITManagerDev\DataRecoveryWebService\bin\roslyn\VBCSCompiler.exe
+D:\Repos\svkrishnagavva\ITManagerDev\DataRecoveryWebService\bin\roslyn\VBCSCompiler.exe.config
+D:\Repos\svkrishnagavva\ITManagerDev\DataRecoveryWebService\bin\Antlr3.Runtime.dll
+D:\Repos\svkrishnagavva\ITManagerDev\DataRecoveryWebService\bin\EntityFramework.dll
+D:\Repos\svkrishnagavva\ITManagerDev\DataRecoveryWebService\bin\EntityFramework.SqlServer.dll
+D:\Repos\svkrishnagavva\ITManagerDev\DataRecoveryWebService\bin\FromHeaderAttribute.dll
+D:\Repos\svkrishnagavva\ITManagerDev\DataRecoveryWebService\bin\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Repos\svkrishnagavva\ITManagerDev\DataRecoveryWebService\bin\Microsoft.Bcl.HashCode.dll
+D:\Repos\svkrishnagavva\ITManagerDev\DataRecoveryWebService\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Repos\svkrishnagavva\ITManagerDev\DataRecoveryWebService\bin\Microsoft.Data.SqlClient.dll
+D:\Repos\svkrishnagavva\ITManagerDev\DataRecoveryWebService\bin\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Repos\svkrishnagavva\ITManagerDev\DataRecoveryWebService\bin\Microsoft.EntityFrameworkCore.dll
+D:\Repos\svkrishnagavva\ITManagerDev\DataRecoveryWebService\bin\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Repos\svkrishnagavva\ITManagerDev\DataRecoveryWebService\bin\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Repos\svkrishnagavva\ITManagerDev\DataRecoveryWebService\bin\Microsoft.Extensions.Caching.Abstractions.dll
+D:\Repos\svkrishnagavva\ITManagerDev\DataRecoveryWebService\bin\Microsoft.Extensions.Caching.Memory.dll
+D:\Repos\svkrishnagavva\ITManagerDev\DataRecoveryWebService\bin\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\Repos\svkrishnagavva\ITManagerDev\DataRecoveryWebService\bin\Microsoft.Extensions.Configuration.Binder.dll
+D:\Repos\svkrishnagavva\ITManagerDev\DataRecoveryWebService\bin\Microsoft.Extensions.Configuration.dll
+D:\Repos\svkrishnagavva\ITManagerDev\DataRecoveryWebService\bin\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Repos\svkrishnagavva\ITManagerDev\DataRecoveryWebService\bin\Microsoft.Extensions.DependencyInjection.dll
+D:\Repos\svkrishnagavva\ITManagerDev\DataRecoveryWebService\bin\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Repos\svkrishnagavva\ITManagerDev\DataRecoveryWebService\bin\Microsoft.Extensions.Logging.dll
+D:\Repos\svkrishnagavva\ITManagerDev\DataRecoveryWebService\bin\Microsoft.Extensions.Options.dll
+D:\Repos\svkrishnagavva\ITManagerDev\DataRecoveryWebService\bin\Microsoft.Extensions.Primitives.dll
+D:\Repos\svkrishnagavva\ITManagerDev\DataRecoveryWebService\bin\Microsoft.Identity.Client.dll
+D:\Repos\svkrishnagavva\ITManagerDev\DataRecoveryWebService\bin\Microsoft.Web.Infrastructure.dll
+D:\Repos\svkrishnagavva\ITManagerDev\DataRecoveryWebService\bin\Newtonsoft.Json.dll
+D:\Repos\svkrishnagavva\ITManagerDev\DataRecoveryWebService\bin\Swagger.Net.dll
+D:\Repos\svkrishnagavva\ITManagerDev\DataRecoveryWebService\bin\System.Buffers.dll
+D:\Repos\svkrishnagavva\ITManagerDev\DataRecoveryWebService\bin\System.Collections.Immutable.dll
+D:\Repos\svkrishnagavva\ITManagerDev\DataRecoveryWebService\bin\System.ComponentModel.Annotations.dll
+D:\Repos\svkrishnagavva\ITManagerDev\DataRecoveryWebService\bin\System.Diagnostics.DiagnosticSource.dll
+D:\Repos\svkrishnagavva\ITManagerDev\DataRecoveryWebService\bin\System.Memory.dll
+D:\Repos\svkrishnagavva\ITManagerDev\DataRecoveryWebService\bin\System.Net.Http.Formatting.dll
+D:\Repos\svkrishnagavva\ITManagerDev\DataRecoveryWebService\bin\System.Numerics.Vectors.dll
+D:\Repos\svkrishnagavva\ITManagerDev\DataRecoveryWebService\bin\System.Runtime.CompilerServices.Unsafe.dll
+D:\Repos\svkrishnagavva\ITManagerDev\DataRecoveryWebService\bin\System.Threading.Tasks.Extensions.dll
+D:\Repos\svkrishnagavva\ITManagerDev\DataRecoveryWebService\bin\System.Web.Helpers.dll
+D:\Repos\svkrishnagavva\ITManagerDev\DataRecoveryWebService\bin\System.Web.Http.dll
+D:\Repos\svkrishnagavva\ITManagerDev\DataRecoveryWebService\bin\System.Web.Http.WebHost.dll
+D:\Repos\svkrishnagavva\ITManagerDev\DataRecoveryWebService\bin\System.Web.Mvc.dll
+D:\Repos\svkrishnagavva\ITManagerDev\DataRecoveryWebService\bin\System.Web.Optimization.dll
+D:\Repos\svkrishnagavva\ITManagerDev\DataRecoveryWebService\bin\System.Web.Razor.dll
+D:\Repos\svkrishnagavva\ITManagerDev\DataRecoveryWebService\bin\System.Web.WebPages.Deployment.dll
+D:\Repos\svkrishnagavva\ITManagerDev\DataRecoveryWebService\bin\System.Web.WebPages.dll
+D:\Repos\svkrishnagavva\ITManagerDev\DataRecoveryWebService\bin\System.Web.WebPages.Razor.dll
+D:\Repos\svkrishnagavva\ITManagerDev\DataRecoveryWebService\bin\WebActivatorEx.dll
+D:\Repos\svkrishnagavva\ITManagerDev\DataRecoveryWebService\bin\WebGrease.dll
+D:\Repos\svkrishnagavva\ITManagerDev\DataRecoveryWebService\bin\Antlr3.Runtime.pdb
+D:\Repos\svkrishnagavva\ITManagerDev\DataRecoveryWebService\bin\EntityFramework.xml
+D:\Repos\svkrishnagavva\ITManagerDev\DataRecoveryWebService\bin\EntityFramework.SqlServer.xml
+D:\Repos\svkrishnagavva\ITManagerDev\DataRecoveryWebService\bin\Microsoft.Bcl.AsyncInterfaces.xml
+D:\Repos\svkrishnagavva\ITManagerDev\DataRecoveryWebService\bin\Microsoft.Bcl.HashCode.xml
+D:\Repos\svkrishnagavva\ITManagerDev\DataRecoveryWebService\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Repos\svkrishnagavva\ITManagerDev\DataRecoveryWebService\bin\Microsoft.Data.SqlClient.pdb
+D:\Repos\svkrishnagavva\ITManagerDev\DataRecoveryWebService\bin\Microsoft.EntityFrameworkCore.xml
+D:\Repos\svkrishnagavva\ITManagerDev\DataRecoveryWebService\bin\Microsoft.EntityFrameworkCore.Abstractions.xml
+D:\Repos\svkrishnagavva\ITManagerDev\DataRecoveryWebService\bin\Microsoft.EntityFrameworkCore.Relational.xml
+D:\Repos\svkrishnagavva\ITManagerDev\DataRecoveryWebService\bin\Microsoft.EntityFrameworkCore.SqlServer.xml
+D:\Repos\svkrishnagavva\ITManagerDev\DataRecoveryWebService\bin\Microsoft.Extensions.Caching.Abstractions.xml
+D:\Repos\svkrishnagavva\ITManagerDev\DataRecoveryWebService\bin\Microsoft.Extensions.Caching.Memory.xml
+D:\Repos\svkrishnagavva\ITManagerDev\DataRecoveryWebService\bin\Microsoft.Extensions.Configuration.xml
+D:\Repos\svkrishnagavva\ITManagerDev\DataRecoveryWebService\bin\Microsoft.Extensions.Configuration.Abstractions.xml
+D:\Repos\svkrishnagavva\ITManagerDev\DataRecoveryWebService\bin\Microsoft.Extensions.Configuration.Binder.xml
+D:\Repos\svkrishnagavva\ITManagerDev\DataRecoveryWebService\bin\Microsoft.Extensions.DependencyInjection.xml
+D:\Repos\svkrishnagavva\ITManagerDev\DataRecoveryWebService\bin\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+D:\Repos\svkrishnagavva\ITManagerDev\DataRecoveryWebService\bin\Microsoft.Extensions.Logging.xml
+D:\Repos\svkrishnagavva\ITManagerDev\DataRecoveryWebService\bin\Microsoft.Extensions.Logging.Abstractions.xml
+D:\Repos\svkrishnagavva\ITManagerDev\DataRecoveryWebService\bin\Microsoft.Extensions.Options.xml
+D:\Repos\svkrishnagavva\ITManagerDev\DataRecoveryWebService\bin\Microsoft.Extensions.Primitives.xml
+D:\Repos\svkrishnagavva\ITManagerDev\DataRecoveryWebService\bin\Microsoft.Identity.Client.xml
+D:\Repos\svkrishnagavva\ITManagerDev\DataRecoveryWebService\bin\Newtonsoft.Json.xml
+D:\Repos\svkrishnagavva\ITManagerDev\DataRecoveryWebService\bin\System.Buffers.xml
+D:\Repos\svkrishnagavva\ITManagerDev\DataRecoveryWebService\bin\System.Collections.Immutable.xml
+D:\Repos\svkrishnagavva\ITManagerDev\DataRecoveryWebService\bin\System.Diagnostics.DiagnosticSource.xml
+D:\Repos\svkrishnagavva\ITManagerDev\DataRecoveryWebService\bin\System.Memory.xml
+D:\Repos\svkrishnagavva\ITManagerDev\DataRecoveryWebService\bin\System.Net.Http.Formatting.xml
+D:\Repos\svkrishnagavva\ITManagerDev\DataRecoveryWebService\bin\System.Numerics.Vectors.xml
+D:\Repos\svkrishnagavva\ITManagerDev\DataRecoveryWebService\bin\System.Runtime.CompilerServices.Unsafe.xml
+D:\Repos\svkrishnagavva\ITManagerDev\DataRecoveryWebService\bin\System.Threading.Tasks.Extensions.xml
+D:\Repos\svkrishnagavva\ITManagerDev\DataRecoveryWebService\bin\System.Web.Helpers.xml
+D:\Repos\svkrishnagavva\ITManagerDev\DataRecoveryWebService\bin\System.Web.Http.xml
+D:\Repos\svkrishnagavva\ITManagerDev\DataRecoveryWebService\bin\System.Web.Http.WebHost.xml
+D:\Repos\svkrishnagavva\ITManagerDev\DataRecoveryWebService\bin\System.Web.Mvc.xml
+D:\Repos\svkrishnagavva\ITManagerDev\DataRecoveryWebService\bin\System.Web.Optimization.xml
+D:\Repos\svkrishnagavva\ITManagerDev\DataRecoveryWebService\bin\System.Web.Razor.xml
+D:\Repos\svkrishnagavva\ITManagerDev\DataRecoveryWebService\bin\System.Web.WebPages.xml
+D:\Repos\svkrishnagavva\ITManagerDev\DataRecoveryWebService\bin\System.Web.WebPages.Deployment.xml
+D:\Repos\svkrishnagavva\ITManagerDev\DataRecoveryWebService\bin\System.Web.WebPages.Razor.xml
+D:\Repos\svkrishnagavva\ITManagerDev\DataRecoveryWebService\bin\de\Microsoft.Data.SqlClient.resources.dll
+D:\Repos\svkrishnagavva\ITManagerDev\DataRecoveryWebService\bin\es\Microsoft.Data.SqlClient.resources.dll
+D:\Repos\svkrishnagavva\ITManagerDev\DataRecoveryWebService\bin\fr\Microsoft.Data.SqlClient.resources.dll
+D:\Repos\svkrishnagavva\ITManagerDev\DataRecoveryWebService\bin\it\Microsoft.Data.SqlClient.resources.dll
+D:\Repos\svkrishnagavva\ITManagerDev\DataRecoveryWebService\bin\ja\Microsoft.Data.SqlClient.resources.dll
+D:\Repos\svkrishnagavva\ITManagerDev\DataRecoveryWebService\bin\ko\Microsoft.Data.SqlClient.resources.dll
+D:\Repos\svkrishnagavva\ITManagerDev\DataRecoveryWebService\bin\pt-BR\Microsoft.Data.SqlClient.resources.dll
+D:\Repos\svkrishnagavva\ITManagerDev\DataRecoveryWebService\bin\ru\Microsoft.Data.SqlClient.resources.dll
+D:\Repos\svkrishnagavva\ITManagerDev\DataRecoveryWebService\bin\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+D:\Repos\svkrishnagavva\ITManagerDev\DataRecoveryWebService\bin\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+D:\Repos\svkrishnagavva\ITManagerDev\DataRecoveryWebService\obj\Debug\DataRecoveryWebService.csproj.AssemblyReference.cache
+D:\Repos\svkrishnagavva\ITManagerDev\DataRecoveryWebService\obj\Debug\DataRecoveryWebService.csproj.CoreCompileInputs.cache
+D:\Repos\svkrishnagavva\ITManagerDev\DataRecoveryWebService\obj\Debug\DataRecoveryWebService.csproj.CopyComplete
+D:\Repos\svkrishnagavva\ITManagerDev\DataRecoveryWebService\obj\Debug\DataRecoveryWebService.dll
+D:\Repos\svkrishnagavva\ITManagerDev\DataRecoveryWebService\obj\Debug\DataRecoveryWebService.pdb

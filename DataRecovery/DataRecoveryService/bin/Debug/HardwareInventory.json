@@ -1,0 +1,62 @@
+{
+  "HardwareInventoryId": 0,
+  "SystemId": "DESKTOP-DM8LPS0",
+  "HostName": "DESKTOP-DM8LPS0",
+  "SerialNumber": "GGTD262",
+  "Manufacturer": "Dell Inc.",
+  "Model": "Inspiron 5559",
+  "CPUType": "Intel(R) Core(TM) i5-6200U CPU @ 2.30GHz",
+  "RAMDetails": "4",
+  "WindowsActivated": "True",
+  "PrinterConnected": "False",
+  "HasCdDrive": true,
+  "RAMSlots": "2",
+  "HostIP": "10.212.134.16",
+  "OperatingSystem": "Microsoft Windows 10 Pro",
+  "LastLoginUser": "SYSTEM",
+  "LastScanDate": "2021-05-07T15:40:45.8393853+05:30",
+  "CPU_Core": "2",
+  "CreatedOn": "2021-05-07T15:40:45.8393853+05:30",
+  "CreatedBy": "Windows Service",
+  "UpdatedOn": null,
+  "UpdatedBy": null,
+  "IsActive": true,
+  "DriveDetails": [
+    {
+      "DriveDetailId": 0,
+      "SystemId": "DESKTOP-DM8LPS0",
+      "SerialNumber": "GGTD262",
+      "DriveName": "C:\\",
+      "FreeSpace": "25263087616",
+      "CreatedOn": "2021-05-07T15:39:43.4772345+05:30",
+      "CreatedBy": "Windows Service",
+      "UpdatedOn": null,
+      "UpdatedBy": null,
+      "IsActive": true
+    },
+    {
+      "DriveDetailId": 0,
+      "SystemId": "DESKTOP-DM8LPS0",
+      "SerialNumber": "GGTD262",
+      "DriveName": "D:\\",
+      "FreeSpace": "506938429440",
+      "CreatedOn": "2021-05-07T15:39:43.497183+05:30",
+      "CreatedBy": "Windows Service",
+      "UpdatedOn": null,
+      "UpdatedBy": null,
+      "IsActive": true
+    },
+    {
+      "DriveDetailId": 0,
+      "SystemId": "DESKTOP-DM8LPS0",
+      "SerialNumber": "GGTD262",
+      "DriveName": "F:\\",
+      "FreeSpace": "237981945856",
+      "CreatedOn": "2021-05-07T15:39:43.5231128+05:30",
+      "CreatedBy": "Windows Service",
+      "UpdatedOn": null,
+      "UpdatedBy": null,
+      "IsActive": true
+    }
+  ]
+}

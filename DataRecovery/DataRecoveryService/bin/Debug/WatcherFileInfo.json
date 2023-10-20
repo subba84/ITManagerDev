@@ -1,0 +1,28 @@
+{
+  "Filemodel": [
+    {
+      "UserName": null,
+      "FileName": "Invoice - Copy.pdf",
+      "FilePath": "D:\\Test\\Invoice - Copy.pdf",
+      "FileAction": "Upload",
+      "FileActionDate": "2022-10-20T16:45:27.1364989+05:30",
+      "Filestatus": "uploaded",
+      "FilestatusDesc": "Uploaded Successfully",
+      "Filesize": 26597,
+      "Source": "Watcher",
+      "LastWrittenTime": "2022-03-11T11:11:36.1924542+05:30"
+    },
+    {
+      "UserName": null,
+      "FileName": "MVPSession1SimpleTimeline - Copy.vsd",
+      "FilePath": "D:\\Test\\MVPSession1SimpleTimeline - Copy.vsd",
+      "FileAction": "Upload",
+      "FileActionDate": "2022-10-20T16:46:22.3201596+05:30",
+      "Filestatus": "uploaded",
+      "FilestatusDesc": "Uploaded Successfully",
+      "Filesize": 375296,
+      "Source": "Watcher",
+      "LastWrittenTime": "2022-10-20T16:46:22.3201596+05:30"
+    }
+  ]
+}

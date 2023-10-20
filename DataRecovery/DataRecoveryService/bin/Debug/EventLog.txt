@@ -1,0 +1,146 @@
+Date : 07-05-2021 15:33:41 --- Event : Json PathC:\Users\u\source\repos\svkrishnagavva\ITManagerDev\DataRecovery\DataRecoveryService\bin\Debug\\HardwareInventory.json 
+Date : 07-05-2021 15:35:42 --- Event : Load Config started 
+Date : 07-05-2021 15:35:42 --- Event : http://localhost:82/GetConfig?SystemId=DESKTOP-DM8LPS0&SerialNumber=GGTD262 
+Date : 07-05-2021 15:35:42 --- Event : backupProvider 
+Date : 07-05-2021 15:35:42 --- Event : Issue in Configuration Database---- IncludeFileExtensions:*.pdf,*.jpg,*.xlsx,*.doc,*.mp3,*.cs 
+Date : 07-05-2021 15:35:42 --- Event : Issue in Configuration Database---- IncludeFileExtensions:*.pdf,*.jpg,*.xlsx,*.doc,*.mp3,*.cs 
+Date : 07-05-2021 15:35:42 --- Event : Issue in Configuration Database---- BackupFilePath:D:\Store 
+Date : 07-05-2021 15:35:42 --- Event : Issue in Configuration Database---- BackupFilePath:D:\Store 
+Date : 07-05-2021 15:35:42 --- Event : Issue in Configuration Database---- FoldersToScan:D:\TestData 
+Date : 07-05-2021 15:35:42 --- Event : Issue in Configuration Database---- FoldersToScan:D:\TestData 
+Date : 07-05-2021 15:35:42 --- Event : Issue in Configuration Database---- ExcludeFileExtensions: 
+Date : 07-05-2021 15:35:42 --- Event : Issue in Configuration Database---- ExcludeFileExtensions: 
+Date : 07-05-2021 15:35:43 --- Event : Issue in Configuration Database---- BackupType:Local 
+Date : 07-05-2021 15:35:43 --- Event : Issue in Configuration Database---- BackupType:Local 
+Date : 07-05-2021 15:35:43 --- Event : Service read complete 
+Date : 07-05-2021 15:35:43 --- Event : Issue in Configuration Database---- VersionstoKeep:1 
+Date : 07-05-2021 15:35:43 --- Event : Issue in Configuration Database---- VersionstoKeep:1 
+Date : 07-05-2021 15:35:43 --- Event : Issue in Configuration Database---- canscan: 
+Date : 07-05-2021 15:35:43 --- Event : Issue in Configuration Database---- canscan: 
+Date : 07-05-2021 15:35:43 --- Event : Issue in Configuration Database---- canwatch: 
+Date : 07-05-2021 15:35:43 --- Event : Issue in Configuration Database---- canwatch: 
+Date : 07-05-2021 15:35:43 --- Event : Issue in Configuration Database---- canupload: 
+Date : 07-05-2021 15:35:43 --- Event : Issue in Configuration Database---- canupload: 
+Date : 07-05-2021 15:35:43 --- Event : Issue in Configuration Database---- canInventory: 
+Date : 07-05-2021 15:35:43 --- Event : Issue in Configuration Database---- canInventory: 
+Date : 07-05-2021 15:35:43 --- Event : Load Config Completed 
+Date : 07-05-2021 15:35:43 --- Event : OutputFilePathC:\Users\u\source\repos\svkrishnagavva\ITManagerDev\DataRecovery\DataRecoveryService\bin\Debug\\FileInfo.json 
+Date : 07-05-2021 15:35:47 --- Event : Scan started 
+Date : 07-05-2021 15:35:47 --- Event : IncludeExtensions :*.pdf,*.jpg,*.xlsx,*.doc,*.mp3,*.cs 
+Date : 07-05-2021 15:35:47 --- Event : File NameD:\TestData\1.doc 
+Date : 07-05-2021 15:35:47 --- Event : File NameD:\TestData\23 - Copy.doc 
+Date : 07-05-2021 15:35:47 --- Event : File NameD:\TestData\23.doc 
+Date : 07-05-2021 15:35:47 --- Event : File NameD:\TestData\Son222g - Copy.mp3 
+Date : 07-05-2021 15:35:47 --- Event : File NameD:\TestData\Song - Copy (2).mp3 
+Date : 07-05-2021 15:35:47 --- Event : File NameD:\TestData\Song - Copy.mp3 
+Date : 07-05-2021 15:35:47 --- Event : File NameD:\TestData\Songnew - Copy.mp3 
+Date : 07-05-2021 15:35:47 --- Event : File NameD:\TestData\Songnew.mp3 
+Date : 07-05-2021 15:35:47 --- Event : File NameD:\TestData\Test.doc 
+Date : 07-05-2021 15:35:47 --- Event : File NameD:\TestData\TestFile2changed - Copy - Copy.doc 
+Date : 07-05-2021 15:35:47 --- Event : File NameD:\TestData\TestFile2changed - Copy.doc 
+Date : 07-05-2021 15:35:47 --- Event : File NameD:\TestData\vamsi.mp3 
+Date : 07-05-2021 15:35:47 --- Event : File NameD:\TestData\Vk.mp3 
+Date : 07-05-2021 15:36:01 --- Event : IncludeExtensions :*.pdf,*.jpg,*.xlsx,*.doc,*.mp3,*.cs 
+Date : 07-05-2021 15:36:01 --- Event : File NameD:\TestData\Test\1.doc 
+Date : 07-05-2021 15:36:02 --- Event : Scan Completed 
+Date : 07-05-2021 15:36:43 --- Event : Begin IsCopying :True 
+Date : 07-05-2021 15:36:43 --- Event : backup started 
+Date : 07-05-2021 15:36:43 --- Event : BackupTypeLocal 
+Date : 07-05-2021 15:36:43 --- Event : Copy with Encryption started 
+Date : 07-05-2021 15:36:46 --- Event : backup completed 
+Date : 07-05-2021 15:36:46 --- Event : End IsCopying :False 
+Date : 07-05-2021 15:36:46 --- Event : Copy with Encryption completed 
+Date : 07-05-2021 15:36:47 --- Event : BackupTypeLocal 
+Date : 07-05-2021 15:36:47 --- Event : Copy with Encryption started 
+Date : 07-05-2021 15:36:56 --- Event : Copy with Encryption completed 
+Date : 07-05-2021 15:36:58 --- Event : BackupTypeLocal 
+Date : 07-05-2021 15:36:58 --- Event : Copy with Encryption started 
+Date : 07-05-2021 15:37:03 --- Event : Copy with Encryption completed 
+Date : 07-05-2021 15:37:04 --- Event : BackupTypeLocal 
+Date : 07-05-2021 15:37:04 --- Event : Copy with Encryption started 
+Date : 07-05-2021 15:37:04 --- Event : Copy with Encryption completed 
+Date : 07-05-2021 15:37:06 --- Event : BackupTypeLocal 
+Date : 07-05-2021 15:37:06 --- Event : Copy with Encryption started 
+Date : 07-05-2021 15:37:07 --- Event : Copy with Encryption completed 
+Date : 07-05-2021 15:37:08 --- Event : BackupTypeLocal 
+Date : 07-05-2021 15:37:08 --- Event : Copy with Encryption started 
+Date : 07-05-2021 15:37:09 --- Event : Copy with Encryption completed 
+Date : 07-05-2021 15:37:10 --- Event : BackupTypeLocal 
+Date : 07-05-2021 15:37:10 --- Event : Copy with Encryption started 
+Date : 07-05-2021 15:37:11 --- Event : Copy with Encryption completed 
+Date : 07-05-2021 15:37:12 --- Event : BackupTypeLocal 
+Date : 07-05-2021 15:37:12 --- Event : Copy with Encryption started 
+Date : 07-05-2021 15:37:14 --- Event : Copy with Encryption completed 
+Date : 07-05-2021 15:37:18 --- Event : BackupTypeLocal 
+Date : 07-05-2021 15:37:18 --- Event : Copy with Encryption started 
+Date : 07-05-2021 15:37:35 --- Event : Copy with Encryption completed 
+Date : 07-05-2021 15:37:36 --- Event : BackupTypeLocal 
+Date : 07-05-2021 15:37:36 --- Event : Copy with Encryption started 
+Date : 07-05-2021 15:38:00 --- Event : Begin IsCopying :True 
+Date : 07-05-2021 15:38:02 --- Event : Json PathC:\Users\u\source\repos\svkrishnagavva\ITManagerDev\DataRecovery\DataRecoveryService\bin\Debug\\HardwareInventory.json 
+Date : 07-05-2021 15:38:02 --- Event : Copy with Encryption completed 
+Date : 07-05-2021 15:38:04 --- Event : backup started 
+Date : 07-05-2021 15:38:07 --- Event : BackupTypeLocal 
+Date : 07-05-2021 15:38:07 --- Event : Copy with Encryption started 
+Date : 07-05-2021 15:38:38 --- Event : backup completed 
+Date : 07-05-2021 15:38:38 --- Event : BackupTypeLocal 
+Date : 07-05-2021 15:38:39 --- Event : End IsCopying :False 
+Date : 07-05-2021 15:38:39 --- Event : Copy with Encryption started 
+Date : 07-05-2021 15:38:43 --- Event : Error while Copy with Encryption The process cannot access the file 'D:\TestData\TestFile2changed - Copy.doc' because it is being used by another process.   at System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   at System.IO.FileStream.Init(String path, FileMode mode, FileAccess access, Int32 rights, Boolean useRights, FileShare share, Int32 bufferSize, FileOptions options, SECURITY_ATTRIBUTES secAttrs, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   at System.IO.FileStream..ctor(String path, FileMode mode, FileAccess access, FileShare share, Int32 bufferSize, FileOptions options, String msgPath, Boolean bFromProxy)
+   at System.IO.FileStream..ctor(String path, FileMode mode)
+   at BackupManager.FileProcessor.CopyFilewithEncryption(String source, String dest, Boolean IsLargeFile) in C:\Users\u\source\repos\svkrishnagavva\ITManagerDev\DataRecovery\BackupManager\FileProcessor.cs:line 177 
+Date : 07-05-2021 15:38:43 --- Event : Begin IsCopying :True 
+Date : 07-05-2021 15:38:43 --- Event : Copy with Encryption completed 
+Date : 07-05-2021 15:38:43 --- Event : backup started 
+Date : 07-05-2021 15:38:43 --- Event : Object reference not set to an instance of an object.   at DataRecovery.Common.Logger.updateJson(String filePath, Boolean isError, String errorMessage) in C:\Users\u\source\repos\svkrishnagavva\ITManagerDev\DataRecovery\DataRecovery.Common\Logger.cs:line 174 
+Date : 07-05-2021 15:38:43 --- Event : BackupTypeLocal 
+Date : 07-05-2021 15:38:43 --- Event : Copy with Encryption started 
+Date : 07-05-2021 15:38:46 --- Event : BackupTypeLocal 
+Date : 07-05-2021 15:38:46 --- Event : BackupTypeLocal 
+Date : 07-05-2021 15:38:46 --- Event : Copy with Encryption started 
+Date : 07-05-2021 15:38:46 --- Event : Copy with Encryption completed 
+Date : 07-05-2021 15:38:46 --- Event : Copy with Encryption started 
+Date : 07-05-2021 15:38:46 --- Event : backup completed 
+Date : 07-05-2021 15:38:48 --- Event : Copy with Encryption completed 
+Date : 07-05-2021 15:38:48 --- Event : Copy with Encryption completed 
+Date : 07-05-2021 15:38:48 --- Event : End IsCopying :False 
+Date : 07-05-2021 15:38:48 --- Event : Object reference not set to an instance of an object.   at DataRecovery.Common.Logger.updateJson(String filePath, Boolean isError, String errorMessage) in C:\Users\u\source\repos\svkrishnagavva\ITManagerDev\DataRecovery\DataRecovery.Common\Logger.cs:line 174 
+Date : 07-05-2021 15:38:48 --- Event : Object reference not set to an instance of an object.   at DataRecovery.Common.Logger.updateJson(String filePath, Boolean isError, String errorMessage) in C:\Users\u\source\repos\svkrishnagavva\ITManagerDev\DataRecovery\DataRecovery.Common\Logger.cs:line 174 
+Date : 07-05-2021 15:38:49 --- Event : BackupTypeLocal 
+Date : 07-05-2021 15:38:49 --- Event : Copy with Encryption started 
+Date : 07-05-2021 15:38:49 --- Event : BackupTypeLocal 
+Date : 07-05-2021 15:38:49 --- Event : BackupTypeLocal 
+Date : 07-05-2021 15:38:53 --- Event : Copy with Encryption started 
+Date : 07-05-2021 15:38:53 --- Event : Copy with Encryption started 
+Date : 07-05-2021 15:38:53 --- Event : Copy with Encryption completed 
+Date : 07-05-2021 15:38:53 --- Event : Copy with Encryption completed 
+Date : 07-05-2021 15:38:53 --- Event : Copy with Encryption completed 
+Date : 07-05-2021 15:38:53 --- Event : Object reference not set to an instance of an object.   at DataRecovery.Common.Logger.updateJson(String filePath, Boolean isError, String errorMessage) in C:\Users\u\source\repos\svkrishnagavva\ITManagerDev\DataRecovery\DataRecovery.Common\Logger.cs:line 174 
+Date : 07-05-2021 15:38:53 --- Event : Object reference not set to an instance of an object.   at DataRecovery.Common.Logger.updateJson(String filePath, Boolean isError, String errorMessage) in C:\Users\u\source\repos\svkrishnagavva\ITManagerDev\DataRecovery\DataRecovery.Common\Logger.cs:line 174 
+Date : 07-05-2021 15:38:54 --- Event : BackupTypeLocal 
+Date : 07-05-2021 15:38:54 --- Event : Copy with Encryption started 
+Date : 07-05-2021 15:39:10 --- Event : BackupTypeLocal 
+Date : 07-05-2021 15:39:10 --- Event : BackupTypeLocal 
+Date : 07-05-2021 15:39:10 --- Event : Copy with Encryption started 
+Date : 07-05-2021 15:39:10 --- Event : Copy with Encryption completed 
+Date : 07-05-2021 15:39:10 --- Event : Copy with Encryption started 
+Date : 07-05-2021 15:39:17 --- Event : Copy with Encryption completed 
+Date : 07-05-2021 15:39:17 --- Event : Copy with Encryption completed 
+Date : 07-05-2021 15:39:17 --- Event : Object reference not set to an instance of an object.   at DataRecovery.Common.Logger.updateJson(String filePath, Boolean isError, String errorMessage) in C:\Users\u\source\repos\svkrishnagavva\ITManagerDev\DataRecovery\DataRecovery.Common\Logger.cs:line 174 
+Date : 07-05-2021 15:39:17 --- Event : Object reference not set to an instance of an object.   at DataRecovery.Common.Logger.updateJson(String filePath, Boolean isError, String errorMessage) in C:\Users\u\source\repos\svkrishnagavva\ITManagerDev\DataRecovery\DataRecovery.Common\Logger.cs:line 174 
+Date : 07-05-2021 15:39:43 --- Event : Begin IsCopying :True 
+Date : 07-05-2021 15:39:43 --- Event : backup started 
+Date : 07-05-2021 15:39:48 --- Event : Json PathC:\Users\u\source\repos\svkrishnagavva\ITManagerDev\DataRecovery\DataRecoveryService\bin\Debug\\HardwareInventory.json 
+Date : 07-05-2021 15:39:51 --- Event : backup completed 
+Date : 07-05-2021 15:39:51 --- Event : End IsCopying :False 
+Date : 07-05-2021 15:40:43 --- Event : Begin IsCopying :True 
+Date : 07-05-2021 15:40:43 --- Event : backup started 
+Date : 07-05-2021 15:40:45 --- Event : Json PathC:\Users\u\source\repos\svkrishnagavva\ITManagerDev\DataRecovery\DataRecoveryService\bin\Debug\\HardwareInventory.json 
+Date : 07-05-2021 15:40:50 --- Event : Config Monitor Satrted 
+Date : 07-05-2021 15:40:50 --- Event : http://localhost:82/GetConfig?SystemId=DESKTOP-DM8LPS0&SerialNumber=GGTD262 
+Date : 07-05-2021 15:40:58 --- Event : backup completed 
+Date : 07-05-2021 15:40:58 --- Event : End IsCopying :False 
+Date : 07-05-2021 15:41:04 --- Event : Issue in Configuration Database---- Object reference not set to an instance of an object.   at DataRecoveryService.DataRecoveryService.<LoadConfigfromFromWebService>d__58.MoveNext() 
+Date : 07-05-2021 15:41:05 --- Event : Stared Indentifying channges 

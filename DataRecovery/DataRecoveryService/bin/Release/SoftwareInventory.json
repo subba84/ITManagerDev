@@ -1,0 +1,2392 @@
+[
+  {
+    "InventoryId": 0,
+    "SystemId": "DESKTOP-DM8LPS0",
+    "SerialNumber": "GGTD262",
+    "InventoryName": "Visual Studio Enterprise 2019",
+    "InventoryVendor": "Microsoft Corporation",
+    "InventoryVersion": "16.9.31025.194",
+    "InstalledDate": null,
+    "IsActive": true
+  },
+  {
+    "InventoryId": 0,
+    "SystemId": "DESKTOP-DM8LPS0",
+    "SerialNumber": "GGTD262",
+    "InventoryName": "CCleaner Browser",
+    "InventoryVendor": "Piriform Software",
+    "InventoryVersion": "89.1.8954.117",
+    "InstalledDate": null,
+    "IsActive": true
+  },
+  {
+    "InventoryId": 0,
+    "SystemId": "DESKTOP-DM8LPS0",
+    "SerialNumber": "GGTD262",
+    "InventoryName": "Google Chrome",
+    "InventoryVendor": "Google LLC",
+    "InventoryVersion": "89.0.4389.114",
+    "InstalledDate": null,
+    "IsActive": true
+  },
+  {
+    "InventoryId": 0,
+    "SystemId": "DESKTOP-DM8LPS0",
+    "SerialNumber": "GGTD262",
+    "InventoryName": "LeapdroidVM",
+    "InventoryVendor": "LeapdroidVM",
+    "InventoryVersion": "",
+    "InstalledDate": null,
+    "IsActive": true
+  },
+  {
+    "InventoryId": 0,
+    "SystemId": "DESKTOP-DM8LPS0",
+    "SerialNumber": "GGTD262",
+    "InventoryName": "Microsoft Azure Storage Emulator - v5.10",
+    "InventoryVendor": "Microsoft Corporation",
+    "InventoryVersion": "5.10.19227.2113",
+    "InstalledDate": null,
+    "IsActive": true
+  },
+  {
+    "InventoryId": 0,
+    "SystemId": "DESKTOP-DM8LPS0",
+    "SerialNumber": "GGTD262",
+    "InventoryName": "Microsoft Edge",
+    "InventoryVendor": "Microsoft Corporation",
+    "InventoryVersion": "89.0.774.68",
+    "InstalledDate": null,
+    "IsActive": true
+  },
+  {
+    "InventoryId": 0,
+    "SystemId": "DESKTOP-DM8LPS0",
+    "SerialNumber": "GGTD262",
+    "InventoryName": "Microsoft Edge Update",
+    "InventoryVendor": "",
+    "InventoryVersion": "1.3.141.63",
+    "InstalledDate": null,
+    "IsActive": true
+  },
+  {
+    "InventoryId": 0,
+    "SystemId": "DESKTOP-DM8LPS0",
+    "SerialNumber": "GGTD262",
+    "InventoryName": "Microsoft Help Viewer 2.3",
+    "InventoryVendor": "Microsoft Corporation",
+    "InventoryVersion": "2.3.28107",
+    "InstalledDate": null,
+    "IsActive": true
+  },
+  {
+    "InventoryId": 0,
+    "SystemId": "DESKTOP-DM8LPS0",
+    "SerialNumber": "GGTD262",
+    "InventoryName": "Notepad++ (32-bit x86)",
+    "InventoryVendor": "Notepad++ Team",
+    "InventoryVersion": "7.9.1",
+    "InstalledDate": null,
+    "IsActive": true
+  },
+  {
+    "InventoryId": 0,
+    "SystemId": "DESKTOP-DM8LPS0",
+    "SerialNumber": "GGTD262",
+    "InventoryName": "VLC media player",
+    "InventoryVendor": "VideoLAN",
+    "InventoryVersion": "3.0.6",
+    "InstalledDate": null,
+    "IsActive": true
+  },
+  {
+    "InventoryId": 0,
+    "SystemId": "DESKTOP-DM8LPS0",
+    "SerialNumber": "GGTD262",
+    "InventoryName": "Remote Desktop Connection Manager",
+    "InventoryVendor": "Microsoft Corporation",
+    "InventoryVersion": "2.7.14060",
+    "InstalledDate": null,
+    "IsActive": true
+  },
+  {
+    "InventoryId": 0,
+    "SystemId": "DESKTOP-DM8LPS0",
+    "SerialNumber": "GGTD262",
+    "InventoryName": "ClickOnce Bootstrapper Package for Microsoft .NET Framework",
+    "InventoryVendor": "Microsoft Corporation",
+    "InventoryVersion": "4.8.04119",
+    "InstalledDate": null,
+    "IsActive": true
+  },
+  {
+    "InventoryId": 0,
+    "SystemId": "DESKTOP-DM8LPS0",
+    "SerialNumber": "GGTD262",
+    "InventoryName": "Microsoft Workflow Debugger v1.0 for x86",
+    "InventoryVendor": "Microsoft",
+    "InventoryVersion": "16.0.28329",
+    "InstalledDate": null,
+    "IsActive": true
+  },
+  {
+    "InventoryId": 0,
+    "SystemId": "DESKTOP-DM8LPS0",
+    "SerialNumber": "GGTD262",
+    "InventoryName": "vs_communitymsi",
+    "InventoryVendor": "Microsoft Corporation",
+    "InventoryVersion": "16.9.31004",
+    "InstalledDate": null,
+    "IsActive": true
+  },
+  {
+    "InventoryId": 0,
+    "SystemId": "DESKTOP-DM8LPS0",
+    "SerialNumber": "GGTD262",
+    "InventoryName": "Microsoft Visual C++ 2013 Redistributable (x64) - 12.0.30501",
+    "InventoryVendor": "Microsoft Corporation",
+    "InventoryVersion": "12.0.30501.0",
+    "InstalledDate": null,
+    "IsActive": true
+  },
+  {
+    "InventoryId": 0,
+    "SystemId": "DESKTOP-DM8LPS0",
+    "SerialNumber": "GGTD262",
+    "InventoryName": "vs_loadtestexceladdinmsi",
+    "InventoryVendor": "Microsoft Corporation",
+    "InventoryVersion": "16.0.28329",
+    "InstalledDate": null,
+    "IsActive": true
+  },
+  {
+    "InventoryId": 0,
+    "SystemId": "DESKTOP-DM8LPS0",
+    "SerialNumber": "GGTD262",
+    "InventoryName": "Visual C++ Library CRT Desktop Appx Package",
+    "InventoryVendor": "Microsoft Corporation",
+    "InventoryVersion": "14.28.29910",
+    "InstalledDate": null,
+    "IsActive": true
+  },
+  {
+    "InventoryId": 0,
+    "SystemId": "DESKTOP-DM8LPS0",
+    "SerialNumber": "GGTD262",
+    "InventoryName": "Windows SDK Desktop Tools arm64",
+    "InventoryVendor": "Microsoft Corporation",
+    "InventoryVersion": "10.1.19041.685",
+    "InstalledDate": null,
+    "IsActive": true
+  },
+  {
+    "InventoryId": 0,
+    "SystemId": "DESKTOP-DM8LPS0",
+    "SerialNumber": "GGTD262",
+    "InventoryName": "WiX Toolset v3.11 Native 2015 SDK",
+    "InventoryVendor": ".NET Foundation",
+    "InventoryVersion": "3.11.4516",
+    "InstalledDate": null,
+    "IsActive": true
+  },
+  {
+    "InventoryId": 0,
+    "SystemId": "DESKTOP-DM8LPS0",
+    "SerialNumber": "GGTD262",
+    "InventoryName": "Windows IoT Extension SDK",
+    "InventoryVendor": "Microsoft Corporation",
+    "InventoryVersion": "10.1.19041.685",
+    "InstalledDate": null,
+    "IsActive": true
+  },
+  {
+    "InventoryId": 0,
+    "SystemId": "DESKTOP-DM8LPS0",
+    "SerialNumber": "GGTD262",
+    "InventoryName": "Microsoft TestPlatform SDK Local Feed",
+    "InventoryVendor": "Microsoft",
+    "InventoryVersion": "16.9.0.4315479",
+    "InstalledDate": null,
+    "IsActive": true
+  },
+  {
+    "InventoryId": 0,
+    "SystemId": "DESKTOP-DM8LPS0",
+    "SerialNumber": "GGTD262",
+    "InventoryName": "WinRT Intellisense UAP - en-us",
+    "InventoryVendor": "Microsoft Corporation",
+    "InventoryVersion": "10.1.19041.685",
+    "InstalledDate": null,
+    "IsActive": true
+  },
+  {
+    "InventoryId": 0,
+    "SystemId": "DESKTOP-DM8LPS0",
+    "SerialNumber": "GGTD262",
+    "InventoryName": "Advanced Installer 17.9",
+    "InventoryVendor": "Caphyon",
+    "InventoryVersion": "17.9",
+    "InstalledDate": null,
+    "IsActive": true
+  },
+  {
+    "InventoryId": 0,
+    "SystemId": "DESKTOP-DM8LPS0",
+    "SerialNumber": "GGTD262",
+    "InventoryName": "Windows Simulator - ENU",
+    "InventoryVendor": "Microsoft Corporation",
+    "InventoryVersion": "16.0.28522",
+    "InstalledDate": null,
+    "IsActive": true
+  },
+  {
+    "InventoryId": 0,
+    "SystemId": "DESKTOP-DM8LPS0",
+    "SerialNumber": "GGTD262",
+    "InventoryName": "Windows SDK for Windows Store Apps DirectX x86 Remote",
+    "InventoryVendor": "Microsoft Corporation",
+    "InventoryVersion": "10.1.19041.685",
+    "InstalledDate": null,
+    "IsActive": true
+  },
+  {
+    "InventoryId": 0,
+    "SystemId": "DESKTOP-DM8LPS0",
+    "SerialNumber": "GGTD262",
+    "InventoryName": "Windows Software Development Kit - Windows 10.0.18362.1",
+    "InventoryVendor": "Microsoft Corporation",
+    "InventoryVersion": "10.1.18362.1",
+    "InstalledDate": null,
+    "IsActive": true
+  },
+  {
+    "InventoryId": 0,
+    "SystemId": "DESKTOP-DM8LPS0",
+    "SerialNumber": "GGTD262",
+    "InventoryName": "Microsoft .NET CoreRuntime SDK",
+    "InventoryVendor": "Microsoft Corporation",
+    "InventoryVersion": "1.1.27004.0",
+    "InstalledDate": null,
+    "IsActive": true
+  },
+  {
+    "InventoryId": 0,
+    "SystemId": "DESKTOP-DM8LPS0",
+    "SerialNumber": "GGTD262",
+    "InventoryName": "Microsoft ASP.NET Diagnostic Pack for Visual Studio",
+    "InventoryVendor": "Microsoft Corporation",
+    "InventoryVersion": "16.9.687.37626",
+    "InstalledDate": null,
+    "IsActive": true
+  },
+  {
+    "InventoryId": 0,
+    "SystemId": "DESKTOP-DM8LPS0",
+    "SerialNumber": "GGTD262",
+    "InventoryName": "Universal CRT Extension SDK",
+    "InventoryVendor": "Microsoft Corporation",
+    "InventoryVersion": "10.1.18362.1",
+    "InstalledDate": null,
+    "IsActive": true
+  },
+  {
+    "InventoryId": 0,
+    "SystemId": "DESKTOP-DM8LPS0",
+    "SerialNumber": "GGTD262",
+    "InventoryName": "Microsoft Visual C++ 2013 x86 Minimum Runtime - 12.0.21005",
+    "InventoryVendor": "Microsoft Corporation",
+    "InventoryVersion": "12.0.21005",
+    "InstalledDate": null,
+    "IsActive": true
+  },
+  {
+    "InventoryId": 0,
+    "SystemId": "DESKTOP-DM8LPS0",
+    "SerialNumber": "GGTD262",
+    "InventoryName": "icecap_collectionresourcesx64",
+    "InventoryVendor": "Microsoft Corporation",
+    "InventoryVersion": "16.9.31004",
+    "InstalledDate": null,
+    "IsActive": true
+  },
+  {
+    "InventoryId": 0,
+    "SystemId": "DESKTOP-DM8LPS0",
+    "SerialNumber": "GGTD262",
+    "InventoryName": "Windows Mobile Extension SDK Contracts",
+    "InventoryVendor": "Microsoft Corporation",
+    "InventoryVersion": "10.1.18362.1",
+    "InstalledDate": null,
+    "IsActive": true
+  },
+  {
+    "InventoryId": 0,
+    "SystemId": "DESKTOP-DM8LPS0",
+    "SerialNumber": "GGTD262",
+    "InventoryName": "WinRT Intellisense PPI - en-us",
+    "InventoryVendor": "Microsoft Corporation",
+    "InventoryVersion": "10.1.19041.685",
+    "InstalledDate": null,
+    "IsActive": true
+  },
+  {
+    "InventoryId": 0,
+    "SystemId": "DESKTOP-DM8LPS0",
+    "SerialNumber": "GGTD262",
+    "InventoryName": "Windows SDK Desktop Libs arm64",
+    "InventoryVendor": "Microsoft Corporation",
+    "InventoryVersion": "10.1.18362.1",
+    "InstalledDate": null,
+    "IsActive": true
+  },
+  {
+    "InventoryId": 0,
+    "SystemId": "DESKTOP-DM8LPS0",
+    "SerialNumber": "GGTD262",
+    "InventoryName": " Tools for .Net 3.5",
+    "InventoryVendor": "Microsoft Corporation",
+    "InventoryVersion": "3.11.50727",
+    "InstalledDate": null,
+    "IsActive": true
+  },
+  {
+    "InventoryId": 0,
+    "SystemId": "DESKTOP-DM8LPS0",
+    "SerialNumber": "GGTD262",
+    "InventoryName": "Windows SDK Desktop Libs x64",
+    "InventoryVendor": "Microsoft Corporation",
+    "InventoryVersion": "10.1.19041.685",
+    "InstalledDate": null,
+    "IsActive": true
+  },
+  {
+    "InventoryId": 0,
+    "SystemId": "DESKTOP-DM8LPS0",
+    "SerialNumber": "GGTD262",
+    "InventoryName": "Microsoft .NET Framework 4.7.2 Targeting Pack",
+    "InventoryVendor": "Microsoft Corporation",
+    "InventoryVersion": "4.7.03062",
+    "InstalledDate": null,
+    "IsActive": true
+  },
+  {
+    "InventoryId": 0,
+    "SystemId": "DESKTOP-DM8LPS0",
+    "SerialNumber": "GGTD262",
+    "InventoryName": "Microsoft Windows Desktop Runtime - 3.1.12 (x86)",
+    "InventoryVendor": "Microsoft Corporation",
+    "InventoryVersion": "24.112.29719",
+    "InstalledDate": null,
+    "IsActive": true
+  },
+  {
+    "InventoryId": 0,
+    "SystemId": "DESKTOP-DM8LPS0",
+    "SerialNumber": "GGTD262",
+    "InventoryName": "Microsoft .NET Framework 4.5.2 Multi-Targeting Pack",
+    "InventoryVendor": "Microsoft Corporation",
+    "InventoryVersion": "4.5.51651",
+    "InstalledDate": null,
+    "IsActive": true
+  },
+  {
+    "InventoryId": 0,
+    "SystemId": "DESKTOP-DM8LPS0",
+    "SerialNumber": "GGTD262",
+    "InventoryName": "vs_codecoveragemsi",
+    "InventoryVendor": "Microsoft Corporation",
+    "InventoryVersion": "16.9.31004",
+    "InstalledDate": null,
+    "IsActive": true
+  },
+  {
+    "InventoryId": 0,
+    "SystemId": "DESKTOP-DM8LPS0",
+    "SerialNumber": "GGTD262",
+    "InventoryName": "Integration Services",
+    "InventoryVendor": "Microsoft Corporation",
+    "InventoryVersion": "15.0.2000.128",
+    "InstalledDate": null,
+    "IsActive": true
+  },
+  {
+    "InventoryId": 0,
+    "SystemId": "DESKTOP-DM8LPS0",
+    "SerialNumber": "GGTD262",
+    "InventoryName": "vs_webtestrecordermsi",
+    "InventoryVendor": "Microsoft Corporation",
+    "InventoryVersion": "16.9.31004",
+    "InstalledDate": null,
+    "IsActive": true
+  },
+  {
+    "InventoryId": 0,
+    "SystemId": "DESKTOP-DM8LPS0",
+    "SerialNumber": "GGTD262",
+    "InventoryName": "Windows SDK Desktop Tools x86",
+    "InventoryVendor": "Microsoft Corporation",
+    "InventoryVersion": "10.1.19041.685",
+    "InstalledDate": null,
+    "IsActive": true
+  },
+  {
+    "InventoryId": 0,
+    "SystemId": "DESKTOP-DM8LPS0",
+    "SerialNumber": "GGTD262",
+    "InventoryName": "Microsoft .NET Host FX Resolver - 5.0.3 (x86)",
+    "InventoryVendor": "Microsoft Corporation",
+    "InventoryVersion": "40.12.29722",
+    "InstalledDate": null,
+    "IsActive": true
+  },
+  {
+    "InventoryId": 0,
+    "SystemId": "DESKTOP-DM8LPS0",
+    "SerialNumber": "GGTD262",
+    "InventoryName": "WiX Toolset v3.11 Native 2013 SDK",
+    "InventoryVendor": ".NET Foundation",
+    "InventoryVersion": "3.11.4516",
+    "InstalledDate": null,
+    "IsActive": true
+  },
+  {
+    "InventoryId": 0,
+    "SystemId": "DESKTOP-DM8LPS0",
+    "SerialNumber": "GGTD262",
+    "InventoryName": "Windows SDK for Windows Store Apps Libs",
+    "InventoryVendor": "Microsoft Corporation",
+    "InventoryVersion": "10.1.19041.685",
+    "InstalledDate": null,
+    "IsActive": true
+  },
+  {
+    "InventoryId": 0,
+    "SystemId": "DESKTOP-DM8LPS0",
+    "SerialNumber": "GGTD262",
+    "InventoryName": "Windows SDK ARM Desktop Tools",
+    "InventoryVendor": "Microsoft Corporation",
+    "InventoryVersion": "10.1.18362.1",
+    "InstalledDate": null,
+    "IsActive": true
+  },
+  {
+    "InventoryId": 0,
+    "SystemId": "DESKTOP-DM8LPS0",
+    "SerialNumber": "GGTD262",
+    "InventoryName": "Windows SDK Modern Versioned Developer Tools",
+    "InventoryVendor": "Microsoft Corporation",
+    "InventoryVersion": "10.1.18362.1",
+    "InstalledDate": null,
+    "IsActive": true
+  },
+  {
+    "InventoryId": 0,
+    "SystemId": "DESKTOP-DM8LPS0",
+    "SerialNumber": "GGTD262",
+    "InventoryName": "WinRT Intellisense IoT - Other Languages",
+    "InventoryVendor": "Microsoft Corporation",
+    "InventoryVersion": "10.1.19041.685",
+    "InstalledDate": null,
+    "IsActive": true
+  },
+  {
+    "InventoryId": 0,
+    "SystemId": "DESKTOP-DM8LPS0",
+    "SerialNumber": "GGTD262",
+    "InventoryName": "Windows SDK for Windows Store Apps Libs",
+    "InventoryVendor": "Microsoft Corporation",
+    "InventoryVersion": "10.1.18362.1",
+    "InstalledDate": null,
+    "IsActive": true
+  },
+  {
+    "InventoryId": 0,
+    "SystemId": "DESKTOP-DM8LPS0",
+    "SerialNumber": "GGTD262",
+    "InventoryName": "Windows SDK Desktop Libs x86",
+    "InventoryVendor": "Microsoft Corporation",
+    "InventoryVersion": "10.1.18362.1",
+    "InstalledDate": null,
+    "IsActive": true
+  },
+  {
+    "InventoryId": 0,
+    "SystemId": "DESKTOP-DM8LPS0",
+    "SerialNumber": "GGTD262",
+    "InventoryName": "Microsoft Exchange Web Services Managed API 2.1",
+    "InventoryVendor": "Microsoft Corporation",
+    "InventoryVersion": "15.0.847.30",
+    "InstalledDate": null,
+    "IsActive": true
+  },
+  {
+    "InventoryId": 0,
+    "SystemId": "DESKTOP-DM8LPS0",
+    "SerialNumber": "GGTD262",
+    "InventoryName": "WinRT Intellisense UAP - Other Languages",
+    "InventoryVendor": "Microsoft Corporation",
+    "InventoryVersion": "10.1.18362.1",
+    "InstalledDate": null,
+    "IsActive": true
+  },
+  {
+    "InventoryId": 0,
+    "SystemId": "DESKTOP-DM8LPS0",
+    "SerialNumber": "GGTD262",
+    "InventoryName": "sptools_Microsoft.VisualStudio.OfficeDeveloperTools.Msi",
+    "InventoryVendor": "Microsoft Corporation",
+    "InventoryVersion": "16.0.29931",
+    "InstalledDate": null,
+    "IsActive": true
+  },
+  {
+    "InventoryId": 0,
+    "SystemId": "DESKTOP-DM8LPS0",
+    "SerialNumber": "GGTD262",
+    "InventoryName": "Windows App Certification Kit SupportedApiList x86",
+    "InventoryVendor": "Microsoft Corporation",
+    "InventoryVersion": "10.1.19041.685",
+    "InstalledDate": null,
+    "IsActive": true
+  },
+  {
+    "InventoryId": 0,
+    "SystemId": "DESKTOP-DM8LPS0",
+    "SerialNumber": "GGTD262",
+    "InventoryName": "vs_clickoncebootstrappermsires",
+    "InventoryVendor": "Microsoft Corporation",
+    "InventoryVersion": "16.0.28329",
+    "InstalledDate": null,
+    "IsActive": true
+  },
+  {
+    "InventoryId": 0,
+    "SystemId": "DESKTOP-DM8LPS0",
+    "SerialNumber": "GGTD262",
+    "InventoryName": "vs_minshellinteropmsi",
+    "InventoryVendor": "Microsoft Corporation",
+    "InventoryVersion": "16.2.28917",
+    "InstalledDate": null,
+    "IsActive": true
+  },
+  {
+    "InventoryId": 0,
+    "SystemId": "DESKTOP-DM8LPS0",
+    "SerialNumber": "GGTD262",
+    "InventoryName": "Windows SDK for Windows Store Apps Contracts",
+    "InventoryVendor": "Microsoft Corporation",
+    "InventoryVersion": "10.1.19041.685",
+    "InstalledDate": null,
+    "IsActive": true
+  },
+  {
+    "InventoryId": 0,
+    "SystemId": "DESKTOP-DM8LPS0",
+    "SerialNumber": "GGTD262",
+    "InventoryName": "Windows SDK Desktop Libs arm",
+    "InventoryVendor": "Microsoft Corporation",
+    "InventoryVersion": "10.1.19041.685",
+    "InstalledDate": null,
+    "IsActive": true
+  },
+  {
+    "InventoryId": 0,
+    "SystemId": "DESKTOP-DM8LPS0",
+    "SerialNumber": "GGTD262",
+    "InventoryName": "WinAppDeploy",
+    "InventoryVendor": "Microsoft Corporation",
+    "InventoryVersion": "10.1.19041.685",
+    "InstalledDate": null,
+    "IsActive": true
+  },
+  {
+    "InventoryId": 0,
+    "SystemId": "DESKTOP-DM8LPS0",
+    "SerialNumber": "GGTD262",
+    "InventoryName": "Microsoft .NET Framework 4.6 Targeting Pack",
+    "InventoryVendor": "Microsoft Corporation",
+    "InventoryVersion": "4.6.00081",
+    "InstalledDate": null,
+    "IsActive": true
+  },
+  {
+    "InventoryId": 0,
+    "SystemId": "DESKTOP-DM8LPS0",
+    "SerialNumber": "GGTD262",
+    "InventoryName": "Windows SDK for Windows Store Apps Metadata",
+    "InventoryVendor": "Microsoft Corporation",
+    "InventoryVersion": "10.1.19041.685",
+    "InstalledDate": null,
+    "IsActive": true
+  },
+  {
+    "InventoryId": 0,
+    "SystemId": "DESKTOP-DM8LPS0",
+    "SerialNumber": "GGTD262",
+    "InventoryName": "Windows SDK Facade Windows WinMD Versioned",
+    "InventoryVendor": "Microsoft Corporation",
+    "InventoryVersion": "10.1.19041.685",
+    "InstalledDate": null,
+    "IsActive": true
+  },
+  {
+    "InventoryId": 0,
+    "SystemId": "DESKTOP-DM8LPS0",
+    "SerialNumber": "GGTD262",
+    "InventoryName": "Visual C++ Library CRT Appx Package",
+    "InventoryVendor": "Microsoft Corporation",
+    "InventoryVersion": "14.28.29910",
+    "InstalledDate": null,
+    "IsActive": true
+  },
+  {
+    "InventoryId": 0,
+    "SystemId": "DESKTOP-DM8LPS0",
+    "SerialNumber": "GGTD262",
+    "InventoryName": "Windows SDK Desktop Tools arm64",
+    "InventoryVendor": "Microsoft Corporation",
+    "InventoryVersion": "10.1.18362.1",
+    "InstalledDate": null,
+    "IsActive": true
+  },
+  {
+    "InventoryId": 0,
+    "SystemId": "DESKTOP-DM8LPS0",
+    "SerialNumber": "GGTD262",
+    "InventoryName": "Windows Mobile Extension SDK",
+    "InventoryVendor": "Microsoft Corporation",
+    "InventoryVersion": "10.1.18362.1",
+    "InstalledDate": null,
+    "IsActive": true
+  },
+  {
+    "InventoryId": 0,
+    "SystemId": "DESKTOP-DM8LPS0",
+    "SerialNumber": "GGTD262",
+    "InventoryName": "vs_clickoncesigntoolmsi",
+    "InventoryVendor": "Microsoft Corporation",
+    "InventoryVersion": "16.0.28329",
+    "InstalledDate": null,
+    "IsActive": true
+  },
+  {
+    "InventoryId": 0,
+    "SystemId": "DESKTOP-DM8LPS0",
+    "SerialNumber": "GGTD262",
+    "InventoryName": "Windows SDK DirectX x86 Remote",
+    "InventoryVendor": "Microsoft Corporation",
+    "InventoryVersion": "10.1.19041.685",
+    "InstalledDate": null,
+    "IsActive": true
+  },
+  {
+    "InventoryId": 0,
+    "SystemId": "DESKTOP-DM8LPS0",
+    "SerialNumber": "GGTD262",
+    "InventoryName": "WinRT Intellisense IoT - en-us",
+    "InventoryVendor": "Microsoft Corporation",
+    "InventoryVersion": "10.1.19041.685",
+    "InstalledDate": null,
+    "IsActive": true
+  },
+  {
+    "InventoryId": 0,
+    "SystemId": "DESKTOP-DM8LPS0",
+    "SerialNumber": "GGTD262",
+    "InventoryName": "Microsoft Visual C++ 2015-2019 Redistributable (x64) - 14.28.29325",
+    "InventoryVendor": "Microsoft Corporation",
+    "InventoryVersion": "14.28.29325.2",
+    "InstalledDate": null,
+    "IsActive": true
+  },
+  {
+    "InventoryId": 0,
+    "SystemId": "DESKTOP-DM8LPS0",
+    "SerialNumber": "GGTD262",
+    "InventoryName": "icecap_collectionresources",
+    "InventoryVendor": "Microsoft Corporation",
+    "InventoryVersion": "16.9.31004",
+    "InstalledDate": null,
+    "IsActive": true
+  },
+  {
+    "InventoryId": 0,
+    "SystemId": "DESKTOP-DM8LPS0",
+    "SerialNumber": "GGTD262",
+    "InventoryName": "WinRT Intellisense IoT - en-us",
+    "InventoryVendor": "Microsoft Corporation",
+    "InventoryVersion": "10.1.18362.1",
+    "InstalledDate": null,
+    "IsActive": true
+  },
+  {
+    "InventoryId": 0,
+    "SystemId": "DESKTOP-DM8LPS0",
+    "SerialNumber": "GGTD262",
+    "InventoryName": "Windows Desktop Extension SDK Contracts",
+    "InventoryVendor": "Microsoft Corporation",
+    "InventoryVersion": "10.1.18362.1",
+    "InstalledDate": null,
+    "IsActive": true
+  },
+  {
+    "InventoryId": 0,
+    "SystemId": "DESKTOP-DM8LPS0",
+    "SerialNumber": "GGTD262",
+    "InventoryName": "Windows IoT Extension SDK Contracts",
+    "InventoryVendor": "Microsoft Corporation",
+    "InventoryVersion": "10.1.18362.1",
+    "InstalledDate": null,
+    "IsActive": true
+  },
+  {
+    "InventoryId": 0,
+    "SystemId": "DESKTOP-DM8LPS0",
+    "SerialNumber": "GGTD262",
+    "InventoryName": "Windows SDK Desktop Headers x86",
+    "InventoryVendor": "Microsoft Corporation",
+    "InventoryVersion": "10.1.19041.685",
+    "InstalledDate": null,
+    "IsActive": true
+  },
+  {
+    "InventoryId": 0,
+    "SystemId": "DESKTOP-DM8LPS0",
+    "SerialNumber": "GGTD262",
+    "InventoryName": "Windows SDK Desktop Headers arm",
+    "InventoryVendor": "Microsoft Corporation",
+    "InventoryVersion": "10.1.18362.1",
+    "InstalledDate": null,
+    "IsActive": true
+  },
+  {
+    "InventoryId": 0,
+    "SystemId": "DESKTOP-DM8LPS0",
+    "SerialNumber": "GGTD262",
+    "InventoryName": "Open XML SDK 2.5 for Microsoft Office",
+    "InventoryVendor": "Microsoft Corporation",
+    "InventoryVersion": "2.5.5631",
+    "InstalledDate": null,
+    "IsActive": true
+  },
+  {
+    "InventoryId": 0,
+    "SystemId": "DESKTOP-DM8LPS0",
+    "SerialNumber": "GGTD262",
+    "InventoryName": "WiX Toolset v3.11 Core",
+    "InventoryVendor": ".NET Foundation",
+    "InventoryVersion": "3.11.4516",
+    "InstalledDate": null,
+    "IsActive": true
+  },
+  {
+    "InventoryId": 0,
+    "SystemId": "DESKTOP-DM8LPS0",
+    "SerialNumber": "GGTD262",
+    "InventoryName": "Microsoft Azure Storage Emulator - v5.10",
+    "InventoryVendor": "Microsoft Corporation",
+    "InventoryVersion": "5.10.19227.2113",
+    "InstalledDate": null,
+    "IsActive": true
+  },
+  {
+    "InventoryId": 0,
+    "SystemId": "DESKTOP-DM8LPS0",
+    "SerialNumber": "GGTD262",
+    "InventoryName": "Windows SDK Modern Non-Versioned Developer Tools",
+    "InventoryVendor": "Microsoft Corporation",
+    "InventoryVersion": "10.1.19041.685",
+    "InstalledDate": null,
+    "IsActive": true
+  },
+  {
+    "InventoryId": 0,
+    "SystemId": "DESKTOP-DM8LPS0",
+    "SerialNumber": "GGTD262",
+    "InventoryName": "Windows SDK Redistributables",
+    "InventoryVendor": "Microsoft Corporation",
+    "InventoryVersion": "10.1.19041.685",
+    "InstalledDate": null,
+    "IsActive": true
+  },
+  {
+    "InventoryId": 0,
+    "SystemId": "DESKTOP-DM8LPS0",
+    "SerialNumber": "GGTD262",
+    "InventoryName": "WinRT Intellisense Mobile - en-us",
+    "InventoryVendor": "Microsoft Corporation",
+    "InventoryVersion": "10.1.19041.685",
+    "InstalledDate": null,
+    "IsActive": true
+  },
+  {
+    "InventoryId": 0,
+    "SystemId": "DESKTOP-DM8LPS0",
+    "SerialNumber": "GGTD262",
+    "InventoryName": "Windows SDK Desktop Headers arm64",
+    "InventoryVendor": "Microsoft Corporation",
+    "InventoryVersion": "10.1.18362.1",
+    "InstalledDate": null,
+    "IsActive": true
+  },
+  {
+    "InventoryId": 0,
+    "SystemId": "DESKTOP-DM8LPS0",
+    "SerialNumber": "GGTD262",
+    "InventoryName": "Windows Software Development Kit - Windows 10.0.19041.685",
+    "InventoryVendor": "Microsoft Corporation",
+    "InventoryVersion": "10.1.19041.685",
+    "InstalledDate": null,
+    "IsActive": true
+  },
+  {
+    "InventoryId": 0,
+    "SystemId": "DESKTOP-DM8LPS0",
+    "SerialNumber": "GGTD262",
+    "InventoryName": "Microsoft .NET CoreRuntime For CoreCon",
+    "InventoryVendor": "Microsoft Corporation",
+    "InventoryVersion": "1.0.0.0",
+    "InstalledDate": null,
+    "IsActive": true
+  },
+  {
+    "InventoryId": 0,
+    "SystemId": "DESKTOP-DM8LPS0",
+    "SerialNumber": "GGTD262",
+    "InventoryName": "Windows IoT Extension SDK Contracts",
+    "InventoryVendor": "Microsoft Corporation",
+    "InventoryVersion": "10.1.19041.685",
+    "InstalledDate": null,
+    "IsActive": true
+  },
+  {
+    "InventoryId": 0,
+    "SystemId": "DESKTOP-DM8LPS0",
+    "SerialNumber": "GGTD262",
+    "InventoryName": "Microsoft ASP.NET Web Tools Packages 16.0 - ENU",
+    "InventoryVendor": "Microsoft Corporation",
+    "InventoryVersion": "1.0.21125.0",
+    "InstalledDate": null,
+    "IsActive": true
+  },
+  {
+    "InventoryId": 0,
+    "SystemId": "DESKTOP-DM8LPS0",
+    "SerialNumber": "GGTD262",
+    "InventoryName": "vs_networkemulationmsi_x64",
+    "InventoryVendor": "Microsoft Corporation",
+    "InventoryVersion": "16.0.28329",
+    "InstalledDate": null,
+    "IsActive": true
+  },
+  {
+    "InventoryId": 0,
+    "SystemId": "DESKTOP-DM8LPS0",
+    "SerialNumber": "GGTD262",
+    "InventoryName": "Windows SDK for Windows Store Apps Tools",
+    "InventoryVendor": "Microsoft Corporation",
+    "InventoryVersion": "10.1.19041.685",
+    "InstalledDate": null,
+    "IsActive": true
+  },
+  {
+    "InventoryId": 0,
+    "SystemId": "DESKTOP-DM8LPS0",
+    "SerialNumber": "GGTD262",
+    "InventoryName": "Windows SDK Desktop Headers arm",
+    "InventoryVendor": "Microsoft Corporation",
+    "InventoryVersion": "10.1.19041.685",
+    "InstalledDate": null,
+    "IsActive": true
+  },
+  {
+    "InventoryId": 0,
+    "SystemId": "DESKTOP-DM8LPS0",
+    "SerialNumber": "GGTD262",
+    "InventoryName": "Windows SDK Signing Tools",
+    "InventoryVendor": "Microsoft Corporation",
+    "InventoryVersion": "10.1.18362.1",
+    "InstalledDate": null,
+    "IsActive": true
+  },
+  {
+    "InventoryId": 0,
+    "SystemId": "DESKTOP-DM8LPS0",
+    "SerialNumber": "GGTD262",
+    "InventoryName": "Universal CRT Extension SDK",
+    "InventoryVendor": "Microsoft Corporation",
+    "InventoryVersion": "10.1.19041.685",
+    "InstalledDate": null,
+    "IsActive": true
+  },
+  {
+    "InventoryId": 0,
+    "SystemId": "DESKTOP-DM8LPS0",
+    "SerialNumber": "GGTD262",
+    "InventoryName": "Windows Phone SDK 8.0 Assemblies for Visual Studio 2019",
+    "InventoryVendor": "Microsoft Corporation",
+    "InventoryVersion": "16.0.31004",
+    "InstalledDate": null,
+    "IsActive": true
+  },
+  {
+    "InventoryId": 0,
+    "SystemId": "DESKTOP-DM8LPS0",
+    "SerialNumber": "GGTD262",
+    "InventoryName": "Windows SDK Desktop Tools x86",
+    "InventoryVendor": "Microsoft Corporation",
+    "InventoryVersion": "10.1.18362.1",
+    "InstalledDate": null,
+    "IsActive": true
+  },
+  {
+    "InventoryId": 0,
+    "SystemId": "DESKTOP-DM8LPS0",
+    "SerialNumber": "GGTD262",
+    "InventoryName": "Windows SDK Desktop Libs x64",
+    "InventoryVendor": "Microsoft Corporation",
+    "InventoryVersion": "10.1.18362.1",
+    "InstalledDate": null,
+    "IsActive": true
+  },
+  {
+    "InventoryId": 0,
+    "SystemId": "DESKTOP-DM8LPS0",
+    "SerialNumber": "GGTD262",
+    "InventoryName": "TypeScript SDK",
+    "InventoryVendor": "Microsoft Corporation",
+    "InventoryVersion": "4.1.4.0",
+    "InstalledDate": null,
+    "IsActive": true
+  },
+  {
+    "InventoryId": 0,
+    "SystemId": "DESKTOP-DM8LPS0",
+    "SerialNumber": "GGTD262",
+    "InventoryName": "Microsoft .NET Framework 4.7.1 Targeting Pack",
+    "InventoryVendor": "Microsoft Corporation",
+    "InventoryVersion": "4.7.02558",
+    "InstalledDate": null,
+    "IsActive": true
+  },
+  {
+    "InventoryId": 0,
+    "SystemId": "DESKTOP-DM8LPS0",
+    "SerialNumber": "GGTD262",
+    "InventoryName": "Microsoft .NET Framework 4.5 Multi-Targeting Pack",
+    "InventoryVendor": "Microsoft Corporation",
+    "InventoryVersion": "4.5.50710",
+    "InstalledDate": null,
+    "IsActive": true
+  },
+  {
+    "InventoryId": 0,
+    "SystemId": "DESKTOP-DM8LPS0",
+    "SerialNumber": "GGTD262",
+    "InventoryName": "vs_cuitextensionmsi16",
+    "InventoryVendor": "Microsoft Corporation",
+    "InventoryVersion": "16.5.29521",
+    "InstalledDate": null,
+    "IsActive": true
+  },
+  {
+    "InventoryId": 0,
+    "SystemId": "DESKTOP-DM8LPS0",
+    "SerialNumber": "GGTD262",
+    "InventoryName": "Windows Team Extension SDK Contracts",
+    "InventoryVendor": "Microsoft Corporation",
+    "InventoryVersion": "10.1.18362.1",
+    "InstalledDate": null,
+    "IsActive": true
+  },
+  {
+    "InventoryId": 0,
+    "SystemId": "DESKTOP-DM8LPS0",
+    "SerialNumber": "GGTD262",
+    "InventoryName": "Windows Team Extension SDK Contracts",
+    "InventoryVendor": "Microsoft Corporation",
+    "InventoryVersion": "10.1.19041.685",
+    "InstalledDate": null,
+    "IsActive": true
+  },
+  {
+    "InventoryId": 0,
+    "SystemId": "DESKTOP-DM8LPS0",
+    "SerialNumber": "GGTD262",
+    "InventoryName": "Windows SDK for Windows Store Apps Metadata",
+    "InventoryVendor": "Microsoft Corporation",
+    "InventoryVersion": "10.1.18362.1",
+    "InstalledDate": null,
+    "IsActive": true
+  },
+  {
+    "InventoryId": 0,
+    "SystemId": "DESKTOP-DM8LPS0",
+    "SerialNumber": "GGTD262",
+    "InventoryName": "vs_minshellmsi",
+    "InventoryVendor": "Microsoft Corporation",
+    "InventoryVersion": "16.9.31025",
+    "InstalledDate": null,
+    "IsActive": true
+  },
+  {
+    "InventoryId": 0,
+    "SystemId": "DESKTOP-DM8LPS0",
+    "SerialNumber": "GGTD262",
+    "InventoryName": "Windows App Certification Kit x64",
+    "InventoryVendor": "Microsoft Corporation",
+    "InventoryVersion": "10.1.19041.685",
+    "InstalledDate": null,
+    "IsActive": true
+  },
+  {
+    "InventoryId": 0,
+    "SystemId": "DESKTOP-DM8LPS0",
+    "SerialNumber": "GGTD262",
+    "InventoryName": "Windows SDK for Windows Store Apps Headers",
+    "InventoryVendor": "Microsoft Corporation",
+    "InventoryVersion": "10.1.18362.1",
+    "InstalledDate": null,
+    "IsActive": true
+  },
+  {
+    "InventoryId": 0,
+    "SystemId": "DESKTOP-DM8LPS0",
+    "SerialNumber": "GGTD262",
+    "InventoryName": "WinRT Intellisense PPI - en-us",
+    "InventoryVendor": "Microsoft Corporation",
+    "InventoryVersion": "10.1.18362.1",
+    "InstalledDate": null,
+    "IsActive": true
+  },
+  {
+    "InventoryId": 0,
+    "SystemId": "DESKTOP-DM8LPS0",
+    "SerialNumber": "GGTD262",
+    "InventoryName": "Microsoft .NET Framework 4.5.1 Multi-Targeting Pack",
+    "InventoryVendor": "Microsoft Corporation",
+    "InventoryVersion": "4.5.50932",
+    "InstalledDate": null,
+    "IsActive": true
+  },
+  {
+    "InventoryId": 0,
+    "SystemId": "DESKTOP-DM8LPS0",
+    "SerialNumber": "GGTD262",
+    "InventoryName": "vs_webtestrecordermsi_x64",
+    "InventoryVendor": "Microsoft Corporation",
+    "InventoryVersion": "16.0.28329",
+    "InstalledDate": null,
+    "IsActive": true
+  },
+  {
+    "InventoryId": 0,
+    "SystemId": "DESKTOP-DM8LPS0",
+    "SerialNumber": "GGTD262",
+    "InventoryName": "Windows SDK Desktop Headers x64",
+    "InventoryVendor": "Microsoft Corporation",
+    "InventoryVersion": "10.1.18362.1",
+    "InstalledDate": null,
+    "IsActive": true
+  },
+  {
+    "InventoryId": 0,
+    "SystemId": "DESKTOP-DM8LPS0",
+    "SerialNumber": "GGTD262",
+    "InventoryName": "WinRT Intellisense IoT - Other Languages",
+    "InventoryVendor": "Microsoft Corporation",
+    "InventoryVersion": "10.1.18362.1",
+    "InstalledDate": null,
+    "IsActive": true
+  },
+  {
+    "InventoryId": 0,
+    "SystemId": "DESKTOP-DM8LPS0",
+    "SerialNumber": "GGTD262",
+    "InventoryName": "WinRT Intellisense UAP - en-us",
+    "InventoryVendor": "Microsoft Corporation",
+    "InventoryVersion": "10.1.18362.1",
+    "InstalledDate": null,
+    "IsActive": true
+  },
+  {
+    "InventoryId": 0,
+    "SystemId": "DESKTOP-DM8LPS0",
+    "SerialNumber": "GGTD262",
+    "InventoryName": "Universal CRT Headers Libraries and Sources",
+    "InventoryVendor": "Microsoft Corporation",
+    "InventoryVersion": "10.1.19041.685",
+    "InstalledDate": null,
+    "IsActive": true
+  },
+  {
+    "InventoryId": 0,
+    "SystemId": "DESKTOP-DM8LPS0",
+    "SerialNumber": "GGTD262",
+    "InventoryName": "Microsoft Analysis Services OLE DB Provider",
+    "InventoryVendor": "Microsoft Corporation",
+    "InventoryVersion": "15.0.2000.20",
+    "InstalledDate": null,
+    "IsActive": true
+  },
+  {
+    "InventoryId": 0,
+    "SystemId": "DESKTOP-DM8LPS0",
+    "SerialNumber": "GGTD262",
+    "InventoryName": "vs_vswebprotocolselectormsi",
+    "InventoryVendor": "Microsoft Corporation",
+    "InventoryVersion": "16.9.31004",
+    "InstalledDate": null,
+    "IsActive": true
+  },
+  {
+    "InventoryId": 0,
+    "SystemId": "DESKTOP-DM8LPS0",
+    "SerialNumber": "GGTD262",
+    "InventoryName": "vs_filehandler_amd64",
+    "InventoryVendor": "Microsoft Corporation",
+    "InventoryVersion": "16.9.31004",
+    "InstalledDate": null,
+    "IsActive": true
+  },
+  {
+    "InventoryId": 0,
+    "SystemId": "DESKTOP-DM8LPS0",
+    "SerialNumber": "GGTD262",
+    "InventoryName": "Windows Team Extension SDK",
+    "InventoryVendor": "Microsoft Corporation",
+    "InventoryVersion": "10.1.18362.1",
+    "InstalledDate": null,
+    "IsActive": true
+  },
+  {
+    "InventoryId": 0,
+    "SystemId": "DESKTOP-DM8LPS0",
+    "SerialNumber": "GGTD262",
+    "InventoryName": "Universal General MIDI DLS Extension SDK",
+    "InventoryVendor": "Microsoft Corporation",
+    "InventoryVersion": "10.1.18362.1",
+    "InstalledDate": null,
+    "IsActive": true
+  },
+  {
+    "InventoryId": 0,
+    "SystemId": "DESKTOP-DM8LPS0",
+    "SerialNumber": "GGTD262",
+    "InventoryName": "Microsoft Windows Desktop Runtime - 5.0.3 (x86)",
+    "InventoryVendor": "Microsoft Corporation",
+    "InventoryVersion": "40.12.29723",
+    "InstalledDate": null,
+    "IsActive": true
+  },
+  {
+    "InventoryId": 0,
+    "SystemId": "DESKTOP-DM8LPS0",
+    "SerialNumber": "GGTD262",
+    "InventoryName": "Windows Mobile Extension SDK",
+    "InventoryVendor": "Microsoft Corporation",
+    "InventoryVersion": "10.1.19041.685",
+    "InstalledDate": null,
+    "IsActive": true
+  },
+  {
+    "InventoryId": 0,
+    "SystemId": "DESKTOP-DM8LPS0",
+    "SerialNumber": "GGTD262",
+    "InventoryName": "Microsoft System CLR Types for SQL Server 2019 CTP2.2",
+    "InventoryVendor": "Microsoft Corporation",
+    "InventoryVersion": "15.0.1200.24",
+    "InstalledDate": null,
+    "IsActive": true
+  },
+  {
+    "InventoryId": 0,
+    "SystemId": "DESKTOP-DM8LPS0",
+    "SerialNumber": "GGTD262",
+    "InventoryName": "SDK ARM Redistributables",
+    "InventoryVendor": "Microsoft Corporation",
+    "InventoryVersion": "10.1.19041.685",
+    "InstalledDate": null,
+    "IsActive": true
+  },
+  {
+    "InventoryId": 0,
+    "SystemId": "DESKTOP-DM8LPS0",
+    "SerialNumber": "GGTD262",
+    "InventoryName": "Microsoft NetStandard SDK",
+    "InventoryVendor": "Microsoft Corporation",
+    "InventoryVersion": "15.0.51105",
+    "InstalledDate": null,
+    "IsActive": true
+  },
+  {
+    "InventoryId": 0,
+    "SystemId": "DESKTOP-DM8LPS0",
+    "SerialNumber": "GGTD262",
+    "InventoryName": "Universal CRT Headers Libraries and Sources",
+    "InventoryVendor": "Microsoft Corporation",
+    "InventoryVersion": "10.1.18362.1",
+    "InstalledDate": null,
+    "IsActive": true
+  },
+  {
+    "InventoryId": 0,
+    "SystemId": "DESKTOP-DM8LPS0",
+    "SerialNumber": "GGTD262",
+    "InventoryName": "Windows SDK Desktop Tools x64",
+    "InventoryVendor": "Microsoft Corporation",
+    "InventoryVersion": "10.1.18362.1",
+    "InstalledDate": null,
+    "IsActive": true
+  },
+  {
+    "InventoryId": 0,
+    "SystemId": "DESKTOP-DM8LPS0",
+    "SerialNumber": "GGTD262",
+    "InventoryName": "WiX Toolset v3.11.2.4516",
+    "InventoryVendor": ".NET Foundation",
+    "InventoryVersion": "3.11.2.4516",
+    "InstalledDate": null,
+    "IsActive": true
+  },
+  {
+    "InventoryId": 0,
+    "SystemId": "DESKTOP-DM8LPS0",
+    "SerialNumber": "GGTD262",
+    "InventoryName": "Windows Mobile Extension SDK Contracts",
+    "InventoryVendor": "Microsoft Corporation",
+    "InventoryVersion": "10.1.19041.685",
+    "InstalledDate": null,
+    "IsActive": true
+  },
+  {
+    "InventoryId": 0,
+    "SystemId": "DESKTOP-DM8LPS0",
+    "SerialNumber": "GGTD262",
+    "InventoryName": "MSI Development Tools",
+    "InventoryVendor": "Microsoft Corporation",
+    "InventoryVersion": "10.1.19041.685",
+    "InstalledDate": null,
+    "IsActive": true
+  },
+  {
+    "InventoryId": 0,
+    "SystemId": "DESKTOP-DM8LPS0",
+    "SerialNumber": "GGTD262",
+    "InventoryName": "Windows SDK",
+    "InventoryVendor": "Microsoft Corporation",
+    "InventoryVersion": "10.1.19041.685",
+    "InstalledDate": null,
+    "IsActive": true
+  },
+  {
+    "InventoryId": 0,
+    "SystemId": "DESKTOP-DM8LPS0",
+    "SerialNumber": "GGTD262",
+    "InventoryName": "IntelliTraceProfilerProxy",
+    "InventoryVendor": "Microsoft Corporation",
+    "InventoryVersion": "15.0.18198.01",
+    "InstalledDate": null,
+    "IsActive": true
+  },
+  {
+    "InventoryId": 0,
+    "SystemId": "DESKTOP-DM8LPS0",
+    "SerialNumber": "GGTD262",
+    "InventoryName": "Windows SDK Desktop Libs x86",
+    "InventoryVendor": "Microsoft Corporation",
+    "InventoryVersion": "10.1.19041.685",
+    "InstalledDate": null,
+    "IsActive": true
+  },
+  {
+    "InventoryId": 0,
+    "SystemId": "DESKTOP-DM8LPS0",
+    "SerialNumber": "GGTD262",
+    "InventoryName": "WinRT Intellisense Desktop - Other Languages",
+    "InventoryVendor": "Microsoft Corporation",
+    "InventoryVersion": "10.1.18362.1",
+    "InstalledDate": null,
+    "IsActive": true
+  },
+  {
+    "InventoryId": 0,
+    "SystemId": "DESKTOP-DM8LPS0",
+    "SerialNumber": "GGTD262",
+    "InventoryName": "Microsoft .NET Framework 4.7 Targeting Pack (ENU)",
+    "InventoryVendor": "Microsoft Corporation",
+    "InventoryVersion": "4.7.02046",
+    "InstalledDate": null,
+    "IsActive": true
+  },
+  {
+    "InventoryId": 0,
+    "SystemId": "DESKTOP-DM8LPS0",
+    "SerialNumber": "GGTD262",
+    "InventoryName": "Universal CRT Redistributable",
+    "InventoryVendor": "Microsoft Corporation",
+    "InventoryVersion": "10.1.18362.1",
+    "InstalledDate": null,
+    "IsActive": true
+  },
+  {
+    "InventoryId": 0,
+    "SystemId": "DESKTOP-DM8LPS0",
+    "SerialNumber": "GGTD262",
+    "InventoryName": "Windows SDK Desktop Headers x86",
+    "InventoryVendor": "Microsoft Corporation",
+    "InventoryVersion": "10.1.18362.1",
+    "InstalledDate": null,
+    "IsActive": true
+  },
+  {
+    "InventoryId": 0,
+    "SystemId": "DESKTOP-DM8LPS0",
+    "SerialNumber": "GGTD262",
+    "InventoryName": "Visual C++ Library CRT Desktop Appx Package",
+    "InventoryVendor": "Microsoft Corporation",
+    "InventoryVersion": "14.28.29910",
+    "InstalledDate": null,
+    "IsActive": true
+  },
+  {
+    "InventoryId": 0,
+    "SystemId": "DESKTOP-DM8LPS0",
+    "SerialNumber": "GGTD262",
+    "InventoryName": "WinRT Intellisense UAP - Other Languages",
+    "InventoryVendor": "Microsoft Corporation",
+    "InventoryVersion": "10.1.19041.685",
+    "InstalledDate": null,
+    "IsActive": true
+  },
+  {
+    "InventoryId": 0,
+    "SystemId": "DESKTOP-DM8LPS0",
+    "SerialNumber": "GGTD262",
+    "InventoryName": "Microsoft Azure Storage Tools - v6.2.0",
+    "InventoryVendor": "Microsoft Corporation",
+    "InventoryVersion": "6.2.0.0",
+    "InstalledDate": null,
+    "IsActive": true
+  },
+  {
+    "InventoryId": 0,
+    "SystemId": "DESKTOP-DM8LPS0",
+    "SerialNumber": "GGTD262",
+    "InventoryName": "WiX Toolset v3.11 Managed SDK",
+    "InventoryVendor": ".NET Foundation",
+    "InventoryVersion": "3.11.4516",
+    "InstalledDate": null,
+    "IsActive": true
+  },
+  {
+    "InventoryId": 0,
+    "SystemId": "DESKTOP-DM8LPS0",
+    "SerialNumber": "GGTD262",
+    "InventoryName": "Microsoft ASP.NET Core 5.0.3 Shared Framework (x86)",
+    "InventoryVendor": "Microsoft Corporation",
+    "InventoryVersion": "5.0.3.21073",
+    "InstalledDate": null,
+    "IsActive": true
+  },
+  {
+    "InventoryId": 0,
+    "SystemId": "DESKTOP-DM8LPS0",
+    "SerialNumber": "GGTD262",
+    "InventoryName": "Microsoft .NET Framework 4.6.1 Targeting Pack",
+    "InventoryVendor": "Microsoft Corporation",
+    "InventoryVersion": "4.6.01055",
+    "InstalledDate": null,
+    "IsActive": true
+  },
+  {
+    "InventoryId": 0,
+    "SystemId": "DESKTOP-DM8LPS0",
+    "SerialNumber": "GGTD262",
+    "InventoryName": "WinAppDeploy",
+    "InventoryVendor": "Microsoft Corporation",
+    "InventoryVersion": "10.1.18362.1",
+    "InstalledDate": null,
+    "IsActive": true
+  },
+  {
+    "InventoryId": 0,
+    "SystemId": "DESKTOP-DM8LPS0",
+    "SerialNumber": "GGTD262",
+    "InventoryName": "Windows SDK for Windows Store Apps Headers",
+    "InventoryVendor": "Microsoft Corporation",
+    "InventoryVersion": "10.1.19041.685",
+    "InstalledDate": null,
+    "IsActive": true
+  },
+  {
+    "InventoryId": 0,
+    "SystemId": "DESKTOP-DM8LPS0",
+    "SerialNumber": "GGTD262",
+    "InventoryName": "Windows SDK for Windows Store Apps DirectX x86 Remote",
+    "InventoryVendor": "Microsoft Corporation",
+    "InventoryVersion": "10.1.18362.1",
+    "InstalledDate": null,
+    "IsActive": true
+  },
+  {
+    "InventoryId": 0,
+    "SystemId": "DESKTOP-DM8LPS0",
+    "SerialNumber": "GGTD262",
+    "InventoryName": "Microsoft .NET Framework 4.7.1 Doc Redirected Targeting Pack (ENU)",
+    "InventoryVendor": "Microsoft Corporation",
+    "InventoryVersion": "4.7.02558",
+    "InstalledDate": null,
+    "IsActive": true
+  },
+  {
+    "InventoryId": 0,
+    "SystemId": "DESKTOP-DM8LPS0",
+    "SerialNumber": "GGTD262",
+    "InventoryName": "vs_SQLClickOnceBootstrappermsi",
+    "InventoryVendor": "Microsoft Corporation",
+    "InventoryVersion": "16.9.31004",
+    "InstalledDate": null,
+    "IsActive": true
+  },
+  {
+    "InventoryId": 0,
+    "SystemId": "DESKTOP-DM8LPS0",
+    "SerialNumber": "GGTD262",
+    "InventoryName": "WinRT Intellisense Mobile - en-us",
+    "InventoryVendor": "Microsoft Corporation",
+    "InventoryVersion": "10.1.18362.1",
+    "InstalledDate": null,
+    "IsActive": true
+  },
+  {
+    "InventoryId": 0,
+    "SystemId": "DESKTOP-DM8LPS0",
+    "SerialNumber": "GGTD262",
+    "InventoryName": "vs_codeduitestframeworkmsi",
+    "InventoryVendor": "Microsoft Corporation",
+    "InventoryVersion": "16.0.28329",
+    "InstalledDate": null,
+    "IsActive": true
+  },
+  {
+    "InventoryId": 0,
+    "SystemId": "DESKTOP-DM8LPS0",
+    "SerialNumber": "GGTD262",
+    "InventoryName": "Windows SDK ARM Desktop Tools",
+    "InventoryVendor": "Microsoft Corporation",
+    "InventoryVersion": "10.1.19041.685",
+    "InstalledDate": null,
+    "IsActive": true
+  },
+  {
+    "InventoryId": 0,
+    "SystemId": "DESKTOP-DM8LPS0",
+    "SerialNumber": "GGTD262",
+    "InventoryName": "Microsoft .NET Framework 4.8 SDK",
+    "InventoryVendor": "Microsoft Corporation",
+    "InventoryVersion": "4.8.03928",
+    "InstalledDate": null,
+    "IsActive": true
+  },
+  {
+    "InventoryId": 0,
+    "SystemId": "DESKTOP-DM8LPS0",
+    "SerialNumber": "GGTD262",
+    "InventoryName": "Windows SDK Desktop Libs arm64",
+    "InventoryVendor": "Microsoft Corporation",
+    "InventoryVersion": "10.1.19041.685",
+    "InstalledDate": null,
+    "IsActive": true
+  },
+  {
+    "InventoryId": 0,
+    "SystemId": "DESKTOP-DM8LPS0",
+    "SerialNumber": "GGTD262",
+    "InventoryName": "Microsoft Visual Studio Tools for Applications 2017 x86 Hosting Support",
+    "InventoryVendor": "Microsoft Corporation",
+    "InventoryVersion": "15.0.27520",
+    "InstalledDate": null,
+    "IsActive": true
+  },
+  {
+    "InventoryId": 0,
+    "SystemId": "DESKTOP-DM8LPS0",
+    "SerialNumber": "GGTD262",
+    "InventoryName": "vs_communitymsires",
+    "InventoryVendor": "Microsoft Corporation",
+    "InventoryVersion": "16.0.28329",
+    "InstalledDate": null,
+    "IsActive": true
+  },
+  {
+    "InventoryId": 0,
+    "SystemId": "DESKTOP-DM8LPS0",
+    "SerialNumber": "GGTD262",
+    "InventoryName": "Windows SDK Desktop Libs arm",
+    "InventoryVendor": "Microsoft Corporation",
+    "InventoryVersion": "10.1.18362.1",
+    "InstalledDate": null,
+    "IsActive": true
+  },
+  {
+    "InventoryId": 0,
+    "SystemId": "DESKTOP-DM8LPS0",
+    "SerialNumber": "GGTD262",
+    "InventoryName": "WinRT Intellisense PPI - Other Languages",
+    "InventoryVendor": "Microsoft Corporation",
+    "InventoryVersion": "10.1.18362.1",
+    "InstalledDate": null,
+    "IsActive": true
+  },
+  {
+    "InventoryId": 0,
+    "SystemId": "DESKTOP-DM8LPS0",
+    "SerialNumber": "GGTD262",
+    "InventoryName": "Windows IoT Extension SDK",
+    "InventoryVendor": "Microsoft Corporation",
+    "InventoryVersion": "10.1.18362.1",
+    "InstalledDate": null,
+    "IsActive": true
+  },
+  {
+    "InventoryId": 0,
+    "SystemId": "DESKTOP-DM8LPS0",
+    "SerialNumber": "GGTD262",
+    "InventoryName": "Visual C++ Library CRT Appx Package",
+    "InventoryVendor": "Microsoft Corporation",
+    "InventoryVersion": "14.28.29910",
+    "InstalledDate": null,
+    "IsActive": true
+  },
+  {
+    "InventoryId": 0,
+    "SystemId": "DESKTOP-DM8LPS0",
+    "SerialNumber": "GGTD262",
+    "InventoryName": "Microsoft .NET Framework 4.6.2 Targeting Pack",
+    "InventoryVendor": "Microsoft Corporation",
+    "InventoryVersion": "4.6.01590",
+    "InstalledDate": null,
+    "IsActive": true
+  },
+  {
+    "InventoryId": 0,
+    "SystemId": "DESKTOP-DM8LPS0",
+    "SerialNumber": "GGTD262",
+    "InventoryName": "Windows Desktop Extension SDK Contracts",
+    "InventoryVendor": "Microsoft Corporation",
+    "InventoryVersion": "10.1.19041.685",
+    "InstalledDate": null,
+    "IsActive": true
+  },
+  {
+    "InventoryId": 0,
+    "SystemId": "DESKTOP-DM8LPS0",
+    "SerialNumber": "GGTD262",
+    "InventoryName": "Microsoft .NET Framework 4.8 Targeting Pack (ENU)",
+    "InventoryVendor": "Microsoft Corporation",
+    "InventoryVersion": "4.8.03761",
+    "InstalledDate": null,
+    "IsActive": true
+  },
+  {
+    "InventoryId": 0,
+    "SystemId": "DESKTOP-DM8LPS0",
+    "SerialNumber": "GGTD262",
+    "InventoryName": "Windows SDK EULA",
+    "InventoryVendor": "Microsoft Corporations",
+    "InventoryVersion": "10.1.19041.685",
+    "InstalledDate": null,
+    "IsActive": true
+  },
+  {
+    "InventoryId": 0,
+    "SystemId": "DESKTOP-DM8LPS0",
+    "SerialNumber": "GGTD262",
+    "InventoryName": "Windows SDK for Windows Store Apps Tools",
+    "InventoryVendor": "Microsoft Corporation",
+    "InventoryVersion": "10.1.18362.1",
+    "InstalledDate": null,
+    "IsActive": true
+  },
+  {
+    "InventoryId": 0,
+    "SystemId": "DESKTOP-DM8LPS0",
+    "SerialNumber": "GGTD262",
+    "InventoryName": "Universal CRT Redistributable",
+    "InventoryVendor": "Microsoft Corporation",
+    "InventoryVersion": "10.1.19041.685",
+    "InstalledDate": null,
+    "IsActive": true
+  },
+  {
+    "InventoryId": 0,
+    "SystemId": "DESKTOP-DM8LPS0",
+    "SerialNumber": "GGTD262",
+    "InventoryName": "Windows SDK for Windows Store Apps",
+    "InventoryVendor": "Microsoft Corporation",
+    "InventoryVersion": "10.1.19041.685",
+    "InstalledDate": null,
+    "IsActive": true
+  },
+  {
+    "InventoryId": 0,
+    "SystemId": "DESKTOP-DM8LPS0",
+    "SerialNumber": "GGTD262",
+    "InventoryName": "Windows SDK Facade Windows WinMD Versioned",
+    "InventoryVendor": "Microsoft Corporation",
+    "InventoryVersion": "10.1.18362.1",
+    "InstalledDate": null,
+    "IsActive": true
+  },
+  {
+    "InventoryId": 0,
+    "SystemId": "DESKTOP-DM8LPS0",
+    "SerialNumber": "GGTD262",
+    "InventoryName": "VS Immersive Activate Helper",
+    "InventoryVendor": "Microsoft Corporation",
+    "InventoryVersion": "16.0.102.0",
+    "InstalledDate": null,
+    "IsActive": true
+  },
+  {
+    "InventoryId": 0,
+    "SystemId": "DESKTOP-DM8LPS0",
+    "SerialNumber": "GGTD262",
+    "InventoryName": "Universal General MIDI DLS Extension SDK",
+    "InventoryVendor": "Microsoft Corporation",
+    "InventoryVersion": "10.1.19041.685",
+    "InstalledDate": null,
+    "IsActive": true
+  },
+  {
+    "InventoryId": 0,
+    "SystemId": "DESKTOP-DM8LPS0",
+    "SerialNumber": "GGTD262",
+    "InventoryName": "Microsoft SQL Server Management Studio - 18.7.1",
+    "InventoryVendor": "Microsoft Corporation",
+    "InventoryVersion": "15.0.18358.0",
+    "InstalledDate": null,
+    "IsActive": true
+  },
+  {
+    "InventoryId": 0,
+    "SystemId": "DESKTOP-DM8LPS0",
+    "SerialNumber": "GGTD262",
+    "InventoryName": "CCleaner Update Helper",
+    "InventoryVendor": "Piriform Software",
+    "InventoryVersion": "1.8.1067.0",
+    "InstalledDate": null,
+    "IsActive": true
+  },
+  {
+    "InventoryId": 0,
+    "SystemId": "DESKTOP-DM8LPS0",
+    "SerialNumber": "GGTD262",
+    "InventoryName": "Visual Studio 2017 Isolated Shell for SSMS",
+    "InventoryVendor": "Microsoft Corporation",
+    "InventoryVersion": "15.0.28307.421",
+    "InstalledDate": null,
+    "IsActive": true
+  },
+  {
+    "InventoryId": 0,
+    "SystemId": "DESKTOP-DM8LPS0",
+    "SerialNumber": "GGTD262",
+    "InventoryName": "Adobe Refresh Manager",
+    "InventoryVendor": "Adobe Systems Incorporated",
+    "InventoryVersion": "1.8.0",
+    "InstalledDate": null,
+    "IsActive": true
+  },
+  {
+    "InventoryId": 0,
+    "SystemId": "DESKTOP-DM8LPS0",
+    "SerialNumber": "GGTD262",
+    "InventoryName": "Adobe Reader XI (11.0.23)",
+    "InventoryVendor": "Adobe Systems Incorporated",
+    "InventoryVersion": "11.0.23",
+    "InstalledDate": null,
+    "IsActive": true
+  },
+  {
+    "InventoryId": 0,
+    "SystemId": "DESKTOP-DM8LPS0",
+    "SerialNumber": "GGTD262",
+    "InventoryName": "vs_devenvmsi",
+    "InventoryVendor": "Microsoft Corporation",
+    "InventoryVersion": "16.0.28329",
+    "InstalledDate": null,
+    "IsActive": true
+  },
+  {
+    "InventoryId": 0,
+    "SystemId": "DESKTOP-DM8LPS0",
+    "SerialNumber": "GGTD262",
+    "InventoryName": "Visual C++ Library CRT ARM64 Appx Package",
+    "InventoryVendor": "Microsoft Corporation",
+    "InventoryVersion": "14.28.29910",
+    "InstalledDate": null,
+    "IsActive": true
+  },
+  {
+    "InventoryId": 0,
+    "SystemId": "DESKTOP-DM8LPS0",
+    "SerialNumber": "GGTD262",
+    "InventoryName": "Windows IP Over USB",
+    "InventoryVendor": "Microsoft Corporation",
+    "InventoryVersion": "10.1.19041.685",
+    "InstalledDate": null,
+    "IsActive": true
+  },
+  {
+    "InventoryId": 0,
+    "SystemId": "DESKTOP-DM8LPS0",
+    "SerialNumber": "GGTD262",
+    "InventoryName": "Microsoft Visual C++ 2019 X86 Additional Runtime - 14.28.29325",
+    "InventoryVendor": "Microsoft Corporation",
+    "InventoryVersion": "14.28.29325",
+    "InstalledDate": null,
+    "IsActive": true
+  },
+  {
+    "InventoryId": 0,
+    "SystemId": "DESKTOP-DM8LPS0",
+    "SerialNumber": "GGTD262",
+    "InventoryName": "WinRT Intellisense Desktop - Other Languages",
+    "InventoryVendor": "Microsoft Corporation",
+    "InventoryVersion": "10.1.19041.685",
+    "InstalledDate": null,
+    "IsActive": true
+  },
+  {
+    "InventoryId": 0,
+    "SystemId": "DESKTOP-DM8LPS0",
+    "SerialNumber": "GGTD262",
+    "InventoryName": "Windows Desktop Extension SDK",
+    "InventoryVendor": "Microsoft Corporation",
+    "InventoryVersion": "10.1.18362.1",
+    "InstalledDate": null,
+    "IsActive": true
+  },
+  {
+    "InventoryId": 0,
+    "SystemId": "DESKTOP-DM8LPS0",
+    "SerialNumber": "GGTD262",
+    "InventoryName": "Microsoft .NET Framework 4.7.2 Targeting Pack (ENU)",
+    "InventoryVendor": "Microsoft Corporation",
+    "InventoryVersion": "4.7.03062",
+    "InstalledDate": null,
+    "IsActive": true
+  },
+  {
+    "InventoryId": 0,
+    "SystemId": "DESKTOP-DM8LPS0",
+    "SerialNumber": "GGTD262",
+    "InventoryName": "BatchPhoto",
+    "InventoryVendor": "Bits&Coffee",
+    "InventoryVersion": "4.4",
+    "InstalledDate": null,
+    "IsActive": true
+  },
+  {
+    "InventoryId": 0,
+    "SystemId": "DESKTOP-DM8LPS0",
+    "SerialNumber": "GGTD262",
+    "InventoryName": "vs_BlendMsi",
+    "InventoryVendor": "Microsoft Corporation",
+    "InventoryVersion": "16.0.28329",
+    "InstalledDate": null,
+    "IsActive": true
+  },
+  {
+    "InventoryId": 0,
+    "SystemId": "DESKTOP-DM8LPS0",
+    "SerialNumber": "GGTD262",
+    "InventoryName": "Windows SDK Signing Tools",
+    "InventoryVendor": "Microsoft Corporation",
+    "InventoryVersion": "10.1.19041.685",
+    "InstalledDate": null,
+    "IsActive": true
+  },
+  {
+    "InventoryId": 0,
+    "SystemId": "DESKTOP-DM8LPS0",
+    "SerialNumber": "GGTD262",
+    "InventoryName": "vs_FileTracker_Singleton",
+    "InventoryVendor": "Microsoft Corporation",
+    "InventoryVersion": "16.9.31004",
+    "InstalledDate": null,
+    "IsActive": true
+  },
+  {
+    "InventoryId": 0,
+    "SystemId": "DESKTOP-DM8LPS0",
+    "SerialNumber": "GGTD262",
+    "InventoryName": "Microsoft .NET Framework 4.8 Targeting Pack",
+    "InventoryVendor": "Microsoft Corporation",
+    "InventoryVersion": "4.8.03761",
+    "InstalledDate": null,
+    "IsActive": true
+  },
+  {
+    "InventoryId": 0,
+    "SystemId": "DESKTOP-DM8LPS0",
+    "SerialNumber": "GGTD262",
+    "InventoryName": "windows_toolscorepkg",
+    "InventoryVendor": "Microsoft Corporation",
+    "InventoryVersion": "16.9.31004",
+    "InstalledDate": null,
+    "IsActive": true
+  },
+  {
+    "InventoryId": 0,
+    "SystemId": "DESKTOP-DM8LPS0",
+    "SerialNumber": "GGTD262",
+    "InventoryName": "WinRT Intellisense Desktop - en-us",
+    "InventoryVendor": "Microsoft Corporation",
+    "InventoryVersion": "10.1.19041.685",
+    "InstalledDate": null,
+    "IsActive": true
+  },
+  {
+    "InventoryId": 0,
+    "SystemId": "DESKTOP-DM8LPS0",
+    "SerialNumber": "GGTD262",
+    "InventoryName": "Universal CRT Tools x86",
+    "InventoryVendor": "Microsoft Corporation",
+    "InventoryVersion": "10.1.19041.685",
+    "InstalledDate": null,
+    "IsActive": true
+  },
+  {
+    "InventoryId": 0,
+    "SystemId": "DESKTOP-DM8LPS0",
+    "SerialNumber": "GGTD262",
+    "InventoryName": "Microsoft Help Viewer 2.3",
+    "InventoryVendor": "Microsoft Corporation",
+    "InventoryVersion": "2.3.28107",
+    "InstalledDate": null,
+    "IsActive": true
+  },
+  {
+    "InventoryId": 0,
+    "SystemId": "DESKTOP-DM8LPS0",
+    "SerialNumber": "GGTD262",
+    "InventoryName": "Windows SDK for Windows Store Apps Contracts",
+    "InventoryVendor": "Microsoft Corporation",
+    "InventoryVersion": "10.1.18362.1",
+    "InstalledDate": null,
+    "IsActive": true
+  },
+  {
+    "InventoryId": 0,
+    "SystemId": "DESKTOP-DM8LPS0",
+    "SerialNumber": "GGTD262",
+    "InventoryName": "Microsoft .NET Framework Cumulative Intellisense Pack for Visual Studio (ENU)",
+    "InventoryVendor": "Microsoft Corporation",
+    "InventoryVersion": "4.8.03761",
+    "InstalledDate": null,
+    "IsActive": true
+  },
+  {
+    "InventoryId": 0,
+    "SystemId": "DESKTOP-DM8LPS0",
+    "SerialNumber": "GGTD262",
+    "InventoryName": "Microsoft .NET Framework 4.6.2 Targeting Pack (ENU)",
+    "InventoryVendor": "Microsoft Corporation",
+    "InventoryVersion": "4.6.01590",
+    "InstalledDate": null,
+    "IsActive": true
+  },
+  {
+    "InventoryId": 0,
+    "SystemId": "DESKTOP-DM8LPS0",
+    "SerialNumber": "GGTD262",
+    "InventoryName": "Windows SDK Desktop Headers x64",
+    "InventoryVendor": "Microsoft Corporation",
+    "InventoryVersion": "10.1.19041.685",
+    "InstalledDate": null,
+    "IsActive": true
+  },
+  {
+    "InventoryId": 0,
+    "SystemId": "DESKTOP-DM8LPS0",
+    "SerialNumber": "GGTD262",
+    "InventoryName": "Windows SDK Desktop Headers arm64",
+    "InventoryVendor": "Microsoft Corporation",
+    "InventoryVersion": "10.1.19041.685",
+    "InstalledDate": null,
+    "IsActive": true
+  },
+  {
+    "InventoryId": 0,
+    "SystemId": "DESKTOP-DM8LPS0",
+    "SerialNumber": "GGTD262",
+    "InventoryName": "Microsoft Visual Studio Setup Configuration",
+    "InventoryVendor": "Microsoft Corporation",
+    "InventoryVersion": "2.7.3111.17308",
+    "InstalledDate": null,
+    "IsActive": true
+  },
+  {
+    "InventoryId": 0,
+    "SystemId": "DESKTOP-DM8LPS0",
+    "SerialNumber": "GGTD262",
+    "InventoryName": "icecap_collection_neutral",
+    "InventoryVendor": "Microsoft Corporation",
+    "InventoryVersion": "16.9.31004",
+    "InstalledDate": null,
+    "IsActive": true
+  },
+  {
+    "InventoryId": 0,
+    "SystemId": "DESKTOP-DM8LPS0",
+    "SerialNumber": "GGTD262",
+    "InventoryName": "Microsoft .NET Framework 4.7 Targeting Pack",
+    "InventoryVendor": "Microsoft Corporation",
+    "InventoryVersion": "4.7.02046",
+    "InstalledDate": null,
+    "IsActive": true
+  },
+  {
+    "InventoryId": 0,
+    "SystemId": "DESKTOP-DM8LPS0",
+    "SerialNumber": "GGTD262",
+    "InventoryName": "Visual C++ Library CRT Desktop Appx Package",
+    "InventoryVendor": "Microsoft Corporation",
+    "InventoryVersion": "14.28.29910",
+    "InstalledDate": null,
+    "IsActive": true
+  },
+  {
+    "InventoryId": 0,
+    "SystemId": "DESKTOP-DM8LPS0",
+    "SerialNumber": "GGTD262",
+    "InventoryName": "Windows Team Extension SDK",
+    "InventoryVendor": "Microsoft Corporation",
+    "InventoryVersion": "10.1.19041.685",
+    "InstalledDate": null,
+    "IsActive": true
+  },
+  {
+    "InventoryId": 0,
+    "SystemId": "DESKTOP-DM8LPS0",
+    "SerialNumber": "GGTD262",
+    "InventoryName": "Windows SDK for Windows Store Managed Apps Libs",
+    "InventoryVendor": "Microsoft Corporation",
+    "InventoryVersion": "10.1.18362.1",
+    "InstalledDate": null,
+    "IsActive": true
+  },
+  {
+    "InventoryId": 0,
+    "SystemId": "DESKTOP-DM8LPS0",
+    "SerialNumber": "GGTD262",
+    "InventoryName": "Browser for SQL Server 2017",
+    "InventoryVendor": "Microsoft Corporation",
+    "InventoryVersion": "14.0.1000.169",
+    "InstalledDate": null,
+    "IsActive": true
+  },
+  {
+    "InventoryId": 0,
+    "SystemId": "DESKTOP-DM8LPS0",
+    "SerialNumber": "GGTD262",
+    "InventoryName": "WiX Toolset v3.11 Native 2012 SDK",
+    "InventoryVendor": ".NET Foundation",
+    "InventoryVersion": "3.11.4516",
+    "InstalledDate": null,
+    "IsActive": true
+  },
+  {
+    "InventoryId": 0,
+    "SystemId": "DESKTOP-DM8LPS0",
+    "SerialNumber": "GGTD262",
+    "InventoryName": "Microsoft .NET Framework 4 Multi-Targeting Pack",
+    "InventoryVendor": "Microsoft Corporation",
+    "InventoryVersion": "4.0.30319",
+    "InstalledDate": null,
+    "IsActive": true
+  },
+  {
+    "InventoryId": 0,
+    "SystemId": "DESKTOP-DM8LPS0",
+    "SerialNumber": "GGTD262",
+    "InventoryName": "Update for  (KB2504637)",
+    "InventoryVendor": "Microsoft Corporation",
+    "InventoryVersion": "1",
+    "InstalledDate": null,
+    "IsActive": true
+  },
+  {
+    "InventoryId": 0,
+    "SystemId": "DESKTOP-DM8LPS0",
+    "SerialNumber": "GGTD262",
+    "InventoryName": "vs_filehandler_x86",
+    "InventoryVendor": "Microsoft Corporation",
+    "InventoryVersion": "16.9.31004",
+    "InstalledDate": null,
+    "IsActive": true
+  },
+  {
+    "InventoryId": 0,
+    "SystemId": "DESKTOP-DM8LPS0",
+    "SerialNumber": "GGTD262",
+    "InventoryName": "Windows Desktop Extension SDK",
+    "InventoryVendor": "Microsoft Corporation",
+    "InventoryVersion": "10.1.19041.685",
+    "InstalledDate": null,
+    "IsActive": true
+  },
+  {
+    "InventoryId": 0,
+    "SystemId": "DESKTOP-DM8LPS0",
+    "SerialNumber": "GGTD262",
+    "InventoryName": "DataRestoreSetup",
+    "InventoryVendor": "Default Company Name",
+    "InventoryVersion": "1.0.0",
+    "InstalledDate": null,
+    "IsActive": true
+  },
+  {
+    "InventoryId": 0,
+    "SystemId": "DESKTOP-DM8LPS0",
+    "SerialNumber": "GGTD262",
+    "InventoryName": "WiX Toolset v3.11 Native 2017 SDK",
+    "InventoryVendor": ".NET Foundation",
+    "InventoryVersion": "3.11.4516",
+    "InstalledDate": null,
+    "IsActive": true
+  },
+  {
+    "InventoryId": 0,
+    "SystemId": "DESKTOP-DM8LPS0",
+    "SerialNumber": "GGTD262",
+    "InventoryName": "WiX Toolset v3.11 Native 2010 SDK",
+    "InventoryVendor": ".NET Foundation",
+    "InventoryVersion": "3.11.4516",
+    "InstalledDate": null,
+    "IsActive": true
+  },
+  {
+    "InventoryId": 0,
+    "SystemId": "DESKTOP-DM8LPS0",
+    "SerialNumber": "GGTD262",
+    "InventoryName": "Microsoft Visual C++ 2015-2019 Redistributable (x86) - 14.28.29325",
+    "InventoryVendor": "Microsoft Corporation",
+    "InventoryVersion": "14.28.29325.2",
+    "InstalledDate": null,
+    "IsActive": true
+  },
+  {
+    "InventoryId": 0,
+    "SystemId": "DESKTOP-DM8LPS0",
+    "SerialNumber": "GGTD262",
+    "InventoryName": "Microsoft .NET Runtime - 5.0.3 (x86)",
+    "InventoryVendor": "Microsoft Corporation",
+    "InventoryVersion": "40.12.29722",
+    "InstalledDate": null,
+    "IsActive": true
+  },
+  {
+    "InventoryId": 0,
+    "SystemId": "DESKTOP-DM8LPS0",
+    "SerialNumber": "GGTD262",
+    "InventoryName": "MSI Development Tools",
+    "InventoryVendor": "Microsoft Corporation",
+    "InventoryVersion": "10.1.18362.1",
+    "InstalledDate": null,
+    "IsActive": true
+  },
+  {
+    "InventoryId": 0,
+    "SystemId": "DESKTOP-DM8LPS0",
+    "SerialNumber": "GGTD262",
+    "InventoryName": "vs_cuitcommoncoremsi16",
+    "InventoryVendor": "Microsoft Corporation",
+    "InventoryVersion": "16.5.29521",
+    "InstalledDate": null,
+    "IsActive": true
+  },
+  {
+    "InventoryId": 0,
+    "SystemId": "DESKTOP-DM8LPS0",
+    "SerialNumber": "GGTD262",
+    "InventoryName": "vcpp_crt.redist.clickonce",
+    "InventoryVendor": "Microsoft Corporation",
+    "InventoryVersion": "14.28.29910",
+    "InstalledDate": null,
+    "IsActive": true
+  },
+  {
+    "InventoryId": 0,
+    "SystemId": "DESKTOP-DM8LPS0",
+    "SerialNumber": "GGTD262",
+    "InventoryName": "vs_tipsmsi",
+    "InventoryVendor": "Microsoft Corporation",
+    "InventoryVersion": "16.0.28329",
+    "InstalledDate": null,
+    "IsActive": true
+  },
+  {
+    "InventoryId": 0,
+    "SystemId": "DESKTOP-DM8LPS0",
+    "SerialNumber": "GGTD262",
+    "InventoryName": "Microsoft Visual Studio Setup WMI Provider",
+    "InventoryVendor": "Microsoft Corporation",
+    "InventoryVersion": "2.7.3111.17308",
+    "InstalledDate": null,
+    "IsActive": true
+  },
+  {
+    "InventoryId": 0,
+    "SystemId": "DESKTOP-DM8LPS0",
+    "SerialNumber": "GGTD262",
+    "InventoryName": "WinRT Intellisense Desktop - en-us",
+    "InventoryVendor": "Microsoft Corporation",
+    "InventoryVersion": "10.1.18362.1",
+    "InstalledDate": null,
+    "IsActive": true
+  },
+  {
+    "InventoryId": 0,
+    "SystemId": "DESKTOP-DM8LPS0",
+    "SerialNumber": "GGTD262",
+    "InventoryName": "Windows SDK AddOn",
+    "InventoryVendor": "Microsoft Corporation",
+    "InventoryVersion": "10.1.0.0",
+    "InstalledDate": null,
+    "IsActive": true
+  },
+  {
+    "InventoryId": 0,
+    "SystemId": "DESKTOP-DM8LPS0",
+    "SerialNumber": "GGTD262",
+    "InventoryName": "Kits Configuration Installer",
+    "InventoryVendor": "Microsoft",
+    "InventoryVersion": "10.1.19041.685",
+    "InstalledDate": null,
+    "IsActive": true
+  },
+  {
+    "InventoryId": 0,
+    "SystemId": "DESKTOP-DM8LPS0",
+    "SerialNumber": "GGTD262",
+    "InventoryName": "Windows Simulator",
+    "InventoryVendor": "Microsoft Corporation",
+    "InventoryVersion": "16.0.28522",
+    "InstalledDate": null,
+    "IsActive": true
+  },
+  {
+    "InventoryId": 0,
+    "SystemId": "DESKTOP-DM8LPS0",
+    "SerialNumber": "GGTD262",
+    "InventoryName": "vs_cuitextensionmsi16_x64",
+    "InventoryVendor": "Microsoft Corporation",
+    "InventoryVersion": "16.0.28329",
+    "InstalledDate": null,
+    "IsActive": true
+  },
+  {
+    "InventoryId": 0,
+    "SystemId": "DESKTOP-DM8LPS0",
+    "SerialNumber": "GGTD262",
+    "InventoryName": "Microsoft Visual C++ 2019 X86 Minimum Runtime - 14.28.29325",
+    "InventoryVendor": "Microsoft Corporation",
+    "InventoryVersion": "14.28.29325",
+    "InstalledDate": null,
+    "IsActive": true
+  },
+  {
+    "InventoryId": 0,
+    "SystemId": "DESKTOP-DM8LPS0",
+    "SerialNumber": "GGTD262",
+    "InventoryName": "Microsoft .NET Native SDK",
+    "InventoryVendor": "Microsoft Corporation",
+    "InventoryVersion": "15.0.24211.07",
+    "InstalledDate": null,
+    "IsActive": true
+  },
+  {
+    "InventoryId": 0,
+    "SystemId": "DESKTOP-DM8LPS0",
+    "SerialNumber": "GGTD262",
+    "InventoryName": "Realtek High Definition Audio Driver",
+    "InventoryVendor": "Realtek Semiconductor Corp.",
+    "InventoryVersion": "6.0.1.7628",
+    "InstalledDate": null,
+    "IsActive": true
+  },
+  {
+    "InventoryId": 0,
+    "SystemId": "DESKTOP-DM8LPS0",
+    "SerialNumber": "GGTD262",
+    "InventoryName": "DataRecoveryInstaller",
+    "InventoryVendor": "SubbaRao",
+    "InventoryVersion": "2.0.0",
+    "InstalledDate": null,
+    "IsActive": true
+  },
+  {
+    "InventoryId": 0,
+    "SystemId": "DESKTOP-DM8LPS0",
+    "SerialNumber": "GGTD262",
+    "InventoryName": "vs_minshellmsires",
+    "InventoryVendor": "Microsoft Corporation",
+    "InventoryVersion": "16.9.31004",
+    "InstalledDate": null,
+    "IsActive": true
+  },
+  {
+    "InventoryId": 0,
+    "SystemId": "DESKTOP-DM8LPS0",
+    "SerialNumber": "GGTD262",
+    "InventoryName": "Microsoft Visual C++ 2013 Redistributable (x86) - 12.0.30501",
+    "InventoryVendor": "Microsoft Corporation",
+    "InventoryVersion": "12.0.30501.0",
+    "InstalledDate": null,
+    "IsActive": true
+  },
+  {
+    "InventoryId": 0,
+    "SystemId": "DESKTOP-DM8LPS0",
+    "SerialNumber": "GGTD262",
+    "InventoryName": "Visual C++ Library CRT Appx Resource Package",
+    "InventoryVendor": "Microsoft Corporation",
+    "InventoryVersion": "14.28.29910",
+    "InstalledDate": null,
+    "IsActive": true
+  },
+  {
+    "InventoryId": 0,
+    "SystemId": "DESKTOP-DM8LPS0",
+    "SerialNumber": "GGTD262",
+    "InventoryName": "Entity Framework 6.2.0 Tools  for Visual Studio 2019",
+    "InventoryVendor": "Microsoft Corporation",
+    "InventoryVersion": "6.2.0.0",
+    "InstalledDate": null,
+    "IsActive": true
+  },
+  {
+    "InventoryId": 0,
+    "SystemId": "DESKTOP-DM8LPS0",
+    "SerialNumber": "GGTD262",
+    "InventoryName": "Microsoft Visual Studio Tools for Applications 2017",
+    "InventoryVendor": "Microsoft Corporation",
+    "InventoryVersion": "15.0.27520",
+    "InstalledDate": null,
+    "IsActive": true
+  },
+  {
+    "InventoryId": 0,
+    "SystemId": "DESKTOP-DM8LPS0",
+    "SerialNumber": "GGTD262",
+    "InventoryName": "Microsoft Visual C++ 2013 x86 Additional Runtime - 12.0.21005",
+    "InventoryVendor": "Microsoft Corporation",
+    "InventoryVersion": "12.0.21005",
+    "InstalledDate": null,
+    "IsActive": true
+  },
+  {
+    "InventoryId": 0,
+    "SystemId": "DESKTOP-DM8LPS0",
+    "SerialNumber": "GGTD262",
+    "InventoryName": "Windows SDK Desktop Tools x64",
+    "InventoryVendor": "Microsoft Corporation",
+    "InventoryVersion": "10.1.19041.685",
+    "InstalledDate": null,
+    "IsActive": true
+  },
+  {
+    "InventoryId": 0,
+    "SystemId": "DESKTOP-DM8LPS0",
+    "SerialNumber": "GGTD262",
+    "InventoryName": "Microsoft .NET Core Runtime - 3.1.12 (x86)",
+    "InventoryVendor": "Microsoft Corporation",
+    "InventoryVersion": "24.112.29719",
+    "InstalledDate": null,
+    "IsActive": true
+  },
+  {
+    "InventoryId": 0,
+    "SystemId": "DESKTOP-DM8LPS0",
+    "SerialNumber": "GGTD262",
+    "InventoryName": "vs_clickoncebootstrappermsi",
+    "InventoryVendor": "Microsoft Corporation",
+    "InventoryVersion": "16.9.31004",
+    "InstalledDate": null,
+    "IsActive": true
+  },
+  {
+    "InventoryId": 0,
+    "SystemId": "DESKTOP-DM8LPS0",
+    "SerialNumber": "GGTD262",
+    "InventoryName": "Windows SDK Modern Versioned Developer Tools",
+    "InventoryVendor": "Microsoft Corporation",
+    "InventoryVersion": "10.1.19041.685",
+    "InstalledDate": null,
+    "IsActive": true
+  },
+  {
+    "InventoryId": 0,
+    "SystemId": "DESKTOP-DM8LPS0",
+    "SerialNumber": "GGTD262",
+    "InventoryName": "SDK ARM Additions",
+    "InventoryVendor": "Microsoft Corporation",
+    "InventoryVersion": "10.1.19041.685",
+    "InstalledDate": null,
+    "IsActive": true
+  },
+  {
+    "InventoryId": 0,
+    "SystemId": "DESKTOP-DM8LPS0",
+    "SerialNumber": "GGTD262",
+    "InventoryName": "Microsoft ASP.NET Core 3.1.12 Shared Framework (x86)",
+    "InventoryVendor": "Microsoft Corporation",
+    "InventoryVersion": "3.1.12.21070",
+    "InstalledDate": null,
+    "IsActive": true
+  },
+  {
+    "InventoryId": 0,
+    "SystemId": "DESKTOP-DM8LPS0",
+    "SerialNumber": "GGTD262",
+    "InventoryName": "Microsoft Windows Communication Foundation Diagnostic Pack for x86",
+    "InventoryVendor": "Microsoft",
+    "InventoryVersion": "16.0.28329",
+    "InstalledDate": null,
+    "IsActive": true
+  },
+  {
+    "InventoryId": 0,
+    "SystemId": "DESKTOP-DM8LPS0",
+    "SerialNumber": "GGTD262",
+    "InventoryName": "Microsoft UniversalWindowsPlatform SDK",
+    "InventoryVendor": "Microsoft",
+    "InventoryVersion": "15.9.13",
+    "InstalledDate": null,
+    "IsActive": true
+  },
+  {
+    "InventoryId": 0,
+    "SystemId": "DESKTOP-DM8LPS0",
+    "SerialNumber": "GGTD262",
+    "InventoryName": "WinRT Intellisense PPI - Other Languages",
+    "InventoryVendor": "Microsoft Corporation",
+    "InventoryVersion": "10.1.19041.685",
+    "InstalledDate": null,
+    "IsActive": true
+  },
+  {
+    "InventoryId": 0,
+    "SystemId": "DESKTOP-DM8LPS0",
+    "SerialNumber": "GGTD262",
+    "InventoryName": "Windows SDK for Windows Store Managed Apps Libs",
+    "InventoryVendor": "Microsoft Corporation",
+    "InventoryVersion": "10.1.19041.685",
+    "InstalledDate": null,
+    "IsActive": true
+  }
+]

@@ -1,0 +1,36 @@
+﻿Installing assembly 'C:\Users\u\source\repos\svkrishnagavva\ITManagerDev\DataRecovery\DataRecoveryService\bin\Release\DataRecoveryService.exe'.
+Affected parameters are:
+   i = 
+   logfile = C:\Users\u\source\repos\svkrishnagavva\ITManagerDev\DataRecovery\DataRecoveryService\bin\Release\DataRecoveryService.InstallLog
+   assemblypath = C:\Users\u\source\repos\svkrishnagavva\ITManagerDev\DataRecovery\DataRecoveryService\bin\Release\DataRecoveryService.exe
+   logtoconsole = 
+Installing service DataRecoveryService...
+Service DataRecoveryService has been successfully installed.
+Creating EventLog source DataRecoveryService in log Application...
+Committing assembly 'C:\Users\u\source\repos\svkrishnagavva\ITManagerDev\DataRecovery\DataRecoveryService\bin\Release\DataRecoveryService.exe'.
+Affected parameters are:
+   i = 
+   logfile = C:\Users\u\source\repos\svkrishnagavva\ITManagerDev\DataRecovery\DataRecoveryService\bin\Release\DataRecoveryService.InstallLog
+   assemblypath = C:\Users\u\source\repos\svkrishnagavva\ITManagerDev\DataRecovery\DataRecoveryService\bin\Release\DataRecoveryService.exe
+   logtoconsole = 
+An exception occurred during the Commit phase of the DataRecoveryService.ProjectInstaller installer.
+System.ComponentModel.Win32Exception: The system cannot find the file specified
+An exception occurred during the Commit phase of the installation. This exception will be ignored and installation will continue. However, the application might not function correctly after installation is complete.
+Installing assembly 'C:\Users\u\source\repos\svkrishnagavva\ITManagerDev\DataRecovery\DataRecoveryService\bin\Release\DataRecoveryService.exe'.
+Affected parameters are:
+   i = 
+   logfile = C:\Users\u\source\repos\svkrishnagavva\ITManagerDev\DataRecovery\DataRecoveryService\bin\Release\DataRecoveryService.InstallLog
+   assemblypath = C:\Users\u\source\repos\svkrishnagavva\ITManagerDev\DataRecovery\DataRecoveryService\bin\Release\DataRecoveryService.exe
+   logtoconsole = 
+Installing service DataRecoveryService...
+Service DataRecoveryService has been successfully installed.
+Creating EventLog source DataRecoveryService in log Application...
+Committing assembly 'C:\Users\u\source\repos\svkrishnagavva\ITManagerDev\DataRecovery\DataRecoveryService\bin\Release\DataRecoveryService.exe'.
+Affected parameters are:
+   i = 
+   logfile = C:\Users\u\source\repos\svkrishnagavva\ITManagerDev\DataRecovery\DataRecoveryService\bin\Release\DataRecoveryService.InstallLog
+   assemblypath = C:\Users\u\source\repos\svkrishnagavva\ITManagerDev\DataRecovery\DataRecoveryService\bin\Release\DataRecoveryService.exe
+   logtoconsole = 
+An exception occurred during the Commit phase of the DataRecoveryService.ProjectInstaller installer.
+System.ComponentModel.Win32Exception: The system cannot find the file specified
+An exception occurred during the Commit phase of the installation. This exception will be ignored and installation will continue. However, the application might not function correctly after installation is complete.

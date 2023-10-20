@@ -1,0 +1,130 @@
+{
+  "Filemodel": [
+    {
+      "UserName": null,
+      "FileName": "1.doc",
+      "FilePath": "D:\\TestData\\1.doc",
+      "FileAction": "Upload",
+      "FileActionDate": "2021-04-10T11:57:03.1688115+05:30",
+      "Filestatus": "uploaded",
+      "FilestatusDesc": "Uploaded Successfully"
+    },
+    {
+      "UserName": null,
+      "FileName": "23 - Copy.doc",
+      "FilePath": "D:\\TestData\\23 - Copy.doc",
+      "FileAction": "Upload",
+      "FileActionDate": "2021-04-10T11:57:04.1777923+05:30",
+      "Filestatus": "uploaded",
+      "FilestatusDesc": "Uploaded Successfully"
+    },
+    {
+      "UserName": null,
+      "FileName": "23.doc",
+      "FilePath": "D:\\TestData\\23.doc",
+      "FileAction": "Upload",
+      "FileActionDate": "2021-04-10T11:57:05.2382126+05:30",
+      "Filestatus": "uploaded",
+      "FilestatusDesc": "Uploaded Successfully"
+    },
+    {
+      "UserName": null,
+      "FileName": "Son222g - Copy.mp3",
+      "FilePath": "D:\\TestData\\Son222g - Copy.mp3",
+      "FileAction": "Upload",
+      "FileActionDate": "2021-04-10T11:57:06.2470841+05:30",
+      "Filestatus": "uploaded",
+      "FilestatusDesc": "Uploaded Successfully"
+    },
+    {
+      "UserName": null,
+      "FileName": "Song - Copy (2).mp3",
+      "FilePath": "D:\\TestData\\Song - Copy (2).mp3",
+      "FileAction": "Upload",
+      "FileActionDate": "2021-04-10T11:57:07.2730931+05:30",
+      "Filestatus": "uploaded",
+      "FilestatusDesc": "Uploaded Successfully"
+    },
+    {
+      "UserName": null,
+      "FileName": "Song - Copy.mp3",
+      "FilePath": "D:\\TestData\\Song - Copy.mp3",
+      "FileAction": "Upload",
+      "FileActionDate": "2021-04-10T11:57:08.2821779+05:30",
+      "Filestatus": "uploaded",
+      "FilestatusDesc": "Uploaded Successfully"
+    },
+    {
+      "UserName": null,
+      "FileName": "Songnew - Copy.mp3",
+      "FilePath": "D:\\TestData\\Songnew - Copy.mp3",
+      "FileAction": "Upload",
+      "FileActionDate": "2021-04-10T11:57:09.2905937+05:30",
+      "Filestatus": "uploaded",
+      "FilestatusDesc": "Uploaded Successfully"
+    },
+    {
+      "UserName": null,
+      "FileName": "Songnew.mp3",
+      "FilePath": "D:\\TestData\\Songnew.mp3",
+      "FileAction": "Upload",
+      "FileActionDate": "2021-04-10T11:57:10.2966913+05:30",
+      "Filestatus": "uploaded",
+      "FilestatusDesc": "Uploaded Successfully"
+    },
+    {
+      "UserName": null,
+      "FileName": "Test.doc",
+      "FilePath": "D:\\TestData\\Test.doc",
+      "FileAction": "Upload",
+      "FileActionDate": "2021-04-10T11:57:11.3146271+05:30",
+      "Filestatus": "uploaded",
+      "FilestatusDesc": "Uploaded Successfully"
+    },
+    {
+      "UserName": null,
+      "FileName": "TestFile2changed - Copy - Copy.doc",
+      "FilePath": "D:\\TestData\\TestFile2changed - Copy - Copy.doc",
+      "FileAction": "Upload",
+      "FileActionDate": "2021-04-10T11:57:12.3266369+05:30",
+      "Filestatus": "uploaded",
+      "FilestatusDesc": "Uploaded Successfully"
+    },
+    {
+      "UserName": null,
+      "FileName": "TestFile2changed - Copy.doc",
+      "FilePath": "D:\\TestData\\TestFile2changed - Copy.doc",
+      "FileAction": "Upload",
+      "FileActionDate": "2021-04-10T11:57:13.3398267+05:30",
+      "Filestatus": "uploaded",
+      "FilestatusDesc": "Uploaded Successfully"
+    },
+    {
+      "UserName": null,
+      "FileName": "vamsi.mp3",
+      "FilePath": "D:\\TestData\\vamsi.mp3",
+      "FileAction": "Upload",
+      "FileActionDate": "2021-04-10T11:57:14.3571092+05:30",
+      "Filestatus": "uploaded",
+      "FilestatusDesc": "Uploaded Successfully"
+    },
+    {
+      "UserName": null,
+      "FileName": "Vk.mp3",
+      "FilePath": "D:\\TestData\\Vk.mp3",
+      "FileAction": "Upload",
+      "FileActionDate": "2021-04-10T11:57:15.3717623+05:30",
+      "Filestatus": "uploaded",
+      "FilestatusDesc": "Uploaded Successfully"
+    },
+    {
+      "UserName": null,
+      "FileName": "1.doc",
+      "FilePath": "D:\\TestData\\Test\\1.doc",
+      "FileAction": "Upload",
+      "FileActionDate": "2021-04-10T11:57:16.3990532+05:30",
+      "Filestatus": "uploaded",
+      "FilestatusDesc": "Uploaded Successfully"
+    }
+  ]
+}

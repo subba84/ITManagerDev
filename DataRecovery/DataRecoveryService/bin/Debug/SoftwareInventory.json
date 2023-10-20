@@ -1,0 +1,2812 @@
+[
+  {
+    "InventoryId": 0,
+    "SystemId": "TEST-APP",
+    "SerialNumber": "VMware-564dd782c25f5004-4f9604e73c562c0c",
+    "InventoryName": "Visual Studio Community 2019",
+    "InventoryVendor": "Microsoft Corporation",
+    "InventoryVersion": "",
+    "InstalledDate": "2021-06-05T00:00:00",
+    "IsActive": true
+  },
+  {
+    "InventoryId": 0,
+    "SystemId": "TEST-APP",
+    "SerialNumber": "VMware-564dd782c25f5004-4f9604e73c562c0c",
+    "InventoryName": "DWG FastView - English",
+    "InventoryVendor": "Gstarsoft Co.,Ltd",
+    "InventoryVersion": "",
+    "InstalledDate": null,
+    "IsActive": true
+  },
+  {
+    "InventoryId": 0,
+    "SystemId": "TEST-APP",
+    "SerialNumber": "VMware-564dd782c25f5004-4f9604e73c562c0c",
+    "InventoryName": "Google Chrome",
+    "InventoryVendor": "Google LLC",
+    "InventoryVersion": "94.0.4606.81",
+    "InstalledDate": "2021-10-13T00:00:00",
+    "IsActive": true
+  },
+  {
+    "InventoryId": 0,
+    "SystemId": "TEST-APP",
+    "SerialNumber": "VMware-564dd782c25f5004-4f9604e73c562c0c",
+    "InventoryName": "Microsoft Azure Storage Emulator - v5.10",
+    "InventoryVendor": "Microsoft Corporation",
+    "InventoryVersion": "",
+    "InstalledDate": "2021-06-05T00:00:00",
+    "IsActive": true
+  },
+  {
+    "InventoryId": 0,
+    "SystemId": "TEST-APP",
+    "SerialNumber": "VMware-564dd782c25f5004-4f9604e73c562c0c",
+    "InventoryName": "Microsoft Edge Update",
+    "InventoryVendor": "",
+    "InventoryVersion": "1.3.153.47",
+    "InstalledDate": null,
+    "IsActive": true
+  },
+  {
+    "InventoryId": 0,
+    "SystemId": "TEST-APP",
+    "SerialNumber": "VMware-564dd782c25f5004-4f9604e73c562c0c",
+    "InventoryName": "Microsoft Edge WebView2 Runtime",
+    "InventoryVendor": "Microsoft Corporation",
+    "InventoryVersion": "95.0.1020.30",
+    "InstalledDate": "2021-10-23T00:00:00",
+    "IsActive": true
+  },
+  {
+    "InventoryId": 0,
+    "SystemId": "TEST-APP",
+    "SerialNumber": "VMware-564dd782c25f5004-4f9604e73c562c0c",
+    "InventoryName": "Microsoft Help Viewer 2.3",
+    "InventoryVendor": "Microsoft Corporation",
+    "InventoryVersion": "",
+    "InstalledDate": null,
+    "IsActive": true
+  },
+  {
+    "InventoryId": 0,
+    "SystemId": "TEST-APP",
+    "SerialNumber": "VMware-564dd782c25f5004-4f9604e73c562c0c",
+    "InventoryName": "VLC media player",
+    "InventoryVendor": "VideoLAN",
+    "InventoryVersion": "",
+    "InstalledDate": null,
+    "IsActive": true
+  },
+  {
+    "InventoryId": 0,
+    "SystemId": "TEST-APP",
+    "SerialNumber": "VMware-564dd782c25f5004-4f9604e73c562c0c",
+    "InventoryName": "Ghostscript GPL 8.64 (Msi Setup)",
+    "InventoryVendor": "Corel Corporation",
+    "InventoryVersion": "",
+    "InstalledDate": null,
+    "IsActive": true
+  },
+  {
+    "InventoryId": 0,
+    "SystemId": "TEST-APP",
+    "SerialNumber": "VMware-564dd782c25f5004-4f9604e73c562c0c",
+    "InventoryName": "Microsoft Visual C++ 2019 X86 Additional Runtime - 14.29.30037",
+    "InventoryVendor": "Microsoft Corporation",
+    "InventoryVersion": "236811605",
+    "InstalledDate": "2021-06-05T00:00:00",
+    "IsActive": true
+  },
+  {
+    "InventoryId": 0,
+    "SystemId": "TEST-APP",
+    "SerialNumber": "VMware-564dd782c25f5004-4f9604e73c562c0c",
+    "InventoryName": "ClickOnce Bootstrapper Package for Microsoft .NET Framework",
+    "InventoryVendor": "Microsoft Corporation",
+    "InventoryVersion": "67637271",
+    "InstalledDate": "2021-06-05T00:00:00",
+    "IsActive": true
+  },
+  {
+    "InventoryId": 0,
+    "SystemId": "TEST-APP",
+    "SerialNumber": "VMware-564dd782c25f5004-4f9604e73c562c0c",
+    "InventoryName": "Microsoft Visual C++ 2013 Redistributable (x64) - 12.0.30501",
+    "InventoryVendor": "Microsoft Corporation",
+    "InventoryVersion": "",
+    "InstalledDate": null,
+    "IsActive": true
+  },
+  {
+    "InventoryId": 0,
+    "SystemId": "TEST-APP",
+    "SerialNumber": "VMware-564dd782c25f5004-4f9604e73c562c0c",
+    "InventoryName": "vs_FileTracker_Singleton",
+    "InventoryVendor": "Microsoft Corporation",
+    "InventoryVersion": "269122119",
+    "InstalledDate": "2021-06-05T00:00:00",
+    "IsActive": true
+  },
+  {
+    "InventoryId": 0,
+    "SystemId": "TEST-APP",
+    "SerialNumber": "VMware-564dd782c25f5004-4f9604e73c562c0c",
+    "InventoryName": "Ghostscript GPL 8.64 (Msi Setup)",
+    "InventoryVendor": "Corel Corporation",
+    "InventoryVersion": "138412032",
+    "InstalledDate": "2021-09-04T00:00:00",
+    "IsActive": true
+  },
+  {
+    "InventoryId": 0,
+    "SystemId": "TEST-APP",
+    "SerialNumber": "VMware-564dd782c25f5004-4f9604e73c562c0c",
+    "InventoryName": "Windows SDK Desktop Tools arm64",
+    "InventoryVendor": "Microsoft Corporation",
+    "InventoryVersion": "167856737",
+    "InstalledDate": "2021-06-05T00:00:00",
+    "IsActive": true
+  },
+  {
+    "InventoryId": 0,
+    "SystemId": "TEST-APP",
+    "SerialNumber": "VMware-564dd782c25f5004-4f9604e73c562c0c",
+    "InventoryName": "Windows IoT Extension SDK",
+    "InventoryVendor": "Microsoft Corporation",
+    "InventoryVersion": "167856737",
+    "InstalledDate": "2021-06-05T00:00:00",
+    "IsActive": true
+  },
+  {
+    "InventoryId": 0,
+    "SystemId": "TEST-APP",
+    "SerialNumber": "VMware-564dd782c25f5004-4f9604e73c562c0c",
+    "InventoryName": "windows_toolscorepkg",
+    "InventoryVendor": "Microsoft Corporation",
+    "InventoryVersion": "269122122",
+    "InstalledDate": "2021-06-05T00:00:00",
+    "IsActive": true
+  },
+  {
+    "InventoryId": 0,
+    "SystemId": "TEST-APP",
+    "SerialNumber": "VMware-564dd782c25f5004-4f9604e73c562c0c",
+    "InventoryName": "vs_minshellmsires",
+    "InventoryVendor": "Microsoft Corporation",
+    "InventoryVersion": "269122119",
+    "InstalledDate": "2021-06-05T00:00:00",
+    "IsActive": true
+  },
+  {
+    "InventoryId": 0,
+    "SystemId": "TEST-APP",
+    "SerialNumber": "VMware-564dd782c25f5004-4f9604e73c562c0c",
+    "InventoryName": "Microsoft TestPlatform SDK Local Feed",
+    "InventoryVendor": "Microsoft",
+    "InventoryVersion": "269025280",
+    "InstalledDate": "2021-06-05T00:00:00",
+    "IsActive": true
+  },
+  {
+    "InventoryId": 0,
+    "SystemId": "TEST-APP",
+    "SerialNumber": "VMware-564dd782c25f5004-4f9604e73c562c0c",
+    "InventoryName": "WinRT Intellisense UAP - en-us",
+    "InventoryVendor": "Microsoft Corporation",
+    "InventoryVersion": "167856737",
+    "InstalledDate": "2021-06-05T00:00:00",
+    "IsActive": true
+  },
+  {
+    "InventoryId": 0,
+    "SystemId": "TEST-APP",
+    "SerialNumber": "VMware-564dd782c25f5004-4f9604e73c562c0c",
+    "InventoryName": "Windows Simulator - ENU",
+    "InventoryVendor": "Microsoft Corporation",
+    "InventoryVersion": "268463978",
+    "InstalledDate": "2021-06-05T00:00:00",
+    "IsActive": true
+  },
+  {
+    "InventoryId": 0,
+    "SystemId": "TEST-APP",
+    "SerialNumber": "VMware-564dd782c25f5004-4f9604e73c562c0c",
+    "InventoryName": "Visual C++ Library CRT Appx Resource Package",
+    "InventoryVendor": "Microsoft Corporation",
+    "InventoryVersion": "236811605",
+    "InstalledDate": "2021-06-05T00:00:00",
+    "IsActive": true
+  },
+  {
+    "InventoryId": 0,
+    "SystemId": "TEST-APP",
+    "SerialNumber": "VMware-564dd782c25f5004-4f9604e73c562c0c",
+    "InventoryName": "Windows SDK for Windows Store Apps DirectX x86 Remote",
+    "InventoryVendor": "Microsoft Corporation",
+    "InventoryVersion": "167856737",
+    "InstalledDate": "2021-06-05T00:00:00",
+    "IsActive": true
+  },
+  {
+    "InventoryId": 0,
+    "SystemId": "TEST-APP",
+    "SerialNumber": "VMware-564dd782c25f5004-4f9604e73c562c0c",
+    "InventoryName": "Microsoft ASP.NET Diagnostic Pack for Visual Studio",
+    "InventoryVendor": "Microsoft Corporation",
+    "InventoryVersion": "269091341",
+    "InstalledDate": "2021-06-05T00:00:00",
+    "IsActive": true
+  },
+  {
+    "InventoryId": 0,
+    "SystemId": "TEST-APP",
+    "SerialNumber": "VMware-564dd782c25f5004-4f9604e73c562c0c",
+    "InventoryName": "Microsoft .NET Runtime - 5.0.6 (x86)",
+    "InventoryVendor": "Microsoft Corporation",
+    "InventoryVersion": "672691524",
+    "InstalledDate": "2021-06-05T00:00:00",
+    "IsActive": true
+  },
+  {
+    "InventoryId": 0,
+    "SystemId": "TEST-APP",
+    "SerialNumber": "VMware-564dd782c25f5004-4f9604e73c562c0c",
+    "InventoryName": "icecap_collection_neutral",
+    "InventoryVendor": "Microsoft Corporation",
+    "InventoryVersion": "269122122",
+    "InstalledDate": "2021-06-05T00:00:00",
+    "IsActive": true
+  },
+  {
+    "InventoryId": 0,
+    "SystemId": "TEST-APP",
+    "SerialNumber": "VMware-564dd782c25f5004-4f9604e73c562c0c",
+    "InventoryName": "Microsoft .NET CoreRuntime SDK",
+    "InventoryVendor": "Microsoft Corporation",
+    "InventoryVersion": "16869756",
+    "InstalledDate": "2021-06-05T00:00:00",
+    "IsActive": true
+  },
+  {
+    "InventoryId": 0,
+    "SystemId": "TEST-APP",
+    "SerialNumber": "VMware-564dd782c25f5004-4f9604e73c562c0c",
+    "InventoryName": "Microsoft Visual C++ 2013 x86 Minimum Runtime - 12.0.21005",
+    "InventoryVendor": "Microsoft Corporation",
+    "InventoryVersion": "201347597",
+    "InstalledDate": "2021-03-07T00:00:00",
+    "IsActive": true
+  },
+  {
+    "InventoryId": 0,
+    "SystemId": "TEST-APP",
+    "SerialNumber": "VMware-564dd782c25f5004-4f9604e73c562c0c",
+    "InventoryName": "WinRT Intellisense PPI - en-us",
+    "InventoryVendor": "Microsoft Corporation",
+    "InventoryVersion": "167856737",
+    "InstalledDate": "2021-06-05T00:00:00",
+    "IsActive": true
+  },
+  {
+    "InventoryId": 0,
+    "SystemId": "TEST-APP",
+    "SerialNumber": "VMware-564dd782c25f5004-4f9604e73c562c0c",
+    "InventoryName": "Windows SDK Desktop Libs x64",
+    "InventoryVendor": "Microsoft Corporation",
+    "InventoryVersion": "167856737",
+    "InstalledDate": "2021-06-05T00:00:00",
+    "IsActive": true
+  },
+  {
+    "InventoryId": 0,
+    "SystemId": "TEST-APP",
+    "SerialNumber": "VMware-564dd782c25f5004-4f9604e73c562c0c",
+    "InventoryName": "Microsoft .NET Framework 4.7.2 Targeting Pack",
+    "InventoryVendor": "Microsoft Corporation",
+    "InventoryVersion": "67570678",
+    "InstalledDate": "2021-06-05T00:00:00",
+    "IsActive": true
+  },
+  {
+    "InventoryId": 0,
+    "SystemId": "TEST-APP",
+    "SerialNumber": "VMware-564dd782c25f5004-4f9604e73c562c0c",
+    "InventoryName": "Microsoft .NET Framework 4.5.2 Multi-Targeting Pack",
+    "InventoryVendor": "Microsoft Corporation",
+    "InventoryVersion": "67488195",
+    "InstalledDate": "2021-06-05T00:00:00",
+    "IsActive": true
+  },
+  {
+    "InventoryId": 0,
+    "SystemId": "TEST-APP",
+    "SerialNumber": "VMware-564dd782c25f5004-4f9604e73c562c0c",
+    "InventoryName": "Windows SDK Desktop Tools x86",
+    "InventoryVendor": "Microsoft Corporation",
+    "InventoryVersion": "167856737",
+    "InstalledDate": "2021-06-05T00:00:00",
+    "IsActive": true
+  },
+  {
+    "InventoryId": 0,
+    "SystemId": "TEST-APP",
+    "SerialNumber": "VMware-564dd782c25f5004-4f9604e73c562c0c",
+    "InventoryName": "Microsoft Windows Desktop Runtime - 3.1.15 (x86)",
+    "InventoryVendor": "Microsoft Corporation",
+    "InventoryVersion": "410809662",
+    "InstalledDate": "2021-06-05T00:00:00",
+    "IsActive": true
+  },
+  {
+    "InventoryId": 0,
+    "SystemId": "TEST-APP",
+    "SerialNumber": "VMware-564dd782c25f5004-4f9604e73c562c0c",
+    "InventoryName": "Microsoft Visual Studio Tools for Applications 2019",
+    "InventoryVendor": "Microsoft Corporation",
+    "InventoryVersion": "",
+    "InstalledDate": null,
+    "IsActive": true
+  },
+  {
+    "InventoryId": 0,
+    "SystemId": "TEST-APP",
+    "SerialNumber": "VMware-564dd782c25f5004-4f9604e73c562c0c",
+    "InventoryName": "Windows SDK for Windows Store Apps Libs",
+    "InventoryVendor": "Microsoft Corporation",
+    "InventoryVersion": "167856737",
+    "InstalledDate": "2021-06-05T00:00:00",
+    "IsActive": true
+  },
+  {
+    "InventoryId": 0,
+    "SystemId": "TEST-APP",
+    "SerialNumber": "VMware-564dd782c25f5004-4f9604e73c562c0c",
+    "InventoryName": "WinRT Intellisense IoT - Other Languages",
+    "InventoryVendor": "Microsoft Corporation",
+    "InventoryVersion": "167856737",
+    "InstalledDate": "2021-06-05T00:00:00",
+    "IsActive": true
+  },
+  {
+    "InventoryId": 0,
+    "SystemId": "TEST-APP",
+    "SerialNumber": "VMware-564dd782c25f5004-4f9604e73c562c0c",
+    "InventoryName": "Visual C++ Library CRT Desktop Appx Package",
+    "InventoryVendor": "Microsoft Corporation",
+    "InventoryVersion": "236811605",
+    "InstalledDate": "2021-06-05T00:00:00",
+    "IsActive": true
+  },
+  {
+    "InventoryId": 0,
+    "SystemId": "TEST-APP",
+    "SerialNumber": "VMware-564dd782c25f5004-4f9604e73c562c0c",
+    "InventoryName": "Windows App Certification Kit SupportedApiList x86",
+    "InventoryVendor": "Microsoft Corporation",
+    "InventoryVersion": "167856737",
+    "InstalledDate": "2021-06-05T00:00:00",
+    "IsActive": true
+  },
+  {
+    "InventoryId": 0,
+    "SystemId": "TEST-APP",
+    "SerialNumber": "VMware-564dd782c25f5004-4f9604e73c562c0c",
+    "InventoryName": "vs_clickoncebootstrappermsires",
+    "InventoryVendor": "Microsoft Corporation",
+    "InventoryVersion": "268463785",
+    "InstalledDate": "2021-06-05T00:00:00",
+    "IsActive": true
+  },
+  {
+    "InventoryId": 0,
+    "SystemId": "TEST-APP",
+    "SerialNumber": "VMware-564dd782c25f5004-4f9604e73c562c0c",
+    "InventoryName": "Windows SDK for Windows Store Apps Contracts",
+    "InventoryVendor": "Microsoft Corporation",
+    "InventoryVersion": "167856737",
+    "InstalledDate": "2021-06-05T00:00:00",
+    "IsActive": true
+  },
+  {
+    "InventoryId": 0,
+    "SystemId": "TEST-APP",
+    "SerialNumber": "VMware-564dd782c25f5004-4f9604e73c562c0c",
+    "InventoryName": "Windows SDK Desktop Libs arm",
+    "InventoryVendor": "Microsoft Corporation",
+    "InventoryVersion": "167856737",
+    "InstalledDate": "2021-06-05T00:00:00",
+    "IsActive": true
+  },
+  {
+    "InventoryId": 0,
+    "SystemId": "TEST-APP",
+    "SerialNumber": "VMware-564dd782c25f5004-4f9604e73c562c0c",
+    "InventoryName": "WinAppDeploy",
+    "InventoryVendor": "Microsoft Corporation",
+    "InventoryVersion": "167856737",
+    "InstalledDate": "2021-06-05T00:00:00",
+    "IsActive": true
+  },
+  {
+    "InventoryId": 0,
+    "SystemId": "TEST-APP",
+    "SerialNumber": "VMware-564dd782c25f5004-4f9604e73c562c0c",
+    "InventoryName": "SysTools CDR Viewer v1.0",
+    "InventoryVendor": "SysTools Software",
+    "InventoryVersion": "",
+    "InstalledDate": "2021-09-04T00:00:00",
+    "IsActive": true
+  },
+  {
+    "InventoryId": 0,
+    "SystemId": "TEST-APP",
+    "SerialNumber": "VMware-564dd782c25f5004-4f9604e73c562c0c",
+    "InventoryName": "Microsoft .NET Framework 4.6 Targeting Pack",
+    "InventoryVendor": "Microsoft Corporation",
+    "InventoryVersion": "67502161",
+    "InstalledDate": "2021-06-05T00:00:00",
+    "IsActive": true
+  },
+  {
+    "InventoryId": 0,
+    "SystemId": "TEST-APP",
+    "SerialNumber": "VMware-564dd782c25f5004-4f9604e73c562c0c",
+    "InventoryName": "Windows SDK for Windows Store Apps Metadata",
+    "InventoryVendor": "Microsoft Corporation",
+    "InventoryVersion": "167856737",
+    "InstalledDate": "2021-06-05T00:00:00",
+    "IsActive": true
+  },
+  {
+    "InventoryId": 0,
+    "SystemId": "TEST-APP",
+    "SerialNumber": "VMware-564dd782c25f5004-4f9604e73c562c0c",
+    "InventoryName": "Windows SDK Facade Windows WinMD Versioned",
+    "InventoryVendor": "Microsoft Corporation",
+    "InventoryVersion": "167856737",
+    "InstalledDate": "2021-06-05T00:00:00",
+    "IsActive": true
+  },
+  {
+    "InventoryId": 0,
+    "SystemId": "TEST-APP",
+    "SerialNumber": "VMware-564dd782c25f5004-4f9604e73c562c0c",
+    "InventoryName": "vs_clickoncesigntoolmsi",
+    "InventoryVendor": "Microsoft Corporation",
+    "InventoryVersion": "268463785",
+    "InstalledDate": "2021-06-05T00:00:00",
+    "IsActive": true
+  },
+  {
+    "InventoryId": 0,
+    "SystemId": "TEST-APP",
+    "SerialNumber": "VMware-564dd782c25f5004-4f9604e73c562c0c",
+    "InventoryName": "Windows SDK DirectX x86 Remote",
+    "InventoryVendor": "Microsoft Corporation",
+    "InventoryVersion": "167856737",
+    "InstalledDate": "2021-06-05T00:00:00",
+    "IsActive": true
+  },
+  {
+    "InventoryId": 0,
+    "SystemId": "TEST-APP",
+    "SerialNumber": "VMware-564dd782c25f5004-4f9604e73c562c0c",
+    "InventoryName": "WinRT Intellisense IoT - en-us",
+    "InventoryVendor": "Microsoft Corporation",
+    "InventoryVersion": "167856737",
+    "InstalledDate": "2021-06-05T00:00:00",
+    "IsActive": true
+  },
+  {
+    "InventoryId": 0,
+    "SystemId": "TEST-APP",
+    "SerialNumber": "VMware-564dd782c25f5004-4f9604e73c562c0c",
+    "InventoryName": "vs_communitymsires",
+    "InventoryVendor": "Microsoft Corporation",
+    "InventoryVersion": "269122029",
+    "InstalledDate": "2021-06-05T00:00:00",
+    "IsActive": true
+  },
+  {
+    "InventoryId": 0,
+    "SystemId": "TEST-APP",
+    "SerialNumber": "VMware-564dd782c25f5004-4f9604e73c562c0c",
+    "InventoryName": "icecap_collectionresourcesx64",
+    "InventoryVendor": "Microsoft Corporation",
+    "InventoryVersion": "269122122",
+    "InstalledDate": "2021-06-05T00:00:00",
+    "IsActive": true
+  },
+  {
+    "InventoryId": 0,
+    "SystemId": "TEST-APP",
+    "SerialNumber": "VMware-564dd782c25f5004-4f9604e73c562c0c",
+    "InventoryName": "Microsoft .NET Core Runtime - 3.1.15 (x86)",
+    "InventoryVendor": "Microsoft Corporation",
+    "InventoryVersion": "410809662",
+    "InstalledDate": "2021-06-05T00:00:00",
+    "IsActive": true
+  },
+  {
+    "InventoryId": 0,
+    "SystemId": "TEST-APP",
+    "SerialNumber": "VMware-564dd782c25f5004-4f9604e73c562c0c",
+    "InventoryName": "Windows SDK Desktop Headers x86",
+    "InventoryVendor": "Microsoft Corporation",
+    "InventoryVersion": "167856737",
+    "InstalledDate": "2021-06-05T00:00:00",
+    "IsActive": true
+  },
+  {
+    "InventoryId": 0,
+    "SystemId": "TEST-APP",
+    "SerialNumber": "VMware-564dd782c25f5004-4f9604e73c562c0c",
+    "InventoryName": "Microsoft ASP.NET Core 3.1.15 Shared Framework (x86)",
+    "InventoryVendor": "Microsoft Corporation",
+    "InventoryVersion": "50397199",
+    "InstalledDate": "2021-06-05T00:00:00",
+    "IsActive": true
+  },
+  {
+    "InventoryId": 0,
+    "SystemId": "TEST-APP",
+    "SerialNumber": "VMware-564dd782c25f5004-4f9604e73c562c0c",
+    "InventoryName": "Xamarin Offline Packages",
+    "InventoryVendor": "Xamarin",
+    "InventoryVersion": "269090821",
+    "InstalledDate": "2021-06-05T00:00:00",
+    "IsActive": true
+  },
+  {
+    "InventoryId": 0,
+    "SystemId": "TEST-APP",
+    "SerialNumber": "VMware-564dd782c25f5004-4f9604e73c562c0c",
+    "InventoryName": "Microsoft Azure Storage Emulator - v5.10",
+    "InventoryVendor": "Microsoft Corporation",
+    "InventoryVersion": "84560667",
+    "InstalledDate": "2021-06-05T00:00:00",
+    "IsActive": true
+  },
+  {
+    "InventoryId": 0,
+    "SystemId": "TEST-APP",
+    "SerialNumber": "VMware-564dd782c25f5004-4f9604e73c562c0c",
+    "InventoryName": "Windows SDK Modern Non-Versioned Developer Tools",
+    "InventoryVendor": "Microsoft Corporation",
+    "InventoryVersion": "167856737",
+    "InstalledDate": "2021-06-05T00:00:00",
+    "IsActive": true
+  },
+  {
+    "InventoryId": 0,
+    "SystemId": "TEST-APP",
+    "SerialNumber": "VMware-564dd782c25f5004-4f9604e73c562c0c",
+    "InventoryName": "Windows SDK Redistributables",
+    "InventoryVendor": "Microsoft Corporation",
+    "InventoryVersion": "167856737",
+    "InstalledDate": "2021-06-05T00:00:00",
+    "IsActive": true
+  },
+  {
+    "InventoryId": 0,
+    "SystemId": "TEST-APP",
+    "SerialNumber": "VMware-564dd782c25f5004-4f9604e73c562c0c",
+    "InventoryName": "WinRT Intellisense Mobile - en-us",
+    "InventoryVendor": "Microsoft Corporation",
+    "InventoryVersion": "167856737",
+    "InstalledDate": "2021-06-05T00:00:00",
+    "IsActive": true
+  },
+  {
+    "InventoryId": 0,
+    "SystemId": "TEST-APP",
+    "SerialNumber": "VMware-564dd782c25f5004-4f9604e73c562c0c",
+    "InventoryName": "Windows Software Development Kit - Windows 10.0.19041.685",
+    "InventoryVendor": "Microsoft Corporation",
+    "InventoryVersion": "",
+    "InstalledDate": null,
+    "IsActive": true
+  },
+  {
+    "InventoryId": 0,
+    "SystemId": "TEST-APP",
+    "SerialNumber": "VMware-564dd782c25f5004-4f9604e73c562c0c",
+    "InventoryName": "Microsoft .NET CoreRuntime For CoreCon",
+    "InventoryVendor": "Microsoft Corporation",
+    "InventoryVersion": "16777216",
+    "InstalledDate": "2021-06-05T00:00:00",
+    "IsActive": true
+  },
+  {
+    "InventoryId": 0,
+    "SystemId": "TEST-APP",
+    "SerialNumber": "VMware-564dd782c25f5004-4f9604e73c562c0c",
+    "InventoryName": "Integration Services",
+    "InventoryVendor": "Microsoft Corporation",
+    "InventoryVersion": "251660240",
+    "InstalledDate": "2021-09-12T00:00:00",
+    "IsActive": true
+  },
+  {
+    "InventoryId": 0,
+    "SystemId": "TEST-APP",
+    "SerialNumber": "VMware-564dd782c25f5004-4f9604e73c562c0c",
+    "InventoryName": "Windows IoT Extension SDK Contracts",
+    "InventoryVendor": "Microsoft Corporation",
+    "InventoryVersion": "167856737",
+    "InstalledDate": "2021-06-05T00:00:00",
+    "IsActive": true
+  },
+  {
+    "InventoryId": 0,
+    "SystemId": "TEST-APP",
+    "SerialNumber": "VMware-564dd782c25f5004-4f9604e73c562c0c",
+    "InventoryName": "Microsoft ASP.NET Web Tools Packages 16.0 - ENU",
+    "InventoryVendor": "Microsoft Corporation",
+    "InventoryVersion": "16798341",
+    "InstalledDate": "2021-06-05T00:00:00",
+    "IsActive": true
+  },
+  {
+    "InventoryId": 0,
+    "SystemId": "TEST-APP",
+    "SerialNumber": "VMware-564dd782c25f5004-4f9604e73c562c0c",
+    "InventoryName": "Windows SDK for Windows Store Apps Tools",
+    "InventoryVendor": "Microsoft Corporation",
+    "InventoryVersion": "167856737",
+    "InstalledDate": "2021-06-05T00:00:00",
+    "IsActive": true
+  },
+  {
+    "InventoryId": 0,
+    "SystemId": "TEST-APP",
+    "SerialNumber": "VMware-564dd782c25f5004-4f9604e73c562c0c",
+    "InventoryName": "Microsoft Visual C++ 2015-2019 Redistributable (x64) - 14.29.30037",
+    "InventoryVendor": "Microsoft Corporation",
+    "InventoryVersion": "",
+    "InstalledDate": null,
+    "IsActive": true
+  },
+  {
+    "InventoryId": 0,
+    "SystemId": "TEST-APP",
+    "SerialNumber": "VMware-564dd782c25f5004-4f9604e73c562c0c",
+    "InventoryName": "Windows SDK Desktop Headers arm",
+    "InventoryVendor": "Microsoft Corporation",
+    "InventoryVersion": "167856737",
+    "InstalledDate": "2021-06-05T00:00:00",
+    "IsActive": true
+  },
+  {
+    "InventoryId": 0,
+    "SystemId": "TEST-APP",
+    "SerialNumber": "VMware-564dd782c25f5004-4f9604e73c562c0c",
+    "InventoryName": "Universal CRT Extension SDK",
+    "InventoryVendor": "Microsoft Corporation",
+    "InventoryVersion": "167856737",
+    "InstalledDate": "2021-06-05T00:00:00",
+    "IsActive": true
+  },
+  {
+    "InventoryId": 0,
+    "SystemId": "TEST-APP",
+    "SerialNumber": "VMware-564dd782c25f5004-4f9604e73c562c0c",
+    "InventoryName": "Microsoft Analysis Services OLE DB Provider",
+    "InventoryVendor": "Microsoft Corporation",
+    "InventoryVersion": "251660240",
+    "InstalledDate": "2021-03-07T00:00:00",
+    "IsActive": true
+  },
+  {
+    "InventoryId": 0,
+    "SystemId": "TEST-APP",
+    "SerialNumber": "VMware-564dd782c25f5004-4f9604e73c562c0c",
+    "InventoryName": "Microsoft .NET Framework 4.5 Multi-Targeting Pack",
+    "InventoryVendor": "Microsoft Corporation",
+    "InventoryVersion": "67487254",
+    "InstalledDate": "2021-06-05T00:00:00",
+    "IsActive": true
+  },
+  {
+    "InventoryId": 0,
+    "SystemId": "TEST-APP",
+    "SerialNumber": "VMware-564dd782c25f5004-4f9604e73c562c0c",
+    "InventoryName": "ITManager.MailUtility.Setup",
+    "InventoryVendor": "Default Company Name",
+    "InventoryVersion": "16777216",
+    "InstalledDate": "2021-10-23T00:00:00",
+    "IsActive": true
+  },
+  {
+    "InventoryId": 0,
+    "SystemId": "TEST-APP",
+    "SerialNumber": "VMware-564dd782c25f5004-4f9604e73c562c0c",
+    "InventoryName": "Xamarin PCL Profiles v1.0.9",
+    "InventoryVendor": "Xamarin",
+    "InventoryVersion": "16777225",
+    "InstalledDate": "2021-06-05T00:00:00",
+    "IsActive": true
+  },
+  {
+    "InventoryId": 0,
+    "SystemId": "TEST-APP",
+    "SerialNumber": "VMware-564dd782c25f5004-4f9604e73c562c0c",
+    "InventoryName": "Windows Team Extension SDK Contracts",
+    "InventoryVendor": "Microsoft Corporation",
+    "InventoryVersion": "167856737",
+    "InstalledDate": "2021-06-05T00:00:00",
+    "IsActive": true
+  },
+  {
+    "InventoryId": 0,
+    "SystemId": "TEST-APP",
+    "SerialNumber": "VMware-564dd782c25f5004-4f9604e73c562c0c",
+    "InventoryName": "vs_vswebprotocolselectormsi",
+    "InventoryVendor": "Microsoft Corporation",
+    "InventoryVersion": "269122022",
+    "InstalledDate": "2021-06-05T00:00:00",
+    "IsActive": true
+  },
+  {
+    "InventoryId": 0,
+    "SystemId": "TEST-APP",
+    "SerialNumber": "VMware-564dd782c25f5004-4f9604e73c562c0c",
+    "InventoryName": "Windows App Certification Kit x64",
+    "InventoryVendor": "Microsoft Corporation",
+    "InventoryVersion": "167856737",
+    "InstalledDate": "2021-06-05T00:00:00",
+    "IsActive": true
+  },
+  {
+    "InventoryId": 0,
+    "SystemId": "TEST-APP",
+    "SerialNumber": "VMware-564dd782c25f5004-4f9604e73c562c0c",
+    "InventoryName": "Microsoft .NET Framework 4.5.1 Multi-Targeting Pack",
+    "InventoryVendor": "Microsoft Corporation",
+    "InventoryVersion": "67487476",
+    "InstalledDate": "2021-06-05T00:00:00",
+    "IsActive": true
+  },
+  {
+    "InventoryId": 0,
+    "SystemId": "TEST-APP",
+    "SerialNumber": "VMware-564dd782c25f5004-4f9604e73c562c0c",
+    "InventoryName": "Universal CRT Headers Libraries and Sources",
+    "InventoryVendor": "Microsoft Corporation",
+    "InventoryVersion": "167856737",
+    "InstalledDate": "2021-06-05T00:00:00",
+    "IsActive": true
+  },
+  {
+    "InventoryId": 0,
+    "SystemId": "TEST-APP",
+    "SerialNumber": "VMware-564dd782c25f5004-4f9604e73c562c0c",
+    "InventoryName": "GitHub Desktop Deployment Tool",
+    "InventoryVendor": "GitHub, Inc.",
+    "InventoryVersion": "34144260",
+    "InstalledDate": "2021-10-22T00:00:00",
+    "IsActive": true
+  },
+  {
+    "InventoryId": 0,
+    "SystemId": "TEST-APP",
+    "SerialNumber": "VMware-564dd782c25f5004-4f9604e73c562c0c",
+    "InventoryName": "vs_clickoncebootstrappermsi",
+    "InventoryVendor": "Microsoft Corporation",
+    "InventoryVersion": "269122022",
+    "InstalledDate": "2021-06-05T00:00:00",
+    "IsActive": true
+  },
+  {
+    "InventoryId": 0,
+    "SystemId": "TEST-APP",
+    "SerialNumber": "VMware-564dd782c25f5004-4f9604e73c562c0c",
+    "InventoryName": "Windows Mobile Extension SDK",
+    "InventoryVendor": "Microsoft Corporation",
+    "InventoryVersion": "167856737",
+    "InstalledDate": "2021-06-05T00:00:00",
+    "IsActive": true
+  },
+  {
+    "InventoryId": 0,
+    "SystemId": "TEST-APP",
+    "SerialNumber": "VMware-564dd782c25f5004-4f9604e73c562c0c",
+    "InventoryName": "Microsoft System CLR Types for SQL Server 2019 CTP2.2",
+    "InventoryVendor": "Microsoft Corporation",
+    "InventoryVersion": "251659440",
+    "InstalledDate": "2021-06-05T00:00:00",
+    "IsActive": true
+  },
+  {
+    "InventoryId": 0,
+    "SystemId": "TEST-APP",
+    "SerialNumber": "VMware-564dd782c25f5004-4f9604e73c562c0c",
+    "InventoryName": "Microsoft ASP.NET Core 5.0.6 Shared Framework (x86)",
+    "InventoryVendor": "Microsoft Corporation",
+    "InventoryVersion": "83886086",
+    "InstalledDate": "2021-06-05T00:00:00",
+    "IsActive": true
+  },
+  {
+    "InventoryId": 0,
+    "SystemId": "TEST-APP",
+    "SerialNumber": "VMware-564dd782c25f5004-4f9604e73c562c0c",
+    "InventoryName": "SDK ARM Redistributables",
+    "InventoryVendor": "Microsoft Corporation",
+    "InventoryVersion": "167856737",
+    "InstalledDate": "2021-06-05T00:00:00",
+    "IsActive": true
+  },
+  {
+    "InventoryId": 0,
+    "SystemId": "TEST-APP",
+    "SerialNumber": "VMware-564dd782c25f5004-4f9604e73c562c0c",
+    "InventoryName": "Microsoft NetStandard SDK",
+    "InventoryVendor": "Microsoft Corporation",
+    "InventoryVersion": "251709345",
+    "InstalledDate": "2021-06-05T00:00:00",
+    "IsActive": true
+  },
+  {
+    "InventoryId": 0,
+    "SystemId": "TEST-APP",
+    "SerialNumber": "VMware-564dd782c25f5004-4f9604e73c562c0c",
+    "InventoryName": "Windows Mobile Extension SDK Contracts",
+    "InventoryVendor": "Microsoft Corporation",
+    "InventoryVersion": "167856737",
+    "InstalledDate": "2021-06-05T00:00:00",
+    "IsActive": true
+  },
+  {
+    "InventoryId": 0,
+    "SystemId": "TEST-APP",
+    "SerialNumber": "VMware-564dd782c25f5004-4f9604e73c562c0c",
+    "InventoryName": "MSI Development Tools",
+    "InventoryVendor": "Microsoft Corporation",
+    "InventoryVersion": "167856737",
+    "InstalledDate": "2021-06-05T00:00:00",
+    "IsActive": true
+  },
+  {
+    "InventoryId": 0,
+    "SystemId": "TEST-APP",
+    "SerialNumber": "VMware-564dd782c25f5004-4f9604e73c562c0c",
+    "InventoryName": "Windows SDK",
+    "InventoryVendor": "Microsoft Corporation",
+    "InventoryVersion": "167856737",
+    "InstalledDate": "2021-06-05T00:00:00",
+    "IsActive": true
+  },
+  {
+    "InventoryId": 0,
+    "SystemId": "TEST-APP",
+    "SerialNumber": "VMware-564dd782c25f5004-4f9604e73c562c0c",
+    "InventoryName": "Microsoft Visual Studio Tools for Applications 2019 x86 Hosting Support",
+    "InventoryVendor": "Microsoft Corporation",
+    "InventoryVersion": "268464257",
+    "InstalledDate": "2021-09-04T00:00:00",
+    "IsActive": true
+  },
+  {
+    "InventoryId": 0,
+    "SystemId": "TEST-APP",
+    "SerialNumber": "VMware-564dd782c25f5004-4f9604e73c562c0c",
+    "InventoryName": "Microsoft Visual C++ 2019 X86 Minimum Runtime - 14.29.30037",
+    "InventoryVendor": "Microsoft Corporation",
+    "InventoryVersion": "236811605",
+    "InstalledDate": "2021-06-05T00:00:00",
+    "IsActive": true
+  },
+  {
+    "InventoryId": 0,
+    "SystemId": "TEST-APP",
+    "SerialNumber": "VMware-564dd782c25f5004-4f9604e73c562c0c",
+    "InventoryName": "IntelliTraceProfilerProxy",
+    "InventoryVendor": "Microsoft Corporation",
+    "InventoryVersion": "251676438",
+    "InstalledDate": "2021-06-05T00:00:00",
+    "IsActive": true
+  },
+  {
+    "InventoryId": 0,
+    "SystemId": "TEST-APP",
+    "SerialNumber": "VMware-564dd782c25f5004-4f9604e73c562c0c",
+    "InventoryName": "XlsTable",
+    "InventoryVendor": "公司名称",
+    "InventoryVersion": "16777216",
+    "InstalledDate": "2021-08-05T00:00:00",
+    "IsActive": true
+  },
+  {
+    "InventoryId": 0,
+    "SystemId": "TEST-APP",
+    "SerialNumber": "VMware-564dd782c25f5004-4f9604e73c562c0c",
+    "InventoryName": "Windows SDK Desktop Libs x86",
+    "InventoryVendor": "Microsoft Corporation",
+    "InventoryVersion": "167856737",
+    "InstalledDate": "2021-06-05T00:00:00",
+    "IsActive": true
+  },
+  {
+    "InventoryId": 0,
+    "SystemId": "TEST-APP",
+    "SerialNumber": "VMware-564dd782c25f5004-4f9604e73c562c0c",
+    "InventoryName": "ITManager.EngineSetup",
+    "InventoryVendor": "Default Company Name",
+    "InventoryVersion": "16777216",
+    "InstalledDate": "2021-08-28T00:00:00",
+    "IsActive": true
+  },
+  {
+    "InventoryId": 0,
+    "SystemId": "TEST-APP",
+    "SerialNumber": "VMware-564dd782c25f5004-4f9604e73c562c0c",
+    "InventoryName": "WinRT Intellisense UAP - Other Languages",
+    "InventoryVendor": "Microsoft Corporation",
+    "InventoryVersion": "167856737",
+    "InstalledDate": "2021-06-05T00:00:00",
+    "IsActive": true
+  },
+  {
+    "InventoryId": 0,
+    "SystemId": "TEST-APP",
+    "SerialNumber": "VMware-564dd782c25f5004-4f9604e73c562c0c",
+    "InventoryName": "vs_minshellinteropmsi",
+    "InventoryVendor": "Microsoft Corporation",
+    "InventoryVersion": "269122122",
+    "InstalledDate": "2021-06-05T00:00:00",
+    "IsActive": true
+  },
+  {
+    "InventoryId": 0,
+    "SystemId": "TEST-APP",
+    "SerialNumber": "VMware-564dd782c25f5004-4f9604e73c562c0c",
+    "InventoryName": "Visual C++ Library CRT Appx Package",
+    "InventoryVendor": "Microsoft Corporation",
+    "InventoryVersion": "236811605",
+    "InstalledDate": "2021-06-05T00:00:00",
+    "IsActive": true
+  },
+  {
+    "InventoryId": 0,
+    "SystemId": "TEST-APP",
+    "SerialNumber": "VMware-564dd782c25f5004-4f9604e73c562c0c",
+    "InventoryName": "vs_filehandler_amd64",
+    "InventoryVendor": "Microsoft Corporation",
+    "InventoryVersion": "269122022",
+    "InstalledDate": "2021-06-05T00:00:00",
+    "IsActive": true
+  },
+  {
+    "InventoryId": 0,
+    "SystemId": "TEST-APP",
+    "SerialNumber": "VMware-564dd782c25f5004-4f9604e73c562c0c",
+    "InventoryName": "Microsoft .NET Framework 4.6.1 Targeting Pack",
+    "InventoryVendor": "Microsoft Corporation",
+    "InventoryVersion": "67503135",
+    "InstalledDate": "2021-06-05T00:00:00",
+    "IsActive": true
+  },
+  {
+    "InventoryId": 0,
+    "SystemId": "TEST-APP",
+    "SerialNumber": "VMware-564dd782c25f5004-4f9604e73c562c0c",
+    "InventoryName": "Windows SDK for Windows Store Apps Headers",
+    "InventoryVendor": "Microsoft Corporation",
+    "InventoryVersion": "167856737",
+    "InstalledDate": "2021-06-05T00:00:00",
+    "IsActive": true
+  },
+  {
+    "InventoryId": 0,
+    "SystemId": "TEST-APP",
+    "SerialNumber": "VMware-564dd782c25f5004-4f9604e73c562c0c",
+    "InventoryName": "Windows SDK ARM Desktop Tools",
+    "InventoryVendor": "Microsoft Corporation",
+    "InventoryVersion": "167856737",
+    "InstalledDate": "2021-06-05T00:00:00",
+    "IsActive": true
+  },
+  {
+    "InventoryId": 0,
+    "SystemId": "TEST-APP",
+    "SerialNumber": "VMware-564dd782c25f5004-4f9604e73c562c0c",
+    "InventoryName": "Microsoft .NET Framework 4.8 SDK",
+    "InventoryVendor": "Microsoft Corporation",
+    "InventoryVersion": "67637080",
+    "InstalledDate": "2021-06-05T00:00:00",
+    "IsActive": true
+  },
+  {
+    "InventoryId": 0,
+    "SystemId": "TEST-APP",
+    "SerialNumber": "VMware-564dd782c25f5004-4f9604e73c562c0c",
+    "InventoryName": "Windows SDK Desktop Libs arm64",
+    "InventoryVendor": "Microsoft Corporation",
+    "InventoryVersion": "167856737",
+    "InstalledDate": "2021-06-05T00:00:00",
+    "IsActive": true
+  },
+  {
+    "InventoryId": 0,
+    "SystemId": "TEST-APP",
+    "SerialNumber": "VMware-564dd782c25f5004-4f9604e73c562c0c",
+    "InventoryName": "Microsoft Visual Studio Tools for Applications 2017 x86 Hosting Support",
+    "InventoryVendor": "Microsoft Corporation",
+    "InventoryVersion": "251685760",
+    "InstalledDate": "2021-03-07T00:00:00",
+    "IsActive": true
+  },
+  {
+    "InventoryId": 0,
+    "SystemId": "TEST-APP",
+    "SerialNumber": "VMware-564dd782c25f5004-4f9604e73c562c0c",
+    "InventoryName": "vs_SQLClickOnceBootstrappermsi",
+    "InventoryVendor": "Microsoft Corporation",
+    "InventoryVersion": "269122021",
+    "InstalledDate": "2021-06-05T00:00:00",
+    "IsActive": true
+  },
+  {
+    "InventoryId": 0,
+    "SystemId": "TEST-APP",
+    "SerialNumber": "VMware-564dd782c25f5004-4f9604e73c562c0c",
+    "InventoryName": "Microsoft Visual C++ 2008 Redistributable - x86 9.0.30729.6161",
+    "InventoryVendor": "Microsoft Corporation",
+    "InventoryVersion": "151025673",
+    "InstalledDate": "2021-03-07T00:00:00",
+    "IsActive": true
+  },
+  {
+    "InventoryId": 0,
+    "SystemId": "TEST-APP",
+    "SerialNumber": "VMware-564dd782c25f5004-4f9604e73c562c0c",
+    "InventoryName": "Windows Desktop Extension SDK Contracts",
+    "InventoryVendor": "Microsoft Corporation",
+    "InventoryVersion": "167856737",
+    "InstalledDate": "2021-06-05T00:00:00",
+    "IsActive": true
+  },
+  {
+    "InventoryId": 0,
+    "SystemId": "TEST-APP",
+    "SerialNumber": "VMware-564dd782c25f5004-4f9604e73c562c0c",
+    "InventoryName": "Microsoft Visual C++ 2019 X86 Debug Runtime - 14.29.30037",
+    "InventoryVendor": "Microsoft Corporation",
+    "InventoryVersion": "236811605",
+    "InstalledDate": "2021-06-05T00:00:00",
+    "IsActive": true
+  },
+  {
+    "InventoryId": 0,
+    "SystemId": "TEST-APP",
+    "SerialNumber": "VMware-564dd782c25f5004-4f9604e73c562c0c",
+    "InventoryName": "Windows SDK EULA",
+    "InventoryVendor": "Microsoft Corporations",
+    "InventoryVersion": "167856737",
+    "InstalledDate": "2021-06-05T00:00:00",
+    "IsActive": true
+  },
+  {
+    "InventoryId": 0,
+    "SystemId": "TEST-APP",
+    "SerialNumber": "VMware-564dd782c25f5004-4f9604e73c562c0c",
+    "InventoryName": "Universal CRT Redistributable",
+    "InventoryVendor": "Microsoft Corporation",
+    "InventoryVersion": "167856737",
+    "InstalledDate": "2021-06-05T00:00:00",
+    "IsActive": true
+  },
+  {
+    "InventoryId": 0,
+    "SystemId": "TEST-APP",
+    "SerialNumber": "VMware-564dd782c25f5004-4f9604e73c562c0c",
+    "InventoryName": "Windows SDK for Windows Store Apps",
+    "InventoryVendor": "Microsoft Corporation",
+    "InventoryVersion": "167856737",
+    "InstalledDate": "2021-06-05T00:00:00",
+    "IsActive": true
+  },
+  {
+    "InventoryId": 0,
+    "SystemId": "TEST-APP",
+    "SerialNumber": "VMware-564dd782c25f5004-4f9604e73c562c0c",
+    "InventoryName": "VS Immersive Activate Helper",
+    "InventoryVendor": "Microsoft Corporation",
+    "InventoryVersion": "268435558",
+    "InstalledDate": "2021-06-05T00:00:00",
+    "IsActive": true
+  },
+  {
+    "InventoryId": 0,
+    "SystemId": "TEST-APP",
+    "SerialNumber": "VMware-564dd782c25f5004-4f9604e73c562c0c",
+    "InventoryName": "Microsoft .NET Host FX Resolver - 5.0.6 (x86)",
+    "InventoryVendor": "Microsoft Corporation",
+    "InventoryVersion": "672691524",
+    "InstalledDate": "2021-06-05T00:00:00",
+    "IsActive": true
+  },
+  {
+    "InventoryId": 0,
+    "SystemId": "TEST-APP",
+    "SerialNumber": "VMware-564dd782c25f5004-4f9604e73c562c0c",
+    "InventoryName": "Universal General MIDI DLS Extension SDK",
+    "InventoryVendor": "Microsoft Corporation",
+    "InventoryVersion": "167856737",
+    "InstalledDate": "2021-06-05T00:00:00",
+    "IsActive": true
+  },
+  {
+    "InventoryId": 0,
+    "SystemId": "TEST-APP",
+    "SerialNumber": "VMware-564dd782c25f5004-4f9604e73c562c0c",
+    "InventoryName": "Visual Studio 2017 Isolated Shell for SSMS",
+    "InventoryVendor": "Microsoft Corporation",
+    "InventoryVersion": "251686547",
+    "InstalledDate": "2021-03-07T00:00:00",
+    "IsActive": true
+  },
+  {
+    "InventoryId": 0,
+    "SystemId": "TEST-APP",
+    "SerialNumber": "VMware-564dd782c25f5004-4f9604e73c562c0c",
+    "InventoryName": "Adobe Refresh Manager",
+    "InventoryVendor": "Adobe Systems Incorporated",
+    "InventoryVersion": "17301504",
+    "InstalledDate": "2021-09-12T00:00:00",
+    "IsActive": true
+  },
+  {
+    "InventoryId": 0,
+    "SystemId": "TEST-APP",
+    "SerialNumber": "VMware-564dd782c25f5004-4f9604e73c562c0c",
+    "InventoryName": "Adobe Reader XI (11.0.23)",
+    "InventoryVendor": "Adobe Systems Incorporated",
+    "InventoryVersion": "184549399",
+    "InstalledDate": "2021-09-04T00:00:00",
+    "IsActive": true
+  },
+  {
+    "InventoryId": 0,
+    "SystemId": "TEST-APP",
+    "SerialNumber": "VMware-564dd782c25f5004-4f9604e73c562c0c",
+    "InventoryName": "vs_devenvmsi",
+    "InventoryVendor": "Microsoft Corporation",
+    "InventoryVersion": "268463785",
+    "InstalledDate": "2021-06-05T00:00:00",
+    "IsActive": true
+  },
+  {
+    "InventoryId": 0,
+    "SystemId": "TEST-APP",
+    "SerialNumber": "VMware-564dd782c25f5004-4f9604e73c562c0c",
+    "InventoryName": "Microsoft System CLR Types for SQL Server 2012",
+    "InventoryVendor": "Microsoft Corporation",
+    "InventoryVersion": "184818521",
+    "InstalledDate": "2021-06-06T00:00:00",
+    "IsActive": true
+  },
+  {
+    "InventoryId": 0,
+    "SystemId": "TEST-APP",
+    "SerialNumber": "VMware-564dd782c25f5004-4f9604e73c562c0c",
+    "InventoryName": "vs_filehandler_x86",
+    "InventoryVendor": "Microsoft Corporation",
+    "InventoryVersion": "269122022",
+    "InstalledDate": "2021-06-05T00:00:00",
+    "IsActive": true
+  },
+  {
+    "InventoryId": 0,
+    "SystemId": "TEST-APP",
+    "SerialNumber": "VMware-564dd782c25f5004-4f9604e73c562c0c",
+    "InventoryName": "Python Launcher",
+    "InventoryVendor": "Python Software Foundation",
+    "InventoryVersion": "50797518",
+    "InstalledDate": "2021-06-05T00:00:00",
+    "IsActive": true
+  },
+  {
+    "InventoryId": 0,
+    "SystemId": "TEST-APP",
+    "SerialNumber": "VMware-564dd782c25f5004-4f9604e73c562c0c",
+    "InventoryName": "WinRT Intellisense Desktop - Other Languages",
+    "InventoryVendor": "Microsoft Corporation",
+    "InventoryVersion": "167856737",
+    "InstalledDate": "2021-06-05T00:00:00",
+    "IsActive": true
+  },
+  {
+    "InventoryId": 0,
+    "SystemId": "TEST-APP",
+    "SerialNumber": "VMware-564dd782c25f5004-4f9604e73c562c0c",
+    "InventoryName": "Microsoft .NET Framework 4.7.2 Targeting Pack (ENU)",
+    "InventoryVendor": "Microsoft Corporation",
+    "InventoryVersion": "67570678",
+    "InstalledDate": "2021-06-05T00:00:00",
+    "IsActive": true
+  },
+  {
+    "InventoryId": 0,
+    "SystemId": "TEST-APP",
+    "SerialNumber": "VMware-564dd782c25f5004-4f9604e73c562c0c",
+    "InventoryName": "vs_BlendMsi",
+    "InventoryVendor": "Microsoft Corporation",
+    "InventoryVersion": "268463785",
+    "InstalledDate": "2021-06-05T00:00:00",
+    "IsActive": true
+  },
+  {
+    "InventoryId": 0,
+    "SystemId": "TEST-APP",
+    "SerialNumber": "VMware-564dd782c25f5004-4f9604e73c562c0c",
+    "InventoryName": "Windows SDK Signing Tools",
+    "InventoryVendor": "Microsoft Corporation",
+    "InventoryVersion": "167856737",
+    "InstalledDate": "2021-06-05T00:00:00",
+    "IsActive": true
+  },
+  {
+    "InventoryId": 0,
+    "SystemId": "TEST-APP",
+    "SerialNumber": "VMware-564dd782c25f5004-4f9604e73c562c0c",
+    "InventoryName": "Visual C++ Library CRT Desktop Appx Package",
+    "InventoryVendor": "Microsoft Corporation",
+    "InventoryVersion": "236811605",
+    "InstalledDate": "2021-06-05T00:00:00",
+    "IsActive": true
+  },
+  {
+    "InventoryId": 0,
+    "SystemId": "TEST-APP",
+    "SerialNumber": "VMware-564dd782c25f5004-4f9604e73c562c0c",
+    "InventoryName": "WinRT Intellisense Desktop - en-us",
+    "InventoryVendor": "Microsoft Corporation",
+    "InventoryVersion": "167856737",
+    "InstalledDate": "2021-06-05T00:00:00",
+    "IsActive": true
+  },
+  {
+    "InventoryId": 0,
+    "SystemId": "TEST-APP",
+    "SerialNumber": "VMware-564dd782c25f5004-4f9604e73c562c0c",
+    "InventoryName": "Universal CRT Tools x86",
+    "InventoryVendor": "Microsoft Corporation",
+    "InventoryVersion": "167856737",
+    "InstalledDate": "2021-06-05T00:00:00",
+    "IsActive": true
+  },
+  {
+    "InventoryId": 0,
+    "SystemId": "TEST-APP",
+    "SerialNumber": "VMware-564dd782c25f5004-4f9604e73c562c0c",
+    "InventoryName": "Microsoft Help Viewer 2.3",
+    "InventoryVendor": "Microsoft Corporation",
+    "InventoryVersion": "33779147",
+    "InstalledDate": "2021-03-07T00:00:00",
+    "IsActive": true
+  },
+  {
+    "InventoryId": 0,
+    "SystemId": "TEST-APP",
+    "SerialNumber": "VMware-564dd782c25f5004-4f9604e73c562c0c",
+    "InventoryName": "Microsoft UniversalWindowsPlatform SDK",
+    "InventoryVendor": "Microsoft",
+    "InventoryVersion": "252248078",
+    "InstalledDate": "2021-06-05T00:00:00",
+    "IsActive": true
+  },
+  {
+    "InventoryId": 0,
+    "SystemId": "TEST-APP",
+    "SerialNumber": "VMware-564dd782c25f5004-4f9604e73c562c0c",
+    "InventoryName": "vcpp_crt.redist.clickonce",
+    "InventoryVendor": "Microsoft Corporation",
+    "InventoryVersion": "236811605",
+    "InstalledDate": "2021-06-05T00:00:00",
+    "IsActive": true
+  },
+  {
+    "InventoryId": 0,
+    "SystemId": "TEST-APP",
+    "SerialNumber": "VMware-564dd782c25f5004-4f9604e73c562c0c",
+    "InventoryName": "Microsoft .NET Framework Cumulative Intellisense Pack for Visual Studio (ENU)",
+    "InventoryVendor": "Microsoft Corporation",
+    "InventoryVersion": "67636913",
+    "InstalledDate": "2021-06-05T00:00:00",
+    "IsActive": true
+  },
+  {
+    "InventoryId": 0,
+    "SystemId": "TEST-APP",
+    "SerialNumber": "VMware-564dd782c25f5004-4f9604e73c562c0c",
+    "InventoryName": "TypeScript SDK",
+    "InventoryVendor": "Microsoft Corporation",
+    "InventoryVersion": "67239940",
+    "InstalledDate": "2021-06-05T00:00:00",
+    "IsActive": true
+  },
+  {
+    "InventoryId": 0,
+    "SystemId": "TEST-APP",
+    "SerialNumber": "VMware-564dd782c25f5004-4f9604e73c562c0c",
+    "InventoryName": "Microsoft Report Viewer 2012 Runtime",
+    "InventoryVendor": "Microsoft Corporation",
+    "InventoryVersion": "184618364",
+    "InstalledDate": "2021-06-06T00:00:00",
+    "IsActive": true
+  },
+  {
+    "InventoryId": 0,
+    "SystemId": "TEST-APP",
+    "SerialNumber": "VMware-564dd782c25f5004-4f9604e73c562c0c",
+    "InventoryName": "Windows SDK Desktop Headers x64",
+    "InventoryVendor": "Microsoft Corporation",
+    "InventoryVersion": "167856737",
+    "InstalledDate": "2021-06-05T00:00:00",
+    "IsActive": true
+  },
+  {
+    "InventoryId": 0,
+    "SystemId": "TEST-APP",
+    "SerialNumber": "VMware-564dd782c25f5004-4f9604e73c562c0c",
+    "InventoryName": "Windows SDK Desktop Headers arm64",
+    "InventoryVendor": "Microsoft Corporation",
+    "InventoryVersion": "167856737",
+    "InstalledDate": "2021-06-05T00:00:00",
+    "IsActive": true
+  },
+  {
+    "InventoryId": 0,
+    "SystemId": "TEST-APP",
+    "SerialNumber": "VMware-564dd782c25f5004-4f9604e73c562c0c",
+    "InventoryName": "Visual C++ Library CRT ARM64 Appx Package",
+    "InventoryVendor": "Microsoft Corporation",
+    "InventoryVersion": "236811605",
+    "InstalledDate": "2021-06-05T00:00:00",
+    "IsActive": true
+  },
+  {
+    "InventoryId": 0,
+    "SystemId": "TEST-APP",
+    "SerialNumber": "VMware-564dd782c25f5004-4f9604e73c562c0c",
+    "InventoryName": "Microsoft Visual Studio Setup Configuration",
+    "InventoryVendor": "Microsoft Corporation",
+    "InventoryVersion": "34016295",
+    "InstalledDate": "2021-06-05T00:00:00",
+    "IsActive": true
+  },
+  {
+    "InventoryId": 0,
+    "SystemId": "TEST-APP",
+    "SerialNumber": "VMware-564dd782c25f5004-4f9604e73c562c0c",
+    "InventoryName": "Windows Team Extension SDK",
+    "InventoryVendor": "Microsoft Corporation",
+    "InventoryVersion": "167856737",
+    "InstalledDate": "2021-06-05T00:00:00",
+    "IsActive": true
+  },
+  {
+    "InventoryId": 0,
+    "SystemId": "TEST-APP",
+    "SerialNumber": "VMware-564dd782c25f5004-4f9604e73c562c0c",
+    "InventoryName": "Microsoft .NET Framework 4 Multi-Targeting Pack",
+    "InventoryVendor": "Microsoft Corporation",
+    "InventoryVersion": "67139183",
+    "InstalledDate": "2021-06-05T00:00:00",
+    "IsActive": true
+  },
+  {
+    "InventoryId": 0,
+    "SystemId": "TEST-APP",
+    "SerialNumber": "VMware-564dd782c25f5004-4f9604e73c562c0c",
+    "InventoryName": "Update for  (KB2504637)",
+    "InventoryVendor": "Microsoft Corporation",
+    "InventoryVersion": "",
+    "InstalledDate": null,
+    "IsActive": true
+  },
+  {
+    "InventoryId": 0,
+    "SystemId": "TEST-APP",
+    "SerialNumber": "VMware-564dd782c25f5004-4f9604e73c562c0c",
+    "InventoryName": "Visual C++ Library CRT Appx Package",
+    "InventoryVendor": "Microsoft Corporation",
+    "InventoryVersion": "236811605",
+    "InstalledDate": "2021-06-05T00:00:00",
+    "IsActive": true
+  },
+  {
+    "InventoryId": 0,
+    "SystemId": "TEST-APP",
+    "SerialNumber": "VMware-564dd782c25f5004-4f9604e73c562c0c",
+    "InventoryName": "icecap_collectionresources",
+    "InventoryVendor": "Microsoft Corporation",
+    "InventoryVersion": "269122122",
+    "InstalledDate": "2021-06-05T00:00:00",
+    "IsActive": true
+  },
+  {
+    "InventoryId": 0,
+    "SystemId": "TEST-APP",
+    "SerialNumber": "VMware-564dd782c25f5004-4f9604e73c562c0c",
+    "InventoryName": "Windows Desktop Extension SDK",
+    "InventoryVendor": "Microsoft Corporation",
+    "InventoryVersion": "167856737",
+    "InstalledDate": "2021-06-05T00:00:00",
+    "IsActive": true
+  },
+  {
+    "InventoryId": 0,
+    "SystemId": "TEST-APP",
+    "SerialNumber": "VMware-564dd782c25f5004-4f9604e73c562c0c",
+    "InventoryName": "Visual C++ Library CRT Desktop Appx Package",
+    "InventoryVendor": "Microsoft Corporation",
+    "InventoryVersion": "236811605",
+    "InstalledDate": "2021-06-05T00:00:00",
+    "IsActive": true
+  },
+  {
+    "InventoryId": 0,
+    "SystemId": "TEST-APP",
+    "SerialNumber": "VMware-564dd782c25f5004-4f9604e73c562c0c",
+    "InventoryName": "Microsoft Visual C++ 2015-2019 Redistributable (x86) - 14.29.30037",
+    "InventoryVendor": "Microsoft Corporation",
+    "InventoryVersion": "",
+    "InstalledDate": null,
+    "IsActive": true
+  },
+  {
+    "InventoryId": 0,
+    "SystemId": "TEST-APP",
+    "SerialNumber": "VMware-564dd782c25f5004-4f9604e73c562c0c",
+    "InventoryName": "Xamarin Remoted iOS Simulator",
+    "InventoryVendor": "Xamarin",
+    "InventoryVersion": "268894208",
+    "InstalledDate": "2021-06-05T00:00:00",
+    "IsActive": true
+  },
+  {
+    "InventoryId": 0,
+    "SystemId": "TEST-APP",
+    "SerialNumber": "VMware-564dd782c25f5004-4f9604e73c562c0c",
+    "InventoryName": "Windows SDK AddOn",
+    "InventoryVendor": "Microsoft Corporation",
+    "InventoryVersion": "167837696",
+    "InstalledDate": "2021-06-05T00:00:00",
+    "IsActive": true
+  },
+  {
+    "InventoryId": 0,
+    "SystemId": "TEST-APP",
+    "SerialNumber": "VMware-564dd782c25f5004-4f9604e73c562c0c",
+    "InventoryName": "vs_tipsmsi",
+    "InventoryVendor": "Microsoft Corporation",
+    "InventoryVersion": "268463785",
+    "InstalledDate": "2021-06-05T00:00:00",
+    "IsActive": true
+  },
+  {
+    "InventoryId": 0,
+    "SystemId": "TEST-APP",
+    "SerialNumber": "VMware-564dd782c25f5004-4f9604e73c562c0c",
+    "InventoryName": "vs_Graphics_Singletonx86",
+    "InventoryVendor": "Microsoft Corporation",
+    "InventoryVersion": "269122029",
+    "InstalledDate": "2021-06-05T00:00:00",
+    "IsActive": true
+  },
+  {
+    "InventoryId": 0,
+    "SystemId": "TEST-APP",
+    "SerialNumber": "VMware-564dd782c25f5004-4f9604e73c562c0c",
+    "InventoryName": "Microsoft Visual Studio Setup WMI Provider",
+    "InventoryVendor": "Microsoft Corporation",
+    "InventoryVersion": "34016295",
+    "InstalledDate": "2021-06-05T00:00:00",
+    "IsActive": true
+  },
+  {
+    "InventoryId": 0,
+    "SystemId": "TEST-APP",
+    "SerialNumber": "VMware-564dd782c25f5004-4f9604e73c562c0c",
+    "InventoryName": "vs_minshellmsi",
+    "InventoryVendor": "Microsoft Corporation",
+    "InventoryVersion": "269122136",
+    "InstalledDate": "2021-06-05T00:00:00",
+    "IsActive": true
+  },
+  {
+    "InventoryId": 0,
+    "SystemId": "TEST-APP",
+    "SerialNumber": "VMware-564dd782c25f5004-4f9604e73c562c0c",
+    "InventoryName": "Kits Configuration Installer",
+    "InventoryVendor": "Microsoft",
+    "InventoryVersion": "167856737",
+    "InstalledDate": "2021-06-05T00:00:00",
+    "IsActive": true
+  },
+  {
+    "InventoryId": 0,
+    "SystemId": "TEST-APP",
+    "SerialNumber": "VMware-564dd782c25f5004-4f9604e73c562c0c",
+    "InventoryName": "Microsoft SQL Server Management Studio - 18.9.2",
+    "InventoryVendor": "Microsoft Corporation",
+    "InventoryVersion": "",
+    "InstalledDate": null,
+    "IsActive": true
+  },
+  {
+    "InventoryId": 0,
+    "SystemId": "TEST-APP",
+    "SerialNumber": "VMware-564dd782c25f5004-4f9604e73c562c0c",
+    "InventoryName": "Windows Simulator",
+    "InventoryVendor": "Microsoft Corporation",
+    "InventoryVersion": "268463978",
+    "InstalledDate": "2021-06-05T00:00:00",
+    "IsActive": true
+  },
+  {
+    "InventoryId": 0,
+    "SystemId": "TEST-APP",
+    "SerialNumber": "VMware-564dd782c25f5004-4f9604e73c562c0c",
+    "InventoryName": "Microsoft .NET Native SDK",
+    "InventoryVendor": "Microsoft Corporation",
+    "InventoryVersion": "251682451",
+    "InstalledDate": "2021-06-05T00:00:00",
+    "IsActive": true
+  },
+  {
+    "InventoryId": 0,
+    "SystemId": "TEST-APP",
+    "SerialNumber": "VMware-564dd782c25f5004-4f9604e73c562c0c",
+    "InventoryName": "vs_communitymsi",
+    "InventoryVendor": "Microsoft Corporation",
+    "InventoryVersion": "269122122",
+    "InstalledDate": "2021-06-05T00:00:00",
+    "IsActive": true
+  },
+  {
+    "InventoryId": 0,
+    "SystemId": "TEST-APP",
+    "SerialNumber": "VMware-564dd782c25f5004-4f9604e73c562c0c",
+    "InventoryName": "Microsoft Windows Desktop Runtime - 5.0.6 (x86)",
+    "InventoryVendor": "Microsoft Corporation",
+    "InventoryVersion": "672691525",
+    "InstalledDate": "2021-06-05T00:00:00",
+    "IsActive": true
+  },
+  {
+    "InventoryId": 0,
+    "SystemId": "TEST-APP",
+    "SerialNumber": "VMware-564dd782c25f5004-4f9604e73c562c0c",
+    "InventoryName": "ITManager Suite",
+    "InventoryVendor": "DataBricks Technologies",
+    "InventoryVersion": "33554432",
+    "InstalledDate": "2021-06-11T00:00:00",
+    "IsActive": true
+  },
+  {
+    "InventoryId": 0,
+    "SystemId": "TEST-APP",
+    "SerialNumber": "VMware-564dd782c25f5004-4f9604e73c562c0c",
+    "InventoryName": "Microsoft Visual C++ 2013 Redistributable (x86) - 12.0.30501",
+    "InventoryVendor": "Microsoft Corporation",
+    "InventoryVersion": "",
+    "InstalledDate": null,
+    "IsActive": true
+  },
+  {
+    "InventoryId": 0,
+    "SystemId": "TEST-APP",
+    "SerialNumber": "VMware-564dd782c25f5004-4f9604e73c562c0c",
+    "InventoryName": "Entity Framework 6.2.0 Tools  for Visual Studio 2019",
+    "InventoryVendor": "Microsoft Corporation",
+    "InventoryVersion": "100794368",
+    "InstalledDate": "2021-06-05T00:00:00",
+    "IsActive": true
+  },
+  {
+    "InventoryId": 0,
+    "SystemId": "TEST-APP",
+    "SerialNumber": "VMware-564dd782c25f5004-4f9604e73c562c0c",
+    "InventoryName": "Microsoft Visual Studio Tools for Applications 2017",
+    "InventoryVendor": "Microsoft Corporation",
+    "InventoryVersion": "",
+    "InstalledDate": null,
+    "IsActive": true
+  },
+  {
+    "InventoryId": 0,
+    "SystemId": "TEST-APP",
+    "SerialNumber": "VMware-564dd782c25f5004-4f9604e73c562c0c",
+    "InventoryName": "Microsoft Visual C++ 2013 x86 Additional Runtime - 12.0.21005",
+    "InventoryVendor": "Microsoft Corporation",
+    "InventoryVersion": "201347597",
+    "InstalledDate": "2021-03-07T00:00:00",
+    "IsActive": true
+  },
+  {
+    "InventoryId": 0,
+    "SystemId": "TEST-APP",
+    "SerialNumber": "VMware-564dd782c25f5004-4f9604e73c562c0c",
+    "InventoryName": "Windows Phone SDK 8.0 Assemblies for Visual Studio 2019",
+    "InventoryVendor": "Microsoft Corporation",
+    "InventoryVersion": "268466762",
+    "InstalledDate": "2021-06-05T00:00:00",
+    "IsActive": true
+  },
+  {
+    "InventoryId": 0,
+    "SystemId": "TEST-APP",
+    "SerialNumber": "VMware-564dd782c25f5004-4f9604e73c562c0c",
+    "InventoryName": "Windows SDK Desktop Tools x64",
+    "InventoryVendor": "Microsoft Corporation",
+    "InventoryVersion": "167856737",
+    "InstalledDate": "2021-06-05T00:00:00",
+    "IsActive": true
+  },
+  {
+    "InventoryId": 0,
+    "SystemId": "TEST-APP",
+    "SerialNumber": "VMware-564dd782c25f5004-4f9604e73c562c0c",
+    "InventoryName": "Windows SDK Modern Versioned Developer Tools",
+    "InventoryVendor": "Microsoft Corporation",
+    "InventoryVersion": "167856737",
+    "InstalledDate": "2021-06-05T00:00:00",
+    "IsActive": true
+  },
+  {
+    "InventoryId": 0,
+    "SystemId": "TEST-APP",
+    "SerialNumber": "VMware-564dd782c25f5004-4f9604e73c562c0c",
+    "InventoryName": "SDK ARM Additions",
+    "InventoryVendor": "Microsoft Corporation",
+    "InventoryVersion": "167856737",
+    "InstalledDate": "2021-06-05T00:00:00",
+    "IsActive": true
+  },
+  {
+    "InventoryId": 0,
+    "SystemId": "TEST-APP",
+    "SerialNumber": "VMware-564dd782c25f5004-4f9604e73c562c0c",
+    "InventoryName": "WinRT Intellisense PPI - Other Languages",
+    "InventoryVendor": "Microsoft Corporation",
+    "InventoryVersion": "167856737",
+    "InstalledDate": "2021-06-05T00:00:00",
+    "IsActive": true
+  },
+  {
+    "InventoryId": 0,
+    "SystemId": "TEST-APP",
+    "SerialNumber": "VMware-564dd782c25f5004-4f9604e73c562c0c",
+    "InventoryName": "Windows SDK for Windows Store Managed Apps Libs",
+    "InventoryVendor": "Microsoft Corporation",
+    "InventoryVersion": "167856737",
+    "InstalledDate": "2021-06-05T00:00:00",
+    "IsActive": true
+  },
+  {
+    "InventoryId": 0,
+    "SystemId": "TEST-APP",
+    "SerialNumber": "VMware-564dd782c25f5004-4f9604e73c562c0c",
+    "InventoryName": "Microsoft Azure Compute Emulator - v2.9.6",
+    "InventoryVendor": "Microsoft Corporation",
+    "InventoryVersion": "",
+    "InstalledDate": "2021-06-05T00:00:00",
+    "IsActive": true
+  },
+  {
+    "InventoryId": 0,
+    "SystemId": "TEST-APP",
+    "SerialNumber": "VMware-564dd782c25f5004-4f9604e73c562c0c",
+    "InventoryName": "Corel Graphics - Windows Shell Extension",
+    "InventoryVendor": "Corel Corporation",
+    "InventoryVersion": "",
+    "InstalledDate": null,
+    "IsActive": true
+  },
+  {
+    "InventoryId": 0,
+    "SystemId": "TEST-APP",
+    "SerialNumber": "VMware-564dd782c25f5004-4f9604e73c562c0c",
+    "InventoryName": "CorelDRAW Graphics Suite 2021 (64-Bit)",
+    "InventoryVendor": "Corel Corporation",
+    "InventoryVersion": "",
+    "InstalledDate": null,
+    "IsActive": true
+  },
+  {
+    "InventoryId": 0,
+    "SystemId": "TEST-APP",
+    "SerialNumber": "VMware-564dd782c25f5004-4f9604e73c562c0c",
+    "InventoryName": "IIS 10.0 Express",
+    "InventoryVendor": "Microsoft Corporation",
+    "InventoryVersion": "167776563",
+    "InstalledDate": "2021-06-05T00:00:00",
+    "IsActive": true
+  },
+  {
+    "InventoryId": 0,
+    "SystemId": "TEST-APP",
+    "SerialNumber": "VMware-564dd782c25f5004-4f9604e73c562c0c",
+    "InventoryName": "Microsoft .NET Host - 5.0.6 (x64)",
+    "InventoryVendor": "Microsoft Corporation",
+    "InventoryVersion": "672691524",
+    "InstalledDate": "2021-06-05T00:00:00",
+    "IsActive": true
+  },
+  {
+    "InventoryId": 0,
+    "SystemId": "TEST-APP",
+    "SerialNumber": "VMware-564dd782c25f5004-4f9604e73c562c0c",
+    "InventoryName": "CorelDRAW Graphics Suite 2021 - Common (x64)",
+    "InventoryVendor": "Corel Corporation",
+    "InventoryVersion": "385941504",
+    "InstalledDate": "2021-09-04T00:00:00",
+    "IsActive": true
+  },
+  {
+    "InventoryId": 0,
+    "SystemId": "TEST-APP",
+    "SerialNumber": "VMware-564dd782c25f5004-4f9604e73c562c0c",
+    "InventoryName": "IIS Express Application Compatibility Database for x64",
+    "InventoryVendor": "",
+    "InventoryVersion": "",
+    "InstalledDate": null,
+    "IsActive": true
+  },
+  {
+    "InventoryId": 0,
+    "SystemId": "TEST-APP",
+    "SerialNumber": "VMware-564dd782c25f5004-4f9604e73c562c0c",
+    "InventoryName": "Python 3.7.8 Executables (64-bit)",
+    "InventoryVendor": "Python Software Foundation",
+    "InventoryVersion": "50798550",
+    "InstalledDate": "2021-06-05T00:00:00",
+    "IsActive": true
+  },
+  {
+    "InventoryId": 0,
+    "SystemId": "TEST-APP",
+    "SerialNumber": "VMware-564dd782c25f5004-4f9604e73c562c0c",
+    "InventoryName": "Microsoft Windows Desktop Runtime - 5.0.6 (x64)",
+    "InventoryVendor": "Microsoft Corporation",
+    "InventoryVersion": "672691525",
+    "InstalledDate": "2021-06-05T00:00:00",
+    "IsActive": true
+  },
+  {
+    "InventoryId": 0,
+    "SystemId": "TEST-APP",
+    "SerialNumber": "VMware-564dd782c25f5004-4f9604e73c562c0c",
+    "InventoryName": "CorelDRAW Graphics Suite 2021 - Font Manager (x64)",
+    "InventoryVendor": "Corel Corporation",
+    "InventoryVersion": "385941504",
+    "InstalledDate": "2021-09-04T00:00:00",
+    "IsActive": true
+  },
+  {
+    "InventoryId": 0,
+    "SystemId": "TEST-APP",
+    "SerialNumber": "VMware-564dd782c25f5004-4f9604e73c562c0c",
+    "InventoryName": "Microsoft .NET Core 5.0 Templates 5.0.300 (x64)",
+    "InventoryVendor": "Microsoft Corporation",
+    "InventoryVersion": "335803893",
+    "InstalledDate": "2021-06-05T00:00:00",
+    "IsActive": true
+  },
+  {
+    "InventoryId": 0,
+    "SystemId": "TEST-APP",
+    "SerialNumber": "VMware-564dd782c25f5004-4f9604e73c562c0c",
+    "InventoryName": "Microsoft Azure Compute Emulator - v2.9.6",
+    "InventoryVendor": "Microsoft Corporation",
+    "InventoryVersion": "34153155",
+    "InstalledDate": "2021-06-05T00:00:00",
+    "IsActive": true
+  },
+  {
+    "InventoryId": 0,
+    "SystemId": "TEST-APP",
+    "SerialNumber": "VMware-564dd782c25f5004-4f9604e73c562c0c",
+    "InventoryName": "Microsoft .NET AppHost Pack - 5.0.6 (x64)",
+    "InventoryVendor": "Microsoft Corporation",
+    "InventoryVersion": "672691524",
+    "InstalledDate": "2021-06-05T00:00:00",
+    "IsActive": true
+  },
+  {
+    "InventoryId": 0,
+    "SystemId": "TEST-APP",
+    "SerialNumber": "VMware-564dd782c25f5004-4f9604e73c562c0c",
+    "InventoryName": "CorelDRAW Graphics Suite 2021 - Models (x64)",
+    "InventoryVendor": "Corel Corporation",
+    "InventoryVersion": "385875969",
+    "InstalledDate": "2021-09-04T00:00:00",
+    "IsActive": true
+  },
+  {
+    "InventoryId": 0,
+    "SystemId": "TEST-APP",
+    "SerialNumber": "VMware-564dd782c25f5004-4f9604e73c562c0c",
+    "InventoryName": "IntelliTraceProfilerProxy",
+    "InventoryVendor": "Microsoft Corporation",
+    "InventoryVersion": "251676438",
+    "InstalledDate": "2021-06-05T00:00:00",
+    "IsActive": true
+  },
+  {
+    "InventoryId": 0,
+    "SystemId": "TEST-APP",
+    "SerialNumber": "VMware-564dd782c25f5004-4f9604e73c562c0c",
+    "InventoryName": "Microsoft Visual C++ 2010  x64 Redistributable - 10.0.40219",
+    "InventoryVendor": "Microsoft Corporation",
+    "InventoryVersion": "167812379",
+    "InstalledDate": "2021-08-05T00:00:00",
+    "IsActive": true
+  },
+  {
+    "InventoryId": 0,
+    "SystemId": "TEST-APP",
+    "SerialNumber": "VMware-564dd782c25f5004-4f9604e73c562c0c",
+    "InventoryName": "CorelDRAW Graphics Suite 2021 - Draw (x64)",
+    "InventoryVendor": "Corel Corporation",
+    "InventoryVersion": "385941504",
+    "InstalledDate": "2021-09-04T00:00:00",
+    "IsActive": true
+  },
+  {
+    "InventoryId": 0,
+    "SystemId": "TEST-APP",
+    "SerialNumber": "VMware-564dd782c25f5004-4f9604e73c562c0c",
+    "InventoryName": "Microsoft .NET AppHost Pack - 5.0.6 (x64_arm64)",
+    "InventoryVendor": "Microsoft Corporation",
+    "InventoryVersion": "672691524",
+    "InstalledDate": "2021-06-05T00:00:00",
+    "IsActive": true
+  },
+  {
+    "InventoryId": 0,
+    "SystemId": "TEST-APP",
+    "SerialNumber": "VMware-564dd782c25f5004-4f9604e73c562c0c",
+    "InventoryName": "DiagnosticsHub_CollectionService",
+    "InventoryVendor": "Microsoft Corporation",
+    "InventoryVersion": "268529893",
+    "InstalledDate": "2021-06-05T00:00:00",
+    "IsActive": true
+  },
+  {
+    "InventoryId": 0,
+    "SystemId": "TEST-APP",
+    "SerialNumber": "VMware-564dd782c25f5004-4f9604e73c562c0c",
+    "InventoryName": "Python 3.7.8 Tcl/Tk Support (64-bit)",
+    "InventoryVendor": "Python Software Foundation",
+    "InventoryVersion": "50798550",
+    "InstalledDate": "2021-06-05T00:00:00",
+    "IsActive": true
+  },
+  {
+    "InventoryId": 0,
+    "SystemId": "TEST-APP",
+    "SerialNumber": "VMware-564dd782c25f5004-4f9604e73c562c0c",
+    "InventoryName": "icecap_collection_x64",
+    "InventoryVendor": "Microsoft Corporation",
+    "InventoryVersion": "269122122",
+    "InstalledDate": "2021-06-05T00:00:00",
+    "IsActive": true
+  },
+  {
+    "InventoryId": 0,
+    "SystemId": "TEST-APP",
+    "SerialNumber": "VMware-564dd782c25f5004-4f9604e73c562c0c",
+    "InventoryName": "Microsoft .NET AppHost Pack - 5.0.6 (x64_arm)",
+    "InventoryVendor": "Microsoft Corporation",
+    "InventoryVersion": "672691524",
+    "InstalledDate": "2021-06-05T00:00:00",
+    "IsActive": true
+  },
+  {
+    "InventoryId": 0,
+    "SystemId": "TEST-APP",
+    "SerialNumber": "VMware-564dd782c25f5004-4f9604e73c562c0c",
+    "InventoryName": "Cylance Unified Agent",
+    "InventoryVendor": "Cylance, Inc.",
+    "InventoryVersion": "33817616",
+    "InstalledDate": "2021-03-08T00:00:00",
+    "IsActive": true
+  },
+  {
+    "InventoryId": 0,
+    "SystemId": "TEST-APP",
+    "SerialNumber": "VMware-564dd782c25f5004-4f9604e73c562c0c",
+    "InventoryName": "Microsoft .NET Core AppHost Pack - 3.1.15 (x64_arm)",
+    "InventoryVendor": "Microsoft Corporation",
+    "InventoryVersion": "410809662",
+    "InstalledDate": "2021-06-05T00:00:00",
+    "IsActive": true
+  },
+  {
+    "InventoryId": 0,
+    "SystemId": "TEST-APP",
+    "SerialNumber": "VMware-564dd782c25f5004-4f9604e73c562c0c",
+    "InventoryName": "Microsoft Web Deploy 4.0",
+    "InventoryVendor": "Microsoft Corporation",
+    "InventoryVersion": "167775962",
+    "InstalledDate": "2021-06-05T00:00:00",
+    "IsActive": true
+  },
+  {
+    "InventoryId": 0,
+    "SystemId": "TEST-APP",
+    "SerialNumber": "VMware-564dd782c25f5004-4f9604e73c562c0c",
+    "InventoryName": "CorelDRAW Graphics Suite 2021 - Writing Tools (x64)",
+    "InventoryVendor": " Corel Corporation",
+    "InventoryVersion": "385941504",
+    "InstalledDate": "2021-09-04T00:00:00",
+    "IsActive": true
+  },
+  {
+    "InventoryId": 0,
+    "SystemId": "TEST-APP",
+    "SerialNumber": "VMware-564dd782c25f5004-4f9604e73c562c0c",
+    "InventoryName": "Microsoft .NET Core Targeting Pack - 3.1.0 (x64)",
+    "InventoryVendor": "Microsoft Corporation",
+    "InventoryVersion": "406875803",
+    "InstalledDate": "2021-06-05T00:00:00",
+    "IsActive": true
+  },
+  {
+    "InventoryId": 0,
+    "SystemId": "TEST-APP",
+    "SerialNumber": "VMware-564dd782c25f5004-4f9604e73c562c0c",
+    "InventoryName": "Corel Graphics - Windows Shell Extension",
+    "InventoryVendor": "Corel Corporation",
+    "InventoryVersion": "385876330",
+    "InstalledDate": "2021-09-04T00:00:00",
+    "IsActive": true
+  },
+  {
+    "InventoryId": 0,
+    "SystemId": "TEST-APP",
+    "SerialNumber": "VMware-564dd782c25f5004-4f9604e73c562c0c",
+    "InventoryName": "Microsoft .NET Targeting Pack - 5.0.0 (x64)",
+    "InventoryVendor": "Microsoft Corporation",
+    "InventoryVersion": "671118059",
+    "InstalledDate": "2021-06-05T00:00:00",
+    "IsActive": true
+  },
+  {
+    "InventoryId": 0,
+    "SystemId": "TEST-APP",
+    "SerialNumber": "VMware-564dd782c25f5004-4f9604e73c562c0c",
+    "InventoryName": "Microsoft Azure PowerShell - April 2018",
+    "InventoryVendor": "Microsoft Corporation",
+    "InventoryVersion": "84344832",
+    "InstalledDate": "2021-06-05T00:00:00",
+    "IsActive": true
+  },
+  {
+    "InventoryId": 0,
+    "SystemId": "TEST-APP",
+    "SerialNumber": "VMware-564dd782c25f5004-4f9604e73c562c0c",
+    "InventoryName": "Python 3.7.8 Utility Scripts (64-bit)",
+    "InventoryVendor": "Python Software Foundation",
+    "InventoryVersion": "50798550",
+    "InstalledDate": "2021-06-05T00:00:00",
+    "IsActive": true
+  },
+  {
+    "InventoryId": 0,
+    "SystemId": "TEST-APP",
+    "SerialNumber": "VMware-564dd782c25f5004-4f9604e73c562c0c",
+    "InventoryName": "Microsoft Command Line Utilities 15 for SQL Server",
+    "InventoryVendor": "Microsoft Corporation",
+    "InventoryVersion": "251659540",
+    "InstalledDate": "2021-06-05T00:00:00",
+    "IsActive": true
+  },
+  {
+    "InventoryId": 0,
+    "SystemId": "TEST-APP",
+    "SerialNumber": "VMware-564dd782c25f5004-4f9604e73c562c0c",
+    "InventoryName": "CorelDRAW Graphics Suite 2021 - PHOTO-PAINT (x64)",
+    "InventoryVendor": "Corel Corporation",
+    "InventoryVersion": "385941504",
+    "InstalledDate": "2021-09-04T00:00:00",
+    "IsActive": true
+  },
+  {
+    "InventoryId": 0,
+    "SystemId": "TEST-APP",
+    "SerialNumber": "VMware-564dd782c25f5004-4f9604e73c562c0c",
+    "InventoryName": "Microsoft .NET Core AppHost Pack - 3.1.15 (x64_x86)",
+    "InventoryVendor": "Microsoft Corporation",
+    "InventoryVersion": "410809662",
+    "InstalledDate": "2021-06-05T00:00:00",
+    "IsActive": true
+  },
+  {
+    "InventoryId": 0,
+    "SystemId": "TEST-APP",
+    "SerialNumber": "VMware-564dd782c25f5004-4f9604e73c562c0c",
+    "InventoryName": "SQL Server Management Studio",
+    "InventoryVendor": "Microsoft Corporation",
+    "InventoryVersion": "251676626",
+    "InstalledDate": "2021-09-12T00:00:00",
+    "IsActive": true
+  },
+  {
+    "InventoryId": 0,
+    "SystemId": "TEST-APP",
+    "SerialNumber": "VMware-564dd782c25f5004-4f9604e73c562c0c",
+    "InventoryName": "VMware Tools",
+    "InventoryVendor": "VMware, Inc.",
+    "InventoryVersion": "167837696",
+    "InstalledDate": "2021-03-07T00:00:00",
+    "IsActive": true
+  },
+  {
+    "InventoryId": 0,
+    "SystemId": "TEST-APP",
+    "SerialNumber": "VMware-564dd782c25f5004-4f9604e73c562c0c",
+    "InventoryName": "Microsoft Visual C++ 2019 X64 Additional Runtime - 14.29.30037",
+    "InventoryVendor": "Microsoft Corporation",
+    "InventoryVersion": "236811605",
+    "InstalledDate": "2021-06-05T00:00:00",
+    "IsActive": true
+  },
+  {
+    "InventoryId": 0,
+    "SystemId": "TEST-APP",
+    "SerialNumber": "VMware-564dd782c25f5004-4f9604e73c562c0c",
+    "InventoryName": "Microsoft .NET Host FX Resolver - 5.0.6 (x64)",
+    "InventoryVendor": "Microsoft Corporation",
+    "InventoryVersion": "672691524",
+    "InstalledDate": "2021-06-05T00:00:00",
+    "IsActive": true
+  },
+  {
+    "InventoryId": 0,
+    "SystemId": "TEST-APP",
+    "SerialNumber": "VMware-564dd782c25f5004-4f9604e73c562c0c",
+    "InventoryName": "Microsoft Visual C++ 2008 Redistributable - x64 9.0.30729.6161",
+    "InventoryVendor": "Microsoft Corporation",
+    "InventoryVersion": "151025673",
+    "InstalledDate": "2021-03-07T00:00:00",
+    "IsActive": true
+  },
+  {
+    "InventoryId": 0,
+    "SystemId": "TEST-APP",
+    "SerialNumber": "VMware-564dd782c25f5004-4f9604e73c562c0c",
+    "InventoryName": "Azure Data Studio",
+    "InventoryVendor": "Microsoft Corporation",
+    "InventoryVersion": "",
+    "InstalledDate": "2021-09-12T00:00:00",
+    "IsActive": true
+  },
+  {
+    "InventoryId": 0,
+    "SystemId": "TEST-APP",
+    "SerialNumber": "VMware-564dd782c25f5004-4f9604e73c562c0c",
+    "InventoryName": "Python 3.7.8 Standard Library (64-bit)",
+    "InventoryVendor": "Python Software Foundation",
+    "InventoryVersion": "50798550",
+    "InstalledDate": "2021-06-05T00:00:00",
+    "IsActive": true
+  },
+  {
+    "InventoryId": 0,
+    "SystemId": "TEST-APP",
+    "SerialNumber": "VMware-564dd782c25f5004-4f9604e73c562c0c",
+    "InventoryName": "Active Directory Authentication Library for SQL Server",
+    "InventoryVendor": "Microsoft Corporation",
+    "InventoryVersion": "251659540",
+    "InstalledDate": "2021-06-05T00:00:00",
+    "IsActive": true
+  },
+  {
+    "InventoryId": 0,
+    "SystemId": "TEST-APP",
+    "SerialNumber": "VMware-564dd782c25f5004-4f9604e73c562c0c",
+    "InventoryName": "Microsoft Visual Studio Installer",
+    "InventoryVendor": "Microsoft Corporation",
+    "InventoryVersion": "",
+    "InstalledDate": "2021-06-05T00:00:00",
+    "IsActive": true
+  },
+  {
+    "InventoryId": 0,
+    "SystemId": "TEST-APP",
+    "SerialNumber": "VMware-564dd782c25f5004-4f9604e73c562c0c",
+    "InventoryName": "CorelDRAW Graphics Suite 2021 - Filters (x64)",
+    "InventoryVendor": "Corel Corporation",
+    "InventoryVersion": "385941504",
+    "InstalledDate": "2021-09-04T00:00:00",
+    "IsActive": true
+  },
+  {
+    "InventoryId": 0,
+    "SystemId": "TEST-APP",
+    "SerialNumber": "VMware-564dd782c25f5004-4f9604e73c562c0c",
+    "InventoryName": "Microsoft Windows Desktop Targeting Pack - 3.1.0 (x64)",
+    "InventoryVendor": "Microsoft Corporation",
+    "InventoryVersion": "406875803",
+    "InstalledDate": "2021-06-05T00:00:00",
+    "IsActive": true
+  },
+  {
+    "InventoryId": 0,
+    "SystemId": "TEST-APP",
+    "SerialNumber": "VMware-564dd782c25f5004-4f9604e73c562c0c",
+    "InventoryName": "vs_Graphics_Singletonx64",
+    "InventoryVendor": "Microsoft Corporation",
+    "InventoryVersion": "269122029",
+    "InstalledDate": "2021-06-05T00:00:00",
+    "IsActive": true
+  },
+  {
+    "InventoryId": 0,
+    "SystemId": "TEST-APP",
+    "SerialNumber": "VMware-564dd782c25f5004-4f9604e73c562c0c",
+    "InventoryName": "Microsoft .NET SDK 5.0.300 (x64) from Visual Studio",
+    "InventoryVendor": "Microsoft Corporation",
+    "InventoryVersion": "84082709",
+    "InstalledDate": "2021-06-05T00:00:00",
+    "IsActive": true
+  },
+  {
+    "InventoryId": 0,
+    "SystemId": "TEST-APP",
+    "SerialNumber": "VMware-564dd782c25f5004-4f9604e73c562c0c",
+    "InventoryName": "Microsoft ASP.NET Core 5.0.0 Targeting Pack (x64)",
+    "InventoryVendor": "Microsoft Corporation",
+    "InventoryVersion": "83886080",
+    "InstalledDate": "2021-06-05T00:00:00",
+    "IsActive": true
+  },
+  {
+    "InventoryId": 0,
+    "SystemId": "TEST-APP",
+    "SerialNumber": "VMware-564dd782c25f5004-4f9604e73c562c0c",
+    "InventoryName": "Microsoft .NET Core 3.1 Templates 5.0.300 (x64)",
+    "InventoryVendor": "Microsoft Corporation",
+    "InventoryVersion": "202864117",
+    "InstalledDate": "2021-06-05T00:00:00",
+    "IsActive": true
+  },
+  {
+    "InventoryId": 0,
+    "SystemId": "TEST-APP",
+    "SerialNumber": "VMware-564dd782c25f5004-4f9604e73c562c0c",
+    "InventoryName": "CorelDRAW Graphics Suite 2021",
+    "InventoryVendor": "Corel Corporation",
+    "InventoryVersion": "385941504",
+    "InstalledDate": "2021-09-04T00:00:00",
+    "IsActive": true
+  },
+  {
+    "InventoryId": 0,
+    "SystemId": "TEST-APP",
+    "SerialNumber": "VMware-564dd782c25f5004-4f9604e73c562c0c",
+    "InventoryName": "Microsoft .NET Core Runtime - 3.1.15 (x64)",
+    "InventoryVendor": "Microsoft Corporation",
+    "InventoryVersion": "410809662",
+    "InstalledDate": "2021-06-05T00:00:00",
+    "IsActive": true
+  },
+  {
+    "InventoryId": 0,
+    "SystemId": "TEST-APP",
+    "SerialNumber": "VMware-564dd782c25f5004-4f9604e73c562c0c",
+    "InventoryName": "Python 3.7.8 Tcl/Tk Support (64-bit symbols)",
+    "InventoryVendor": "Python Software Foundation",
+    "InventoryVersion": "50798550",
+    "InstalledDate": "2021-06-05T00:00:00",
+    "IsActive": true
+  },
+  {
+    "InventoryId": 0,
+    "SystemId": "TEST-APP",
+    "SerialNumber": "VMware-564dd782c25f5004-4f9604e73c562c0c",
+    "InventoryName": "Microsoft ODBC Driver 17 for SQL Server",
+    "InventoryVendor": "Microsoft Corporation",
+    "InventoryVersion": "285671426",
+    "InstalledDate": "2021-09-12T00:00:00",
+    "IsActive": true
+  },
+  {
+    "InventoryId": 0,
+    "SystemId": "TEST-APP",
+    "SerialNumber": "VMware-564dd782c25f5004-4f9604e73c562c0c",
+    "InventoryName": "Application Verifier x64 External Package",
+    "InventoryVendor": "Microsoft",
+    "InventoryVersion": "167856737",
+    "InstalledDate": "2021-06-05T00:00:00",
+    "IsActive": true
+  },
+  {
+    "InventoryId": 0,
+    "SystemId": "TEST-APP",
+    "SerialNumber": "VMware-564dd782c25f5004-4f9604e73c562c0c",
+    "InventoryName": "SQL Server Management Studio",
+    "InventoryVendor": "Microsoft Corporation",
+    "InventoryVersion": "251676626",
+    "InstalledDate": "2021-09-12T00:00:00",
+    "IsActive": true
+  },
+  {
+    "InventoryId": 0,
+    "SystemId": "TEST-APP",
+    "SerialNumber": "VMware-564dd782c25f5004-4f9604e73c562c0c",
+    "InventoryName": "Microsoft System CLR Types for SQL Server 2019 CTP2.2",
+    "InventoryVendor": "Microsoft Corporation",
+    "InventoryVersion": "251659440",
+    "InstalledDate": "2021-06-05T00:00:00",
+    "IsActive": true
+  },
+  {
+    "InventoryId": 0,
+    "SystemId": "TEST-APP",
+    "SerialNumber": "VMware-564dd782c25f5004-4f9604e73c562c0c",
+    "InventoryName": "Python 3.7.8 Core Interpreter (64-bit)",
+    "InventoryVendor": "Python Software Foundation",
+    "InventoryVersion": "50798550",
+    "InstalledDate": "2021-06-05T00:00:00",
+    "IsActive": true
+  },
+  {
+    "InventoryId": 0,
+    "SystemId": "TEST-APP",
+    "SerialNumber": "VMware-564dd782c25f5004-4f9604e73c562c0c",
+    "InventoryName": "CorelDRAW Graphics Suite 2021 - VBA (x64)",
+    "InventoryVendor": "Corel Corporation",
+    "InventoryVersion": "385941504",
+    "InstalledDate": "2021-09-04T00:00:00",
+    "IsActive": true
+  },
+  {
+    "InventoryId": 0,
+    "SystemId": "TEST-APP",
+    "SerialNumber": "VMware-564dd782c25f5004-4f9604e73c562c0c",
+    "InventoryName": "Microsoft Visual Basic for Applications 7.1 (x64)",
+    "InventoryVendor": "Microsoft Corporation",
+    "InventoryVersion": "117506048",
+    "InstalledDate": "2021-09-04T00:00:00",
+    "IsActive": true
+  },
+  {
+    "InventoryId": 0,
+    "SystemId": "TEST-APP",
+    "SerialNumber": "VMware-564dd782c25f5004-4f9604e73c562c0c",
+    "InventoryName": "Microsoft Visual C++ 2019 X64 Debug Runtime - 14.29.30037",
+    "InventoryVendor": "Microsoft Corporation",
+    "InventoryVersion": "236811605",
+    "InstalledDate": "2021-06-05T00:00:00",
+    "IsActive": true
+  },
+  {
+    "InventoryId": 0,
+    "SystemId": "TEST-APP",
+    "SerialNumber": "VMware-564dd782c25f5004-4f9604e73c562c0c",
+    "InventoryName": "Microsoft SQL Server 2016 LocalDB ",
+    "InventoryVendor": "Microsoft Corporation",
+    "InventoryVersion": "218173345",
+    "InstalledDate": "2021-06-05T00:00:00",
+    "IsActive": true
+  },
+  {
+    "InventoryId": 0,
+    "SystemId": "TEST-APP",
+    "SerialNumber": "VMware-564dd782c25f5004-4f9604e73c562c0c",
+    "InventoryName": "Microsoft Visual Basic for Applications 7.1 (x64) English",
+    "InventoryVendor": "Microsoft Corporation",
+    "InventoryVersion": "117506048",
+    "InstalledDate": "2021-09-04T00:00:00",
+    "IsActive": true
+  },
+  {
+    "InventoryId": 0,
+    "SystemId": "TEST-APP",
+    "SerialNumber": "VMware-564dd782c25f5004-4f9604e73c562c0c",
+    "InventoryName": "Microsoft .NET Core AppHost Pack - 3.1.15 (x64)",
+    "InventoryVendor": "Microsoft Corporation",
+    "InventoryVersion": "410809662",
+    "InstalledDate": "2021-06-05T00:00:00",
+    "IsActive": true
+  },
+  {
+    "InventoryId": 0,
+    "SystemId": "TEST-APP",
+    "SerialNumber": "VMware-564dd782c25f5004-4f9604e73c562c0c",
+    "InventoryName": "Microsoft Visual C++ 2013 x64 Additional Runtime - 12.0.21005",
+    "InventoryVendor": "Microsoft Corporation",
+    "InventoryVersion": "201347597",
+    "InstalledDate": "2021-06-05T00:00:00",
+    "IsActive": true
+  },
+  {
+    "InventoryId": 0,
+    "SystemId": "TEST-APP",
+    "SerialNumber": "VMware-564dd782c25f5004-4f9604e73c562c0c",
+    "InventoryName": "Corel Update Manager",
+    "InventoryVendor": "Corel corporation",
+    "InventoryVersion": "34472562",
+    "InstalledDate": "2021-09-04T00:00:00",
+    "IsActive": true
+  },
+  {
+    "InventoryId": 0,
+    "SystemId": "TEST-APP",
+    "SerialNumber": "VMware-564dd782c25f5004-4f9604e73c562c0c",
+    "InventoryName": "Microsoft Analysis Services OLE DB Provider",
+    "InventoryVendor": "Microsoft Corporation",
+    "InventoryVersion": "251660240",
+    "InstalledDate": "2021-03-07T00:00:00",
+    "IsActive": true
+  },
+  {
+    "InventoryId": 0,
+    "SystemId": "TEST-APP",
+    "SerialNumber": "VMware-564dd782c25f5004-4f9604e73c562c0c",
+    "InventoryName": "Microsoft ASP.NET Core 3.1.15 Shared Framework (x64)",
+    "InventoryVendor": "Microsoft Corporation",
+    "InventoryVersion": "50397199",
+    "InstalledDate": "2021-06-05T00:00:00",
+    "IsActive": true
+  },
+  {
+    "InventoryId": 0,
+    "SystemId": "TEST-APP",
+    "SerialNumber": "VMware-564dd782c25f5004-4f9604e73c562c0c",
+    "InventoryName": "Microsoft Visual Studio Tools for Applications 2019 x64 Hosting Support",
+    "InventoryVendor": "Microsoft Corporation",
+    "InventoryVersion": "268464257",
+    "InstalledDate": "2021-09-04T00:00:00",
+    "IsActive": true
+  },
+  {
+    "InventoryId": 0,
+    "SystemId": "TEST-APP",
+    "SerialNumber": "VMware-564dd782c25f5004-4f9604e73c562c0c",
+    "InventoryName": "Microsoft OLE DB Driver for SQL Server",
+    "InventoryVendor": "Microsoft Corporation",
+    "InventoryVersion": "302317568",
+    "InstalledDate": "2021-09-12T00:00:00",
+    "IsActive": true
+  },
+  {
+    "InventoryId": 0,
+    "SystemId": "TEST-APP",
+    "SerialNumber": "VMware-564dd782c25f5004-4f9604e73c562c0c",
+    "InventoryName": "Microsoft SQL Server 2012 Native Client ",
+    "InventoryVendor": "Microsoft Corporation",
+    "InventoryVersion": "184818982",
+    "InstalledDate": "2021-03-07T00:00:00",
+    "IsActive": true
+  },
+  {
+    "InventoryId": 0,
+    "SystemId": "TEST-APP",
+    "SerialNumber": "VMware-564dd782c25f5004-4f9604e73c562c0c",
+    "InventoryName": "VS Script Debugging Common",
+    "InventoryVendor": "Microsoft Corporation",
+    "InventoryVersion": "268435558",
+    "InstalledDate": "2021-06-05T00:00:00",
+    "IsActive": true
+  },
+  {
+    "InventoryId": 0,
+    "SystemId": "TEST-APP",
+    "SerialNumber": "VMware-564dd782c25f5004-4f9604e73c562c0c",
+    "InventoryName": "Microsoft .NET Standard Targeting Pack - 2.1.0 (x64)",
+    "InventoryVendor": "Microsoft Corporation",
+    "InventoryVersion": "402681297",
+    "InstalledDate": "2021-06-05T00:00:00",
+    "IsActive": true
+  },
+  {
+    "InventoryId": 0,
+    "SystemId": "TEST-APP",
+    "SerialNumber": "VMware-564dd782c25f5004-4f9604e73c562c0c",
+    "InventoryName": "Microsoft Visual C++ 2013 x64 Minimum Runtime - 12.0.21005",
+    "InventoryVendor": "Microsoft Corporation",
+    "InventoryVersion": "201347597",
+    "InstalledDate": "2021-06-05T00:00:00",
+    "IsActive": true
+  },
+  {
+    "InventoryId": 0,
+    "SystemId": "TEST-APP",
+    "SerialNumber": "VMware-564dd782c25f5004-4f9604e73c562c0c",
+    "InventoryName": "Python 3.7.8 Documentation (64-bit)",
+    "InventoryVendor": "Python Software Foundation",
+    "InventoryVersion": "50798550",
+    "InstalledDate": "2021-06-05T00:00:00",
+    "IsActive": true
+  },
+  {
+    "InventoryId": 0,
+    "SystemId": "TEST-APP",
+    "SerialNumber": "VMware-564dd782c25f5004-4f9604e73c562c0c",
+    "InventoryName": "Python 3.7.8 pip Bootstrap (64-bit)",
+    "InventoryVendor": "Python Software Foundation",
+    "InventoryVersion": "50798550",
+    "InstalledDate": "2021-06-05T00:00:00",
+    "IsActive": true
+  },
+  {
+    "InventoryId": 0,
+    "SystemId": "TEST-APP",
+    "SerialNumber": "VMware-564dd782c25f5004-4f9604e73c562c0c",
+    "InventoryName": "IIS Express Application Compatibility Database for x86",
+    "InventoryVendor": "",
+    "InventoryVersion": "",
+    "InstalledDate": null,
+    "IsActive": true
+  },
+  {
+    "InventoryId": 0,
+    "SystemId": "TEST-APP",
+    "SerialNumber": "VMware-564dd782c25f5004-4f9604e73c562c0c",
+    "InventoryName": "Microsoft Visual Studio Tools for Applications 2017 x64 Hosting Support",
+    "InventoryVendor": "Microsoft Corporation",
+    "InventoryVersion": "251685760",
+    "InstalledDate": "2021-03-07T00:00:00",
+    "IsActive": true
+  },
+  {
+    "InventoryId": 0,
+    "SystemId": "TEST-APP",
+    "SerialNumber": "VMware-564dd782c25f5004-4f9604e73c562c0c",
+    "InventoryName": "SSMS Post Install Tasks",
+    "InventoryVendor": "Microsoft Corporation",
+    "InventoryVersion": "251676626",
+    "InstalledDate": "2021-09-12T00:00:00",
+    "IsActive": true
+  },
+  {
+    "InventoryId": 0,
+    "SystemId": "TEST-APP",
+    "SerialNumber": "VMware-564dd782c25f5004-4f9604e73c562c0c",
+    "InventoryName": "CorelDRAW Graphics Suite 2021 - Workspaces (x64)",
+    "InventoryVendor": "Corel Corporation",
+    "InventoryVersion": "385941504",
+    "InstalledDate": "2021-09-04T00:00:00",
+    "IsActive": true
+  },
+  {
+    "InventoryId": 0,
+    "SystemId": "TEST-APP",
+    "SerialNumber": "VMware-564dd782c25f5004-4f9604e73c562c0c",
+    "InventoryName": "Microsoft Windows Desktop Targeting Pack - 5.0.0 (x64)",
+    "InventoryVendor": "Microsoft Corporation",
+    "InventoryVersion": "671118060",
+    "InstalledDate": "2021-06-05T00:00:00",
+    "IsActive": true
+  },
+  {
+    "InventoryId": 0,
+    "SystemId": "TEST-APP",
+    "SerialNumber": "VMware-564dd782c25f5004-4f9604e73c562c0c",
+    "InventoryName": "CorelDRAW Graphics Suite 2021 - Setup Files (x64)",
+    "InventoryVendor": "Corel Corporation",
+    "InventoryVersion": "385941504",
+    "InstalledDate": "2021-09-04T00:00:00",
+    "IsActive": true
+  },
+  {
+    "InventoryId": 0,
+    "SystemId": "TEST-APP",
+    "SerialNumber": "VMware-564dd782c25f5004-4f9604e73c562c0c",
+    "InventoryName": "CorelDRAW Graphics Suite 2021 - Discovery (x64)",
+    "InventoryVendor": "Corel Corporation",
+    "InventoryVersion": "385875969",
+    "InstalledDate": "2021-09-04T00:00:00",
+    "IsActive": true
+  },
+  {
+    "InventoryId": 0,
+    "SystemId": "TEST-APP",
+    "SerialNumber": "VMware-564dd782c25f5004-4f9604e73c562c0c",
+    "InventoryName": "Python 3.7.8 Development Libraries (64-bit)",
+    "InventoryVendor": "Python Software Foundation",
+    "InventoryVersion": "50798550",
+    "InstalledDate": "2021-06-05T00:00:00",
+    "IsActive": true
+  },
+  {
+    "InventoryId": 0,
+    "SystemId": "TEST-APP",
+    "SerialNumber": "VMware-564dd782c25f5004-4f9604e73c562c0c",
+    "InventoryName": "Microsoft .NET Toolset 5.0.300 (x64)",
+    "InventoryVendor": "Microsoft Corporation",
+    "InventoryVersion": "335771125",
+    "InstalledDate": "2021-06-05T00:00:00",
+    "IsActive": true
+  },
+  {
+    "InventoryId": 0,
+    "SystemId": "TEST-APP",
+    "SerialNumber": "VMware-564dd782c25f5004-4f9604e73c562c0c",
+    "InventoryName": "SQL Server Management Studio for Analysis Services",
+    "InventoryVendor": "Microsoft Corporation",
+    "InventoryVersion": "251676626",
+    "InstalledDate": "2021-09-12T00:00:00",
+    "IsActive": true
+  },
+  {
+    "InventoryId": 0,
+    "SystemId": "TEST-APP",
+    "SerialNumber": "VMware-564dd782c25f5004-4f9604e73c562c0c",
+    "InventoryName": "CorelDRAW Graphics Suite 2021 - Capture (x64)",
+    "InventoryVendor": "Corel Corporation",
+    "InventoryVersion": "385941504",
+    "InstalledDate": "2021-09-04T00:00:00",
+    "IsActive": true
+  },
+  {
+    "InventoryId": 0,
+    "SystemId": "TEST-APP",
+    "SerialNumber": "VMware-564dd782c25f5004-4f9604e73c562c0c",
+    "InventoryName": "Microsoft Azure Libraries for .NET – v2.9",
+    "InventoryVendor": "Microsoft Corporation",
+    "InventoryVersion": "50331775",
+    "InstalledDate": "2021-06-05T00:00:00",
+    "IsActive": true
+  },
+  {
+    "InventoryId": 0,
+    "SystemId": "TEST-APP",
+    "SerialNumber": "VMware-564dd782c25f5004-4f9604e73c562c0c",
+    "InventoryName": "Corel Graphics - Windows Shell Extension 32 Bit Keys",
+    "InventoryVendor": "Corel Corporation",
+    "InventoryVersion": "385876330",
+    "InstalledDate": "2021-09-04T00:00:00",
+    "IsActive": true
+  },
+  {
+    "InventoryId": 0,
+    "SystemId": "TEST-APP",
+    "SerialNumber": "VMware-564dd782c25f5004-4f9604e73c562c0c",
+    "InventoryName": "VS JIT Debugger",
+    "InventoryVendor": "Microsoft Corporation",
+    "InventoryVersion": "268435558",
+    "InstalledDate": "2021-06-05T00:00:00",
+    "IsActive": true
+  },
+  {
+    "InventoryId": 0,
+    "SystemId": "TEST-APP",
+    "SerialNumber": "VMware-564dd782c25f5004-4f9604e73c562c0c",
+    "InventoryName": "Microsoft Visual C++ 2019 X64 Minimum Runtime - 14.29.30037",
+    "InventoryVendor": "Microsoft Corporation",
+    "InventoryVersion": "236811605",
+    "InstalledDate": "2021-06-05T00:00:00",
+    "IsActive": true
+  },
+  {
+    "InventoryId": 0,
+    "SystemId": "TEST-APP",
+    "SerialNumber": "VMware-564dd782c25f5004-4f9604e73c562c0c",
+    "InventoryName": "Universal CRT Tools x64",
+    "InventoryVendor": "Microsoft Corporation",
+    "InventoryVersion": "167856737",
+    "InstalledDate": "2021-06-05T00:00:00",
+    "IsActive": true
+  },
+  {
+    "InventoryId": 0,
+    "SystemId": "TEST-APP",
+    "SerialNumber": "VMware-564dd782c25f5004-4f9604e73c562c0c",
+    "InventoryName": "Microsoft ASP.NET Core 5.0.6 Shared Framework (x64)",
+    "InventoryVendor": "Microsoft Corporation",
+    "InventoryVersion": "83886086",
+    "InstalledDate": "2021-06-05T00:00:00",
+    "IsActive": true
+  },
+  {
+    "InventoryId": 0,
+    "SystemId": "TEST-APP",
+    "SerialNumber": "VMware-564dd782c25f5004-4f9604e73c562c0c",
+    "InventoryName": "Microsoft Windows Desktop Runtime - 3.1.15 (x64)",
+    "InventoryVendor": "Microsoft Corporation",
+    "InventoryVersion": "410809662",
+    "InstalledDate": "2021-06-05T00:00:00",
+    "IsActive": true
+  },
+  {
+    "InventoryId": 0,
+    "SystemId": "TEST-APP",
+    "SerialNumber": "VMware-564dd782c25f5004-4f9604e73c562c0c",
+    "InventoryName": "Windows App Certification Kit Native Components",
+    "InventoryVendor": "Microsoft Corporation",
+    "InventoryVersion": "167856737",
+    "InstalledDate": "2021-06-05T00:00:00",
+    "IsActive": true
+  },
+  {
+    "InventoryId": 0,
+    "SystemId": "TEST-APP",
+    "SerialNumber": "VMware-564dd782c25f5004-4f9604e73c562c0c",
+    "InventoryName": "Microsoft .NET Core AppHost Pack - 3.1.15 (x64_arm64)",
+    "InventoryVendor": "Microsoft Corporation",
+    "InventoryVersion": "410809662",
+    "InstalledDate": "2021-06-05T00:00:00",
+    "IsActive": true
+  },
+  {
+    "InventoryId": 0,
+    "SystemId": "TEST-APP",
+    "SerialNumber": "VMware-564dd782c25f5004-4f9604e73c562c0c",
+    "InventoryName": "CorelDRAW Graphics Suite 2021 - Custom Data (x64)",
+    "InventoryVendor": "Corel Corporation",
+    "InventoryVersion": "385941504",
+    "InstalledDate": "2021-09-04T00:00:00",
+    "IsActive": true
+  },
+  {
+    "InventoryId": 0,
+    "SystemId": "TEST-APP",
+    "SerialNumber": "VMware-564dd782c25f5004-4f9604e73c562c0c",
+    "InventoryName": "Python 3.7.8 Core Interpreter (64-bit symbols)",
+    "InventoryVendor": "Python Software Foundation",
+    "InventoryVersion": "50798550",
+    "InstalledDate": "2021-06-05T00:00:00",
+    "IsActive": true
+  },
+  {
+    "InventoryId": 0,
+    "SystemId": "TEST-APP",
+    "SerialNumber": "VMware-564dd782c25f5004-4f9604e73c562c0c",
+    "InventoryName": "CorelDRAW Graphics Suite 2021 - EN (x64)",
+    "InventoryVendor": "Corel Corporation",
+    "InventoryVersion": "385941504",
+    "InstalledDate": "2021-09-04T00:00:00",
+    "IsActive": true
+  },
+  {
+    "InventoryId": 0,
+    "SystemId": "TEST-APP",
+    "SerialNumber": "VMware-564dd782c25f5004-4f9604e73c562c0c",
+    "InventoryName": "Microsoft .NET Runtime - 5.0.6 (x64)",
+    "InventoryVendor": "Microsoft Corporation",
+    "InventoryVersion": "672691524",
+    "InstalledDate": "2021-06-05T00:00:00",
+    "IsActive": true
+  },
+  {
+    "InventoryId": 0,
+    "SystemId": "TEST-APP",
+    "SerialNumber": "VMware-564dd782c25f5004-4f9604e73c562c0c",
+    "InventoryName": "CorelDRAW Graphics Suite 2021 - IPM Content EN (x64)",
+    "InventoryVendor": "Corel Corporation",
+    "InventoryVersion": "385941504",
+    "InstalledDate": "2021-09-04T00:00:00",
+    "IsActive": true
+  },
+  {
+    "InventoryId": 0,
+    "SystemId": "TEST-APP",
+    "SerialNumber": "VMware-564dd782c25f5004-4f9604e73c562c0c",
+    "InventoryName": "Microsoft .NET AppHost Pack - 5.0.6 (x64_x86)",
+    "InventoryVendor": "Microsoft Corporation",
+    "InventoryVersion": "672691524",
+    "InstalledDate": "2021-06-05T00:00:00",
+    "IsActive": true
+  },
+  {
+    "InventoryId": 0,
+    "SystemId": "TEST-APP",
+    "SerialNumber": "VMware-564dd782c25f5004-4f9604e73c562c0c",
+    "InventoryName": "SQL Server Management Studio for Reporting Services",
+    "InventoryVendor": "Microsoft Corporation",
+    "InventoryVersion": "251676626",
+    "InstalledDate": "2021-09-12T00:00:00",
+    "IsActive": true
+  },
+  {
+    "InventoryId": 0,
+    "SystemId": "TEST-APP",
+    "SerialNumber": "VMware-564dd782c25f5004-4f9604e73c562c0c",
+    "InventoryName": "Windows SDK DirectX x64 Remote",
+    "InventoryVendor": "Microsoft Corporation",
+    "InventoryVersion": "167856737",
+    "InstalledDate": "2021-06-05T00:00:00",
+    "IsActive": true
+  },
+  {
+    "InventoryId": 0,
+    "SystemId": "TEST-APP",
+    "SerialNumber": "VMware-564dd782c25f5004-4f9604e73c562c0c",
+    "InventoryName": "Microsoft Azure Authoring Tools - v2.9.6",
+    "InventoryVendor": "Microsoft Corporation",
+    "InventoryVersion": "34153155",
+    "InstalledDate": "2021-06-05T00:00:00",
+    "IsActive": true
+  },
+  {
+    "InventoryId": 0,
+    "SystemId": "TEST-APP",
+    "SerialNumber": "VMware-564dd782c25f5004-4f9604e73c562c0c",
+    "InventoryName": "CorelDRAW Graphics Suite 2021 - IPM (x64)",
+    "InventoryVendor": "Corel Corporation",
+    "InventoryVersion": "385941504",
+    "InstalledDate": "2021-09-04T00:00:00",
+    "IsActive": true
+  },
+  {
+    "InventoryId": 0,
+    "SystemId": "TEST-APP",
+    "SerialNumber": "VMware-564dd782c25f5004-4f9604e73c562c0c",
+    "InventoryName": "Python 3.7.8 Test Suite (64-bit symbols)",
+    "InventoryVendor": "Python Software Foundation",
+    "InventoryVersion": "50798550",
+    "InstalledDate": "2021-06-05T00:00:00",
+    "IsActive": true
+  },
+  {
+    "InventoryId": 0,
+    "SystemId": "TEST-APP",
+    "SerialNumber": "VMware-564dd782c25f5004-4f9604e73c562c0c",
+    "InventoryName": "Python 3.7.8 Standard Library (64-bit symbols)",
+    "InventoryVendor": "Python Software Foundation",
+    "InventoryVersion": "50798550",
+    "InstalledDate": "2021-06-05T00:00:00",
+    "IsActive": true
+  },
+  {
+    "InventoryId": 0,
+    "SystemId": "TEST-APP",
+    "SerialNumber": "VMware-564dd782c25f5004-4f9604e73c562c0c",
+    "InventoryName": "Python 3.7.8 Executables (64-bit symbols)",
+    "InventoryVendor": "Python Software Foundation",
+    "InventoryVersion": "50798550",
+    "InstalledDate": "2021-06-05T00:00:00",
+    "IsActive": true
+  },
+  {
+    "InventoryId": 0,
+    "SystemId": "TEST-APP",
+    "SerialNumber": "VMware-564dd782c25f5004-4f9604e73c562c0c",
+    "InventoryName": "Microsoft ASP.NET Core Module for IIS Express",
+    "InventoryVendor": "Microsoft Corporation",
+    "InventoryVersion": "201475956",
+    "InstalledDate": "2021-06-05T00:00:00",
+    "IsActive": true
+  },
+  {
+    "InventoryId": 0,
+    "SystemId": "TEST-APP",
+    "SerialNumber": "VMware-564dd782c25f5004-4f9604e73c562c0c",
+    "InventoryName": "Microsoft ASP.NET Core Module V2 for IIS Express",
+    "InventoryVendor": "Microsoft Corporation",
+    "InventoryVersion": "218189431",
+    "InstalledDate": "2021-06-05T00:00:00",
+    "IsActive": true
+  },
+  {
+    "InventoryId": 0,
+    "SystemId": "TEST-APP",
+    "SerialNumber": "VMware-564dd782c25f5004-4f9604e73c562c0c",
+    "InventoryName": "Python 3.7.8 Test Suite (64-bit)",
+    "InventoryVendor": "Python Software Foundation",
+    "InventoryVersion": "50798550",
+    "InstalledDate": "2021-06-05T00:00:00",
+    "IsActive": true
+  },
+  {
+    "InventoryId": 0,
+    "SystemId": "TEST-APP",
+    "SerialNumber": "VMware-564dd782c25f5004-4f9604e73c562c0c",
+    "InventoryName": "Microsoft ASP.NET Core 3.1.10 Targeting Pack (x64)",
+    "InventoryVendor": "Microsoft Corporation",
+    "InventoryVersion": "50397194",
+    "InstalledDate": "2021-06-05T00:00:00",
+    "IsActive": true
+  }
+]

@@ -1,0 +1,415 @@
+﻿Installing assembly 'C:\Users\u\source\repos\svkrishnagavva\ITManagerDev\DataRecovery\DataRecoveryService\bin\Debug\DataRecoveryService.exe'.
+Affected parameters are:
+   i = 
+   logfile = C:\Users\u\source\repos\svkrishnagavva\ITManagerDev\DataRecovery\DataRecoveryService\bin\Debug\DataRecoveryService.InstallLog
+   assemblypath = C:\Users\u\source\repos\svkrishnagavva\ITManagerDev\DataRecovery\DataRecoveryService\bin\Debug\DataRecoveryService.exe
+   logtoconsole = 
+Installing service DataRecoveryService...
+Service DataRecoveryService has been successfully installed.
+Creating EventLog source DataRecoveryService in log Application...
+Rolling back assembly 'C:\Users\u\source\repos\svkrishnagavva\ITManagerDev\DataRecovery\DataRecoveryService\bin\Debug\DataRecoveryService.exe'.
+Affected parameters are:
+   i = 
+   logfile = C:\Users\u\source\repos\svkrishnagavva\ITManagerDev\DataRecovery\DataRecoveryService\bin\Debug\DataRecoveryService.InstallLog
+   assemblypath = C:\Users\u\source\repos\svkrishnagavva\ITManagerDev\DataRecovery\DataRecoveryService\bin\Debug\DataRecoveryService.exe
+   logtoconsole = 
+Restoring event log to previous state for source DataRecoveryService.
+Service DataRecoveryService is being removed from the system...
+Service DataRecoveryService was successfully removed from the system.
+Installing assembly 'C:\Users\u\source\repos\svkrishnagavva\ITManagerDev\DataRecovery\DataRecoveryService\bin\Debug\DataRecoveryService.exe'.
+Affected parameters are:
+   i = 
+   logfile = C:\Users\u\source\repos\svkrishnagavva\ITManagerDev\DataRecovery\DataRecoveryService\bin\Debug\DataRecoveryService.InstallLog
+   assemblypath = C:\Users\u\source\repos\svkrishnagavva\ITManagerDev\DataRecovery\DataRecoveryService\bin\Debug\DataRecoveryService.exe
+   logtoconsole = 
+Installing service DataRecoveryService...
+Creating EventLog source DataRecoveryService in log Application...
+Rolling back assembly 'C:\Users\u\source\repos\svkrishnagavva\ITManagerDev\DataRecovery\DataRecoveryService\bin\Debug\DataRecoveryService.exe'.
+Affected parameters are:
+   i = 
+   logfile = C:\Users\u\source\repos\svkrishnagavva\ITManagerDev\DataRecovery\DataRecoveryService\bin\Debug\DataRecoveryService.InstallLog
+   assemblypath = C:\Users\u\source\repos\svkrishnagavva\ITManagerDev\DataRecovery\DataRecoveryService\bin\Debug\DataRecoveryService.exe
+   logtoconsole = 
+Restoring event log to previous state for source DataRecoveryService.
+An exception occurred during the Rollback phase of the System.Diagnostics.EventLogInstaller installer.
+System.Security.SecurityException: The source was not found, but some or all event logs could not be searched.  Inaccessible logs: Security, State.
+An exception occurred during the Rollback phase of the installation. This exception will be ignored and the rollback will continue. However, the machine might not fully revert to its initial state after the rollback is complete.
+Installing assembly 'C:\Users\u\source\repos\svkrishnagavva\ITManagerDev\DataRecovery\DataRecoveryService\bin\Debug\DataRecoveryService.exe'.
+Affected parameters are:
+   i = 
+   logfile = C:\Users\u\source\repos\svkrishnagavva\ITManagerDev\DataRecovery\DataRecoveryService\bin\Debug\DataRecoveryService.InstallLog
+   assemblypath = C:\Users\u\source\repos\svkrishnagavva\ITManagerDev\DataRecovery\DataRecoveryService\bin\Debug\DataRecoveryService.exe
+   logtoconsole = 
+Installing service DataRecoveryService...
+Service DataRecoveryService has been successfully installed.
+Creating EventLog source DataRecoveryService in log Application...
+Committing assembly 'C:\Users\u\source\repos\svkrishnagavva\ITManagerDev\DataRecovery\DataRecoveryService\bin\Debug\DataRecoveryService.exe'.
+Affected parameters are:
+   i = 
+   logfile = C:\Users\u\source\repos\svkrishnagavva\ITManagerDev\DataRecovery\DataRecoveryService\bin\Debug\DataRecoveryService.InstallLog
+   assemblypath = C:\Users\u\source\repos\svkrishnagavva\ITManagerDev\DataRecovery\DataRecoveryService\bin\Debug\DataRecoveryService.exe
+   logtoconsole = 
+Installing assembly 'C:\Users\u\source\repos\svkrishnagavva\ITManagerDev\DataRecovery\DataRecoveryService\bin\Debug\DataRecoveryService.exe'.
+Affected parameters are:
+   i = 
+   logfile = C:\Users\u\source\repos\svkrishnagavva\ITManagerDev\DataRecovery\DataRecoveryService\bin\Debug\DataRecoveryService.InstallLog
+   assemblypath = C:\Users\u\source\repos\svkrishnagavva\ITManagerDev\DataRecovery\DataRecoveryService\bin\Debug\DataRecoveryService.exe
+   logtoconsole = 
+Installing service DataRecoveryService...
+Service DataRecoveryService has been successfully installed.
+Creating EventLog source DataRecoveryService in log Application...
+Committing assembly 'C:\Users\u\source\repos\svkrishnagavva\ITManagerDev\DataRecovery\DataRecoveryService\bin\Debug\DataRecoveryService.exe'.
+Affected parameters are:
+   i = 
+   logfile = C:\Users\u\source\repos\svkrishnagavva\ITManagerDev\DataRecovery\DataRecoveryService\bin\Debug\DataRecoveryService.InstallLog
+   assemblypath = C:\Users\u\source\repos\svkrishnagavva\ITManagerDev\DataRecovery\DataRecoveryService\bin\Debug\DataRecoveryService.exe
+   logtoconsole = 
+Installing assembly 'C:\Users\u\source\repos\svkrishnagavva\ITManagerDev\DataRecovery\DataRecoveryService\bin\Debug\DataRecoveryService.exe'.
+Affected parameters are:
+   i = 
+   logfile = C:\Users\u\source\repos\svkrishnagavva\ITManagerDev\DataRecovery\DataRecoveryService\bin\Debug\DataRecoveryService.InstallLog
+   assemblypath = C:\Users\u\source\repos\svkrishnagavva\ITManagerDev\DataRecovery\DataRecoveryService\bin\Debug\DataRecoveryService.exe
+   logtoconsole = 
+Installing service DataRecoveryService...
+Service DataRecoveryService has been successfully installed.
+Creating EventLog source DataRecoveryService in log Application...
+Committing assembly 'C:\Users\u\source\repos\svkrishnagavva\ITManagerDev\DataRecovery\DataRecoveryService\bin\Debug\DataRecoveryService.exe'.
+Affected parameters are:
+   i = 
+   logfile = C:\Users\u\source\repos\svkrishnagavva\ITManagerDev\DataRecovery\DataRecoveryService\bin\Debug\DataRecoveryService.InstallLog
+   assemblypath = C:\Users\u\source\repos\svkrishnagavva\ITManagerDev\DataRecovery\DataRecoveryService\bin\Debug\DataRecoveryService.exe
+   logtoconsole = 
+Installing assembly 'C:\Users\u\source\repos\svkrishnagavva\ITManagerDev\DataRecovery\DataRecoveryService\bin\Debug\DataRecoveryService.exe'.
+Affected parameters are:
+   i = 
+   logfile = C:\Users\u\source\repos\svkrishnagavva\ITManagerDev\DataRecovery\DataRecoveryService\bin\Debug\DataRecoveryService.InstallLog
+   assemblypath = C:\Users\u\source\repos\svkrishnagavva\ITManagerDev\DataRecovery\DataRecoveryService\bin\Debug\DataRecoveryService.exe
+   logtoconsole = 
+Installing service DataRecoveryService...
+Creating EventLog source DataRecoveryService in log Application...
+Rolling back assembly 'C:\Users\u\source\repos\svkrishnagavva\ITManagerDev\DataRecovery\DataRecoveryService\bin\Debug\DataRecoveryService.exe'.
+Affected parameters are:
+   i = 
+   logfile = C:\Users\u\source\repos\svkrishnagavva\ITManagerDev\DataRecovery\DataRecoveryService\bin\Debug\DataRecoveryService.InstallLog
+   assemblypath = C:\Users\u\source\repos\svkrishnagavva\ITManagerDev\DataRecovery\DataRecoveryService\bin\Debug\DataRecoveryService.exe
+   logtoconsole = 
+Restoring event log to previous state for source DataRecoveryService.
+Installing assembly 'C:\Users\u\source\repos\svkrishnagavva\ITManagerDev\DataRecovery\DataRecoveryService\bin\Debug\DataRecoveryService.exe'.
+Affected parameters are:
+   i = 
+   logfile = C:\Users\u\source\repos\svkrishnagavva\ITManagerDev\DataRecovery\DataRecoveryService\bin\Debug\DataRecoveryService.InstallLog
+   assemblypath = C:\Users\u\source\repos\svkrishnagavva\ITManagerDev\DataRecovery\DataRecoveryService\bin\Debug\DataRecoveryService.exe
+   logtoconsole = 
+Installing service DataRecoveryService...
+Service DataRecoveryService has been successfully installed.
+Creating EventLog source DataRecoveryService in log Application...
+Committing assembly 'C:\Users\u\source\repos\svkrishnagavva\ITManagerDev\DataRecovery\DataRecoveryService\bin\Debug\DataRecoveryService.exe'.
+Affected parameters are:
+   i = 
+   logfile = C:\Users\u\source\repos\svkrishnagavva\ITManagerDev\DataRecovery\DataRecoveryService\bin\Debug\DataRecoveryService.InstallLog
+   assemblypath = C:\Users\u\source\repos\svkrishnagavva\ITManagerDev\DataRecovery\DataRecoveryService\bin\Debug\DataRecoveryService.exe
+   logtoconsole = 
+Installing assembly 'C:\Users\u\source\repos\svkrishnagavva\ITManagerDev\DataRecovery\DataRecoveryService\bin\Debug\DataRecoveryService.exe'.
+Affected parameters are:
+   i = 
+   logfile = C:\Users\u\source\repos\svkrishnagavva\ITManagerDev\DataRecovery\DataRecoveryService\bin\Debug\DataRecoveryService.InstallLog
+   assemblypath = C:\Users\u\source\repos\svkrishnagavva\ITManagerDev\DataRecovery\DataRecoveryService\bin\Debug\DataRecoveryService.exe
+   logtoconsole = 
+Installing service DataRecoveryService...
+Service DataRecoveryService has been successfully installed.
+Creating EventLog source DataRecoveryService in log Application...
+Committing assembly 'C:\Users\u\source\repos\svkrishnagavva\ITManagerDev\DataRecovery\DataRecoveryService\bin\Debug\DataRecoveryService.exe'.
+Affected parameters are:
+   i = 
+   logfile = C:\Users\u\source\repos\svkrishnagavva\ITManagerDev\DataRecovery\DataRecoveryService\bin\Debug\DataRecoveryService.InstallLog
+   assemblypath = C:\Users\u\source\repos\svkrishnagavva\ITManagerDev\DataRecovery\DataRecoveryService\bin\Debug\DataRecoveryService.exe
+   logtoconsole = 
+Installing assembly 'C:\Users\u\source\repos\svkrishnagavva\ITManagerDev\DataRecovery\DataRecoveryService\bin\Debug\DataRecoveryService.exe'.
+Affected parameters are:
+   i = 
+   logfile = C:\Users\u\source\repos\svkrishnagavva\ITManagerDev\DataRecovery\DataRecoveryService\bin\Debug\DataRecoveryService.InstallLog
+   assemblypath = C:\Users\u\source\repos\svkrishnagavva\ITManagerDev\DataRecovery\DataRecoveryService\bin\Debug\DataRecoveryService.exe
+   logtoconsole = 
+Installing service DataRecoveryService...
+Service DataRecoveryService has been successfully installed.
+Creating EventLog source DataRecoveryService in log Application...
+Committing assembly 'C:\Users\u\source\repos\svkrishnagavva\ITManagerDev\DataRecovery\DataRecoveryService\bin\Debug\DataRecoveryService.exe'.
+Affected parameters are:
+   i = 
+   logfile = C:\Users\u\source\repos\svkrishnagavva\ITManagerDev\DataRecovery\DataRecoveryService\bin\Debug\DataRecoveryService.InstallLog
+   assemblypath = C:\Users\u\source\repos\svkrishnagavva\ITManagerDev\DataRecovery\DataRecoveryService\bin\Debug\DataRecoveryService.exe
+   logtoconsole = 
+Installing assembly 'C:\Users\u\source\repos\svkrishnagavva\ITManagerDev\DataRecovery\DataRecoveryService\bin\Debug\DataRecoveryService.exe'.
+Affected parameters are:
+   i = 
+   logfile = C:\Users\u\source\repos\svkrishnagavva\ITManagerDev\DataRecovery\DataRecoveryService\bin\Debug\DataRecoveryService.InstallLog
+   assemblypath = C:\Users\u\source\repos\svkrishnagavva\ITManagerDev\DataRecovery\DataRecoveryService\bin\Debug\DataRecoveryService.exe
+   logtoconsole = 
+Installing service DataRecoveryService...
+Service DataRecoveryService has been successfully installed.
+Creating EventLog source DataRecoveryService in log Application...
+Committing assembly 'C:\Users\u\source\repos\svkrishnagavva\ITManagerDev\DataRecovery\DataRecoveryService\bin\Debug\DataRecoveryService.exe'.
+Affected parameters are:
+   i = 
+   logfile = C:\Users\u\source\repos\svkrishnagavva\ITManagerDev\DataRecovery\DataRecoveryService\bin\Debug\DataRecoveryService.InstallLog
+   assemblypath = C:\Users\u\source\repos\svkrishnagavva\ITManagerDev\DataRecovery\DataRecoveryService\bin\Debug\DataRecoveryService.exe
+   logtoconsole = 
+Installing assembly 'C:\Users\u\source\repos\svkrishnagavva\ITManagerDev\DataRecovery\DataRecoveryService\bin\Debug\DataRecoveryService.exe'.
+Affected parameters are:
+   i = 
+   logfile = C:\Users\u\source\repos\svkrishnagavva\ITManagerDev\DataRecovery\DataRecoveryService\bin\Debug\DataRecoveryService.InstallLog
+   assemblypath = C:\Users\u\source\repos\svkrishnagavva\ITManagerDev\DataRecovery\DataRecoveryService\bin\Debug\DataRecoveryService.exe
+   logtoconsole = 
+Installing service DataRecoveryService...
+Service DataRecoveryService has been successfully installed.
+Creating EventLog source DataRecoveryService in log Application...
+Committing assembly 'C:\Users\u\source\repos\svkrishnagavva\ITManagerDev\DataRecovery\DataRecoveryService\bin\Debug\DataRecoveryService.exe'.
+Affected parameters are:
+   i = 
+   logfile = C:\Users\u\source\repos\svkrishnagavva\ITManagerDev\DataRecovery\DataRecoveryService\bin\Debug\DataRecoveryService.InstallLog
+   assemblypath = C:\Users\u\source\repos\svkrishnagavva\ITManagerDev\DataRecovery\DataRecoveryService\bin\Debug\DataRecoveryService.exe
+   logtoconsole = 
+Installing assembly 'C:\Users\u\source\repos\svkrishnagavva\ITManagerDev\DataRecovery\DataRecoveryService\bin\Debug\DataRecoveryService.exe'.
+Affected parameters are:
+   i = 
+   logfile = C:\Users\u\source\repos\svkrishnagavva\ITManagerDev\DataRecovery\DataRecoveryService\bin\Debug\DataRecoveryService.InstallLog
+   assemblypath = C:\Users\u\source\repos\svkrishnagavva\ITManagerDev\DataRecovery\DataRecoveryService\bin\Debug\DataRecoveryService.exe
+   logtoconsole = 
+Installing service DataRecoveryService...
+Creating EventLog source DataRecoveryService in log Application...
+Rolling back assembly 'C:\Users\u\source\repos\svkrishnagavva\ITManagerDev\DataRecovery\DataRecoveryService\bin\Debug\DataRecoveryService.exe'.
+Affected parameters are:
+   i = 
+   logfile = C:\Users\u\source\repos\svkrishnagavva\ITManagerDev\DataRecovery\DataRecoveryService\bin\Debug\DataRecoveryService.InstallLog
+   assemblypath = C:\Users\u\source\repos\svkrishnagavva\ITManagerDev\DataRecovery\DataRecoveryService\bin\Debug\DataRecoveryService.exe
+   logtoconsole = 
+Restoring event log to previous state for source DataRecoveryService.
+Installing assembly 'C:\Users\u\source\repos\svkrishnagavva\ITManagerDev\DataRecovery\DataRecoveryService\bin\Debug\DataRecoveryService.exe'.
+Affected parameters are:
+   i = 
+   logfile = C:\Users\u\source\repos\svkrishnagavva\ITManagerDev\DataRecovery\DataRecoveryService\bin\Debug\DataRecoveryService.InstallLog
+   assemblypath = C:\Users\u\source\repos\svkrishnagavva\ITManagerDev\DataRecovery\DataRecoveryService\bin\Debug\DataRecoveryService.exe
+   logtoconsole = 
+Installing service DataRecoveryService...
+Service DataRecoveryService has been successfully installed.
+Creating EventLog source DataRecoveryService in log Application...
+Committing assembly 'C:\Users\u\source\repos\svkrishnagavva\ITManagerDev\DataRecovery\DataRecoveryService\bin\Debug\DataRecoveryService.exe'.
+Affected parameters are:
+   i = 
+   logfile = C:\Users\u\source\repos\svkrishnagavva\ITManagerDev\DataRecovery\DataRecoveryService\bin\Debug\DataRecoveryService.InstallLog
+   assemblypath = C:\Users\u\source\repos\svkrishnagavva\ITManagerDev\DataRecovery\DataRecoveryService\bin\Debug\DataRecoveryService.exe
+   logtoconsole = 
+Installing assembly 'C:\Users\u\source\repos\svkrishnagavva\ITManagerDev\DataRecovery\DataRecoveryService\bin\Debug\DataRecoveryService.exe'.
+Affected parameters are:
+   i = 
+   logfile = C:\Users\u\source\repos\svkrishnagavva\ITManagerDev\DataRecovery\DataRecoveryService\bin\Debug\DataRecoveryService.InstallLog
+   assemblypath = C:\Users\u\source\repos\svkrishnagavva\ITManagerDev\DataRecovery\DataRecoveryService\bin\Debug\DataRecoveryService.exe
+   logtoconsole = 
+Installing service DataRecoveryService...
+Service DataRecoveryService has been successfully installed.
+Creating EventLog source DataRecoveryService in log Application...
+Committing assembly 'C:\Users\u\source\repos\svkrishnagavva\ITManagerDev\DataRecovery\DataRecoveryService\bin\Debug\DataRecoveryService.exe'.
+Affected parameters are:
+   i = 
+   logfile = C:\Users\u\source\repos\svkrishnagavva\ITManagerDev\DataRecovery\DataRecoveryService\bin\Debug\DataRecoveryService.InstallLog
+   assemblypath = C:\Users\u\source\repos\svkrishnagavva\ITManagerDev\DataRecovery\DataRecoveryService\bin\Debug\DataRecoveryService.exe
+   logtoconsole = 
+Installing assembly 'C:\Users\u\source\repos\svkrishnagavva\ITManagerDev\DataRecovery\DataRecoveryService\bin\Debug\DataRecoveryService.exe'.
+Affected parameters are:
+   i = 
+   logfile = C:\Users\u\source\repos\svkrishnagavva\ITManagerDev\DataRecovery\DataRecoveryService\bin\Debug\DataRecoveryService.InstallLog
+   assemblypath = C:\Users\u\source\repos\svkrishnagavva\ITManagerDev\DataRecovery\DataRecoveryService\bin\Debug\DataRecoveryService.exe
+   logtoconsole = 
+Installing service DataRecoveryService...
+Service DataRecoveryService has been successfully installed.
+Creating EventLog source DataRecoveryService in log Application...
+Committing assembly 'C:\Users\u\source\repos\svkrishnagavva\ITManagerDev\DataRecovery\DataRecoveryService\bin\Debug\DataRecoveryService.exe'.
+Affected parameters are:
+   i = 
+   logfile = C:\Users\u\source\repos\svkrishnagavva\ITManagerDev\DataRecovery\DataRecoveryService\bin\Debug\DataRecoveryService.InstallLog
+   assemblypath = C:\Users\u\source\repos\svkrishnagavva\ITManagerDev\DataRecovery\DataRecoveryService\bin\Debug\DataRecoveryService.exe
+   logtoconsole = 
+Installing assembly 'C:\Users\u\source\repos\svkrishnagavva\ITManagerDev\DataRecovery\DataRecoveryService\bin\Debug\DataRecoveryService.exe'.
+Affected parameters are:
+   i = 
+   logfile = C:\Users\u\source\repos\svkrishnagavva\ITManagerDev\DataRecovery\DataRecoveryService\bin\Debug\DataRecoveryService.InstallLog
+   assemblypath = C:\Users\u\source\repos\svkrishnagavva\ITManagerDev\DataRecovery\DataRecoveryService\bin\Debug\DataRecoveryService.exe
+   logtoconsole = 
+Installing service DataRecoveryService...
+Service DataRecoveryService has been successfully installed.
+Creating EventLog source DataRecoveryService in log Application...
+Committing assembly 'C:\Users\u\source\repos\svkrishnagavva\ITManagerDev\DataRecovery\DataRecoveryService\bin\Debug\DataRecoveryService.exe'.
+Affected parameters are:
+   i = 
+   logfile = C:\Users\u\source\repos\svkrishnagavva\ITManagerDev\DataRecovery\DataRecoveryService\bin\Debug\DataRecoveryService.InstallLog
+   assemblypath = C:\Users\u\source\repos\svkrishnagavva\ITManagerDev\DataRecovery\DataRecoveryService\bin\Debug\DataRecoveryService.exe
+   logtoconsole = 
+Installing assembly 'C:\Users\u\source\repos\svkrishnagavva\ITManagerDev\DataRecovery\DataRecoveryService\bin\Debug\DataRecoveryService.exe'.
+Affected parameters are:
+   i = 
+   logfile = C:\Users\u\source\repos\svkrishnagavva\ITManagerDev\DataRecovery\DataRecoveryService\bin\Debug\DataRecoveryService.InstallLog
+   assemblypath = C:\Users\u\source\repos\svkrishnagavva\ITManagerDev\DataRecovery\DataRecoveryService\bin\Debug\DataRecoveryService.exe
+   logtoconsole = 
+Installing service DataRecoveryService...
+Service DataRecoveryService has been successfully installed.
+Creating EventLog source DataRecoveryService in log Application...
+Committing assembly 'C:\Users\u\source\repos\svkrishnagavva\ITManagerDev\DataRecovery\DataRecoveryService\bin\Debug\DataRecoveryService.exe'.
+Affected parameters are:
+   i = 
+   logfile = C:\Users\u\source\repos\svkrishnagavva\ITManagerDev\DataRecovery\DataRecoveryService\bin\Debug\DataRecoveryService.InstallLog
+   assemblypath = C:\Users\u\source\repos\svkrishnagavva\ITManagerDev\DataRecovery\DataRecoveryService\bin\Debug\DataRecoveryService.exe
+   logtoconsole = 
+Installing assembly 'C:\Users\u\source\repos\svkrishnagavva\ITManagerDev\DataRecovery\DataRecoveryService\bin\Debug\DataRecoveryService.exe'.
+Affected parameters are:
+   i = 
+   logfile = C:\Users\u\source\repos\svkrishnagavva\ITManagerDev\DataRecovery\DataRecoveryService\bin\Debug\DataRecoveryService.InstallLog
+   assemblypath = C:\Users\u\source\repos\svkrishnagavva\ITManagerDev\DataRecovery\DataRecoveryService\bin\Debug\DataRecoveryService.exe
+   logtoconsole = 
+Installing service DataRecoveryService...
+Service DataRecoveryService has been successfully installed.
+Creating EventLog source DataRecoveryService in log Application...
+Committing assembly 'C:\Users\u\source\repos\svkrishnagavva\ITManagerDev\DataRecovery\DataRecoveryService\bin\Debug\DataRecoveryService.exe'.
+Affected parameters are:
+   i = 
+   logfile = C:\Users\u\source\repos\svkrishnagavva\ITManagerDev\DataRecovery\DataRecoveryService\bin\Debug\DataRecoveryService.InstallLog
+   assemblypath = C:\Users\u\source\repos\svkrishnagavva\ITManagerDev\DataRecovery\DataRecoveryService\bin\Debug\DataRecoveryService.exe
+   logtoconsole = 
+Installing assembly 'C:\Users\u\source\repos\svkrishnagavva\ITManagerDev\DataRecovery\DataRecoveryService\bin\Debug\DataRecoveryService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\u\source\repos\svkrishnagavva\ITManagerDev\DataRecovery\DataRecoveryService\bin\Debug\DataRecoveryService.InstallLog
+   assemblypath = C:\Users\u\source\repos\svkrishnagavva\ITManagerDev\DataRecovery\DataRecoveryService\bin\Debug\DataRecoveryService.exe
+Installing service DataRecoveryService...
+Service DataRecoveryService has been successfully installed.
+Creating EventLog source DataRecoveryService in log Application...
+Committing assembly 'C:\Users\u\source\repos\svkrishnagavva\ITManagerDev\DataRecovery\DataRecoveryService\bin\Debug\DataRecoveryService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\u\source\repos\svkrishnagavva\ITManagerDev\DataRecovery\DataRecoveryService\bin\Debug\DataRecoveryService.InstallLog
+   assemblypath = C:\Users\u\source\repos\svkrishnagavva\ITManagerDev\DataRecovery\DataRecoveryService\bin\Debug\DataRecoveryService.exe
+Installing assembly 'C:\Users\u\source\repos\svkrishnagavva\ITManagerDev\DataRecovery\DataRecoveryService\bin\Debug\DataRecoveryService.exe'.
+Affected parameters are:
+   i = 
+   logfile = C:\Users\u\source\repos\svkrishnagavva\ITManagerDev\DataRecovery\DataRecoveryService\bin\Debug\DataRecoveryService.InstallLog
+   assemblypath = C:\Users\u\source\repos\svkrishnagavva\ITManagerDev\DataRecovery\DataRecoveryService\bin\Debug\DataRecoveryService.exe
+   logtoconsole = 
+Installing service DataRecoveryService...
+Service DataRecoveryService has been successfully installed.
+Creating EventLog source DataRecoveryService in log Application...
+Committing assembly 'C:\Users\u\source\repos\svkrishnagavva\ITManagerDev\DataRecovery\DataRecoveryService\bin\Debug\DataRecoveryService.exe'.
+Affected parameters are:
+   i = 
+   logfile = C:\Users\u\source\repos\svkrishnagavva\ITManagerDev\DataRecovery\DataRecoveryService\bin\Debug\DataRecoveryService.InstallLog
+   assemblypath = C:\Users\u\source\repos\svkrishnagavva\ITManagerDev\DataRecovery\DataRecoveryService\bin\Debug\DataRecoveryService.exe
+   logtoconsole = 
+An exception occurred during the Commit phase of the DataRecoveryService.ProjectInstaller installer.
+System.ComponentModel.Win32Exception: The system cannot find the file specified
+An exception occurred during the Commit phase of the installation. This exception will be ignored and installation will continue. However, the application might not function correctly after installation is complete.
+Installing assembly 'C:\Users\u\source\repos\svkrishnagavva\ITManagerDev\DataRecovery\DataRecoveryService\bin\Debug\DataRecoveryService.exe'.
+Affected parameters are:
+   i = 
+   logfile = C:\Users\u\source\repos\svkrishnagavva\ITManagerDev\DataRecovery\DataRecoveryService\bin\Debug\DataRecoveryService.InstallLog
+   assemblypath = C:\Users\u\source\repos\svkrishnagavva\ITManagerDev\DataRecovery\DataRecoveryService\bin\Debug\DataRecoveryService.exe
+   logtoconsole = 
+Installing service DataRecoveryService...
+Service DataRecoveryService has been successfully installed.
+Creating EventLog source DataRecoveryService in log Application...
+Committing assembly 'C:\Users\u\source\repos\svkrishnagavva\ITManagerDev\DataRecovery\DataRecoveryService\bin\Debug\DataRecoveryService.exe'.
+Affected parameters are:
+   i = 
+   logfile = C:\Users\u\source\repos\svkrishnagavva\ITManagerDev\DataRecovery\DataRecoveryService\bin\Debug\DataRecoveryService.InstallLog
+   assemblypath = C:\Users\u\source\repos\svkrishnagavva\ITManagerDev\DataRecovery\DataRecoveryService\bin\Debug\DataRecoveryService.exe
+   logtoconsole = 
+An exception occurred during the Commit phase of the DataRecoveryService.ProjectInstaller installer.
+System.ComponentModel.Win32Exception: The system cannot find the file specified
+An exception occurred during the Commit phase of the installation. This exception will be ignored and installation will continue. However, the application might not function correctly after installation is complete.
+Installing assembly 'C:\Users\u\source\repos\svkrishnagavva\ITManagerDev\DataRecovery\DataRecoveryService\bin\Debug\DataRecoveryService.exe'.
+Affected parameters are:
+   i = 
+   logfile = C:\Users\u\source\repos\svkrishnagavva\ITManagerDev\DataRecovery\DataRecoveryService\bin\Debug\DataRecoveryService.InstallLog
+   assemblypath = C:\Users\u\source\repos\svkrishnagavva\ITManagerDev\DataRecovery\DataRecoveryService\bin\Debug\DataRecoveryService.exe
+   logtoconsole = 
+Installing service DataRecoveryService...
+Service DataRecoveryService has been successfully installed.
+Creating EventLog source DataRecoveryService in log Application...
+Committing assembly 'C:\Users\u\source\repos\svkrishnagavva\ITManagerDev\DataRecovery\DataRecoveryService\bin\Debug\DataRecoveryService.exe'.
+Affected parameters are:
+   i = 
+   logfile = C:\Users\u\source\repos\svkrishnagavva\ITManagerDev\DataRecovery\DataRecoveryService\bin\Debug\DataRecoveryService.InstallLog
+   assemblypath = C:\Users\u\source\repos\svkrishnagavva\ITManagerDev\DataRecovery\DataRecoveryService\bin\Debug\DataRecoveryService.exe
+   logtoconsole = 
+An exception occurred during the Commit phase of the DataRecoveryService.ProjectInstaller installer.
+System.ComponentModel.Win32Exception: The system cannot find the file specified
+An exception occurred during the Commit phase of the installation. This exception will be ignored and installation will continue. However, the application might not function correctly after installation is complete.
+Installing assembly 'C:\Users\u\source\repos\svkrishnagavva\ITManagerDev\DataRecovery\DataRecoveryService\bin\Debug\DataRecoveryService.exe'.
+Affected parameters are:
+   i = 
+   logfile = C:\Users\u\source\repos\svkrishnagavva\ITManagerDev\DataRecovery\DataRecoveryService\bin\Debug\DataRecoveryService.InstallLog
+   assemblypath = C:\Users\u\source\repos\svkrishnagavva\ITManagerDev\DataRecovery\DataRecoveryService\bin\Debug\DataRecoveryService.exe
+   logtoconsole = 
+Installing service DataRecoveryService...
+Service DataRecoveryService has been successfully installed.
+Creating EventLog source DataRecoveryService in log Application...
+Committing assembly 'C:\Users\u\source\repos\svkrishnagavva\ITManagerDev\DataRecovery\DataRecoveryService\bin\Debug\DataRecoveryService.exe'.
+Affected parameters are:
+   i = 
+   logfile = C:\Users\u\source\repos\svkrishnagavva\ITManagerDev\DataRecovery\DataRecoveryService\bin\Debug\DataRecoveryService.InstallLog
+   assemblypath = C:\Users\u\source\repos\svkrishnagavva\ITManagerDev\DataRecovery\DataRecoveryService\bin\Debug\DataRecoveryService.exe
+   logtoconsole = 
+An exception occurred during the Commit phase of the DataRecoveryService.ProjectInstaller installer.
+System.ComponentModel.Win32Exception: The system cannot find the file specified
+An exception occurred during the Commit phase of the installation. This exception will be ignored and installation will continue. However, the application might not function correctly after installation is complete.
+Installing assembly 'C:\Users\u\source\repos\svkrishnagavva\ITManagerDev\DataRecovery\DataRecoveryService\bin\Debug\DataRecoveryService.exe'.
+Affected parameters are:
+   i = 
+   logfile = C:\Users\u\source\repos\svkrishnagavva\ITManagerDev\DataRecovery\DataRecoveryService\bin\Debug\DataRecoveryService.InstallLog
+   assemblypath = C:\Users\u\source\repos\svkrishnagavva\ITManagerDev\DataRecovery\DataRecoveryService\bin\Debug\DataRecoveryService.exe
+   logtoconsole = 
+Installing service DataRecoveryService...
+Service DataRecoveryService has been successfully installed.
+Creating EventLog source DataRecoveryService in log Application...
+Committing assembly 'C:\Users\u\source\repos\svkrishnagavva\ITManagerDev\DataRecovery\DataRecoveryService\bin\Debug\DataRecoveryService.exe'.
+Affected parameters are:
+   i = 
+   logfile = C:\Users\u\source\repos\svkrishnagavva\ITManagerDev\DataRecovery\DataRecoveryService\bin\Debug\DataRecoveryService.InstallLog
+   assemblypath = C:\Users\u\source\repos\svkrishnagavva\ITManagerDev\DataRecovery\DataRecoveryService\bin\Debug\DataRecoveryService.exe
+   logtoconsole = 
+An exception occurred during the Commit phase of the DataRecoveryService.ProjectInstaller installer.
+System.ComponentModel.Win32Exception: The system cannot find the file specified
+An exception occurred during the Commit phase of the installation. This exception will be ignored and installation will continue. However, the application might not function correctly after installation is complete.
+Installing assembly 'C:\Users\administrator.DBT\Source\Repos\svkrishnagavva\ITManagerDev\DataRecovery\DataRecoveryService\bin\Debug\DataRecoveryService.exe'.
+Affected parameters are:
+   i = 
+   logfile = C:\Users\administrator.DBT\Source\Repos\svkrishnagavva\ITManagerDev\DataRecovery\DataRecoveryService\bin\Debug\DataRecoveryService.InstallLog
+   assemblypath = C:\Users\administrator.DBT\Source\Repos\svkrishnagavva\ITManagerDev\DataRecovery\DataRecoveryService\bin\Debug\DataRecoveryService.exe
+   logtoconsole = 
+Installing service ITManager Suite...
+Service ITManager Suite has been successfully installed.
+Creating EventLog source ITManager Suite in log Application...
+Committing assembly 'C:\Users\administrator.DBT\Source\Repos\svkrishnagavva\ITManagerDev\DataRecovery\DataRecoveryService\bin\Debug\DataRecoveryService.exe'.
+Affected parameters are:
+   i = 
+   logfile = C:\Users\administrator.DBT\Source\Repos\svkrishnagavva\ITManagerDev\DataRecovery\DataRecoveryService\bin\Debug\DataRecoveryService.InstallLog
+   assemblypath = C:\Users\administrator.DBT\Source\Repos\svkrishnagavva\ITManagerDev\DataRecovery\DataRecoveryService\bin\Debug\DataRecoveryService.exe
+   logtoconsole = 
+An exception occurred during the Commit phase of the DataRecoveryService.ProjectInstaller installer.
+System.ComponentModel.Win32Exception: The system cannot find the file specified
+An exception occurred during the Commit phase of the installation. This exception will be ignored and installation will continue. However, the application might not function correctly after installation is complete.
+Installing assembly 'C:\Users\administrator.DBT\Source\Repos\svkrishnagavva\ITManagerDev\DataRecovery\DataRecoveryService\bin\Debug\DataRecoveryService.exe'.
+Affected parameters are:
+   i = 
+   logfile = C:\Users\administrator.DBT\Source\Repos\svkrishnagavva\ITManagerDev\DataRecovery\DataRecoveryService\bin\Debug\DataRecoveryService.InstallLog
+   assemblypath = C:\Users\administrator.DBT\Source\Repos\svkrishnagavva\ITManagerDev\DataRecovery\DataRecoveryService\bin\Debug\DataRecoveryService.exe
+   logtoconsole = 
+Installing service ITManager Suite...
+Service ITManager Suite has been successfully installed.
+Creating EventLog source ITManager Suite in log Application...
+Committing assembly 'C:\Users\administrator.DBT\Source\Repos\svkrishnagavva\ITManagerDev\DataRecovery\DataRecoveryService\bin\Debug\DataRecoveryService.exe'.
+Affected parameters are:
+   i = 
+   logfile = C:\Users\administrator.DBT\Source\Repos\svkrishnagavva\ITManagerDev\DataRecovery\DataRecoveryService\bin\Debug\DataRecoveryService.InstallLog
+   assemblypath = C:\Users\administrator.DBT\Source\Repos\svkrishnagavva\ITManagerDev\DataRecovery\DataRecoveryService\bin\Debug\DataRecoveryService.exe
+   logtoconsole = 
+An exception occurred during the Commit phase of the DataRecoveryService.ProjectInstaller installer.
+System.ComponentModel.Win32Exception: The system cannot find the file specified
+An exception occurred during the Commit phase of the installation. This exception will be ignored and installation will continue. However, the application might not function correctly after installation is complete.

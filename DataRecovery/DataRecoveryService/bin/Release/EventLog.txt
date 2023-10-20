@@ -1,0 +1,601 @@
+Date : 10-04-2021 11:22:57 --- Event : Response status code does not indicate success: 500 (Internal Server Error).   at System.Net.Http.HttpResponseMessage.EnsureSuccessStatusCode()
+   at DataRecovery.Common.HttpManager.<PostRequest>d__1`1.MoveNext() in C:\Users\u\source\repos\svkrishnagavva\ITManagerDev\DataRecovery\DataRecovery.Common\HttpManager.cs:line 55urlhttp://localhost:82/UpdateHardwareInventory 
+Date : 10-04-2021 11:24:57 --- Event : Load Config started 
+Date : 10-04-2021 11:25:14 --- Event : Response status code does not indicate success: 500 (Internal Server Error).   at System.Net.Http.HttpResponseMessage.EnsureSuccessStatusCode()
+   at DataRecovery.Common.HttpManager.<GetRequest>d__0`1.MoveNext() in C:\Users\u\source\repos\svkrishnagavva\ITManagerDev\DataRecovery\DataRecovery.Common\HttpManager.cs:line 26urlhttp://localhost:82/GetConfig?SystemId=DESKTOP-DM8LPS0&SerialNumber=GGTD262 
+Date : 10-04-2021 11:25:15 --- Event : Response status code does not indicate success: 500 (Internal Server Error).   at System.Net.Http.HttpResponseMessage.EnsureSuccessStatusCode()
+   at DataRecovery.Common.HttpManager.<GetRequest>d__0`1.MoveNext() in C:\Users\u\source\repos\svkrishnagavva\ITManagerDev\DataRecovery\DataRecovery.Common\HttpManager.cs:line 26urlhttp://localhost:82/GetConfigMaster 
+Date : 10-04-2021 11:25:15 --- Event : Issue in Configuration Database---- Value cannot be null.
+Parameter name: source   at System.Linq.Enumerable.Where[TSource](IEnumerable`1 source, Func`2 predicate)
+   at DataRecoveryService.DataRecoveryService.<LoadConfigfromFromWebService>d__58.MoveNext() in C:\Users\u\source\repos\svkrishnagavva\ITManagerDev\DataRecovery\DataRecoveryService\DataRecoveryService.cs:line 882 
+Date : 10-04-2021 11:25:15 --- Event : Load Config Completed 
+Date : 10-04-2021 11:26:57 --- Event : Load Config started 
+Date : 10-04-2021 11:27:12 --- Event : Response status code does not indicate success: 500 (Internal Server Error).   at System.Net.Http.HttpResponseMessage.EnsureSuccessStatusCode()
+   at DataRecovery.Common.HttpManager.<GetRequest>d__0`1.MoveNext() in C:\Users\u\source\repos\svkrishnagavva\ITManagerDev\DataRecovery\DataRecovery.Common\HttpManager.cs:line 26urlhttp://localhost:82/GetConfig?SystemId=DESKTOP-DM8LPS0&SerialNumber=GGTD262 
+Date : 10-04-2021 11:27:12 --- Event : Response status code does not indicate success: 500 (Internal Server Error).   at System.Net.Http.HttpResponseMessage.EnsureSuccessStatusCode()
+   at DataRecovery.Common.HttpManager.<GetRequest>d__0`1.MoveNext() in C:\Users\u\source\repos\svkrishnagavva\ITManagerDev\DataRecovery\DataRecovery.Common\HttpManager.cs:line 26urlhttp://localhost:82/GetConfigMaster 
+Date : 10-04-2021 11:27:12 --- Event : Issue in Configuration Database---- Value cannot be null.
+Parameter name: source   at System.Linq.Enumerable.Where[TSource](IEnumerable`1 source, Func`2 predicate)
+   at DataRecoveryService.DataRecoveryService.<LoadConfigfromFromWebService>d__58.MoveNext() in C:\Users\u\source\repos\svkrishnagavva\ITManagerDev\DataRecovery\DataRecoveryService\DataRecoveryService.cs:line 882 
+Date : 10-04-2021 11:27:12 --- Event : Load Config Completed 
+Date : 10-04-2021 11:28:57 --- Event : Load Config started 
+Date : 10-04-2021 11:29:12 --- Event : Response status code does not indicate success: 500 (Internal Server Error).   at System.Net.Http.HttpResponseMessage.EnsureSuccessStatusCode()
+   at DataRecovery.Common.HttpManager.<GetRequest>d__0`1.MoveNext() in C:\Users\u\source\repos\svkrishnagavva\ITManagerDev\DataRecovery\DataRecovery.Common\HttpManager.cs:line 26urlhttp://localhost:82/GetConfig?SystemId=DESKTOP-DM8LPS0&SerialNumber=GGTD262 
+Date : 10-04-2021 11:29:12 --- Event : Response status code does not indicate success: 500 (Internal Server Error).   at System.Net.Http.HttpResponseMessage.EnsureSuccessStatusCode()
+   at DataRecovery.Common.HttpManager.<GetRequest>d__0`1.MoveNext() in C:\Users\u\source\repos\svkrishnagavva\ITManagerDev\DataRecovery\DataRecovery.Common\HttpManager.cs:line 26urlhttp://localhost:82/GetConfigMaster 
+Date : 10-04-2021 11:29:12 --- Event : Issue in Configuration Database---- Value cannot be null.
+Parameter name: source   at System.Linq.Enumerable.Where[TSource](IEnumerable`1 source, Func`2 predicate)
+   at DataRecoveryService.DataRecoveryService.<LoadConfigfromFromWebService>d__58.MoveNext() in C:\Users\u\source\repos\svkrishnagavva\ITManagerDev\DataRecovery\DataRecoveryService\DataRecoveryService.cs:line 882 
+Date : 10-04-2021 11:29:12 --- Event : Load Config Completed 
+Date : 10-04-2021 11:30:57 --- Event : Load Config started 
+Date : 10-04-2021 11:31:16 --- Event : Response status code does not indicate success: 500 (Internal Server Error).   at System.Net.Http.HttpResponseMessage.EnsureSuccessStatusCode()
+   at DataRecovery.Common.HttpManager.<GetRequest>d__0`1.MoveNext() in C:\Users\u\source\repos\svkrishnagavva\ITManagerDev\DataRecovery\DataRecovery.Common\HttpManager.cs:line 26urlhttp://localhost:82/GetConfig?SystemId=DESKTOP-DM8LPS0&SerialNumber=GGTD262 
+Date : 10-04-2021 11:31:16 --- Event : Response status code does not indicate success: 500 (Internal Server Error).   at System.Net.Http.HttpResponseMessage.EnsureSuccessStatusCode()
+   at DataRecovery.Common.HttpManager.<GetRequest>d__0`1.MoveNext() in C:\Users\u\source\repos\svkrishnagavva\ITManagerDev\DataRecovery\DataRecovery.Common\HttpManager.cs:line 26urlhttp://localhost:82/GetConfigMaster 
+Date : 10-04-2021 11:31:16 --- Event : Issue in Configuration Database---- Value cannot be null.
+Parameter name: source   at System.Linq.Enumerable.Where[TSource](IEnumerable`1 source, Func`2 predicate)
+   at DataRecoveryService.DataRecoveryService.<LoadConfigfromFromWebService>d__58.MoveNext() in C:\Users\u\source\repos\svkrishnagavva\ITManagerDev\DataRecovery\DataRecoveryService\DataRecoveryService.cs:line 882 
+Date : 10-04-2021 11:31:16 --- Event : Load Config Completed 
+Date : 10-04-2021 11:32:57 --- Event : Load Config started 
+Date : 10-04-2021 11:33:12 --- Event : Response status code does not indicate success: 500 (Internal Server Error).   at System.Net.Http.HttpResponseMessage.EnsureSuccessStatusCode()
+   at DataRecovery.Common.HttpManager.<GetRequest>d__0`1.MoveNext() in C:\Users\u\source\repos\svkrishnagavva\ITManagerDev\DataRecovery\DataRecovery.Common\HttpManager.cs:line 26urlhttp://localhost:82/GetConfig?SystemId=DESKTOP-DM8LPS0&SerialNumber=GGTD262 
+Date : 10-04-2021 11:33:12 --- Event : Response status code does not indicate success: 500 (Internal Server Error).   at System.Net.Http.HttpResponseMessage.EnsureSuccessStatusCode()
+   at DataRecovery.Common.HttpManager.<GetRequest>d__0`1.MoveNext() in C:\Users\u\source\repos\svkrishnagavva\ITManagerDev\DataRecovery\DataRecovery.Common\HttpManager.cs:line 26urlhttp://localhost:82/GetConfigMaster 
+Date : 10-04-2021 11:33:12 --- Event : Issue in Configuration Database---- Value cannot be null.
+Parameter name: source   at System.Linq.Enumerable.Where[TSource](IEnumerable`1 source, Func`2 predicate)
+   at DataRecoveryService.DataRecoveryService.<LoadConfigfromFromWebService>d__58.MoveNext() in C:\Users\u\source\repos\svkrishnagavva\ITManagerDev\DataRecovery\DataRecoveryService\DataRecoveryService.cs:line 882 
+Date : 10-04-2021 11:33:12 --- Event : Load Config Completed 
+Date : 10-04-2021 11:34:57 --- Event : Load Config started 
+Date : 10-04-2021 11:35:12 --- Event : Response status code does not indicate success: 500 (Internal Server Error).   at System.Net.Http.HttpResponseMessage.EnsureSuccessStatusCode()
+   at DataRecovery.Common.HttpManager.<GetRequest>d__0`1.MoveNext() in C:\Users\u\source\repos\svkrishnagavva\ITManagerDev\DataRecovery\DataRecovery.Common\HttpManager.cs:line 26urlhttp://localhost:82/GetConfig?SystemId=DESKTOP-DM8LPS0&SerialNumber=GGTD262 
+Date : 10-04-2021 11:35:12 --- Event : Response status code does not indicate success: 500 (Internal Server Error).   at System.Net.Http.HttpResponseMessage.EnsureSuccessStatusCode()
+   at DataRecovery.Common.HttpManager.<GetRequest>d__0`1.MoveNext() in C:\Users\u\source\repos\svkrishnagavva\ITManagerDev\DataRecovery\DataRecovery.Common\HttpManager.cs:line 26urlhttp://localhost:82/GetConfigMaster 
+Date : 10-04-2021 11:35:12 --- Event : Issue in Configuration Database---- Value cannot be null.
+Parameter name: source   at System.Linq.Enumerable.Where[TSource](IEnumerable`1 source, Func`2 predicate)
+   at DataRecoveryService.DataRecoveryService.<LoadConfigfromFromWebService>d__58.MoveNext() in C:\Users\u\source\repos\svkrishnagavva\ITManagerDev\DataRecovery\DataRecoveryService\DataRecoveryService.cs:line 882 
+Date : 10-04-2021 11:35:12 --- Event : Load Config Completed 
+Date : 10-04-2021 11:36:57 --- Event : Load Config started 
+Date : 10-04-2021 11:37:12 --- Event : Response status code does not indicate success: 500 (Internal Server Error).   at System.Net.Http.HttpResponseMessage.EnsureSuccessStatusCode()
+   at DataRecovery.Common.HttpManager.<GetRequest>d__0`1.MoveNext() in C:\Users\u\source\repos\svkrishnagavva\ITManagerDev\DataRecovery\DataRecovery.Common\HttpManager.cs:line 26urlhttp://localhost:82/GetConfig?SystemId=DESKTOP-DM8LPS0&SerialNumber=GGTD262 
+Date : 10-04-2021 11:37:12 --- Event : Response status code does not indicate success: 500 (Internal Server Error).   at System.Net.Http.HttpResponseMessage.EnsureSuccessStatusCode()
+   at DataRecovery.Common.HttpManager.<GetRequest>d__0`1.MoveNext() in C:\Users\u\source\repos\svkrishnagavva\ITManagerDev\DataRecovery\DataRecovery.Common\HttpManager.cs:line 26urlhttp://localhost:82/GetConfigMaster 
+Date : 10-04-2021 11:37:12 --- Event : Issue in Configuration Database---- Value cannot be null.
+Parameter name: source   at System.Linq.Enumerable.Where[TSource](IEnumerable`1 source, Func`2 predicate)
+   at DataRecoveryService.DataRecoveryService.<LoadConfigfromFromWebService>d__58.MoveNext() in C:\Users\u\source\repos\svkrishnagavva\ITManagerDev\DataRecovery\DataRecoveryService\DataRecoveryService.cs:line 882 
+Date : 10-04-2021 11:37:12 --- Event : Load Config Completed 
+Date : 10-04-2021 11:38:57 --- Event : Load Config started 
+Date : 10-04-2021 11:39:12 --- Event : Response status code does not indicate success: 500 (Internal Server Error).   at System.Net.Http.HttpResponseMessage.EnsureSuccessStatusCode()
+   at DataRecovery.Common.HttpManager.<GetRequest>d__0`1.MoveNext() in C:\Users\u\source\repos\svkrishnagavva\ITManagerDev\DataRecovery\DataRecovery.Common\HttpManager.cs:line 26urlhttp://localhost:82/GetConfig?SystemId=DESKTOP-DM8LPS0&SerialNumber=GGTD262 
+Date : 10-04-2021 11:39:12 --- Event : Response status code does not indicate success: 500 (Internal Server Error).   at System.Net.Http.HttpResponseMessage.EnsureSuccessStatusCode()
+   at DataRecovery.Common.HttpManager.<GetRequest>d__0`1.MoveNext() in C:\Users\u\source\repos\svkrishnagavva\ITManagerDev\DataRecovery\DataRecovery.Common\HttpManager.cs:line 26urlhttp://localhost:82/GetConfigMaster 
+Date : 10-04-2021 11:39:12 --- Event : Issue in Configuration Database---- Value cannot be null.
+Parameter name: source   at System.Linq.Enumerable.Where[TSource](IEnumerable`1 source, Func`2 predicate)
+   at DataRecoveryService.DataRecoveryService.<LoadConfigfromFromWebService>d__58.MoveNext() in C:\Users\u\source\repos\svkrishnagavva\ITManagerDev\DataRecovery\DataRecoveryService\DataRecoveryService.cs:line 882 
+Date : 10-04-2021 11:39:12 --- Event : Load Config Completed 
+Date : 10-04-2021 11:40:57 --- Event : Load Config started 
+Date : 10-04-2021 11:41:12 --- Event : Response status code does not indicate success: 500 (Internal Server Error).   at System.Net.Http.HttpResponseMessage.EnsureSuccessStatusCode()
+   at DataRecovery.Common.HttpManager.<GetRequest>d__0`1.MoveNext() in C:\Users\u\source\repos\svkrishnagavva\ITManagerDev\DataRecovery\DataRecovery.Common\HttpManager.cs:line 26urlhttp://localhost:82/GetConfig?SystemId=DESKTOP-DM8LPS0&SerialNumber=GGTD262 
+Date : 10-04-2021 11:41:12 --- Event : Response status code does not indicate success: 500 (Internal Server Error).   at System.Net.Http.HttpResponseMessage.EnsureSuccessStatusCode()
+   at DataRecovery.Common.HttpManager.<GetRequest>d__0`1.MoveNext() in C:\Users\u\source\repos\svkrishnagavva\ITManagerDev\DataRecovery\DataRecovery.Common\HttpManager.cs:line 26urlhttp://localhost:82/GetConfigMaster 
+Date : 10-04-2021 11:41:12 --- Event : Issue in Configuration Database---- Value cannot be null.
+Parameter name: source   at System.Linq.Enumerable.Where[TSource](IEnumerable`1 source, Func`2 predicate)
+   at DataRecoveryService.DataRecoveryService.<LoadConfigfromFromWebService>d__58.MoveNext() in C:\Users\u\source\repos\svkrishnagavva\ITManagerDev\DataRecovery\DataRecoveryService\DataRecoveryService.cs:line 882 
+Date : 10-04-2021 11:41:12 --- Event : Load Config Completed 
+Date : 10-04-2021 11:42:57 --- Event : Load Config started 
+Date : 10-04-2021 11:43:12 --- Event : Response status code does not indicate success: 500 (Internal Server Error).   at System.Net.Http.HttpResponseMessage.EnsureSuccessStatusCode()
+   at DataRecovery.Common.HttpManager.<GetRequest>d__0`1.MoveNext() in C:\Users\u\source\repos\svkrishnagavva\ITManagerDev\DataRecovery\DataRecovery.Common\HttpManager.cs:line 26urlhttp://localhost:82/GetConfig?SystemId=DESKTOP-DM8LPS0&SerialNumber=GGTD262 
+Date : 10-04-2021 11:43:12 --- Event : Response status code does not indicate success: 500 (Internal Server Error).   at System.Net.Http.HttpResponseMessage.EnsureSuccessStatusCode()
+   at DataRecovery.Common.HttpManager.<GetRequest>d__0`1.MoveNext() in C:\Users\u\source\repos\svkrishnagavva\ITManagerDev\DataRecovery\DataRecovery.Common\HttpManager.cs:line 26urlhttp://localhost:82/GetConfigMaster 
+Date : 10-04-2021 11:43:12 --- Event : Issue in Configuration Database---- Value cannot be null.
+Parameter name: source   at System.Linq.Enumerable.Where[TSource](IEnumerable`1 source, Func`2 predicate)
+   at DataRecoveryService.DataRecoveryService.<LoadConfigfromFromWebService>d__58.MoveNext() in C:\Users\u\source\repos\svkrishnagavva\ITManagerDev\DataRecovery\DataRecoveryService\DataRecoveryService.cs:line 882 
+Date : 10-04-2021 11:43:12 --- Event : Load Config Completed 
+Date : 10-04-2021 11:44:57 --- Event : Load Config started 
+Date : 10-04-2021 11:45:12 --- Event : Response status code does not indicate success: 500 (Internal Server Error).   at System.Net.Http.HttpResponseMessage.EnsureSuccessStatusCode()
+   at DataRecovery.Common.HttpManager.<GetRequest>d__0`1.MoveNext() in C:\Users\u\source\repos\svkrishnagavva\ITManagerDev\DataRecovery\DataRecovery.Common\HttpManager.cs:line 26urlhttp://localhost:82/GetConfig?SystemId=DESKTOP-DM8LPS0&SerialNumber=GGTD262 
+Date : 10-04-2021 11:45:12 --- Event : Response status code does not indicate success: 500 (Internal Server Error).   at System.Net.Http.HttpResponseMessage.EnsureSuccessStatusCode()
+   at DataRecovery.Common.HttpManager.<GetRequest>d__0`1.MoveNext() in C:\Users\u\source\repos\svkrishnagavva\ITManagerDev\DataRecovery\DataRecovery.Common\HttpManager.cs:line 26urlhttp://localhost:82/GetConfigMaster 
+Date : 10-04-2021 11:45:12 --- Event : Issue in Configuration Database---- Value cannot be null.
+Parameter name: source   at System.Linq.Enumerable.Where[TSource](IEnumerable`1 source, Func`2 predicate)
+   at DataRecoveryService.DataRecoveryService.<LoadConfigfromFromWebService>d__58.MoveNext() in C:\Users\u\source\repos\svkrishnagavva\ITManagerDev\DataRecovery\DataRecoveryService\DataRecoveryService.cs:line 882 
+Date : 10-04-2021 11:45:12 --- Event : Load Config Completed 
+Date : 10-04-2021 11:46:57 --- Event : Load Config started 
+Date : 10-04-2021 11:47:12 --- Event : Response status code does not indicate success: 500 (Internal Server Error).   at System.Net.Http.HttpResponseMessage.EnsureSuccessStatusCode()
+   at DataRecovery.Common.HttpManager.<GetRequest>d__0`1.MoveNext() in C:\Users\u\source\repos\svkrishnagavva\ITManagerDev\DataRecovery\DataRecovery.Common\HttpManager.cs:line 26urlhttp://localhost:82/GetConfig?SystemId=DESKTOP-DM8LPS0&SerialNumber=GGTD262 
+Date : 10-04-2021 11:47:12 --- Event : Response status code does not indicate success: 500 (Internal Server Error).   at System.Net.Http.HttpResponseMessage.EnsureSuccessStatusCode()
+   at DataRecovery.Common.HttpManager.<GetRequest>d__0`1.MoveNext() in C:\Users\u\source\repos\svkrishnagavva\ITManagerDev\DataRecovery\DataRecovery.Common\HttpManager.cs:line 26urlhttp://localhost:82/GetConfigMaster 
+Date : 10-04-2021 11:47:12 --- Event : Issue in Configuration Database---- Value cannot be null.
+Parameter name: source   at System.Linq.Enumerable.Where[TSource](IEnumerable`1 source, Func`2 predicate)
+   at DataRecoveryService.DataRecoveryService.<LoadConfigfromFromWebService>d__58.MoveNext() in C:\Users\u\source\repos\svkrishnagavva\ITManagerDev\DataRecovery\DataRecoveryService\DataRecoveryService.cs:line 882 
+Date : 10-04-2021 11:47:12 --- Event : Load Config Completed 
+Date : 10-04-2021 11:48:57 --- Event : Load Config started 
+Date : 10-04-2021 11:49:12 --- Event : Response status code does not indicate success: 500 (Internal Server Error).   at System.Net.Http.HttpResponseMessage.EnsureSuccessStatusCode()
+   at DataRecovery.Common.HttpManager.<GetRequest>d__0`1.MoveNext() in C:\Users\u\source\repos\svkrishnagavva\ITManagerDev\DataRecovery\DataRecovery.Common\HttpManager.cs:line 26urlhttp://localhost:82/GetConfig?SystemId=DESKTOP-DM8LPS0&SerialNumber=GGTD262 
+Date : 10-04-2021 11:49:12 --- Event : Response status code does not indicate success: 500 (Internal Server Error).   at System.Net.Http.HttpResponseMessage.EnsureSuccessStatusCode()
+   at DataRecovery.Common.HttpManager.<GetRequest>d__0`1.MoveNext() in C:\Users\u\source\repos\svkrishnagavva\ITManagerDev\DataRecovery\DataRecovery.Common\HttpManager.cs:line 26urlhttp://localhost:82/GetConfigMaster 
+Date : 10-04-2021 11:49:12 --- Event : Issue in Configuration Database---- Value cannot be null.
+Parameter name: source   at System.Linq.Enumerable.Where[TSource](IEnumerable`1 source, Func`2 predicate)
+   at DataRecoveryService.DataRecoveryService.<LoadConfigfromFromWebService>d__58.MoveNext() in C:\Users\u\source\repos\svkrishnagavva\ITManagerDev\DataRecovery\DataRecoveryService\DataRecoveryService.cs:line 882 
+Date : 10-04-2021 11:49:12 --- Event : Load Config Completed 
+Date : 10-04-2021 11:50:57 --- Event : Load Config started 
+Date : 10-04-2021 11:51:12 --- Event : Response status code does not indicate success: 500 (Internal Server Error).   at System.Net.Http.HttpResponseMessage.EnsureSuccessStatusCode()
+   at DataRecovery.Common.HttpManager.<GetRequest>d__0`1.MoveNext() in C:\Users\u\source\repos\svkrishnagavva\ITManagerDev\DataRecovery\DataRecovery.Common\HttpManager.cs:line 26urlhttp://localhost:82/GetConfig?SystemId=DESKTOP-DM8LPS0&SerialNumber=GGTD262 
+Date : 10-04-2021 11:51:12 --- Event : Response status code does not indicate success: 500 (Internal Server Error).   at System.Net.Http.HttpResponseMessage.EnsureSuccessStatusCode()
+   at DataRecovery.Common.HttpManager.<GetRequest>d__0`1.MoveNext() in C:\Users\u\source\repos\svkrishnagavva\ITManagerDev\DataRecovery\DataRecovery.Common\HttpManager.cs:line 26urlhttp://localhost:82/GetConfigMaster 
+Date : 10-04-2021 11:51:12 --- Event : Issue in Configuration Database---- Value cannot be null.
+Parameter name: source   at System.Linq.Enumerable.Where[TSource](IEnumerable`1 source, Func`2 predicate)
+   at DataRecoveryService.DataRecoveryService.<LoadConfigfromFromWebService>d__58.MoveNext() in C:\Users\u\source\repos\svkrishnagavva\ITManagerDev\DataRecovery\DataRecoveryService\DataRecoveryService.cs:line 882 
+Date : 10-04-2021 11:51:12 --- Event : Load Config Completed 
+Date : 10-04-2021 11:52:57 --- Event : Load Config started 
+Date : 10-04-2021 11:53:12 --- Event : Response status code does not indicate success: 500 (Internal Server Error).   at System.Net.Http.HttpResponseMessage.EnsureSuccessStatusCode()
+   at DataRecovery.Common.HttpManager.<GetRequest>d__0`1.MoveNext() in C:\Users\u\source\repos\svkrishnagavva\ITManagerDev\DataRecovery\DataRecovery.Common\HttpManager.cs:line 26urlhttp://localhost:82/GetConfig?SystemId=DESKTOP-DM8LPS0&SerialNumber=GGTD262 
+Date : 10-04-2021 11:53:12 --- Event : Response status code does not indicate success: 500 (Internal Server Error).   at System.Net.Http.HttpResponseMessage.EnsureSuccessStatusCode()
+   at DataRecovery.Common.HttpManager.<GetRequest>d__0`1.MoveNext() in C:\Users\u\source\repos\svkrishnagavva\ITManagerDev\DataRecovery\DataRecovery.Common\HttpManager.cs:line 26urlhttp://localhost:82/GetConfigMaster 
+Date : 10-04-2021 11:53:12 --- Event : Issue in Configuration Database---- Value cannot be null.
+Parameter name: source   at System.Linq.Enumerable.Where[TSource](IEnumerable`1 source, Func`2 predicate)
+   at DataRecoveryService.DataRecoveryService.<LoadConfigfromFromWebService>d__58.MoveNext() in C:\Users\u\source\repos\svkrishnagavva\ITManagerDev\DataRecovery\DataRecoveryService\DataRecoveryService.cs:line 882 
+Date : 10-04-2021 11:53:12 --- Event : Load Config Completed 
+Date : 10-04-2021 11:54:57 --- Event : Load Config started 
+Date : 10-04-2021 11:55:12 --- Event : Response status code does not indicate success: 500 (Internal Server Error).   at System.Net.Http.HttpResponseMessage.EnsureSuccessStatusCode()
+   at DataRecovery.Common.HttpManager.<GetRequest>d__0`1.MoveNext() in C:\Users\u\source\repos\svkrishnagavva\ITManagerDev\DataRecovery\DataRecovery.Common\HttpManager.cs:line 26urlhttp://localhost:82/GetConfig?SystemId=DESKTOP-DM8LPS0&SerialNumber=GGTD262 
+Date : 10-04-2021 11:55:12 --- Event : Response status code does not indicate success: 500 (Internal Server Error).   at System.Net.Http.HttpResponseMessage.EnsureSuccessStatusCode()
+   at DataRecovery.Common.HttpManager.<GetRequest>d__0`1.MoveNext() in C:\Users\u\source\repos\svkrishnagavva\ITManagerDev\DataRecovery\DataRecovery.Common\HttpManager.cs:line 26urlhttp://localhost:82/GetConfigMaster 
+Date : 10-04-2021 11:55:12 --- Event : Issue in Configuration Database---- Value cannot be null.
+Parameter name: source   at System.Linq.Enumerable.Where[TSource](IEnumerable`1 source, Func`2 predicate)
+   at DataRecoveryService.DataRecoveryService.<LoadConfigfromFromWebService>d__58.MoveNext() in C:\Users\u\source\repos\svkrishnagavva\ITManagerDev\DataRecovery\DataRecoveryService\DataRecoveryService.cs:line 882 
+Date : 10-04-2021 11:55:12 --- Event : Load Config Completed 
+Date : 10-04-2021 11:56:57 --- Event : Load Config started 
+Date : 10-04-2021 11:56:58 --- Event : Issue in Configuration Database---- IncludeFileExtensions:*.pdf,*.jpg,*.xlsx,*.doc,*.mp3,*.cs 
+Date : 10-04-2021 11:56:58 --- Event : Issue in Configuration Database---- BackupFilePath:D:\Store 
+Date : 10-04-2021 11:56:58 --- Event : Issue in Configuration Database---- FoldersToScan:D:\TestData 
+Date : 10-04-2021 11:56:58 --- Event : Issue in Configuration Database---- ExcludeFileExtensions: 
+Date : 10-04-2021 11:56:58 --- Event : Issue in Configuration Database---- BackupType:Local 
+Date : 10-04-2021 11:56:58 --- Event : Issue in Configuration Database---- VersionstoKeep:1 
+Date : 10-04-2021 11:56:58 --- Event : Issue in Configuration Database---- canscan: 
+Date : 10-04-2021 11:56:58 --- Event : Issue in Configuration Database---- canwatch: 
+Date : 10-04-2021 11:56:58 --- Event : Issue in Configuration Database---- canupload: 
+Date : 10-04-2021 11:56:58 --- Event : Issue in Configuration Database---- canInventory: 
+Date : 10-04-2021 11:56:58 --- Event : Load Config Completed 
+Date : 10-04-2021 11:57:03 --- Event : Scan started 
+Date : 10-04-2021 11:57:03 --- Event : IncludeExtensions :*.pdf,*.jpg,*.xlsx,*.doc,*.mp3,*.cs 
+Date : 10-04-2021 11:57:03 --- Event : File NameD:\TestData\1.doc 
+Date : 10-04-2021 11:57:03 --- Event : File NameD:\TestData\23 - Copy.doc 
+Date : 10-04-2021 11:57:03 --- Event : File NameD:\TestData\23.doc 
+Date : 10-04-2021 11:57:03 --- Event : File NameD:\TestData\Son222g - Copy.mp3 
+Date : 10-04-2021 11:57:03 --- Event : File NameD:\TestData\Song - Copy (2).mp3 
+Date : 10-04-2021 11:57:03 --- Event : File NameD:\TestData\Song - Copy.mp3 
+Date : 10-04-2021 11:57:03 --- Event : File NameD:\TestData\Songnew - Copy.mp3 
+Date : 10-04-2021 11:57:03 --- Event : File NameD:\TestData\Songnew.mp3 
+Date : 10-04-2021 11:57:03 --- Event : File NameD:\TestData\Test.doc 
+Date : 10-04-2021 11:57:03 --- Event : File NameD:\TestData\TestFile2changed - Copy - Copy.doc 
+Date : 10-04-2021 11:57:03 --- Event : File NameD:\TestData\TestFile2changed - Copy.doc 
+Date : 10-04-2021 11:57:03 --- Event : File NameD:\TestData\vamsi.mp3 
+Date : 10-04-2021 11:57:03 --- Event : File NameD:\TestData\Vk.mp3 
+Date : 10-04-2021 11:57:16 --- Event : IncludeExtensions :*.pdf,*.jpg,*.xlsx,*.doc,*.mp3,*.cs 
+Date : 10-04-2021 11:57:16 --- Event : File NameD:\TestData\Test\1.doc 
+Date : 10-04-2021 11:57:17 --- Event : Scan Completed 
+Date : 10-04-2021 11:57:58 --- Event : Begin IsCopying :True 
+Date : 10-04-2021 11:57:58 --- Event : backup started 
+Date : 10-04-2021 11:57:59 --- Event : Copy with Encryption started 
+Date : 10-04-2021 11:58:05 --- Event : backup completed 
+Date : 10-04-2021 11:58:05 --- Event : End IsCopying :False 
+Date : 10-04-2021 11:58:05 --- Event : Copy with Encryption completed 
+Date : 10-04-2021 11:58:06 --- Event : Copy with Encryption started 
+Date : 10-04-2021 11:58:11 --- Event : Copy with Encryption completed 
+Date : 10-04-2021 11:58:13 --- Event : Copy with Encryption started 
+Date : 10-04-2021 11:58:24 --- Event : Copy with Encryption completed 
+Date : 10-04-2021 11:58:25 --- Event : Copy with Encryption started 
+Date : 10-04-2021 11:58:27 --- Event : Copy with Encryption completed 
+Date : 10-04-2021 11:58:28 --- Event : Copy with Encryption started 
+Date : 10-04-2021 11:58:30 --- Event : Copy with Encryption completed 
+Date : 10-04-2021 11:58:31 --- Event : Copy with Encryption started 
+Date : 10-04-2021 11:58:32 --- Event : Copy with Encryption completed 
+Date : 10-04-2021 11:58:33 --- Event : Copy with Encryption started 
+Date : 10-04-2021 11:58:33 --- Event : Copy with Encryption completed 
+Date : 10-04-2021 11:58:34 --- Event : Copy with Encryption started 
+Date : 10-04-2021 11:58:34 --- Event : Copy with Encryption completed 
+Date : 10-04-2021 11:58:35 --- Event : Copy with Encryption started 
+Date : 10-04-2021 11:58:42 --- Event : Copy with Encryption completed 
+Date : 10-04-2021 11:58:44 --- Event : Copy with Encryption started 
+Date : 10-04-2021 11:58:54 --- Event : Copy with Encryption completed 
+Date : 10-04-2021 11:58:56 --- Event : Copy with Encryption started 
+Date : 10-04-2021 11:59:58 --- Event : Begin IsCopying :True 
+Date : 10-04-2021 11:59:58 --- Event : backup started 
+Date : 10-04-2021 12:00:00 --- Event : Copy with Encryption completed 
+Date : 10-04-2021 12:00:01 --- Event : Copy with Encryption started 
+Date : 10-04-2021 12:00:01 --- Event : Copy with Encryption completed 
+Date : 10-04-2021 12:00:01 --- Event : Copy with Encryption started 
+Date : 10-04-2021 12:00:02 --- Event : Copy with Encryption completed 
+Date : 10-04-2021 12:00:02 --- Event : Copy with Encryption started 
+Date : 10-04-2021 12:00:02 --- Event : Copy with Encryption completed 
+Date : 10-04-2021 12:00:03 --- Event : backup completed 
+Date : 10-04-2021 12:00:03 --- Event : End IsCopying :False 
+Date : 10-04-2021 12:00:03 --- Event : Copy with Encryption started 
+Date : 10-04-2021 12:00:03 --- Event : Copy with Encryption completed 
+Date : 10-04-2021 12:00:03 --- Event : Copy with Encryption started 
+Date : 10-04-2021 12:00:17 --- Event : Copy with Encryption started 
+Date : 10-04-2021 12:00:19 --- Event : Copy with Encryption completed 
+Date : 10-04-2021 12:00:19 --- Event : Copy with Encryption completed 
+Date : 10-04-2021 12:01:01 --- Event : Begin IsCopying :True 
+Date : 10-04-2021 12:01:01 --- Event : backup started 
+Date : 10-04-2021 12:01:03 --- Event : backup completed 
+Date : 10-04-2021 12:01:04 --- Event : End IsCopying :False 
+Date : 10-04-2021 12:02:03 --- Event : Begin IsCopying :True 
+Date : 10-04-2021 12:02:03 --- Event : backup started 
+Date : 10-04-2021 12:02:03 --- Event : Config Monitor Satrted 
+Date : 10-04-2021 12:02:05 --- Event : Stared Indentifying channges 
+Date : 10-04-2021 12:02:05 --- Event : Config Monitor Completed 
+Date : 10-04-2021 12:02:05 --- Event : backup completed 
+Date : 10-04-2021 12:02:05 --- Event : End IsCopying :False 
+Date : 10-04-2021 12:03:05 --- Event : Begin IsCopying :True 
+Date : 10-04-2021 12:03:05 --- Event : backup started 
+Date : 10-04-2021 12:03:06 --- Event : backup completed 
+Date : 10-04-2021 12:03:06 --- Event : End IsCopying :False 
+Date : 10-04-2021 12:04:05 --- Event : Begin IsCopying :True 
+Date : 10-04-2021 12:04:05 --- Event : backup started 
+Date : 10-04-2021 12:04:06 --- Event : backup completed 
+Date : 10-04-2021 12:04:06 --- Event : End IsCopying :False 
+Date : 10-04-2021 12:05:07 --- Event : Begin IsCopying :True 
+Date : 10-04-2021 12:05:07 --- Event : backup started 
+Date : 10-04-2021 12:05:08 --- Event : backup completed 
+Date : 10-04-2021 12:05:08 --- Event : End IsCopying :False 
+Date : 10-04-2021 12:06:05 --- Event : Begin IsCopying :True 
+Date : 10-04-2021 12:06:05 --- Event : backup started 
+Date : 10-04-2021 12:06:06 --- Event : backup completed 
+Date : 10-04-2021 12:06:06 --- Event : End IsCopying :False 
+Date : 10-04-2021 12:07:05 --- Event : Config Monitor Satrted 
+Date : 10-04-2021 12:07:05 --- Event : Stared Indentifying channges 
+Date : 10-04-2021 12:07:05 --- Event : Config Monitor Completed 
+Date : 10-04-2021 12:08:05 --- Event : Begin IsCopying :True 
+Date : 10-04-2021 12:08:05 --- Event : backup started 
+Date : 10-04-2021 12:08:05 --- Event : backup completed 
+Date : 10-04-2021 12:08:05 --- Event : End IsCopying :False 
+Date : 10-04-2021 12:09:05 --- Event : Begin IsCopying :True 
+Date : 10-04-2021 12:09:05 --- Event : backup started 
+Date : 10-04-2021 12:09:05 --- Event : backup completed 
+Date : 10-04-2021 12:09:05 --- Event : End IsCopying :False 
+Date : 10-04-2021 12:10:05 --- Event : Begin IsCopying :True 
+Date : 10-04-2021 12:10:05 --- Event : backup started 
+Date : 10-04-2021 12:10:06 --- Event : backup completed 
+Date : 10-04-2021 12:10:06 --- Event : End IsCopying :False 
+Date : 10-04-2021 12:11:05 --- Event : Begin IsCopying :True 
+Date : 10-04-2021 12:11:05 --- Event : backup started 
+Date : 10-04-2021 12:11:05 --- Event : backup completed 
+Date : 10-04-2021 12:11:05 --- Event : End IsCopying :False 
+Date : 10-04-2021 12:12:05 --- Event : Config Monitor Satrted 
+Date : 10-04-2021 12:12:05 --- Event : Begin IsCopying :True 
+Date : 10-04-2021 12:12:05 --- Event : backup started 
+Date : 10-04-2021 12:12:05 --- Event : Stared Indentifying channges 
+Date : 10-04-2021 12:12:05 --- Event : Config Monitor Completed 
+Date : 10-04-2021 12:12:05 --- Event : backup completed 
+Date : 10-04-2021 12:12:05 --- Event : End IsCopying :False 
+Date : 10-04-2021 12:13:05 --- Event : Begin IsCopying :True 
+Date : 10-04-2021 12:13:05 --- Event : backup started 
+Date : 10-04-2021 12:13:06 --- Event : backup completed 
+Date : 10-04-2021 12:13:06 --- Event : End IsCopying :False 
+Date : 10-04-2021 12:14:05 --- Event : Begin IsCopying :True 
+Date : 10-04-2021 12:14:05 --- Event : backup started 
+Date : 10-04-2021 12:14:06 --- Event : backup completed 
+Date : 10-04-2021 12:14:06 --- Event : End IsCopying :False 
+Date : 10-04-2021 12:15:05 --- Event : Begin IsCopying :True 
+Date : 10-04-2021 12:15:05 --- Event : backup started 
+Date : 10-04-2021 12:15:06 --- Event : backup completed 
+Date : 10-04-2021 12:15:07 --- Event : End IsCopying :False 
+Date : 10-04-2021 12:16:05 --- Event : Begin IsCopying :True 
+Date : 10-04-2021 12:16:05 --- Event : backup started 
+Date : 10-04-2021 12:16:06 --- Event : backup completed 
+Date : 10-04-2021 12:16:06 --- Event : End IsCopying :False 
+Date : 10-04-2021 12:17:05 --- Event : Config Monitor Satrted 
+Date : 10-04-2021 12:17:05 --- Event : Begin IsCopying :True 
+Date : 10-04-2021 12:17:05 --- Event : backup started 
+Date : 10-04-2021 12:17:05 --- Event : Stared Indentifying channges 
+Date : 10-04-2021 12:17:05 --- Event : Config Monitor Completed 
+Date : 10-04-2021 12:17:06 --- Event : backup completed 
+Date : 10-04-2021 12:17:06 --- Event : End IsCopying :False 
+Date : 10-04-2021 12:18:05 --- Event : Begin IsCopying :True 
+Date : 10-04-2021 12:18:05 --- Event : backup started 
+Date : 10-04-2021 12:18:06 --- Event : backup completed 
+Date : 10-04-2021 12:18:06 --- Event : End IsCopying :False 
+Date : 10-04-2021 12:19:05 --- Event : Begin IsCopying :True 
+Date : 10-04-2021 12:19:05 --- Event : backup started 
+Date : 10-04-2021 12:19:06 --- Event : backup completed 
+Date : 10-04-2021 12:19:06 --- Event : End IsCopying :False 
+Date : 10-04-2021 12:20:05 --- Event : Begin IsCopying :True 
+Date : 10-04-2021 12:20:05 --- Event : backup started 
+Date : 10-04-2021 12:20:06 --- Event : backup completed 
+Date : 10-04-2021 12:20:06 --- Event : End IsCopying :False 
+Date : 10-04-2021 12:21:05 --- Event : Begin IsCopying :True 
+Date : 10-04-2021 12:21:05 --- Event : backup started 
+Date : 10-04-2021 12:21:06 --- Event : backup completed 
+Date : 10-04-2021 12:21:06 --- Event : End IsCopying :False 
+Date : 10-04-2021 12:22:05 --- Event : Config Monitor Satrted 
+Date : 10-04-2021 12:22:05 --- Event : Begin IsCopying :True 
+Date : 10-04-2021 12:22:05 --- Event : backup started 
+Date : 10-04-2021 12:22:06 --- Event : Stared Indentifying channges 
+Date : 10-04-2021 12:22:06 --- Event : Config Monitor Completed 
+Date : 10-04-2021 12:22:06 --- Event : backup completed 
+Date : 10-04-2021 12:22:06 --- Event : End IsCopying :False 
+Date : 10-04-2021 12:23:06 --- Event : Begin IsCopying :True 
+Date : 10-04-2021 12:23:06 --- Event : backup started 
+Date : 10-04-2021 12:23:07 --- Event : backup completed 
+Date : 10-04-2021 12:23:07 --- Event : End IsCopying :False 
+Date : 10-04-2021 12:24:06 --- Event : Begin IsCopying :True 
+Date : 10-04-2021 12:24:06 --- Event : backup started 
+Date : 10-04-2021 12:24:07 --- Event : backup completed 
+Date : 10-04-2021 12:24:07 --- Event : End IsCopying :False 
+Date : 10-04-2021 12:25:06 --- Event : Begin IsCopying :True 
+Date : 10-04-2021 12:25:06 --- Event : backup started 
+Date : 10-04-2021 12:25:07 --- Event : backup completed 
+Date : 10-04-2021 12:25:07 --- Event : End IsCopying :False 
+Date : 10-04-2021 12:26:06 --- Event : Begin IsCopying :True 
+Date : 10-04-2021 12:26:06 --- Event : backup started 
+Date : 10-04-2021 12:26:06 --- Event : backup completed 
+Date : 10-04-2021 12:26:06 --- Event : End IsCopying :False 
+Date : 10-04-2021 12:27:06 --- Event : Config Monitor Satrted 
+Date : 10-04-2021 12:27:06 --- Event : Begin IsCopying :True 
+Date : 10-04-2021 12:27:06 --- Event : backup started 
+Date : 10-04-2021 12:27:06 --- Event : Stared Indentifying channges 
+Date : 10-04-2021 12:27:06 --- Event : Config Monitor Completed 
+Date : 10-04-2021 12:27:06 --- Event : backup completed 
+Date : 10-04-2021 12:27:06 --- Event : End IsCopying :False 
+Date : 10-04-2021 12:28:06 --- Event : Begin IsCopying :True 
+Date : 10-04-2021 12:28:06 --- Event : backup started 
+Date : 10-04-2021 12:28:06 --- Event : backup completed 
+Date : 10-04-2021 12:28:06 --- Event : End IsCopying :False 
+Date : 10-04-2021 12:29:06 --- Event : Begin IsCopying :True 
+Date : 10-04-2021 12:29:06 --- Event : backup started 
+Date : 10-04-2021 12:29:07 --- Event : backup completed 
+Date : 10-04-2021 12:29:07 --- Event : End IsCopying :False 
+Date : 10-04-2021 12:30:06 --- Event : Begin IsCopying :True 
+Date : 10-04-2021 12:30:06 --- Event : backup started 
+Date : 10-04-2021 12:30:07 --- Event : backup completed 
+Date : 10-04-2021 12:30:07 --- Event : End IsCopying :False 
+Date : 10-04-2021 12:31:06 --- Event : Begin IsCopying :True 
+Date : 10-04-2021 12:31:06 --- Event : backup started 
+Date : 10-04-2021 12:31:07 --- Event : backup completed 
+Date : 10-04-2021 12:31:07 --- Event : End IsCopying :False 
+Date : 10-04-2021 12:32:06 --- Event : Config Monitor Satrted 
+Date : 10-04-2021 12:32:06 --- Event : Begin IsCopying :True 
+Date : 10-04-2021 12:32:06 --- Event : backup started 
+Date : 10-04-2021 12:32:06 --- Event : Stared Indentifying channges 
+Date : 10-04-2021 12:32:06 --- Event : Config Monitor Completed 
+Date : 10-04-2021 12:32:07 --- Event : backup completed 
+Date : 10-04-2021 12:32:07 --- Event : End IsCopying :False 
+Date : 10-04-2021 12:33:06 --- Event : Begin IsCopying :True 
+Date : 10-04-2021 12:33:06 --- Event : backup started 
+Date : 10-04-2021 12:33:07 --- Event : backup completed 
+Date : 10-04-2021 12:33:07 --- Event : End IsCopying :False 
+Date : 10-04-2021 12:34:06 --- Event : Begin IsCopying :True 
+Date : 10-04-2021 12:34:06 --- Event : backup started 
+Date : 10-04-2021 12:34:08 --- Event : backup completed 
+Date : 10-04-2021 12:34:08 --- Event : End IsCopying :False 
+Date : 10-04-2021 12:35:06 --- Event : Begin IsCopying :True 
+Date : 10-04-2021 12:35:06 --- Event : backup started 
+Date : 10-04-2021 12:35:08 --- Event : backup completed 
+Date : 10-04-2021 12:35:08 --- Event : End IsCopying :False 
+Date : 10-04-2021 12:36:06 --- Event : Begin IsCopying :True 
+Date : 10-04-2021 12:36:06 --- Event : backup started 
+Date : 10-04-2021 12:36:07 --- Event : backup completed 
+Date : 10-04-2021 12:36:07 --- Event : End IsCopying :False 
+Date : 10-04-2021 12:37:06 --- Event : Config Monitor Satrted 
+Date : 10-04-2021 12:37:07 --- Event : Begin IsCopying :True 
+Date : 10-04-2021 12:37:07 --- Event : backup started 
+Date : 10-04-2021 12:37:07 --- Event : Stared Indentifying channges 
+Date : 10-04-2021 12:37:07 --- Event : Config Monitor Completed 
+Date : 10-04-2021 12:37:07 --- Event : backup completed 
+Date : 10-04-2021 12:37:07 --- Event : End IsCopying :False 
+Date : 10-04-2021 12:38:07 --- Event : Begin IsCopying :True 
+Date : 10-04-2021 12:38:07 --- Event : backup started 
+Date : 10-04-2021 12:38:08 --- Event : backup completed 
+Date : 10-04-2021 12:38:08 --- Event : End IsCopying :False 
+Date : 10-04-2021 12:39:07 --- Event : Begin IsCopying :True 
+Date : 10-04-2021 12:39:07 --- Event : backup started 
+Date : 10-04-2021 12:39:08 --- Event : backup completed 
+Date : 10-04-2021 12:39:08 --- Event : End IsCopying :False 
+Date : 10-04-2021 12:40:08 --- Event : Begin IsCopying :True 
+Date : 10-04-2021 12:40:08 --- Event : backup started 
+Date : 10-04-2021 12:40:10 --- Event : backup completed 
+Date : 10-04-2021 12:40:10 --- Event : End IsCopying :False 
+Date : 10-04-2021 12:41:09 --- Event : Begin IsCopying :True 
+Date : 10-04-2021 12:41:09 --- Event : backup started 
+Date : 10-04-2021 12:41:11 --- Event : backup completed 
+Date : 10-04-2021 12:41:11 --- Event : End IsCopying :False 
+Date : 10-04-2021 12:42:08 --- Event : Config Monitor Satrted 
+Date : 10-04-2021 12:42:09 --- Event : Begin IsCopying :True 
+Date : 10-04-2021 12:42:09 --- Event : backup started 
+Date : 10-04-2021 12:42:11 --- Event : Stared Indentifying channges 
+Date : 10-04-2021 12:42:11 --- Event : Config Monitor Completed 
+Date : 10-04-2021 12:42:12 --- Event : backup completed 
+Date : 10-04-2021 12:42:12 --- Event : End IsCopying :False 
+Date : 10-04-2021 12:43:11 --- Event : Begin IsCopying :True 
+Date : 10-04-2021 12:43:11 --- Event : backup started 
+Date : 10-04-2021 12:43:12 --- Event : backup completed 
+Date : 10-04-2021 12:43:12 --- Event : End IsCopying :False 
+Date : 10-04-2021 12:44:11 --- Event : Begin IsCopying :True 
+Date : 10-04-2021 12:44:11 --- Event : backup started 
+Date : 10-04-2021 12:44:14 --- Event : backup completed 
+Date : 10-04-2021 12:44:14 --- Event : End IsCopying :False 
+Date : 10-04-2021 12:45:11 --- Event : Begin IsCopying :True 
+Date : 10-04-2021 12:45:11 --- Event : backup started 
+Date : 10-04-2021 12:45:12 --- Event : backup completed 
+Date : 10-04-2021 12:45:12 --- Event : End IsCopying :False 
+Date : 10-04-2021 12:46:11 --- Event : Begin IsCopying :True 
+Date : 10-04-2021 12:46:11 --- Event : backup started 
+Date : 10-04-2021 12:46:12 --- Event : backup completed 
+Date : 10-04-2021 12:46:12 --- Event : End IsCopying :False 
+Date : 10-04-2021 12:47:11 --- Event : Config Monitor Satrted 
+Date : 10-04-2021 12:47:11 --- Event : Begin IsCopying :True 
+Date : 10-04-2021 12:47:11 --- Event : backup started 
+Date : 10-04-2021 12:47:12 --- Event : Stared Indentifying channges 
+Date : 10-04-2021 12:47:12 --- Event : Config Monitor Completed 
+Date : 10-04-2021 12:47:13 --- Event : backup completed 
+Date : 10-04-2021 12:47:13 --- Event : End IsCopying :False 
+Date : 10-04-2021 12:48:12 --- Event : Begin IsCopying :True 
+Date : 10-04-2021 12:48:12 --- Event : backup started 
+Date : 10-04-2021 12:48:13 --- Event : backup completed 
+Date : 10-04-2021 12:48:13 --- Event : End IsCopying :False 
+Date : 10-04-2021 12:49:12 --- Event : Begin IsCopying :True 
+Date : 10-04-2021 12:49:12 --- Event : backup started 
+Date : 10-04-2021 12:49:12 --- Event : backup completed 
+Date : 10-04-2021 12:49:12 --- Event : End IsCopying :False 
+Date : 10-04-2021 12:50:12 --- Event : Begin IsCopying :True 
+Date : 10-04-2021 12:50:12 --- Event : backup started 
+Date : 10-04-2021 12:50:14 --- Event : backup completed 
+Date : 10-04-2021 12:50:14 --- Event : End IsCopying :False 
+Date : 10-04-2021 12:51:12 --- Event : Begin IsCopying :True 
+Date : 10-04-2021 12:51:12 --- Event : backup started 
+Date : 10-04-2021 12:51:13 --- Event : backup completed 
+Date : 10-04-2021 12:51:13 --- Event : End IsCopying :False 
+Date : 10-04-2021 12:52:12 --- Event : Config Monitor Satrted 
+Date : 10-04-2021 12:52:12 --- Event : Begin IsCopying :True 
+Date : 10-04-2021 12:52:12 --- Event : backup started 
+Date : 10-04-2021 12:52:12 --- Event : Stared Indentifying channges 
+Date : 10-04-2021 12:52:12 --- Event : Config Monitor Completed 
+Date : 10-04-2021 12:52:12 --- Event : backup completed 
+Date : 10-04-2021 12:52:12 --- Event : End IsCopying :False 
+Date : 10-04-2021 12:53:12 --- Event : Begin IsCopying :True 
+Date : 10-04-2021 12:53:12 --- Event : backup started 
+Date : 10-04-2021 12:53:13 --- Event : backup completed 
+Date : 10-04-2021 12:53:13 --- Event : End IsCopying :False 
+Date : 10-04-2021 12:54:12 --- Event : Begin IsCopying :True 
+Date : 10-04-2021 12:54:12 --- Event : backup started 
+Date : 10-04-2021 12:54:14 --- Event : backup completed 
+Date : 10-04-2021 12:54:14 --- Event : End IsCopying :False 
+Date : 10-04-2021 12:55:12 --- Event : Begin IsCopying :True 
+Date : 10-04-2021 12:55:12 --- Event : backup started 
+Date : 10-04-2021 12:55:14 --- Event : backup completed 
+Date : 10-04-2021 12:55:14 --- Event : End IsCopying :False 
+Date : 10-04-2021 12:56:12 --- Event : Begin IsCopying :True 
+Date : 10-04-2021 12:56:12 --- Event : backup started 
+Date : 10-04-2021 12:56:13 --- Event : backup completed 
+Date : 10-04-2021 12:56:13 --- Event : End IsCopying :False 
+Date : 10-04-2021 12:57:12 --- Event : Config Monitor Satrted 
+Date : 10-04-2021 12:57:12 --- Event : Begin IsCopying :True 
+Date : 10-04-2021 12:57:12 --- Event : backup started 
+Date : 10-04-2021 12:57:13 --- Event : Stared Indentifying channges 
+Date : 10-04-2021 12:57:13 --- Event : Config Monitor Completed 
+Date : 10-04-2021 12:57:13 --- Event : backup completed 
+Date : 10-04-2021 12:57:13 --- Event : End IsCopying :False 
+Date : 10-04-2021 12:58:12 --- Event : Begin IsCopying :True 
+Date : 10-04-2021 12:58:12 --- Event : backup started 
+Date : 10-04-2021 12:58:13 --- Event : backup completed 
+Date : 10-04-2021 12:58:13 --- Event : End IsCopying :False 
+Date : 10-04-2021 12:59:12 --- Event : Begin IsCopying :True 
+Date : 10-04-2021 12:59:12 --- Event : backup started 
+Date : 10-04-2021 12:59:13 --- Event : backup completed 
+Date : 10-04-2021 12:59:13 --- Event : End IsCopying :False 
+Date : 10-04-2021 13:00:12 --- Event : Begin IsCopying :True 
+Date : 10-04-2021 13:00:12 --- Event : backup started 
+Date : 10-04-2021 13:00:13 --- Event : backup completed 
+Date : 10-04-2021 13:00:13 --- Event : End IsCopying :False 
+Date : 10-04-2021 13:01:12 --- Event : Begin IsCopying :True 
+Date : 10-04-2021 13:01:12 --- Event : backup started 
+Date : 10-04-2021 13:01:13 --- Event : backup completed 
+Date : 10-04-2021 13:01:13 --- Event : End IsCopying :False 
+Date : 10-04-2021 13:02:12 --- Event : Config Monitor Satrted 
+Date : 10-04-2021 13:02:12 --- Event : Begin IsCopying :True 
+Date : 10-04-2021 13:02:12 --- Event : backup started 
+Date : 10-04-2021 13:02:13 --- Event : Stared Indentifying channges 
+Date : 10-04-2021 13:02:13 --- Event : Config Monitor Completed 
+Date : 10-04-2021 13:02:15 --- Event : backup completed 
+Date : 10-04-2021 13:02:15 --- Event : End IsCopying :False 
+Date : 10-04-2021 13:03:13 --- Event : Begin IsCopying :True 
+Date : 10-04-2021 13:03:13 --- Event : backup started 
+Date : 10-04-2021 13:03:13 --- Event : backup completed 
+Date : 10-04-2021 13:03:13 --- Event : End IsCopying :False 
+Date : 10-04-2021 13:04:13 --- Event : Begin IsCopying :True 
+Date : 10-04-2021 13:04:13 --- Event : backup started 
+Date : 10-04-2021 13:04:13 --- Event : backup completed 
+Date : 10-04-2021 13:04:13 --- Event : End IsCopying :False 
+Date : 10-04-2021 13:05:13 --- Event : Begin IsCopying :True 
+Date : 10-04-2021 13:05:13 --- Event : backup started 
+Date : 10-04-2021 13:05:13 --- Event : backup completed 
+Date : 10-04-2021 13:05:13 --- Event : End IsCopying :False 
+Date : 10-04-2021 13:06:13 --- Event : Begin IsCopying :True 
+Date : 10-04-2021 13:06:13 --- Event : backup started 
+Date : 10-04-2021 13:06:13 --- Event : backup completed 
+Date : 10-04-2021 13:06:13 --- Event : End IsCopying :False 
+Date : 10-04-2021 13:07:13 --- Event : Config Monitor Satrted 
+Date : 10-04-2021 13:07:13 --- Event : Begin IsCopying :True 
+Date : 10-04-2021 13:07:13 --- Event : backup started 
+Date : 10-04-2021 13:07:14 --- Event : Stared Indentifying channges 
+Date : 10-04-2021 13:07:14 --- Event : Config Monitor Completed 
+Date : 10-04-2021 13:07:15 --- Event : backup completed 
+Date : 10-04-2021 13:07:15 --- Event : End IsCopying :False 
+Date : 10-04-2021 13:08:13 --- Event : Begin IsCopying :True 
+Date : 10-04-2021 13:08:13 --- Event : backup started 
+Date : 10-04-2021 13:08:14 --- Event : backup completed 
+Date : 10-04-2021 13:08:14 --- Event : End IsCopying :False 
+Date : 10-04-2021 13:09:13 --- Event : Begin IsCopying :True 
+Date : 10-04-2021 13:09:13 --- Event : backup started 
+Date : 10-04-2021 13:09:14 --- Event : backup completed 
+Date : 10-04-2021 13:09:14 --- Event : End IsCopying :False 
+Date : 10-04-2021 13:10:13 --- Event : Begin IsCopying :True 
+Date : 10-04-2021 13:10:13 --- Event : backup started 
+Date : 10-04-2021 13:10:14 --- Event : backup completed 
+Date : 10-04-2021 13:10:14 --- Event : End IsCopying :False 
+Date : 10-04-2021 13:11:13 --- Event : Begin IsCopying :True 
+Date : 10-04-2021 13:11:13 --- Event : backup started 
+Date : 10-04-2021 13:11:14 --- Event : backup completed 
+Date : 10-04-2021 13:11:14 --- Event : End IsCopying :False 
+Date : 10-04-2021 13:12:13 --- Event : Config Monitor Satrted 
+Date : 10-04-2021 13:12:13 --- Event : Begin IsCopying :True 
+Date : 10-04-2021 13:12:13 --- Event : backup started 
+Date : 10-04-2021 13:12:13 --- Event : Stared Indentifying channges 
+Date : 10-04-2021 13:12:13 --- Event : Config Monitor Completed 
+Date : 10-04-2021 13:12:14 --- Event : backup completed 
+Date : 10-04-2021 13:12:14 --- Event : End IsCopying :False 
+Date : 10-04-2021 13:13:13 --- Event : Begin IsCopying :True 
+Date : 10-04-2021 13:13:13 --- Event : backup started 
+Date : 10-04-2021 13:13:14 --- Event : backup completed 
+Date : 10-04-2021 13:13:14 --- Event : End IsCopying :False 
+Date : 10-04-2021 13:14:13 --- Event : Begin IsCopying :True 
+Date : 10-04-2021 13:14:13 --- Event : backup started 
+Date : 10-04-2021 13:14:14 --- Event : backup completed 
+Date : 10-04-2021 13:14:14 --- Event : End IsCopying :False 
+Date : 10-04-2021 13:15:13 --- Event : Begin IsCopying :True 
+Date : 10-04-2021 13:15:13 --- Event : backup started 
+Date : 10-04-2021 13:15:14 --- Event : backup completed 
+Date : 10-04-2021 13:15:14 --- Event : End IsCopying :False 
+Date : 10-04-2021 13:16:13 --- Event : Begin IsCopying :True 
+Date : 10-04-2021 13:16:13 --- Event : backup started 
+Date : 10-04-2021 13:16:15 --- Event : backup completed 
+Date : 10-04-2021 13:16:15 --- Event : End IsCopying :False 
+Date : 10-04-2021 13:17:13 --- Event : Config Monitor Satrted 
+Date : 10-04-2021 13:17:13 --- Event : Begin IsCopying :True 
+Date : 10-04-2021 13:17:14 --- Event : backup started 
+Date : 10-04-2021 13:17:14 --- Event : Stared Indentifying channges 
+Date : 10-04-2021 13:17:14 --- Event : Config Monitor Completed 
+Date : 10-04-2021 13:17:15 --- Event : backup completed 
+Date : 10-04-2021 13:17:15 --- Event : End IsCopying :False 
+Date : 10-04-2021 13:18:14 --- Event : Begin IsCopying :True 
+Date : 10-04-2021 13:18:14 --- Event : backup started 
+Date : 10-04-2021 13:18:14 --- Event : backup completed 
+Date : 10-04-2021 13:18:14 --- Event : End IsCopying :False 
+Date : 10-04-2021 13:19:14 --- Event : Begin IsCopying :True 
+Date : 10-04-2021 13:19:14 --- Event : backup started 
+Date : 10-04-2021 13:19:15 --- Event : backup completed 
+Date : 10-04-2021 13:19:15 --- Event : End IsCopying :False 
+Date : 10-04-2021 13:20:14 --- Event : Begin IsCopying :True 
+Date : 10-04-2021 13:20:14 --- Event : backup started 
+Date : 10-04-2021 13:20:15 --- Event : backup completed 
+Date : 10-04-2021 13:20:15 --- Event : End IsCopying :False 
+Date : 10-04-2021 13:21:14 --- Event : Begin IsCopying :True 
+Date : 10-04-2021 13:21:15 --- Event : backup started 
+Date : 10-04-2021 13:21:17 --- Event : backup completed 
+Date : 10-04-2021 13:21:17 --- Event : End IsCopying :False 
+Date : 10-04-2021 13:22:14 --- Event : Config Monitor Satrted 
+Date : 10-04-2021 13:22:16 --- Event : Begin IsCopying :True 
+Date : 10-04-2021 13:22:16 --- Event : backup started 
+Date : 10-04-2021 13:22:18 --- Event : Stared Indentifying channges 
+Date : 10-04-2021 13:22:18 --- Event : Config Monitor Completed 
+Date : 10-04-2021 13:22:19 --- Event : backup completed 
+Date : 10-04-2021 13:22:19 --- Event : End IsCopying :False 
+Date : 10-04-2021 13:23:23 --- Event : Begin IsCopying :True 
+Date : 10-04-2021 13:23:23 --- Event : backup started 
+Date : 10-04-2021 13:23:25 --- Event : backup completed 
+Date : 10-04-2021 13:23:25 --- Event : End IsCopying :False 
+Date : 10-04-2021 13:24:19 --- Event : Begin IsCopying :True 
+Date : 10-04-2021 13:24:19 --- Event : backup started 
+Date : 10-04-2021 13:24:22 --- Event : backup completed 
+Date : 10-04-2021 13:24:22 --- Event : End IsCopying :False 

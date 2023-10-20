@@ -1,0 +1,119 @@
+C:\Vamsi\Recovery tool\DataRecovery\FileMonitor\bin\Release\Datarecovery.FileMonitor.dll
+C:\Vamsi\Recovery tool\DataRecovery\FileMonitor\bin\Release\Datarecovery.FileMonitor.pdb
+C:\Vamsi\Recovery tool\DataRecovery\FileMonitor\bin\Release\DataRecovery.Common.dll
+C:\Vamsi\Recovery tool\DataRecovery\FileMonitor\bin\Release\Newtonsoft.Json.dll
+C:\Vamsi\Recovery tool\DataRecovery\FileMonitor\bin\Release\DataRecovery.Common.pdb
+C:\Vamsi\Recovery tool\DataRecovery\FileMonitor\bin\Release\Newtonsoft.Json.xml
+C:\Vamsi\Recovery tool\DataRecovery\FileMonitor\obj\Release\DataRecovery.FileMonitor.csproj.CoreCompileInputs.cache
+C:\Vamsi\Recovery tool\DataRecovery\FileMonitor\obj\Release\DataRecovery.FileMonitor.csproj.CopyComplete
+C:\Vamsi\Recovery tool\DataRecovery\FileMonitor\obj\Release\Datarecovery.FileMonitor.dll
+C:\Vamsi\Recovery tool\DataRecovery\FileMonitor\obj\Release\Datarecovery.FileMonitor.pdb
+C:\Vamsi\Recovery tool\DataRecovery\FileMonitor\obj\Release\DataRecovery.FileMonitor.csprojAssemblyReference.cache
+C:\Users\u\source\repos\svkrishnagavva\ITManagerDev\DataRecovery\FileMonitor\bin\Release\Datarecovery.FileMonitor.dll
+C:\Users\u\source\repos\svkrishnagavva\ITManagerDev\DataRecovery\FileMonitor\bin\Release\Datarecovery.FileMonitor.pdb
+C:\Users\u\source\repos\svkrishnagavva\ITManagerDev\DataRecovery\FileMonitor\bin\Release\DataRecovery.Common.dll
+C:\Users\u\source\repos\svkrishnagavva\ITManagerDev\DataRecovery\FileMonitor\bin\Release\Newtonsoft.Json.dll
+C:\Users\u\source\repos\svkrishnagavva\ITManagerDev\DataRecovery\FileMonitor\bin\Release\AWSSDK.Core.dll
+C:\Users\u\source\repos\svkrishnagavva\ITManagerDev\DataRecovery\FileMonitor\bin\Release\AWSSDK.S3.dll
+C:\Users\u\source\repos\svkrishnagavva\ITManagerDev\DataRecovery\FileMonitor\bin\Release\DataRecovery.Common.pdb
+C:\Users\u\source\repos\svkrishnagavva\ITManagerDev\DataRecovery\FileMonitor\bin\Release\Newtonsoft.Json.xml
+C:\Users\u\source\repos\svkrishnagavva\ITManagerDev\DataRecovery\FileMonitor\bin\Release\AWSSDK.Core.pdb
+C:\Users\u\source\repos\svkrishnagavva\ITManagerDev\DataRecovery\FileMonitor\bin\Release\AWSSDK.Core.xml
+C:\Users\u\source\repos\svkrishnagavva\ITManagerDev\DataRecovery\FileMonitor\bin\Release\AWSSDK.S3.pdb
+C:\Users\u\source\repos\svkrishnagavva\ITManagerDev\DataRecovery\FileMonitor\bin\Release\AWSSDK.S3.xml
+C:\Users\u\source\repos\svkrishnagavva\ITManagerDev\DataRecovery\FileMonitor\obj\Release\DataRecovery.FileMonitor.csprojAssemblyReference.cache
+C:\Users\u\source\repos\svkrishnagavva\ITManagerDev\DataRecovery\FileMonitor\obj\Release\DataRecovery.FileMonitor.csproj.CoreCompileInputs.cache
+C:\Users\u\source\repos\svkrishnagavva\ITManagerDev\DataRecovery\FileMonitor\obj\Release\DataRecovery.FileMonitor.csproj.CopyComplete
+C:\Users\u\source\repos\svkrishnagavva\ITManagerDev\DataRecovery\FileMonitor\obj\Release\Datarecovery.FileMonitor.dll
+C:\Users\u\source\repos\svkrishnagavva\ITManagerDev\DataRecovery\FileMonitor\obj\Release\Datarecovery.FileMonitor.pdb
+C:\Users\u\source\repos\svkrishnagavva\ITManagerDev\DataRecovery\FileMonitor\bin\Release\ObjectsComparer.dll
+C:\Users\administrator.DBT\Source\Repos\svkrishnagavva\ITManagerDev\DataRecovery\FileMonitor\bin\Release\Datarecovery.FileMonitor.dll
+C:\Users\administrator.DBT\Source\Repos\svkrishnagavva\ITManagerDev\DataRecovery\FileMonitor\bin\Release\Datarecovery.FileMonitor.pdb
+C:\Users\administrator.DBT\Source\Repos\svkrishnagavva\ITManagerDev\DataRecovery\FileMonitor\bin\Release\DataRecovery.Common.dll
+C:\Users\administrator.DBT\Source\Repos\svkrishnagavva\ITManagerDev\DataRecovery\FileMonitor\bin\Release\Newtonsoft.Json.dll
+C:\Users\administrator.DBT\Source\Repos\svkrishnagavva\ITManagerDev\DataRecovery\FileMonitor\bin\Release\AWSSDK.Core.dll
+C:\Users\administrator.DBT\Source\Repos\svkrishnagavva\ITManagerDev\DataRecovery\FileMonitor\bin\Release\AWSSDK.S3.dll
+C:\Users\administrator.DBT\Source\Repos\svkrishnagavva\ITManagerDev\DataRecovery\FileMonitor\bin\Release\ObjectsComparer.dll
+C:\Users\administrator.DBT\Source\Repos\svkrishnagavva\ITManagerDev\DataRecovery\FileMonitor\bin\Release\DataRecovery.Common.pdb
+C:\Users\administrator.DBT\Source\Repos\svkrishnagavva\ITManagerDev\DataRecovery\FileMonitor\bin\Release\Newtonsoft.Json.xml
+C:\Users\administrator.DBT\Source\Repos\svkrishnagavva\ITManagerDev\DataRecovery\FileMonitor\bin\Release\AWSSDK.Core.pdb
+C:\Users\administrator.DBT\Source\Repos\svkrishnagavva\ITManagerDev\DataRecovery\FileMonitor\bin\Release\AWSSDK.Core.xml
+C:\Users\administrator.DBT\Source\Repos\svkrishnagavva\ITManagerDev\DataRecovery\FileMonitor\bin\Release\AWSSDK.S3.pdb
+C:\Users\administrator.DBT\Source\Repos\svkrishnagavva\ITManagerDev\DataRecovery\FileMonitor\bin\Release\AWSSDK.S3.xml
+C:\Users\administrator.DBT\Source\Repos\svkrishnagavva\ITManagerDev\DataRecovery\FileMonitor\obj\Release\DataRecovery.FileMonitor.csproj.AssemblyReference.cache
+C:\Users\administrator.DBT\Source\Repos\svkrishnagavva\ITManagerDev\DataRecovery\FileMonitor\obj\Release\DataRecovery.FileMonitor.csproj.CoreCompileInputs.cache
+C:\Users\administrator.DBT\Source\Repos\svkrishnagavva\ITManagerDev\DataRecovery\FileMonitor\obj\Release\DataRecovery.FileMonitor.csproj.CopyComplete
+C:\Users\administrator.DBT\Source\Repos\svkrishnagavva\ITManagerDev\DataRecovery\FileMonitor\obj\Release\Datarecovery.FileMonitor.dll
+C:\Users\administrator.DBT\Source\Repos\svkrishnagavva\ITManagerDev\DataRecovery\FileMonitor\obj\Release\Datarecovery.FileMonitor.pdb
+C:\Users\administrator.DBT\source\repos\svkrishnagavva\ITManagerDev1\DataRecovery\FileMonitor\bin\Release\Datarecovery.FileMonitor.dll
+C:\Users\administrator.DBT\source\repos\svkrishnagavva\ITManagerDev1\DataRecovery\FileMonitor\bin\Release\Datarecovery.FileMonitor.pdb
+C:\Users\administrator.DBT\source\repos\svkrishnagavva\ITManagerDev1\DataRecovery\FileMonitor\bin\Release\DataRecovery.Common.dll
+C:\Users\administrator.DBT\source\repos\svkrishnagavva\ITManagerDev1\DataRecovery\FileMonitor\bin\Release\Newtonsoft.Json.dll
+C:\Users\administrator.DBT\source\repos\svkrishnagavva\ITManagerDev1\DataRecovery\FileMonitor\bin\Release\AWSSDK.Core.dll
+C:\Users\administrator.DBT\source\repos\svkrishnagavva\ITManagerDev1\DataRecovery\FileMonitor\bin\Release\AWSSDK.S3.dll
+C:\Users\administrator.DBT\source\repos\svkrishnagavva\ITManagerDev1\DataRecovery\FileMonitor\bin\Release\ObjectsComparer.dll
+C:\Users\administrator.DBT\source\repos\svkrishnagavva\ITManagerDev1\DataRecovery\FileMonitor\bin\Release\DataRecovery.Common.pdb
+C:\Users\administrator.DBT\source\repos\svkrishnagavva\ITManagerDev1\DataRecovery\FileMonitor\bin\Release\Newtonsoft.Json.xml
+C:\Users\administrator.DBT\source\repos\svkrishnagavva\ITManagerDev1\DataRecovery\FileMonitor\bin\Release\AWSSDK.Core.pdb
+C:\Users\administrator.DBT\source\repos\svkrishnagavva\ITManagerDev1\DataRecovery\FileMonitor\bin\Release\AWSSDK.Core.xml
+C:\Users\administrator.DBT\source\repos\svkrishnagavva\ITManagerDev1\DataRecovery\FileMonitor\bin\Release\AWSSDK.S3.pdb
+C:\Users\administrator.DBT\source\repos\svkrishnagavva\ITManagerDev1\DataRecovery\FileMonitor\bin\Release\AWSSDK.S3.xml
+C:\Users\administrator.DBT\source\repos\svkrishnagavva\ITManagerDev1\DataRecovery\FileMonitor\obj\Release\DataRecovery.FileMonitor.csproj.AssemblyReference.cache
+C:\Users\administrator.DBT\source\repos\svkrishnagavva\ITManagerDev1\DataRecovery\FileMonitor\obj\Release\DataRecovery.FileMonitor.csproj.CoreCompileInputs.cache
+C:\Users\administrator.DBT\source\repos\svkrishnagavva\ITManagerDev1\DataRecovery\FileMonitor\obj\Release\DataRecovery.FileMonitor.csproj.CopyComplete
+C:\Users\administrator.DBT\source\repos\svkrishnagavva\ITManagerDev1\DataRecovery\FileMonitor\obj\Release\Datarecovery.FileMonitor.dll
+C:\Users\administrator.DBT\source\repos\svkrishnagavva\ITManagerDev1\DataRecovery\FileMonitor\obj\Release\Datarecovery.FileMonitor.pdb
+C:\Users\VK\Source\Repos\svkrishnagavva\ITManagerDev\DataRecovery\FileMonitor\bin\Release\Datarecovery.FileMonitor.dll
+C:\Users\VK\Source\Repos\svkrishnagavva\ITManagerDev\DataRecovery\FileMonitor\bin\Release\Datarecovery.FileMonitor.pdb
+C:\Users\VK\Source\Repos\svkrishnagavva\ITManagerDev\DataRecovery\FileMonitor\bin\Release\DataRecovery.Common.dll
+C:\Users\VK\Source\Repos\svkrishnagavva\ITManagerDev\DataRecovery\FileMonitor\bin\Release\Newtonsoft.Json.dll
+C:\Users\VK\Source\Repos\svkrishnagavva\ITManagerDev\DataRecovery\FileMonitor\bin\Release\AWSSDK.Core.dll
+C:\Users\VK\Source\Repos\svkrishnagavva\ITManagerDev\DataRecovery\FileMonitor\bin\Release\AWSSDK.S3.dll
+C:\Users\VK\Source\Repos\svkrishnagavva\ITManagerDev\DataRecovery\FileMonitor\bin\Release\ObjectsComparer.dll
+C:\Users\VK\Source\Repos\svkrishnagavva\ITManagerDev\DataRecovery\FileMonitor\bin\Release\DataRecovery.Common.pdb
+C:\Users\VK\Source\Repos\svkrishnagavva\ITManagerDev\DataRecovery\FileMonitor\bin\Release\Newtonsoft.Json.xml
+C:\Users\VK\Source\Repos\svkrishnagavva\ITManagerDev\DataRecovery\FileMonitor\bin\Release\AWSSDK.Core.pdb
+C:\Users\VK\Source\Repos\svkrishnagavva\ITManagerDev\DataRecovery\FileMonitor\bin\Release\AWSSDK.Core.xml
+C:\Users\VK\Source\Repos\svkrishnagavva\ITManagerDev\DataRecovery\FileMonitor\bin\Release\AWSSDK.S3.pdb
+C:\Users\VK\Source\Repos\svkrishnagavva\ITManagerDev\DataRecovery\FileMonitor\bin\Release\AWSSDK.S3.xml
+C:\Users\VK\Source\Repos\svkrishnagavva\ITManagerDev\DataRecovery\FileMonitor\obj\Release\DataRecovery.FileMonitor.csproj.AssemblyReference.cache
+C:\Users\VK\Source\Repos\svkrishnagavva\ITManagerDev\DataRecovery\FileMonitor\obj\Release\DataRecovery.FileMonitor.csproj.CoreCompileInputs.cache
+C:\Users\VK\Source\Repos\svkrishnagavva\ITManagerDev\DataRecovery\FileMonitor\obj\Release\DataRecovery.FileMonitor.csproj.CopyComplete
+C:\Users\VK\Source\Repos\svkrishnagavva\ITManagerDev\DataRecovery\FileMonitor\obj\Release\Datarecovery.FileMonitor.dll
+C:\Users\VK\Source\Repos\svkrishnagavva\ITManagerDev\DataRecovery\FileMonitor\obj\Release\Datarecovery.FileMonitor.pdb
+C:\Users\Dell\Source\Repos\svkrishnagavva\ITManagerDev\DataRecovery\FileMonitor\bin\Release\Datarecovery.FileMonitor.dll
+C:\Users\Dell\Source\Repos\svkrishnagavva\ITManagerDev\DataRecovery\FileMonitor\bin\Release\Datarecovery.FileMonitor.pdb
+C:\Users\Dell\Source\Repos\svkrishnagavva\ITManagerDev\DataRecovery\FileMonitor\bin\Release\DataRecovery.Common.dll
+C:\Users\Dell\Source\Repos\svkrishnagavva\ITManagerDev\DataRecovery\FileMonitor\bin\Release\Newtonsoft.Json.dll
+C:\Users\Dell\Source\Repos\svkrishnagavva\ITManagerDev\DataRecovery\FileMonitor\bin\Release\AWSSDK.Core.dll
+C:\Users\Dell\Source\Repos\svkrishnagavva\ITManagerDev\DataRecovery\FileMonitor\bin\Release\AWSSDK.S3.dll
+C:\Users\Dell\Source\Repos\svkrishnagavva\ITManagerDev\DataRecovery\FileMonitor\bin\Release\ObjectsComparer.dll
+C:\Users\Dell\Source\Repos\svkrishnagavva\ITManagerDev\DataRecovery\FileMonitor\bin\Release\DataRecovery.Common.pdb
+C:\Users\Dell\Source\Repos\svkrishnagavva\ITManagerDev\DataRecovery\FileMonitor\bin\Release\Newtonsoft.Json.xml
+C:\Users\Dell\Source\Repos\svkrishnagavva\ITManagerDev\DataRecovery\FileMonitor\bin\Release\AWSSDK.Core.pdb
+C:\Users\Dell\Source\Repos\svkrishnagavva\ITManagerDev\DataRecovery\FileMonitor\bin\Release\AWSSDK.Core.xml
+C:\Users\Dell\Source\Repos\svkrishnagavva\ITManagerDev\DataRecovery\FileMonitor\bin\Release\AWSSDK.S3.pdb
+C:\Users\Dell\Source\Repos\svkrishnagavva\ITManagerDev\DataRecovery\FileMonitor\bin\Release\AWSSDK.S3.xml
+C:\Users\Dell\Source\Repos\svkrishnagavva\ITManagerDev\DataRecovery\FileMonitor\obj\Release\DataRecovery.FileMonitor.csproj.AssemblyReference.cache
+C:\Users\Dell\Source\Repos\svkrishnagavva\ITManagerDev\DataRecovery\FileMonitor\obj\Release\DataRecovery.FileMonitor.csproj.CoreCompileInputs.cache
+C:\Users\Dell\Source\Repos\svkrishnagavva\ITManagerDev\DataRecovery\FileMonitor\obj\Release\DataRecovery.FileMonitor.csproj.CopyComplete
+C:\Users\Dell\Source\Repos\svkrishnagavva\ITManagerDev\DataRecovery\FileMonitor\obj\Release\Datarecovery.FileMonitor.dll
+C:\Users\Dell\Source\Repos\svkrishnagavva\ITManagerDev\DataRecovery\FileMonitor\obj\Release\Datarecovery.FileMonitor.pdb
+D:\Repos\svkrishnagavva\ITManagerDev\DataRecovery\FileMonitor\bin\Release\Datarecovery.FileMonitor.dll
+D:\Repos\svkrishnagavva\ITManagerDev\DataRecovery\FileMonitor\bin\Release\Datarecovery.FileMonitor.pdb
+D:\Repos\svkrishnagavva\ITManagerDev\DataRecovery\FileMonitor\bin\Release\DataRecovery.Common.dll
+D:\Repos\svkrishnagavva\ITManagerDev\DataRecovery\FileMonitor\bin\Release\Newtonsoft.Json.dll
+D:\Repos\svkrishnagavva\ITManagerDev\DataRecovery\FileMonitor\bin\Release\AWSSDK.Core.dll
+D:\Repos\svkrishnagavva\ITManagerDev\DataRecovery\FileMonitor\bin\Release\AWSSDK.S3.dll
+D:\Repos\svkrishnagavva\ITManagerDev\DataRecovery\FileMonitor\bin\Release\ObjectsComparer.dll
+D:\Repos\svkrishnagavva\ITManagerDev\DataRecovery\FileMonitor\bin\Release\DataRecovery.Common.pdb
+D:\Repos\svkrishnagavva\ITManagerDev\DataRecovery\FileMonitor\bin\Release\Newtonsoft.Json.xml
+D:\Repos\svkrishnagavva\ITManagerDev\DataRecovery\FileMonitor\bin\Release\AWSSDK.Core.pdb
+D:\Repos\svkrishnagavva\ITManagerDev\DataRecovery\FileMonitor\bin\Release\AWSSDK.Core.xml
+D:\Repos\svkrishnagavva\ITManagerDev\DataRecovery\FileMonitor\bin\Release\AWSSDK.S3.pdb
+D:\Repos\svkrishnagavva\ITManagerDev\DataRecovery\FileMonitor\bin\Release\AWSSDK.S3.xml
+D:\Repos\svkrishnagavva\ITManagerDev\DataRecovery\FileMonitor\obj\Release\DataRecovery.FileMonitor.csproj.AssemblyReference.cache
+D:\Repos\svkrishnagavva\ITManagerDev\DataRecovery\FileMonitor\obj\Release\DataRecovery.FileMonitor.csproj.CoreCompileInputs.cache
+D:\Repos\svkrishnagavva\ITManagerDev\DataRecovery\FileMonitor\obj\Release\DataRecovery.FileMonitor.csproj.CopyComplete
+D:\Repos\svkrishnagavva\ITManagerDev\DataRecovery\FileMonitor\obj\Release\Datarecovery.FileMonitor.dll
+D:\Repos\svkrishnagavva\ITManagerDev\DataRecovery\FileMonitor\obj\Release\Datarecovery.FileMonitor.pdb
